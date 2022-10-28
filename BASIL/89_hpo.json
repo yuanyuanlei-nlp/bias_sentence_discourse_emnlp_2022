@@ -1,0 +1,312 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Mike Pence",
+        "Jay Inslee",
+        "Religious Freedom Restoration Act"
+    ],
+    "main-event": "The cities and states are joined by a number of business leaders speaking out against the Religious Freedom Restoration Act",
+    "title": "Washington State To Boycott Indiana Over LGBT Discrimination Law",
+    "url": "https://www.huffingtonpost.com/2015/03/30/washington-indiana-discrimination-law_n_6973700.html",
+    "word-count": 537,
+    "date": "2015-03-30",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Mike Pence": "Neutral",
+            "Jay Inslee": "Neutral",
+            "Religious Freedom Restoration Act": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Washington Gov. Jay Inslee (D) announced Monday that he would ban state-funded travel to Indiana, where a controversial new law could allow businesses to deny service to gay and lesbian individuals for religious reasons.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI find Indiana\u2019s new law disturbing, particularly at a time when more and more states and people in America are embracing civil rights for everyone,\" Inslee said in a statement.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 26,
+                    "end": 36,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Jay Inslee",
+                    "text": "disturbing"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Washington will join other states and cities in opposing this law and I will impose an administration-wide ban on state funded travel to Indiana.\"",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 147,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Jay Inslee",
+                    "text": "\"Washington will join other states and cities in opposing this law and I will impose an administration-wide ban on state funded travel to Indiana.\""
+                }
+            ]
+        },
+        {
+            "sentence": "In his statement, Inslee cited the case of a Washington-based florist who was recently ordered to pay a fine for discriminating against a gay couple who sought her services.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We in Washington stand for equality,\" he said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I applaud those companies and organizations that have spoken out against the law and said they would not locate or expand operations in Indiana.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 145,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Jay Inslee",
+                    "text": "\"I applaud those companies and organizations that have spoken out against the law and said they would not locate or expand operations in Indiana."
+                }
+            ]
+        },
+        {
+            "sentence": "I want to invite all those organizations, and anyone interested in a state that promotes equality and opportunity, to come visit Washington.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "We are open for business, and open to all people.\"",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Earlier Monday, Connecticut Gov. Dan Malloy (D) took a similar stand against the Religious Freedom Restoration Act, signed into law by Indiana Gov. Mike Pence (R) at a private ceremony last week.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The measure has sparked national backlash, with critics warning that the law provides legal justification for discrimination against LGBT individuals.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "In addition to Connecticut and Washington, San Francisco and Seattle have also imposed bans on city-funded travel to the state.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 127,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "In addition to Connecticut and Washington, San Francisco and Seattle have also imposed bans on city-funded travel to the state."
+                }
+            ]
+        },
+        {
+            "sentence": "The mayors of Minnesota's Twin Cities, Minneapolis and St. Paul, have also condemned the measure.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 97,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The mayors of Minnesota's Twin Cities, Minneapolis and St. Paul, have also condemned the measure."
+                }
+            ]
+        },
+        {
+            "sentence": "The cities and states are joined by a number of business leaders speaking out against the law.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Apple chief Tim Cook called the law \"dangerous\" in a Washington Post op-ed, while Salesforce's Marc Benioff canceled the company's planned events in the state.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 159,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Apple chief Tim Cook called the law \"dangerous\" in a Washington Post op-ed, while Salesforce's Marc Benioff canceled the company's planned events in the state."
+                }
+            ]
+        },
+        {
+            "sentence": "And on Monday, the executives of nine Indiana-based companies, including Angie's List and Anthem, sent a letter to Pence outlining their concerns.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Regardless of the original intention of the Religious Freedom Restoration Act, we are deeply concerned about the impact it is having on our employees and on the reputation of our state,\" reads the letter.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 185,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Regardless of the original intention of the Religious Freedom Restoration Act, we are deeply concerned about the impact it is having on our employees and on the reputation of our state"
+                }
+            ]
+        },
+        {
+            "sentence": "Pence has defended his decision to sign the bill, claiming that the measure has been \"grossly misconstrued as a 'license to discriminate.'\"",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I abhor discrimination.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 24,
+                    "target": "Mike Pence",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Mike Pence",
+                    "text": "\"I abhor discrimination."
+                }
+            ]
+        },
+        {
+            "sentence": "I believe in the Golden Rule that you should 'do unto others as you would have them do unto you,'\" Pence wrote in a Wall Street Journal op-ed.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 95,
+                    "target": "Mike Pence",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Mike Pence",
+                    "text": "I believe in the Golden Rule that you should 'do unto others as you would have them do unto you"
+                }
+            ]
+        },
+        {
+            "sentence": "\"If I saw a restaurant owner refuse to serve a gay couple, I wouldn\u2019t eat there anymore.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "As governor of Indiana, if I were presented a bill that legalized discrimination against any person or group, I would veto it.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Indiana\u2019s new law contains no reference to sexual orientation.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 62,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Mike Pence",
+                    "text": "Indiana\u2019s new law contains no reference to sexual orientation."
+                }
+            ]
+        },
+        {
+            "sentence": "It simply mirrors federal law that President Bill Clinton signed in 1993.\"",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 74,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Mike Pence",
+                    "text": "It simply mirrors federal law that President Bill Clinton signed in 1993.\""
+                }
+            ]
+        },
+        {
+            "sentence": "However, the governor and legislative leaders say they will seek to clarify that the law does not protect discrimination.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt is not the intent of the law to discriminate against anyone, and it will not be allowed to discriminate against anyone,\u201d state Senate President Pro Tem David Long (R) said.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe hope to have a fix very soon.\"",
+            "sentence-index": 25,
+            "annotations": []
+        }
+    ]
+}

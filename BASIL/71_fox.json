@@ -1,0 +1,291 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Chick-Fil-A",
+        "GOP leaders",
+        "protesters"
+    ],
+    "main-event": "GOP reps show support for Chick-Fil-A",
+    "title": "Chick-fil-A Appreciation Day brings out supporters, protesters",
+    "url": "http://www.foxnews.com/politics/2012/08/01/chick-fil-appreciation-day-brings-out-supporters-more-protestors",
+    "word-count": 650,
+    "date": "2012-08-01",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Chick-Fil-A": "Neutral",
+            "GOP leaders": "Neutral",
+            "protesters": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "It used to be that taking a bite of a chicken sandwich just meant you were hungry.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Now it has become a symbol of whether you stand for or against same-sex marriage, or \u2013 alternately \u2013 the right to express your personal views without fear of retaliation.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "At Chick-fil-A locations across the country, people voted with their wallets today, coming out to express support for the fast-food chain after CEO Dan Cathy said in an interview that he is a firm backer of traditional marriage.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI believe what the Bible says (about marriage),\u201d Chauncy Fields told us after wolfing down a breakfast of chicken and biscuits.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 79,
+                    "end": 91,
+                    "target": "Chick-Fil-A",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Chick-fil-A supporter",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "wolfing down"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cSo I came out here to support Chick-fil-A and the movement.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Chris Johnson sees a double standard. \u201cHe (Dan Cathy) said the exact same thing that President Obama said,\u201d Johnson told Fox News -- referring to the president\u2019s past opposition to gay marriage \u2013 \u201cAnd he gets negativity, and Obama gets positivity.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "At one Atlanta location, the restaurant was packed, while the line for the drive-thru looped twice around the building and out into the street.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The backlash across the country against Chick-fil-A has been ferocious.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 61,
+                    "end": 70,
+                    "target": "Chick-Fil-A",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "ferocious"
+                }
+            ]
+        },
+        {
+            "sentence": "After the mayors of Chicago and Boston heaped scorn upon the company, the mayor of Washington, DC, suggested it was peddling \u201chate chicken.\u201d",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 116,
+                    "end": 140,
+                    "target": "Chick-Fil-A",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "peddling \u201chate chicken.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Those comments drew a sharp response from Rev. William Owens of the Coalition of African American Pastors.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cSome people are saying that because of the position that Chick-fil-A is taking, they don\u2019t want them in their cities.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "It is a disgrace.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "target": "protesters",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "It is a disgrace."
+                }
+            ]
+        },
+        {
+            "sentence": "It is the same thing that happened when I was marching for civil rights, when they didn\u2019t want a black to come into their restaurant,\" he told a press conference in Washington, DC.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The Chick-fil-A firestorm has taken on different meanings for different people.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "For some, it harks to the days of intolerance and segregation.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "For others, it is about religious views of marriage.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "But for most people who Fox News spoke to today, it is about free speech.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think it comes down to a First Amendment issue.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "I mean, I do believe in the traditional values of marriage between a man and a woman,\u201d youth pastor Stephen Lenahan told Fox News after a leisurely breakfast with three members of his ministry.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "He is also puzzled as to why Dan Cathy is such a target, when other corporate CEOs who openly support same-sex marriage are not similarly criticized by conservatives.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Lenahan says he sees a bigger issue at work here.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere is kind of a culture war going on and people aren\u2019t really respecting each other and difference of opinion.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 45,
+                    "end": 113,
+                    "target": "protesters",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "people aren\u2019t really respecting each other and difference of opinion"
+                }
+            ]
+        },
+        {
+            "sentence": "There\u2019s no dialogue taking place to get to the heart of what we really believe as a nation and what is truth.\u201d",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Chick-fil-A Appreciation Day \u2013 as it is being called was the idea of former Arkansas governor and Fox News contributor Mike Huckabee.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "But as protests against Chick-fil-A swelled across the country, dozens of groups and prominent individuals joined in support of the company.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Among the groups is Project 21, a black conservative activist organization.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "One of its members, Demetrios Minor, said critics of Dan Cathy have taken his statements completely out of context.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think liberals are missing a vital point in their blind hatred of Chick-fil-A,\u201d Minor said in a statement sent to Fox News.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 53,
+                    "end": 65,
+                    "target": "protesters",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "blind hatred"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cBeing against gay marriage is not being anti-gay.\u201d",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 51,
+                    "target": "Chick-Fil-A",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "\u201cBeing against gay marriage is not being anti-gay.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Crtitics of Chick-fil-A argue that the company\u2019s opposition to gay marriage goes well beyond Dan Cathy\u2019s statements.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Over the years, its philanthropic wing, WinShape, has donated millions of dollars to outside organizations that actively lobby against efforts to legalize same-sex marriage.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "On Friday, supporters of same-sex marriage will have their say.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "They plan a \u201ckiss-in\u201d at Chick-fil-A restaurants across the country \u2013 encouraging gays and lesbians to share a public display of affection at the home of the chicken sandwich.",
+            "sentence-index": 32,
+            "annotations": []
+        }
+    ]
+}

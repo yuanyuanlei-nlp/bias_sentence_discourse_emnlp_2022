@@ -1,0 +1,226 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Michael Grimm",
+        "Justice Department"
+    ],
+    "main-event": "Federal charges filed against Grimm",
+    "title": "Indictment Expected for Grimm, Staten Island Congressman",
+    "url": "https://www.nytimes.com/2014/04/26/nyregion/indictment-expected-for-representative-michael-grimm.html",
+    "word-count": 722,
+    "date": "2014-04-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Michael Grimm": "Negative",
+            "Justice Department": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Representative Michael G. Grimm, a former F.B.I. agent and Marine who capitalized on his straight-arrow image to win a seat in Congress, was expected to be indicted on federal fraud charges after a lengthy corruption investigation, people with knowledge of the case said on Friday.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 66,
+                    "end": 109,
+                    "target": "Michael Grimm",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who capitalized on his straight-arrow image"
+                }
+            ]
+        },
+        {
+            "sentence": "The charges against Mr. Grimm, 44, a Republican who was first elected in 2010 and represents Staten Island and part of Brooklyn, were expected to include mail fraud and wire fraud, and to focus largely on his conduct in connection with a health food restaurant he owned on the Upper East Side of Manhattan after he left the Federal Bureau of Investigation in 2006, two of the people said.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "He was also expected to be charged with obstruction of justice, for allegedly lying under oath in a federal lawsuit.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The investigation of the second-term congressman, by the F.B.I. and the United States attorney\u2019s office in Brooklyn, began more than two years ago with an examination of Mr. Grimm\u2019s fund-raising for his 2010 race and expanded.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Two of his fund-raisers have already been charged.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "One, Diana Durand of Houston, was charged with illegally funneling more than $10,000 into his campaign.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The other, Ofer Biton, pleaded guilty to visa fraud charges.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "But on Friday, it did not appear that the indictment would include any campaign finance charges or accusations that the congressman had misused his office, although several of the people noted that the investigation was continuing.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "They all spoke on the condition of anonymity as the charges had not been formally announced and they were not authorized to discuss the case.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "A lawyer for Mr. Grimm, William McGinley of Patton Boggs, confirmed in a statement that prosecutors intended to file criminal charges against his client and said that Mr. Grimm \u201casserts his innocence\u201d and that the investigation was \u201ca politically driven vendetta.\u201d",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAfter more than two years of investigation plagued by malicious leaks, violations of grand jury secrecy and strong-arm tactics, the U.S. attorney\u2019s office has disclosed its intent to file criminal charges against Congressman Grimm,\u201d Mr. McGinley said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhen the dust settles, he will be vindicated.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a member of Congress, Marine Corps combat veteran and decorated F.B.I. special agent.\u201d",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 120,
+                    "end": 234,
+                    "target": "Michael Grimm",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "lifetime of public service as a member of Congress, Marine Corps combat veteran and decorated F.B.I. special agent"
+                }
+            ]
+        },
+        {
+            "sentence": "Spokesmen for the office of the United States attorney in Brooklyn, Loretta E. Lynch, and for the New York F.B.I. office declined to comment.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Grimm, the only Republican member of New York City\u2019s congressional delegation, is up for re-election in November and faces a potentially formidable challenger in former City Councilman Domenic M. Recchia Jr., a Democrat who headed the Council\u2019s Finance Committee and was Christine C. Quinn\u2019s chief lieutenant when she was Council speaker.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Healthalicious, the restaurant that the people said was a focus of the indictment, was on Second Avenue near 83rd Street.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The company Mr. Grimm formed to operate it was called Granny Sayz, L.L.C., and was affiliated with a company connected to Mr. Biton, the fund-raiser.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "In January 2012, the New York State Workers\u2019 Compensation Board ordered Healthalicious to pay $88,000 for not carrying workers\u2019 compensation insurance.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "About a year earlier, two former deliverymen hired a lawyer who contacted Mr. Grimm\u2019s congressional office to complain that the restaurant had paid them less than minimum wage, did not pay for work beyond 40 hours per week and paid them in cash to evade scrutiny.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Shortly afterward, Mr. Grimm filed papers with the state to dissolve Granny Sayz.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "The lawyer eventually sued Granny Sayz in federal court.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Grimm over time developed something of a reputation for being hot-tempered, which did not set him apart from many others in Congress.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "But this year, during an encounter with a television reporter, he set a new standard for on-air congressional misbehavior and delivered a bizarre threat.",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 63,
+                    "end": 152,
+                    "target": "Michael Grimm",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "he set a new standard for on-air congressional misbehavior and delivered a bizarre threat"
+                }
+            ]
+        },
+        {
+            "sentence": "After President Obama\u2019s State of the Union address, NY1\u2019s Washington reporter, Michael Scotto, interviewed the congressman about the speech.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "When he asked about the federal campaign financing investigation, Mr. Grimm stormed off camera but returned and threatened to throw Mr. Scotto off the balcony.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 76,
+                    "end": 83,
+                    "target": "Michael Grimm",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "stormed"
+                }
+            ]
+        },
+        {
+            "sentence": "Then, the congressman, speaking in a barely audible whisper as he stood close to the reporter, said Mr. Scotto was \u201cnot man enough\u201d and added: \u201cI\u2019ll break you in half. Like a boy.\u201d",
+            "sentence-index": 25,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 180,
+                    "target": "Michael Grimm",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Then, the congressman, speaking in a barely audible whisper as he stood close to the reporter, said Mr. Scotto was \u201cnot man enough\u201d and added: \u201cI\u2019ll break you in half. Like a boy.\u201d"
+                }
+            ]
+        }
+    ]
+}

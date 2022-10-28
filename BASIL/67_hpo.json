@@ -1,0 +1,341 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "AARP",
+        "Barack Obama",
+        "social security",
+        "Republicans"
+    ],
+    "main-event": "AARP drops its opposition to Social Security cuts",
+    "title": "AARP Willing To Negotiate On Social Security Retirement Age",
+    "url": "https://www.huffingtonpost.com/2011/06/17/aarp-social-security_n_878966.html",
+    "word-count": 896,
+    "date": "2011-06-17",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "AARP": "Neutral",
+            "Barack Obama": "Neutral",
+            "social security": "Positive",
+            "Republicans": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON -- The nation's leading advocate for senior citizens says that it hasn't wavered in its opposition to cutting Social Security benefits, though a top official with the group said it is open to a discussion about raising the retirement age and other changes.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The Wall Street Journal reported Friday morning that AARP, one of the most influential lobbying groups in Washington, was softening its opposition to cutting retirement benefits.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "AARP initially pushed back against the newspaper's story.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Stay tuned -- our position has not changed on Social Security,\" an AARP spokeswoman said in an email to HuffPost.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "AARP legislative policy director David Certner said on CNN Friday that \"there was some miscommunication with the Wall Street Journal story.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "But then Certner acknowledged that AARP believes the program needs to be changed.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Everybody knows we need to look at a package of different changes to Social Security to make it strong for the long term,\" he said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The reality is, we have more people older and who are living longer, so we need to make changes.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Everybody recognizes that.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "And we're certainly willing to talk about a package of changes that will keep Social Security strong.\"",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "He suggested raising the age at which retirees can receive full benefits -- currently, 66 years old -- would be on the table even though doing so represents \"a massive benefit cut for people.\"",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The 37 million-member lobbying powerhouse launched a national ad campaign Thursday warning members of Congress not to reduce benefits for recipients of Social Security and Medicare.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Jonathan Cowan, president of centrist think tank Third Way, hailed AARP's apparent reversal, per the Journal story.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 60,
+                    "end": 66,
+                    "target": "AARP",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "hailed"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Today marks a watershed moment in American politics,\" Cowan said.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"For decades, AARP has stood against any substantial changes to Social Security.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Now that they have opened the door to reform, it is time for lawmakers to walk through it.\"",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Yet AARP reassured labor groups that it had not changed its position on Social Security, labor officials told HuffPost.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The AARP has a history of division between the top folks and their base on these issues.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The top folks like to be in the inside game,\" one union official said.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\"But they are walking backwards now.\"",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 37,
+                    "target": "AARP",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\"But they are walking backwards now.\""
+                }
+            ]
+        },
+        {
+            "sentence": "The official said that he and other opponents of benefit cuts had been told that AARP's \"longstanding position\" hadn't changed, but there was some uncertainty about what that position actually is.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "If AARP is open to reducing benefits, it would be a major boost for Social Security reformers who say the program is too generous and therefore unaffordable.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 117,
+                    "end": 156,
+                    "target": "social security",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "too generous and therefore unaffordable"
+                }
+            ]
+        },
+        {
+            "sentence": "Social Security will start paying out more in benefits than it absorbs in taxes this year which will lead the retirement program's trust fund to become exhausted in 2036, according to the latest annual trustees report.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "After 2036, the program will only be able to pay 77 percent of promised benefits.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "By 2085, it will be able to pay 74 percent of promised benefits.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "As of April, 35 million seniors received Social Security retirement benefits averaging $1,179 a month, according to the program's latest monthly snapshot.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Economists credit the program for drastically reducing poverty among the elderly since its creation in the 1930s.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 113,
+                    "target": "social security",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Economists credit the program for drastically reducing poverty among the elderly since its creation in the 1930s."
+                }
+            ]
+        },
+        {
+            "sentence": "The Center on Budget and Policy Priorities, a progressive Washington think tank, estimates that Social Security keeps 13 million elderly Americans out of poverty.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 96,
+                    "end": 161,
+                    "target": "social security",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Social Security keeps 13 million elderly Americans out of poverty"
+                }
+            ]
+        },
+        {
+            "sentence": "The Journal reported that AARP policy chief John Rother is pushing the organization to accept benefit cuts as part of a deal to make Social Security solvent.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Rother's thinking, according to the paper, is that tax increases alone can't keep the program's $2.6 trillion trust fund from running out of money, so benefit cuts must be included as well.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Social Security's retirement benefits are funded with taxes on incomes up to $106,800, known as the taxable earnings base.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "The base also effectively serves as a cap on benefits because they are calculated according to a worker's contributions over his or her lifetime.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "A September 2010 Congressional Research Service report found that lifting the cap, without also raising benefits, would make the program solvent for the foreseeable future.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If all earnings were subject to the payroll tax, but the base was retained for benefit calculations, the Social Security Trust Funds would remain solvent for the next 75 years,\" said the report.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "\"There are dozens of ways modest tax increases on even just the very wealthiest Americans would restore Social Security to long-run actuarial balance, and there would be enough left over to increase benefits,\" said Nancy Altman, co-chair of Strengthen Social Security, a 300-member coalition of national and state organizations opposed to benefit cuts.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "The problem with plans to hike taxes is that they're politically unfeasible because of congressional Republicans' adamant opposition to any sort of tax increase, much less a tax increase not accompanied by a spending cut.",
+            "sentence-index": 35,
+            "annotations": [
+                {
+                    "start": 114,
+                    "end": 121,
+                    "target": "Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "adamant"
+                },
+                {
+                    "start": 136,
+                    "end": 147,
+                    "target": "Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "any sort of"
+                }
+            ]
+        },
+        {
+            "sentence": "President Obama's National Commission on Fiscal Responsibility and Reform drafted a plan that would tweak Social Security by increasing taxes and reducing benefits both.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "That proposal went nowhere.",
+            "sentence-index": 37,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 27,
+                    "target": "Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "That proposal went nowhere."
+                }
+            ]
+        },
+        {
+            "sentence": "UPDATE: AARP CEO A. Barry Rand said in a statement, \"It has long been AARP's policy that Social Security should be strengthened to provide adequate benefits and that it is sufficiently financed to ensure solvency with a stable trust fund for the next 75 years.\"",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "The statement does not deny that AARP is open to reducing benefits.",
+            "sentence-index": 39,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Democratic Lawmakers",
+        "Republican Lawmakers"
+    ],
+    "main-event": "Rare comity at Capitol after shooting doesn't last",
+    "title": "Shooting Brings Rare Comity to the Capital, but Will It Last?",
+    "url": "https://mobile.nytimes.com/2017/06/15/us/politics/shooting-brings-rare-comity-to-the-capitol-but-will-it-last.html?em_pos=large&emc=edit_cn_20170616&nl=first-draft&nlid=57457455&ref=img&te=1&_r=0&referer=",
+    "word-count": 1183,
+    "date": "2017-06-15",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "Democratic Lawmakers": "Neutral",
+            "main-event": "Negative",
+            "Republican Lawmakers": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 The lawmakers trotted from their dugouts at Nationals Park, together in a near-summer air that never quite felt swampy, united in a certainty that the game must go on, just not exactly as it had before.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "A day earlier, on another ball field some seven miles southwest, a gunman had opened fire on members of the Republican congressional baseball team, striking four people \u2014 including Steve Scalise, the majority whip of the House of Representatives \u2014 who were there for a practice.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "And on Thursday, the capital\u2019s various institutional forces \u2014 senators and lobbyists, staff members with a job to do and residents with an evening to spare \u2014 joined, for a moment, in a bipartisan rebuttal: Play ball.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Beneath a mostly cloudless sky, at least by the mid-innings, fans in the stands intermingled red and blue.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Near the dugout, the president\u2019s daughter Ivanka Trump bantered with Chuck Schumer, the Senate\u2019s top Democrat, who chatted with two of her young children.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Nancy Pelosi, the House minority leader, wore a shirt from Louisiana State University, Mr. Scalise\u2019s alma mater.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "When a video message from President Trump played on the big screen, some of the Democrats in the crowd booed, but less lustily than usual.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "target": "Democratic Lawmakers",
+                    "end": 137,
+                    "aim": "Direct",
+                    "polarity": "Negative",
+                    "start": 68,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "some of the Democrats in the crowd booed, but less lustily than usual"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cYou are showing the world that we will not be intimidated,\u201d Mr. Trump said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe game will go on.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Some members of Congress had not expected to stay behind for the annual showdown, with families and district business waiting for them.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "But by nightfall, the decision was clear.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe come here, and these members become our family,\u201d Representative John Lewis, Democrat of Georgia, said at the Capitol before a game he had not intended to see.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "He spoke of 1968 and of the political violence he had seen up close as a civil rights leader, invoking Martin Luther King Jr. and Robert F. Kennedy.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Lewis, now 77, stared straight ahead for a moment.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI have to stay,\u201d he said softly.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "All day, before as more than 24,000 ticket holders filed in for the charity game, the shorthand for other tragedies ricocheted through the Capitol.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "At work on Thursday, those pangs visited lawmakers like a too-familiar houseguest \u2014 stalking them down the Capitol\u2019s corridors, past the Senate chamber where a ferocious health care debate had already resumed, along the hall where some had stood one day earlier as survivors, still in dusted cleats and uniforms, unharmed but unsettled.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The reaction would be different this time, some said.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "More sustainable.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "It had to be. Probably. Maybe. Right?",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhat\u2019s the half-life?\u201d asked Senator Roger Wicker, Republican of Mississippi, appraising how long the comity might last.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don\u2019t know. I don\u2019t know.\u201d",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "The skepticism is near-universal.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Even one day out from the initial anguish, much of the political ecosystem seemed unchanged.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "In a Thursday morning tweet, Mr. Trump railed against the \u201cWITCH HUNT\u201d of investigations of his associates.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "target": "Republican Lawmakers",
+                    "end": 107,
+                    "aim": "Indirect (Ally)",
+                    "polarity": "Negative",
+                    "start": 0,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "Donald Trump",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "In a Thursday morning tweet, Mr. Trump railed against the \u201cWITCH HUNT\u201d of investigations of his associates."
+                }
+            ]
+        },
+        {
+            "sentence": "Elected officials accused one another of hypocrisy and selective memory on matters of policy, perhaps a bit more gently than they might have on a typical weekday.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Senator Rand Paul, Republican of Kentucky, said he was warming up with Sean Hannity, the Fox News host, who is not known for bipartisan spirit.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "target": "Republican Lawmakers",
+                    "end": 142,
+                    "aim": "Indirect (Ally)",
+                    "polarity": "Negative",
+                    "start": 104,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "Rand Paul",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "who is not known for bipartisan spirit"
+                }
+            ]
+        },
+        {
+            "sentence": "And Ms. Pelosi could not resist suggesting that Republicans were the initiators of the present rancor.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "target": "Democratic Lawmakers",
+                    "end": 102,
+                    "aim": "Indirect (Ally)",
+                    "polarity": "Negative",
+                    "start": 0,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "Nancy Pelosi",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "And Ms. Pelosi could not resist suggesting that Republicans were the initiators of the present rancor."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cSomewhere in the \u201990s, Republicans decided on a politics of personal destruction as they went after the Clintons,\u201d she told reporters earlier on Thursday.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Moments later, she added, a bit regretfully: \u201cI really am almost sad for myself that I have gone down this path with you, because I don\u2019t think it\u2019s appropriate for us to have the fullest discussion of it.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "It\u2019ll be for another day.\u201d",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "But for an optimist in the city \u2014 and there still seem to be a few \u2014 there were flourishes to appreciate.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "House interns hauled signs: \u201cScalise Strong,\u201d \u201cCapitol Police MVP\u201d and \u201cUnvidvided\u201d in red, white, and blue.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Another attendee delivered this message, held aloft: \u201cThis Democrat is here to support Congressman Scalise.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "Get well soon, sir.\u201d",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "Representative Steny H. Hoyer of Maryland, the Democratic whip, resolved to wear a \u201cTeam Scalise\u201d shirt to the game.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "Ms. Pelosi sat for an interview alongside Speaker Paul D. Ryan, Republican of Wisconsin.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "The Senate leaders \u2014 Mitch McConnell, Republican of Kentucky, and Mr. Schumer of New York \u2014 did the same.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe don\u2019t dislike each other,\u201d Mr. McConnell said, deploying a rare complimentary double negative.",
+            "sentence-index": 38,
+            "annotations": [
+                {
+                    "target": "Republican Lawmakers",
+                    "end": 97,
+                    "aim": "Indirect (Ally)",
+                    "polarity": "Negative",
+                    "start": 51,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "Mitch McConnell",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "deploying a rare complimentary double negative"
+                }
+            ]
+        },
+        {
+            "sentence": "Among those on the field before the game was Representative Roger Williams, Republican of Texas, whose aide Zachary Barth was shot at the practice.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Williams, a coach on the team, trudged out on crutches after injuring his foot in the Wednesday morning fray as well.",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "David Bailey, a Capitol Police officer who was wounded while helping to stop the attack, threw out the ceremonial first pitch.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "(The ball was delivered to the mound, in an apparent bit of sponsorship oddity, by a Budweiser Clydesdale.)",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Scalise remained in the hospital on Thursday after a second surgery for internal injuries and a broken leg.",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "Doctors said his condition was critical but improving.",
+            "sentence-index": 44,
+            "annotations": []
+        },
+        {
+            "sentence": "He received a standing ovation when he was introduced as a team member, with Democrats waving their caps at his image on the screen beyond the outfield fence.",
+            "sentence-index": 45,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMaybe with a little more time, the teams would be mixed,\u201d suggested Representative Ted Deutch, Democrat of Florida.",
+            "sentence-index": 46,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBut at least for now, the healthy competition will bring us together.\u201d",
+            "sentence-index": 47,
+            "annotations": []
+        },
+        {
+            "sentence": "Several elements of the evening did diverge sharply from the ballpark\u2019s standard, professional fare \u2014 commonplace for a congressional game that has, since 1909, produced a steady torrent of middling baseball, worse trash talk and more than occasional injury.",
+            "sentence-index": 48,
+            "annotations": []
+        },
+        {
+            "sentence": "By the concessions, attendees discussed field director salaries and legislative wrangling.",
+            "sentence-index": 49,
+            "annotations": []
+        },
+        {
+            "sentence": "Khakis filled the grounds.",
+            "sentence-index": 50,
+            "annotations": []
+        },
+        {
+            "sentence": "A cutout of the head of Representative Tim Ryan, Democrat of Ohio, was held high.",
+            "sentence-index": 51,
+            "annotations": []
+        },
+        {
+            "sentence": "Chants of \u201cWe love you, Pelosi!\u201d rang out briefly, until the minority leader acknowledged them.",
+            "sentence-index": 52,
+            "annotations": []
+        },
+        {
+            "sentence": "Supporters from both parties raised hot dogs and beers, catching up on acquaintances in common.",
+            "sentence-index": 53,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019re just one day removed, so it still feels different, I think,\u201d Senator Jeff Flake, Republican of Arizona, said before the game, recalling past tragedies that many swore would reshape the nation\u2019s politics.",
+            "sentence-index": 54,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI hope it lasts.\u201d",
+            "sentence-index": 55,
+            "annotations": []
+        },
+        {
+            "sentence": "At the practice on Wednesday, Mr. Flake had raced to Mr. Scalise\u2019s side to provide water and first aid after the shooting stopped.",
+            "sentence-index": 56,
+            "annotations": []
+        },
+        {
+            "sentence": "He set out a goal for himself and his colleagues, uttered before inside the Capitol.",
+            "sentence-index": 57,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cTone down our own rhetoric and not ascribe the worst motives to our colleagues,\u201d he said hopefully.",
+            "sentence-index": 58,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThat can be done.\u201d",
+            "sentence-index": 59,
+            "annotations": []
+        },
+        {
+            "sentence": "For an evening, at least, Washington delivered.",
+            "sentence-index": 60,
+            "annotations": []
+        },
+        {
+            "sentence": "A little before 10 p.m., the Democrats secured their final out for an 11-2 victory, taking a 40-to-39 edge in the lifetime series.",
+            "sentence-index": 61,
+            "annotations": []
+        },
+        {
+            "sentence": "As the players shook hands, the team managers \u2014 Representative Mike Doyle, Democrat of Pennsylvania, and Representative Joe L. Barton, Republican of Texas \u2014 gathered for closing ceremonies.",
+            "sentence-index": 62,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Doyle did not hold the trophy for long.",
+            "sentence-index": 63,
+            "annotations": []
+        },
+        {
+            "sentence": "It was going to Mr. Scalise\u2019s office, they decided, until he gets back.",
+            "sentence-index": 64,
+            "annotations": []
+        }
+    ]
+}

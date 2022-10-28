@@ -1,0 +1,288 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Benjamin Netanyahu",
+        "Susan Rice",
+        "Joe Biden"
+    ],
+    "main-event": "Netanyahu plans to deliver a speech to Congress",
+    "title": "Susan Rice calls Netanyahu's Capitol Hill speech 'destructive' to US-Israel relations",
+    "url": "http://www.foxnews.com/politics/2015/02/25/white-house-adviser-rice-says-netanyahu-capitol-hill-address-destructive-to-us.html",
+    "word-count": 585,
+    "date": "2015-02-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Benjamin Netanyahu": "Neutral",
+            "Susan Rice": "Neutral",
+            "Joe Biden": "Negative"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu\u2019s upcoming Capitol Hill address will be a \u201cdestructive\u201d force in long-standing U.S.-Israel relations, adding more political acrimony to the already contentious visit.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Netanyahu was invited by House Speaker John Boehner, the leader of the Republican-controlled chamber, without him first conferring with the White House or State Department.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 102,
+                    "end": 171,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "John Boehner",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "without him first conferring with the White House or State Department"
+                }
+            ]
+        },
+        {
+            "sentence": "Such a move is generally considered a diplomatic no-no, but Boehner says he wanted to bring in Netanyahu to address the nuclear threat from Iran amid ongoing negotiations between Washington and Tehran.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 54,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "diplomatic no-no"
+                }
+            ]
+        },
+        {
+            "sentence": "The visit, though, has further challenged the strained relationship between President Obama and Netanyahu.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It's destructive to the fabric of the relationship,\" Rice said Tuesday on PBS\u2019s the \u201cCharlie Rose\u201d show.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 51,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Susan Rice",
+                    "text": "It's destructive to the fabric of the relationship"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt\u2019s always been bipartisan. We need to keep it that way.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Rice's statements were among the Obama administration's toughest on Netanyahu's speech, set for March 3.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "To date, administration officials had maintained a more low-key stance, voicing concerns about the visit while saying Obama would not meet with his Israeli counterpart strictly out of a desire not to influence Israel's tight elections.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "But tensions are rising on all sides.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Rice's comments came as Netanyahu turned down an invitation to meet privately with leading Senate Democrats during his trip to Washington, saying such a session could \"compound the misperception of partisanship\" surrounding his visit.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Netanyahu told Sens. Dick Durbin, of Illinois, and Dianne Feinstein, of California, that he regrets the invitation has been perceived by some to be political or partisan.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I can assure you that my sole intention in accepting it was to voice Israel's grave concerns about a potential nuclear agreement with Iran that could threaten the survival of my country,\" he told the senators in a letter.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 186,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Benjamin Netanyahu",
+                    "text": "I can assure you that my sole intention in accepting it was to voice Israel's grave concerns about a potential nuclear agreement with Iran that could threaten the survival of my country"
+                }
+            ]
+        },
+        {
+            "sentence": "U.S. officials suggest Netanyahu\u2019s trip is aimed primarily at derailing a nuclear deal with Iran, a signature Obama foreign policy objective.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 141,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "U.S. officials suggest Netanyahu\u2019s trip is aimed primarily at derailing a nuclear deal with Iran, a signature Obama foreign policy objective."
+                }
+            ]
+        },
+        {
+            "sentence": "While Netanyahu has long been skeptical of the negotiations, his opposition has increased over what he sees as Obama's willingness to make concessions that would leave Iran on the brink of being able to build a nuclear weapon.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "U.S. and Iranian officials reported progress in negotiations this week on a deal that would clamp down on Tehran's nuclear activities for at least 10 years but then slowly ease restrictions.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Israeli officials warned this week that such a deal would allow Iran to become a nuclear threshold state.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Vice President Biden won't attend the Netanyahu speech.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "And more than a half-dozen House and Senate Democrats also have said they will skip the event, calling it an affront to Obama and the administration as they negotiate with Iran over its nuclear program.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 109,
+                    "end": 116,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "affront"
+                }
+            ]
+        },
+        {
+            "sentence": "But Republican Sen. Lindsey Graham, R-S.C., called Biden\u2019s absence \u201cappalling and unacceptable.\u201d",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 68,
+                    "end": 94,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "appalling and unacceptable"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I don\u2019t know where Joe Biden will be or what he will be doing, but I can\u2019t believe it\u2019s more important than being in the chamber and listening to our best ally in the region -- Israel -- about the biggest threat to mankind, a nuclear-armed Iran. ...",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 250,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\"I don\u2019t know where Joe Biden will be or what he will be doing, but I can\u2019t believe it\u2019s more important than being in the chamber and listening to our best ally in the region -- Israel -- about the biggest threat to mankind, a nuclear-armed Iran. ..."
+                }
+            ]
+        },
+        {
+            "sentence": "It shows complete disrespect, it shows they\u2019re more worried about the politics in Israel than receiving information about a common threat,\" Graham, R-S.C., said Tuesday night on Fox News' \"On the Record with Greta Van Susteren.\"",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 3,
+                    "end": 28,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "shows complete disrespect"
+                }
+            ]
+        },
+        {
+            "sentence": "Durbin said he regretted that Netanyahu could not meet with the Democrats.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner.\" Durbin said.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\"His refusal to meet is disappointing to those of us who have stood by Israel for decades.\"",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 91,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "\"His refusal to meet is disappointing to those of us who have stood by Israel for decades.\""
+                }
+            ]
+        }
+    ]
+}

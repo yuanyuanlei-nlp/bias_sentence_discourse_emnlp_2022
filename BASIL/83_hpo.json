@@ -1,0 +1,257 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Raul Labrador",
+        "Kevil McCarthy"
+    ],
+    "main-event": "Raul Labrador challenges Kevin McCarthy for House majority leadership",
+    "title": "Raul Labrador To Run for House Majority Leader",
+    "url": "http://www.huffingtonpost.com/2014/06/13/labrador-majority-leader_n_5491696.html?ir=Politics",
+    "word-count": 723,
+    "date": "2014-06-13",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Raul Labrador": "Neutral",
+            "Kevil McCarthy": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "A two-term Republican congressman from Idaho with a track record of challenging the House Republican leadership said Friday he would run for the No. 2 job in the chamber.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Raul Labrador, a 46-year-old Mormon father of five, tea party congressman and Puerto Rican-born only child of a single mother, will challenge House Majority Whip Kevin McCarthy (R-Calif.) for the position of House majority leader.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "It's a long shot bid.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 21,
+                    "target": "Raul Labrador",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It's a long shot bid."
+                }
+            ]
+        },
+        {
+            "sentence": "McCarthy, 49, began gathering commitments from other House Republicans on Wednesday, the day after then-Majority Leader Eric Cantor (R-Va.) suffered a stunning loss in the primary for his seat.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "In his current role as whip, McCarthy's job is to round up votes from other Republicans.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The election is Thursday -- leaving little time for Labrador to build momentum and peel off votes from McCarthy.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 83,
+                    "end": 91,
+                    "target": "Raul Labrador",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "peel off"
+                }
+            ]
+        },
+        {
+            "sentence": "The former immigration attorney stepped forward to run after a number of other conservative House Republicans declined to.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI was stunned when Eric Cantor lost his primary election earlier this week.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Eric is a good friend and I have tremendous respect for him.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "But the message from Tuesday is clear -- Americans are looking for a change in the status quo,\" Labrador said in a statement.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 93,
+                    "target": "Raul Labrador",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Americans are looking for a change in the status quo"
+                }
+            ]
+        },
+        {
+            "sentence": "He also said that he would run for majority leader in hopes of creating \"a leadership team that can bring the Republican conference together.\"",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "It's a reference to the fact that Labrador is generally respected by both the House leadership and back-bench tea party legislators.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Since the 2010 midterm tea party wave election, the House GOP has contained a bloc of members who have opposed the establishment leadership time and time again.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The tea party group has pulled other legislators to the right on a host of issues, including many related to government spending and debt.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "When Cantor lost his seat in a shock result Tuesday, conservatives in the House were not prepared to unite behind a standard-bearer, much less wage an organized effort to whip up votes in support of a candidate for majority leader.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Jeb Hensarling (R-Texas) was considered a front-runner to challenge McCarthy.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "But Hensarling pondered his options for a full day Wednesday, while McCarthy moved quickly to generate support.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "On Friday, the Washington Post reported that Hensarling does not plan to run, according to three people familiar with his plans.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Pete Sessions (R-Texas) was the other conservative alternate to McCarthy, though he is almost as much an establishment character as anyone else in leadership.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "He too declined to run, sensing McCarthy's near inevitability.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Jim Jordan (R-Ohio) also demurred.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "The situation left House Speaker John Boehner (R-Ohio) and the rest of the Republican leadership in the House with a problem: The 40 or so hardline tea party members of the House GOP do not want the response to Cantor's loss -- which was driven by grassroots discontent with the establishment -- to simply be more establishment leadership.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "This discontent may be satisfied if Rep. Steve Scalise (R-La.) wins his race against Rep. Peter Roskam (R-Ill.) for House majority whip, taking McCarthy's spot.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Members of the tea party caucus also want to vote for a majority leader candidate that they believe in, even if he loses.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "House GOP leadership understands that desire, as does Labrador.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "A Labrador bid helps all parties regardless of the outcome -- including Labrador himself, since a run will elevate him as a leader inside the House GOP.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "There is always a chance that grassroots fervor in support of Labrador could gain a level of intensity that Boehner and McCarthy did not anticipate.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "However, there's not a lot of time for that to happen before next Thursday's election, and leadership elections generally are dominated by inside baseball politics and arcane political interests.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "In addition, a few of the most hardline House Republicans, such as Rep. Steve King (R-Iowa) and Rep. Michelle Bachmann (R-Minn.) said Thursday that Labrador was not conservative enough on immigration reform.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Labrador is an ambitious, sometimes savvy politician.",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 53,
+                    "target": "Raul Labrador",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Labrador is an ambitious, sometimes savvy politician."
+                }
+            ]
+        },
+        {
+            "sentence": "He is in Idaho this weekend chairing the state GOP convention.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "He also appeared Friday at an event with Sen. Rand Paul (R-Ky.), who offered his support for Labrador's candidacy.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere really is a question what is the message that\u2019s sent when the voters replace someone in leadership.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "They want someone different.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "I think Raul brings that,\" Paul told reporters, according to the Spokesman-Review.",
+            "sentence-index": 34,
+            "annotations": []
+        }
+    ]
+}

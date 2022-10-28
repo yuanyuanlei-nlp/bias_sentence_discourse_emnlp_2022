@@ -1,0 +1,212 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump",
+        "Barack Obama",
+        "Hillary Clinton"
+    ],
+    "main-event": "Trump criticizes Obama and Clinton over Orlando shooting",
+    "title": "Donald Trump Calls On Obama To Resign Over Orlando Shooting",
+    "url": "https://www.huffingtonpost.com/entry/trump-orlando-obama-resign_us_575dc769e4b0e39a28adebd3",
+    "word-count": 449,
+    "date": "2016-06-12",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Barack Obama": "Neutral",
+            "Hillary Clinton": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Presumptive Republican presidential nominee Donald Trump issued a bombastic call for President Barack Obama to resign on Sunday over the president\u2019s response to a shooting at an Orlando night club that left 50 people dead and scores of others injured.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 66,
+                    "end": 75,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "bombastic"
+                }
+            ]
+        },
+        {
+            "sentence": "\"In his remarks today, President Obama disgracefully refused to even say the words 'Radical Islam'.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 52,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "disgracefully"
+                }
+            ]
+        },
+        {
+            "sentence": "For that reason alone, he should step down.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "If Hillary Clinton, after this attack, still cannot say the two words 'Radical Islam' she should get out of this race for the Presidency,\" Trump said in a statement released by his campaign.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If we do not get tough and smart real fast, we are not going to have a country anymore.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 88,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "\"If we do not get tough and smart real fast, we are not going to have a country anymore."
+                }
+            ]
+        },
+        {
+            "sentence": "Because our leaders are weak, I said this was going to happen \u2013 and it is only going to get worse.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 8,
+                    "end": 28,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "our leaders are weak"
+                }
+            ]
+        },
+        {
+            "sentence": "I am trying to save lives and prevent the next terrorist attack.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "We can't afford to be politically correct anymore,\" the statement continued.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "In their remarks on Sunday, both Obama and Clinton referred to the shooting as an \u201cact of terror\" and an \"act of hate.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama last year explained that he refuses to describe the self-proclaimed Islamic State and al Qaeda as groups fueled by \u201cradical Islam\u201d because the term grants them a religious legitimacy they don\u2019t deserve.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump noted in his statement that the gunman, Omar Mateen, was \"the son of an immigrant from Afghanistan who openly published his support for the Afghanistani Taliban and even tried to run for President of Afghanistan.\"",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the Washington Post, Seddique Mateen expressed gratitude toward the Afghan Taliban in videos posted online.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "His son had reportedly pledged allegiance to ISIS before executing the attack, though officials say there is no evidence he had direct ties to the group.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump also criticized Clinton, his presumptive Democratic challenger, for wanting to \"dramatically increase admissions\" of Syrian refugees into the United States.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We need to protect all Americans, of all backgrounds and all beliefs, from Radical Islamic Terrorism - which has no place in an open and tolerant society,\" Trump said.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Radical Islam advocates hate for women, gays, Jews, Christians and all Americans.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "I am going to be a President for all Americans, and I am going to protect and defend all Americans.\"",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "In a follow-up tweet posted later Sunday, Trump reiterated his call for a ban on Muslims entering the United States -- even though the Orlando gunman was an American citizen, born in New York.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 119,
+                    "end": 191,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "even though the Orlando gunman was an American citizen, born in New York"
+                }
+            ]
+        },
+        {
+            "sentence": "He obtained his weapons legally, despite having been investigated by the FBI several times.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump's campaign said he would be delivering a \"major speech\" in New Hampshire on Monday that would address \"this terrorist attack, immigration, and national security.\"",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 47,
+                    "end": 61,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\"major speech\""
+                }
+            ]
+        }
+    ]
+}

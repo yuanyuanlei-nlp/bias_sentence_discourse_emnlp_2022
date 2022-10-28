@@ -1,0 +1,221 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Jesse Jackson"
+    ],
+    "main-event": "Jackson pleads guilty over illegal campaign spending spree",
+    "title": "Jesse Jackson Jr. Pleads Guilty in Campaign Money Case",
+    "url": "http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html?n=Top/Reference/Times%20Topics/People/S/Schmidt,%20Michael%20S.?ref=michaelsschmidt",
+    "word-count": 778,
+    "date": "2013-02-20",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Jesse Jackson": "Negative"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 Jesse L. Jackson Jr., the former Democratic representative from Illinois, pleaded guilty on Wednesday to one felony fraud count in connection with his use of $750,000 in campaign money to pay for living expenses and buy items like stuffed animals, elk heads and fur capes.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "As part of a plea agreement, prosecutors recommended that Mr. Jackson receive a sentence of 46 to 57 months in prison.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The federal judge overseeing the case, Robert L. Wilkins, is scheduled to sentence Mr. Jackson on June 28.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cFor years I lived off my campaign,\u201d Mr. Jackson, 47, said in response to questions from the judge about the plea.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI used money I shouldn\u2019t have used for personal purposes.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "At one point during the hearing, the judge stopped his questioning of Mr. Jackson, who was crying, so that he could be given a tissue.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 134,
+                    "target": "Jesse Jackson",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "At one point during the hearing, the judge stopped his questioning of Mr. Jackson, who was crying, so that he could be given a tissue."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cGuilty, Your Honor \u2014 I misled the American people,\u201d Mr. Jackson said when asked whether he would accept the plea deal.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Jackson\u2019s father, the Rev. Jesse L. Jackson, his mother and several brothers and sisters accompanied him to the hearing.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Jackson\u2019s wife, Sandi, also accompanied him, and later in the day she pleaded guilty to a charge that she filed false income tax statements during the time that Mr. Jackson was dipping into his campaign treasury.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Prosecutors said they would seek to have her sentenced to 18 to 24 months.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Jackson\u2019s plea was yet another chapter in the downward spiral of his career.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Elected to Congress in 1995 at the age of 30 from a district that includes part of the South Side of Chicago, Mr. Jackson was once one of the most prominent young black politicians in the country, working on issues related to health care and education for the poor.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "But as the federal authorities investigated Gov. Rod R. Blagojevich of Illinois over his efforts to sell the Senate seat that President Obama vacated in 2008, they uncovered evidence that one of Mr. Jackson\u2019s friends had offered to make a contribution to Mr. Blagojevich\u2019s campaign in exchange for the seat.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 188,
+                    "end": 306,
+                    "target": "Jesse Jackson",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Jackson's friend",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "one of Mr. Jackson\u2019s friends had offered to make a contribution to Mr. Blagojevich\u2019s campaign in exchange for the seat"
+                }
+            ]
+        },
+        {
+            "sentence": "Since then, Mr. Jackson, who has said he had no knowledge of the offer, has been dogged by questions about his ethics.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 118,
+                    "target": "Jesse Jackson",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Since then, Mr. Jackson, who has said he had no knowledge of the offer, has been dogged by questions about his ethics."
+                }
+            ]
+        },
+        {
+            "sentence": "Last summer, Mr. Jackson took a medical leave from Congress and was later treated for bipolar disorder.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "After winning re-election in November, he resigned, citing his health and the federal investigation into his use of campaign money.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "After the hearing, Mr. Jackson\u2019s lawyer, Reid H. Weingarten, said his client had \u201ccome to terms with his misconduct.\u201d",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Weingarten said that Mr. Jackson had serious health issues that \u201cdirectly related\u201d to his conduct.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThat\u2019s not an excuse, it\u2019s just a fact,\u201d Mr. Weingarten said.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Court papers released by federal prosecutors on Wednesday provided new details about how Mr. Jackson and his wife used the $750,000 in campaign money to finance their lavish lifestyle.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "From 2007 to 2011, Mr. Jackson bought $10,977.74 worth of televisions, DVD players and DVDs at Best Buy, according to the documents.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "In 2008, Mr. Jackson used the money for things like a $466.30 dinner at CityZen in the Mandarin Oriental in Washington and a $5,587.75 vacation at the Martha\u2019s Vineyard Holistic Retreat, the document said.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "On at least two instances, Mr. Jackson and his wife used campaign money at Build-A-Bear Workshop, a store where patrons can create stuffed animals.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "From December 2007 through December 2008, the Jacksons spent $313.89 on \u201cstuffed animals and accessories for stuffed animals\u201d from Build-A-Bear, according to the documents.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "One of the more exotic items they bought was an elk head from a taxidermist in Montana.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the documents, Mr. Jackson arranged in March 2011 to have $7,000 paid to the taxidermist, with much of the money coming from a campaign account, and it was shipped a month later to Mr. Jackson\u2019s Congressional office.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "A year later, Mr. Jackson\u2019s wife, knowing that the elk head had been bought with campaign money, had it moved from Washington to Chicago, and she asked a Congressional staff member to sell it, the documents say.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "In August 2012, the staff member sold the elk head for $5,300 to an interior designer and had the money wired to one of Mr. Jackson\u2019s accounts.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "What the staff member did not know was that the interior designer was actually an undercover F.B.I. employee who was investigating the Jacksons, the documents say.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Documents released on Friday showed how Mr. Jackson used his campaign money to buy items like fur capes, celebrity memorabilia and expensive furniture.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Among those items were a $5,000 football signed by American presidents and two hats that once belonged to Michael Jackson, including a $4,600 fedora.",
+            "sentence-index": 30,
+            "annotations": []
+        }
+    ]
+}

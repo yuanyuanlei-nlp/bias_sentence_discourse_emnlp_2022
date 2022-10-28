@@ -1,0 +1,279 @@
+{
+    "title": "Richard Blumenthal's Words on Vietnam Service Differ From History",
+    "date": "2010-05-17",
+    "url": "http://www.nytimes.com/2010/05/18/nyregion/18blumenthal.html?hp&_r=0",
+    "main-entities": [
+        "Richard Blumenthal"
+    ],
+    "word-count": 888,
+    "source": "nyt",
+    "main-event": "Richard Blumenthal lies about serving in Vietnam war",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Richard Blumenthal": "Negative"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "At a ceremony honoring veterans and senior citizens who sent presents to soldiers overseas, Attorney General Richard Blumenthal of Connecticut rose and spoke of an earlier time in his life.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe have learned something important since the days that I served in Vietnam,\u201d Mr. Blumenthal said to the group gathered in Norwalk in March 2008.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAnd you exemplify it.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Whatever we think about the war, whatever we call it \u2014 Afghanistan or Iraq \u2014 we owe our military men and women unconditional support.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "There was one problem: Mr. Blumenthal, a Democrat now running for the United States Senate, never served in Vietnam.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "He obtained at least five military deferments from 1965 to 1970 and took repeated steps that enabled him to avoid going to war, according to records.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 93,
+                    "end": 113,
+                    "target": "Richard Blumenthal",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "enabled him to avoid"
+                }
+            ]
+        },
+        {
+            "sentence": "The deferments allowed Mr. Blumenthal to complete his studies at Harvard; pursue a graduate fellowship in England; serve as a special assistant to The Washington Post\u2019s publisher, Katharine Graham; and ultimately take a job in the Nixon White House.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "In 1970, with his last deferment in jeopardy, he landed a coveted spot in the Marine Reserve, which virtually guaranteed that he would not be sent to Vietnam.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 9,
+                    "end": 44,
+                    "target": "Richard Blumenthal",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "with his last deferment in jeopardy"
+                }
+            ]
+        },
+        {
+            "sentence": "He joined a unit in Washington that conducted drills and other exercises and focused on local projects, like fixing a campground and organizing a Toys for Tots drive.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 165,
+                    "target": "Richard Blumenthal",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "like fixing a campground and organizing a Toys for Tots drive"
+                }
+            ]
+        },
+        {
+            "sentence": "Many politicians have faced questions over their decisions during the Vietnam War, and Mr. Blumenthal, who is seeking the seat being vacated by Senator Christopher J. Dodd, is not alone in staying out of the war.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "But what is striking about Mr. Blumenthal\u2019s record is the contrast between the many steps he took that allowed him to avoid Vietnam, and the misleading way he often speaks about that period of his life now, especially when he is speaking at veterans\u2019 ceremonies or other patriotic events.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Sometimes his remarks have been plainly untrue, as in his speech to the group in Norwalk.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "At other times, he has used more ambiguous language, but the impression left on audiences can be similar.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "In an interview on Monday, the attorney general said that he had misspoken about his service during the Norwalk event and might have misspoken on other occasions.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMy intention has always been to be completely clear and accurate and straightforward, out of respect to the veterans who served in Vietnam,\u201d he said.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "But an examination of his remarks at the ceremonies shows that he does not volunteer that his service never took him overseas.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "And he describes the hostile reaction directed at veterans coming back from Vietnam, intimating that he was among them.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "In 2003, he addressed a rally in Bridgeport, where about 100 military families gathered to express support for American troops overseas.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhen we returned, we saw nothing like this,\u201d Mr. Blumenthal said.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cLet us do better by this generation of men and women.\u201d",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "At a 2008 ceremony in front of the Veterans War Memorial Building in Shelton, he praised the audience for paying tribute to troops fighting abroad, noting that America had not always done so.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI served during the Vietnam era,\u201d he said.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI remember the taunts, the insults, sometimes even physical abuse.\u201d",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Blumenthal, 64, is known as a brilliant lawyer who likes to argue cases in court and uses language with power and precision.",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 127,
+                    "target": "Richard Blumenthal",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "uses language with power and precision"
+                }
+            ]
+        },
+        {
+            "sentence": "He is also savvy about the news media and attentive to how he is portrayed in the press.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "But the way he speaks about his military service has led to confusion and frequent mischaracterizations of his biography in his home state newspapers.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "In at least eight newspaper articles published in Connecticut from 2003 to 2009, he is described as having served in Vietnam.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "The New Haven Register on July 20, 2006, described him as \u201ca veteran of the Vietnam War,\u201d and on April 6, 2007, said that the attorney general had \u201cserved in the Marines in Vietnam.\u201d",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "On May 26, 2009, The Connecticut Post, a Bridgeport newspaper that is the state\u2019s third-largest daily, described Mr. Blumenthal as \u201ca Vietnam veteran.\u201d",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "The Shelton Weekly reported on May 23, 2008, that Mr. Blumenthal \u201cwas met with applause when he spoke about his experience as a Marine sergeant in Vietnam.\u201d",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "And the idea that he served in Vietnam has become such an accepted part of his public biography that when a national outlet, Slate magazine, produced a profile of Mr. Blumenthal in 2000, it said he had \u201cenlisted in the Marines rather than duck the Vietnam draft.\u201d",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "It does not appear that Mr. Blumenthal ever sought to correct those mistakes.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 77,
+                    "target": "Richard Blumenthal",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It does not appear that Mr. Blumenthal ever sought to correct those mistakes."
+                }
+            ]
+        },
+        {
+            "sentence": "In the interview, he said he was not certain whether he had seen the stories or whether any steps had been taken to point out the inaccuracies.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don\u2019t know if we tried to do so or not,\u201d he said.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "He added that he \u201ccan\u2019t possibly know what is reported in all\u201d the articles that are written about him, given the large number of appearances he makes at military-style events.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "He said he had tried to stick to a consistent way of describing his military experience: that he served as a member of the United State Marine Corps Reserve during the Vietnam era.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked about the Bridgeport rally, when he told the crowd, \u201cWhen we returned, we saw nothing like this,\u201d Mr. Blumenthal said he did not recall the event.",
+            "sentence-index": 36,
+            "annotations": []
+        }
+    ]
+}

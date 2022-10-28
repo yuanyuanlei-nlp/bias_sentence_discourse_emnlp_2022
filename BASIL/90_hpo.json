@@ -1,0 +1,113 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Barack Obama",
+        "Benjamin Netanyahu"
+    ],
+    "main-event": "Netanyahu plans to deliver a speech to Congress",
+    "title": "Susan Rice: Netanyahu Visit 'Destructive' To U.S.-Israel Relationship",
+    "url": "https://www.huffingtonpost.com/2015/02/25/susan-rice-netanyahu_n_6751146.html",
+    "word-count": 246,
+    "date": "2015-02-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral",
+            "Benjamin Netanyahu": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Susan Rice, President Barack Obama's national security adviser, said Israeli Prime Minister Benjamin Netanyahu's planned speech in front of a joint session of Congress will be \"destructive\" to U.S.-Israel relations.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\"What has happened over the last several weeks, by virtue of the invitation that was issued by the Speaker [John Boehner] and the acceptance of it by Prime Minister Netanyahu two weeks in advance of his election, is that on both sides, there has now been injected a degree of partisanship, which is not only unfortunate, I think it's destructive of the fabric of the relationship,\" Rice told PBS' Charlie Rose.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 290,
+                    "end": 379,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "which is not only unfortunate, I think it's destructive of the fabric of the relationship"
+                }
+            ]
+        },
+        {
+            "sentence": "\"It's always been bipartisan,\" Rice added.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We need to keep it that way. We want it that way. I think Israel wants it that way. The American people want it that way.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "When it becomes injected or infused with politics, that's a problem.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama has said he will not meet with Netanyahu ahead of his speech in March, saying it would be \"inappropriate\" to meet with the leader two weeks before the Israeli elections.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Netanyahu was invited to speak in front of a joint session of Congress by House Speaker John Boehner (R-Ohio), who did not seek approval from the White House before sending the invitation.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 188,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "John Boehner",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Netanyahu was invited to speak in front of a joint session of Congress by House Speaker John Boehner (R-Ohio), who did not seek approval from the White House before sending the invitation."
+                }
+            ]
+        },
+        {
+            "sentence": "Several lawmakers have spoken out against the speech, saying it could cause additional strain on international talks over Iran's nuclear plans.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Patrick Leahy (D-Vt.) called Netanyahu's speech \"a tawdry and high-handed stunt\" in a statement earlier this month.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 84,
+                    "target": "Benjamin Netanyahu",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "a tawdry and high-handed stunt"
+                }
+            ]
+        }
+    ]
+}

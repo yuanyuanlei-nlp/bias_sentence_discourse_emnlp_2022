@@ -1,0 +1,349 @@
+{
+    "date": "2011-03-29",
+    "main-entities": [
+        "Walmart",
+        "plaintiffs",
+        "supreme court"
+    ],
+    "main-event": "Walmart sex discrimination case goes to supreme court",
+    "source": "NYT",
+    "url": "https://www.nytimes.com/2011/03/30/business/30walmart.html",
+    "title": "Justices Take Up Crucial Issue in Wal-Mart Suit",
+    "word-count": 282,
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Walmart": "Neutral",
+            "plaintiffs": "Neutral",
+            "supreme court": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 The Supreme Court appeared closely divided on Tuesday during arguments over the theory put forth by the plaintiffs in an enormous sex discrimination class-action case against Wal-Mart.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Even some justices who seemed sympathetic to the plaintiffs expressed qualms about how to administer a lawsuit involving as many as 1.5 million women seeking back pay that could amount to billions of dollars.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 149,
+                    "target": "plaintiffs",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Even some justices who seemed sympathetic to the plaintiffs expressed qualms about how to administer a lawsuit involving as many as 1.5 million women"
+                }
+            ]
+        },
+        {
+            "sentence": "Others appeared worried about the consequences for other businesses of a ruling that would allow the case against Wal-Mart to go forward.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The mere certification of a class-action suit can prompt defendants to settle in light of the sums at stake, and the justices struggled to find a way to distinguish between gaps in pay that might have benign explanations and those caused by unlawful discrimination.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The court of Chief Justice John G. Roberts Jr. has recently issued a series of rulings in favor of plaintiffs suing for employment discrimination that cut against the court\u2019s pro-business reputation.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The Wal-Mart case dwarfs those rulings in importance.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "It is the largest employment discrimination class action in history, and the court\u2019s decision, expected by June, will probably be its most important business ruling this term.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The issue before the justices at Tuesday\u2019s arguments was not whether Wal-Mart, the country\u2019s largest retailer and biggest private employer, discriminated against women who worked there.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "For now, the question in the case, Wal-Mart Stores v. Dukes, No. 10-277, is whether hundreds of thousands of female workers have enough in common to join together in a single lawsuit.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The plaintiffs\u2019 theory is that a centralized companywide policy gave local managers too much discretion in pay and promotion decisions, leaving Wal-Mart vulnerable to gender stereotypes.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The plaintiffs have presented sworn statements and statistics to support their claim.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Wal-Mart calls that evidence unrepresentative and unreliable.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 60,
+                    "target": "plaintiffs",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "unrepresentative and unreliable"
+                }
+            ]
+        },
+        {
+            "sentence": "The company says its policies expressly bar discrimination and promote diversity.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "In any event, the company says, the plaintiffs \u2014 who worked in 3,400 stores in 170 job classifications \u2014 do not have enough in common to warrant class-action treatment.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Justice Anthony M. Kennedy said the theory about how the company discriminated \u2014 through a central policy conferring local discretion \u2014 was internally inconsistent.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYour complaint faces in two directions,\u201d he told a lawyer for the plaintiffs.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "But Justice Stephen G. Breyer said Wal-Mart could be held accountable if it failed to take action in the face of reports of discrimination from its stores.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cShould central management under the law have withdrawn some of the subjective discretion in order to stop these results?\u201d Justice Breyer asked.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Justice Ruth Bader Ginsburg agreed, saying that companies had a responsibility to make sure that women were treated fairly in local workplaces.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "And Justice Elena Kagan said that \u201cexcessive subjectivity\u201d may be a policy that violates the civil rights laws.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "But Justice Antonin Scalia was unconvinced.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m getting whipsawed here,\u201d he told the plaintiffs\u2019 lawyer, Joseph M. Sellers.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOn the one hand, you say the problem is that they were utterly subjective, and on the other hand you say there is strong corporate culture that guides all of this. Well, which is it?\u201d",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Sellers responded that \u201cthere is this broad discretion given the managers\u201d but that \u201cthey do not make their decisions in a vacuum.\u201d Managers, he went on, \u201care informed by the company about how to exercise that discretion.\u201d",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "That did not satisfy Justice Scalia.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf somebody tells you how to exercise discretion,\u201d he said, \u201cyou don\u2019t have discretion.\u201d",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Theodore J. Boutrous Jr., a lawyer for Wal-Mart, said the handful of women named as plaintiffs who seek to represent the entire class did not have typical experiences at the company.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cEach of the plaintiffs have very different stories,\u201d he said.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOne of them was promoted into a managerial position. One was terminated for disciplinary violations. One was promoted and then had a disciplinary problem and then was demoted.\u201d",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 177,
+                    "target": "plaintiffs",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cOne of them was promoted into a managerial position. One was terminated for disciplinary violations. One was promoted and then had a disciplinary problem and then was demoted.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "He added that \u201cthis class includes at least 544 store managers who are alleged to be discriminators and victims.\u201d",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Several justices had practical concerns.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhat seems to me a very serious problem in this case is, how do you work out the back pay?\u201d Justice Ginsburg asked.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Sellers said the trial court could rely on statistics culled from company databases, which he said were more reliable than the evidence that might be presented in individualized hearings given the available information about particular pay and promotion decisions.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Memories have faded, he said, and Wal-Mart did not keep good records.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "Given that, Mr. Sellers said, Wal-Mart\u2019s personnel decisions were \u201cstandardless\u201d and \u201crecordless.\u201d",
+            "sentence-index": 34,
+            "annotations": [
+                {
+                    "start": 66,
+                    "end": 98,
+                    "target": "Walmart",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cstandardless\u201d and \u201crecordless.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Justice Kennedy responded with a point about the suitability of the case for class-action treatment.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf it\u2019s standardless and recordless,\u201d he said, \u201cthen why is there commonality?\u201d",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Boutrous said Mr. Sellers was trying to have it both ways.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe problem here, Mr. Sellers says, is that the records are not available,\u201d Mr. Boutrous said.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThen he says we\u2019re going to have a proceeding where the district judge relies only on the records that he says are inadequate, to allow a reconstruction of the decision.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "That is not a process known to our jurisprudence.",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "It doesn\u2019t comport with due process.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "Several justices voiced concerns about how many companies could be subject to class-action suits if they allowed the case against Wal-Mart to go forward.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIs it true,\u201d Chief Justice Roberts asked Mr. Sellers, \u201cthat Wal-Mart\u2019s pay disparity across the company was less than the national average?\u201d",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Sellers said that was not the appropriate comparison. \u201cThe comparison that\u2019s relevant,\u201d he said, \u201cis between men and women and Wal-Mart.\u201d",
+            "sentence-index": 44,
+            "annotations": []
+        },
+        {
+            "sentence": "He added later that \u201cWal-Mart was behind the other large retailers.\u201d",
+            "sentence-index": 45,
+            "annotations": []
+        },
+        {
+            "sentence": "The chief justice also asked Mr. Sellers \u201chow many examples of abuse of the subjective discrimination delegation need to be shown before you can say that flows from the policy rather than from bad actors?\u201d",
+            "sentence-index": 46,
+            "annotations": []
+        },
+        {
+            "sentence": "After all, he said, \u201cyou\u2019re going to have some bad apples\u201d given Wal-Mart\u2019s thousands of stores.",
+            "sentence-index": 47,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Sellers responded that \u201cthere is no minimum number\u201d in court decisions.",
+            "sentence-index": 48,
+            "annotations": []
+        },
+        {
+            "sentence": "Justices Kennedy and Samuel A. Alito Jr. said they were concerned about companies whose pay and promotion gaps mirror national numbers where there is no proof of a discriminatory policy.",
+            "sentence-index": 49,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cSo, you have the company that is absolutely typical of the entire American work force,\u201d Justice Alito said.",
+            "sentence-index": 50,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThen you would say every single company is in violation of Title VII\u201d of the Civil Rights Act?",
+            "sentence-index": 51,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThat could very well be the case,\u201d Mr. Sellers said.",
+            "sentence-index": 52,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Rick Perry",
+        "Barack Obama"
+    ],
+    "main-event": "Rick Perry pledges to end \"[President Barack] Obama's war on religion\"",
+    "title": "Perry Goes After Obama Over Don't Ask Don't Tell",
+    "url": "http://www.huffingtonpost.com/2011/12/07/rick-perry-iowa-culture-wars_n_1133754.html",
+    "word-count": 269,
+    "date": "2011-12-07",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Rick Perry": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Republican presidential candidate Rick Perry pledges to end \"[President Barack] Obama's war on religion\" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 144,
+                    "end": 159,
+                    "target": "Rick Perry",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "railing against"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I'm not ashamed to admit I'm a Christian,\" says Perry.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school.\"",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage,\" the Texas governor continues.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 24,
+                    "end": 47,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "Obama's war on religion"
+                },
+                {
+                    "start": 71,
+                    "end": 112,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "liberal attacks on our religious heritage"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Faith made America strong. It can make her strong again.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Perry has recently stepped up his attacks on Obama for cultural issues.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "In a statement released Tuesday, he decried the Obama administration\u2019s decision to use foreign aid to promote rights for gays and lesbians abroad.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is just the most recent example of an administration at war with people of faith in this country,\" he said.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 102,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "an administration at war with people of faith in this country"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 106,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "\"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong."
+                }
+            ]
+        },
+        {
+            "sentence": "President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles.\"",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 121,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The Dallas Morning Newsrecently reported that his presidential campaign plans to bring \"more than 600 influential Texans\" to Iowa in December.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.",
+            "sentence-index": 12,
+            "annotations": []
+        }
+    ]
+}

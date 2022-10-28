@@ -1,0 +1,268 @@
+{
+    "main-event": "James Mattis quits as defense secretary",
+    "main-entities": [
+        "James Mattis",
+        "Donald Trump"
+    ],
+    "title": "Defense Secretary James Mattis to leave as of January 1; Trump taps Patrick Shanahan as acting secretary of defense",
+    "source": "fox",
+    "url": "https://www.foxnews.com/politics/defense-secretary-james-mattis-to-leave-as-of-january-1-trump-taps-patrick-shanahan-as-acting-secretary-of-defense",
+    "date": "2018-12-23",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "James Mattis": "Negative",
+            "Donald Trump": "Positive"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "President Trump announced Sunday that Defense Secretary James Mattis will be leaving the administration on January 1, weeks earlier than planned and just days after Mattis' bombshell resignation letter made clear his policy disagreements with the White House.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 173,
+                    "end": 182,
+                    "target": "James Mattis",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "bombshell "
+                }
+            ]
+        },
+        {
+            "sentence": "\"I am pleased to announce that our very talented Deputy Secretary of Defense, Patrick Shanahan, will assume the title of Acting Secretary of Defense starting January 1, 2019,\" Trump wrote on Twitter Sunday morning. ",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Patrick has a long list of accomplishments while serving as Deputy, & previously Boeing. ",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "He will be great!\"",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Shanahan is a former Boeing executive who joined the Pentagon in July 2017.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "In his resignation letter Thursday, Mattis, 68, had said he would remain in his role for more than three months. ",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Also on Thursday, Trump had said Mattis -- the first Cabinet official in 40 years to resign over a stated policy difference with the president -- was leaving in February.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 43,
+                    "end": 142,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "the first Cabinet official in 40 years to resign over a stated policy difference with the president"
+                }
+            ]
+        },
+        {
+            "sentence": "\"The end date for my tenure is February 28, 2019, a date that should allow sufficient time for a successor to be nominated and confirmed as well as to make sure the Department's interests are properly articulated and protected at upcoming events to include Congressional posture hearings and the NATO Defense Ministerial meeting in February,\" Mattis wrote Thursday.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "It was not immediately clear why Mattis' departure date was apparently moved up, but tension in the Defense Department and Washington generally has skyrocketed in the days since he suddenly announced his resignation.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Sources told Fox News this week that Mattis had quit \"in protest\" over the president's national security policies and that more resignations could be coming. ",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "(In 2013, then-President Obama removed Mattis from his post running U.S. military's Central Command, reportedly without calling to notify him of the decision.)",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 159,
+                    "target": "James Mattis",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "(In 2013, then-President Obama removed Mattis from his post running U.S. military's Central Command, reportedly without calling to notify him of the decision.)"
+                }
+            ]
+        },
+        {
+            "sentence": "U.S. officials said this week that the Trump administration is making plans to pull all 2,000 troops out of Syria, and Trump later tweeted that \u201cwe have defeated ISIS in Syria, my only reason for being there during the Trump Presidency.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump has stood by his Syria decision despite fierce blowback, telling detractors that the pullout should come as \u201cno surprise\u201d given his 2016 campaign promises and arguing that America\u2019s role as \u201cPoliceman of the Middle East\u201d is not worth the sacrifice.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Ground troops moved into Syria in 2015 to combat ISIS in the region, amid an escalating Syrian civil war. ",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump had talked about pulling out of Syria before, but military leaders had warned about ISIS re-emerging should the U.S. do so. ",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "There is also concern about abandoning the U.S.' Kurdish allies.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The news that Mattis will be leaving sooner than expected comes just days after Brett McGurk, the U.S. envoy for the global coalition to defeat Islamic State (ISIS), on Saturday accelerated his planned departure and announced his resignation.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The Associated Press reported that McGurk said in a resignation letter to Secretary of State Mike Pompeo that ISIS was on the run, but wasn\u2019t yet defeated and that U.S. work in Syria wasn\u2019t yet done. ",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Fox News has confirmed that McGurk submitted his resignation letter on Friday, a day after Mattis resigned. ",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "His resignation is effective December 31.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "The president downplayed the news via Twitter Saturday evening, saying he had neither met McGurk nor appointed him.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Brett McGurk, who I do not know, was appointed by President Obama in 2015. ",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Was supposed to leave in February but he just resigned prior to leaving,\" Trump tweeted. ",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Grandstander? The Fake News is making such a big deal about this nothing event!\"",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 81,
+                    "target": "James Mattis",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "news media",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "\"Grandstander? The Fake News is making such a big deal about this nothing event!\""
+                }
+            ]
+        },
+        {
+            "sentence": "\"If anybody but your favorite President, Donald J. Trump, announced that, after decimating ISIS in Syria, we were going to bring our troops back home (happy & healthy), that person would be the most popular hero in America,\" he continued in a follow-up tweet. ",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 259,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "\"If anybody but your favorite President, Donald J. Trump, announced that, after decimating ISIS in Syria, we were going to bring our troops back home (happy & healthy), that person would be the most popular hero in America,\" he continued in a follow-up tweet."
+                }
+            ]
+        },
+        {
+            "sentence": "\"With me, hit hard instead by the Fake News Media. Crazy!\"",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Meanwhile, the White House's plan to withdraw half its troops in Afghanistan by the summer -- some 7,000 soldiers -- has drawn similar criticism. ",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "While President Obama repeatedly promised to pull all troops out of Afghanistan by 2014, U.S. and NATO forces remain there in a predominately training and advising role.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 169,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Barack Obama",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "While President Obama repeatedly promised to pull all troops out of Afghanistan by 2014, U.S. and NATO forces remain there in a predominately training and advising role."
+                }
+            ]
+        },
+        {
+            "sentence": "Afghanistan's security forces rely heavily on U.S. airpower against both Taliban and an upstart Islamic State affiliate. ",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "More than 2,400 American soldiers have died in Afghanistan since the 2001 U.S.-led invasion, and Trump announced in a video last week that troop deaths were on his mind in announcing the pullouts.",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 196,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "More than 2,400 American soldiers have died in Afghanistan since the 2001 U.S.-led invasion, and Trump announced in a video last week that troop deaths were on his mind in announcing the pullouts."
+                }
+            ]
+        }
+    ]
+}

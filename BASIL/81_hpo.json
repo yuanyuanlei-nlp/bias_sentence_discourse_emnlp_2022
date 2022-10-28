@@ -1,0 +1,129 @@
+{
+    "source": "HPO",
+    "main-entities": [
+        "Eric Cantor",
+        "David Brat"
+    ],
+    "main-event": "Eric Cantor defeated by David Brat",
+    "title": "Man Who Defeated Cantor Calls His Big Win 'A Miracle'",
+    "url": "https://www.huffingtonpost.com/2014/06/10/dave-brat-primary-win_n_5482714.html?ec_carp=7041908105451402550",
+    "word-count": 244,
+    "date": "2014-06-10",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Eric Cantor": "Neutral",
+            "David Brat": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Dave Brat celebrated his stunning victory over House Majority Leader Eric Cantor (R-Va.) for the Republican nomination on Tuesday night in a phone interview with Fox News' Sean Hannity.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 33,
+                    "target": "David Brat",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "stunning"
+                }
+            ]
+        },
+        {
+            "sentence": "The tea party-backed candidate attributed his victory to God and to grassroots efforts, calling the win a \"miracle.\"",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If you go door to door knocking, the American people know the country is headed in the wrong direction,\" Brat said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I attribute [the win] to God... God acted through the people on my behalf.\"",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Cantor was expected to defeat Brat by a wide margin, outraising the college professor $5.4 million to $200,000.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "But Brat unseated the House majority leader with 56 percent of the vote.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The good news is dollars don't vote, people do,\" Brat told Hannity.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think the people are just ready for some major changes in this country.\"",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Brat shied away from explicitly identifying as a tea party candidate, saying he ran on Republican principles.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 15,
+                    "target": "David Brat",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "shied away"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I'm not holding anyone's feet to the fire but it wasn't a contest between the tea party and the Republicans and all this,\" he said.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Although I have tremendous tea party support and just wonderful people in the tea party and grassroots helping me out, and they're clearly responsible for the win...",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "I ran on the Republican principles.\"",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I've been a conservative my whole life,\" he added.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\"There's nothing hard right or far right about anything.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "I just believe in the ideas and that ideas matter in history.\"",
+            "sentence-index": 14,
+            "annotations": []
+        }
+    ]
+}

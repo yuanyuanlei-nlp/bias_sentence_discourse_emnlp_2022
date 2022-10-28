@@ -1,0 +1,484 @@
+{
+    "main-event": "James Mattis quits as defense secretary",
+    "main-entities": [
+        "James Mattis",
+        "Donald Trump"
+    ],
+    "title": "Jim Mattis, Defense Secretary, Resigns in Rebuke of Trump\u2019s Worldview",
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2018/12/20/us/politics/jim-mattis-defense-secretary-trump.html",
+    "date": "2018-12-20",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "James Mattis": "Positive",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 Defense Secretary Jim Mattis, whose experience and stability were widely seen as a balance to an unpredictable president, resigned Thursday in protest of President Trump\u2019s decision to withdraw American forces from Syria and his rejection of international alliances.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 43,
+                    "end": 133,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "whose experience and stability were widely seen as a balance to an unpredictable president"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Mattis had repeatedly told friends and aides over recent months that he viewed his responsibility to protect the United States\u2019 1.3 million active-duty troops as worth the concessions necessary as defense secretary to a mercurial president.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 224,
+                    "end": 233,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "mercurial"
+                }
+            ]
+        },
+        {
+            "sentence": "But on Thursday, in an extraordinary rebuke of the president, he decided that Mr. Trump\u2019s decision to withdraw roughly 2,000 American troops from Syria was a step too far.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 23,
+                    "end": 43,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "extraordinary rebuke"
+                }
+            ]
+        },
+        {
+            "sentence": "Officials said Mr. Mattis went to the White House with his resignation letter already written, but nonetheless made a last attempt at persuading the president to reverse his decision about Syria, which Mr. Trump announced on Wednesday over the objections of his senior advisers.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Mattis, a retired four-star Marine general, was rebuffed.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 46,
+                    "target": "James Mattis",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a retired four-star Marine general"
+                }
+            ]
+        },
+        {
+            "sentence": "Returning to the Pentagon, he asked aides to print out 50 copies of his resignation letter and distribute them around the building.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMy views on treating allies with respect and also being cleareyed about both malign actors and strategic competitors are strongly held,\u201d Mr. Mattis wrote.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBecause you have the right to have a Secretary of Defense whose views are better aligned with yours on these and other subjects, I believe it is right for me to step down from my position.\u201d",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "His resignation came as Congress appeared to be hurtling toward a government shutdown and as a deep market slump became even worse over fears of continuing government turmoil.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "With the ousting this month of John F. Kelly as White House chief of staff, Mr. Mattis was the last of Mr. Trump\u2019s old-guard national security team \u2014 leaving policy in the hands of Mike Pompeo, the president\u2019s second secretary of state, and John R. Bolton, the third White House national security adviser.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump said that Mr. Mattis, 68, will leave at the end of February, and that Mr. Mattis \u201cwas a great help to me in getting allies and other countries to pay their share of military obligations.\u201d",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The president said he would name a replacement soon.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "As Mr. Mattis was handing in his resignation, the Pentagon was preparing to draw down forces in Afghanistan.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Two Defense Department officials said Thursday that about 7,000 troops will be withdrawn in the coming months \u2014 cutting in half the number of American forces there \u2014 in an early step to ending the United States\u2019 involvement in the 17-year war.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis is scary,\u201d Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, said in a Twitter post.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 14,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "Troop withdrawal",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "This is scary"
+                }
+            ]
+        },
+        {
+            "sentence": "He called Mr. Mattis \u201can island of stability amidst the chaos of the Trump administration.\u201d",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 89,
+                    "target": "James Mattis",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "an island of stability amidst the chaos of the Trump administration"
+                }
+            ]
+        },
+        {
+            "sentence": "Senator Ben Sasse, Republican of Nebraska, called it \u201ca sad day for America because Secretary Mattis was giving advice the President needs to hear.\u201d",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 146,
+                    "target": "James Mattis",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "a sad day for America because Secretary Mattis was giving advice the President needs to hear"
+                }
+            ]
+        },
+        {
+            "sentence": "He added that Mr. Mattis \u201crightly believes that Russia and China are clear adversaries and that we are at war with jihadists across the globe who plot to kill Americans at home.\u201d",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Mattis\u2019s resignation letter was the sharpest, and most public, protest from inside the Trump administration over the president\u2019s rejection of the alliances and relationships that have underpinned American security since the end of World War II.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "It was also the first resignation over a major national security issue by a leading cabinet member since 1980, when Cyrus Vance quit as secretary of state.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 155,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It was also the first resignation over a major national security issue by a leading cabinet member since 1980, when Cyrus Vance quit as secretary of state."
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Vance left over President Jimmy Carter\u2019s decision to attempt a rescue effort for American hostages in Iran that Mr. Vance considered ill-advised and that ended in tragedy.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 116,
+                    "end": 174,
+                    "target": "James Mattis",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Cyrus Vance",
+                    "indirect-ally-opponent-sentiment": "Positive",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Vance considered ill-advised and that ended in tragedy"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Mattis\u2019s letter did not single out any decision.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Instead, it condemned Mr. Trump\u2019s approach to the world as destructive to American influence and power.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "He said the core of American national interests lay in \u201cproviding effective leadership to our alliances,\u201d and specifically described the importance of the North Atlantic Treaty Organization, a defense alliance Mr. Trump has often derided.",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 230,
+                    "end": 237,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "derided"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Mattis also praised the \u201cDefeat ISIS\u201d coalition that Mr. Trump just abandoned in Syria.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "But Mr. Mattis\u2019s core complaint was that Mr. Trump had lost sight of the importance of the competition for global power with Russia and China, who want \u201ca world consistent with their authoritarian model.\u201d",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Mattis was the primary author of a new American defense strategy whose central goal was to take on \u201crevisionist\u201d powers \u2014 an approach that some of Mr. Trump\u2019s former advisers say the president never fully comprehended.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 183,
+                    "end": 221,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the president never fully comprehended"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump\u2019s decision to pull out of Syria, which was opposed by virtually every high-level administration official but lauded by President Vladimir V. Putin of Russia, was the last straw.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 43,
+                    "end": 166,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "which was opposed by virtually every high-level administration official but lauded by President Vladimir V. Putin of Russia"
+                }
+            ]
+        },
+        {
+            "sentence": "Among his other concerns, Mr. Mattis viewed the withdrawal as abandoning Kurdish fighters and other American allies, and as ceding critical territory to Russia and Iran.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "No senior Pentagon official has defended the withdrawal publicly, despite requests from the White House.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "As a result, Mr. Trump appeared by himself in a video \u2014 which he tweeted Wednesday evening \u2014 announcing victory over the Islamic State.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "During Thursday\u2019s meeting at the White House, officials said that Mr. Trump again asked Mr. Mattis to publicly endorse the Syria decision.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Mattis refused.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "The president\u2019s tweets announcing the departure of his defense secretary shocked officials at the Pentagon, who as recently as Thursday afternoon were insisting that Mr. Mattis had no intention of resigning.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump\u2019s selection of Mr. Mattis as his Pentagon chief only weeks after his 2016 election was widely praised.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "The career Marine was respected among allies and adversaries and on Capitol Hill, and he was beloved in the Pentagon as a protector against a president with scant understanding of his own role as commander in chief.",
+            "sentence-index": 35,
+            "annotations": [
+                {
+                    "start": 140,
+                    "end": 214,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a president with scant understanding of his own role as commander in chief"
+                },
+                {
+                    "start": 0,
+                    "end": 131,
+                    "target": "James Mattis",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The career Marine was respected among allies and adversaries and on Capitol Hill, and he was beloved in the Pentagon as a protector"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Mattis commanded Marines in Afghanistan and in the 2003 invasion of Iraq before becoming the head of United States Central Command, overseeing all American troops in the Middle East.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "Though a colorful, hard-charging advocate of aggressive offensive action, Mr. Mattis viewed a tough American posture overseas as a way to deter war, not to start them, with potential foes like Iran.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "He favored working with allies, and often spoke of how difficult it was to conduct American policy without the benefit of friends.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "During his job interview with Mr. Trump in 2016, Mr. Mattis said he did not believe in torturing terrorism suspects to get information because he thought he could get more out of detainees by talking to them over a pack of cigarettes and a beer.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "The relationship between Mr. Mattis and Mr. Trump had deteriorated for months.",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "The widely accepted narrative that Mr. Mattis was the adult in the room when at the White House came to annoy the president.",
+            "sentence-index": 41,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 124,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The widely accepted narrative that Mr. Mattis was the adult in the room when at the White House came to annoy the president."
+                }
+            ]
+        },
+        {
+            "sentence": "In October, Mr. Trump accused Mr. Mattis of being a Democrat \u2014 a charge akin to treason in the current Republican administration.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "As defense secretary, Mr. Mattis oversaw the world\u2019s most powerful military, supervising active-duty troops based in the United States and deployed worldwide, including in war zones in Afghanistan, Iraq, Syria and on the Saudi border with Yemen.",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "There are also around 25,000 American troops in South Korea, where they have served for generations as a deterrent against North Korea.",
+            "sentence-index": 44,
+            "annotations": []
+        },
+        {
+            "sentence": "As with Mr. Trump\u2019s abrupt firing of Attorney General Jeff Sessions, the split with Mr. Mattis was a full turn in a relationship that once appeared strong.",
+            "sentence-index": 45,
+            "annotations": []
+        },
+        {
+            "sentence": "In Mr. Mattis\u2019s early days as defense secretary, he often ate dinner with the president in the White House residence.",
+            "sentence-index": 46,
+            "annotations": []
+        },
+        {
+            "sentence": "Over hamburgers, and with the help of briefing folders, Mr. Mattis explained to Mr. Trump key points about the United States\u2019 relationships with allies.",
+            "sentence-index": 47,
+            "annotations": []
+        },
+        {
+            "sentence": "But Mr. Mattis also quietly slow-walked a number of Mr. Trump\u2019s proposals, including banning transgender troops, starting  a Space Force and putting on a costly military parade.",
+            "sentence-index": 48,
+            "annotations": []
+        },
+        {
+            "sentence": "In each case, he went through the motions of acquiescing to the White House \u2014 and then buried the plans in Defense Department red tape.",
+            "sentence-index": 49,
+            "annotations": []
+        }
+    ]
+}

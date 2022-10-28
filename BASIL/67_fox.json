@@ -1,0 +1,195 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "AARP",
+        "Barack Obama",
+        "social security"
+    ],
+    "main-event": "AARP drops its opposition to Social Security cuts",
+    "title": "AARP Pushes Back on Claim About Social Security Concessions as Lawmakers Push Reform",
+    "url": "http://www.foxnews.com/politics/2011/06/17/stage-set-for-social-security-talks-lawmakers-push-reform-aarp-reportedly-open",
+    "word-count": 655,
+    "date": "2011-06-17",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "AARP": "Neutral",
+            "Barack Obama": "Neutral",
+            "social security": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "The AARP pushed back Friday on a report claiming the nation's most powerful seniors lobby was dropping its opposition to benefits cuts -- but at the same time acknowledged \"benefit adjustments\" would be necessary to make the system solvent.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 62,
+                    "end": 75,
+                    "target": "AARP",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "most powerful"
+                }
+            ]
+        },
+        {
+            "sentence": "The flurry of reports and statements left unclear whether AARP was opening up to new concessions in the debate over Social Security, as several lawmakers place reform proposals on the table.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The Wall Street Journal first reported Friday that the AARP, which opposed President George W. Bush's push to partially privatize Social Security, has decided to accept cuts -- though it would reportedly push for tax hikes to close most of the long-term Social Security shortfall.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "AARP CEO Barry Rand later issued a statement calling the article \"misleading\" and claiming \"AARP has not changed its position on Social Security.\"",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "He said AARP remains opposed to cutting Social Security for the sake of deficit reduction and to any privatization plan.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We are currently fighting proposals to cut Social Security to pay the nation's bills,\" he said.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "However, AARP legislative policy director David Certner told Fox News that Social Security needs a \"package of revenue and benefit adjustments ... to make it solvent.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "While the AARP claims its position on strengthening Social Security remains unchanged, others outside the organization detected a shift.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Kay Bailey Hutchison, R-Texas, who on Thursday unveiled her own Social Security reform package, said Friday that the AARP has marked \"a huge shift in the debate on the solvency of Social Security.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\"AARP's new and welcome position is a positive step towards the type of reforms I've championed, and I look forward to working with the organization to shape the changes in a way that makes the least detrimental impact to present and future retirees,\" she said in a statement.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 249,
+                    "target": "AARP",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "AARP's new and welcome position is a positive step towards the type of reforms I've championed, and I look forward to working with the organization to shape the changes in a way that makes the least detrimental impact to present and future retirees"
+                }
+            ]
+        },
+        {
+            "sentence": "There is still plenty of space between the kind of plan Hutchison is calling for and what groups like the AARP would accept.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Hutchison's plan does not include tax hikes.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Her office claims the bill would cut deficits by $416 billion over the next decade and keep Social Security solvent by instead raising the retirement age to 69 over 16 years and cutting yearly cost-of-living adjustments by 1 percent.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Workers who are 58 and older would not be affected.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Those two things would keep our Social Security system solvent for 75 years with really, I think, minor pain and a big gain,\" she told Fox News on Thursday.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "But the AARP has told Fox News that Hutchison's proposal is not acceptable.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked about the possibility of Social Security entering budget talks at some point, White House Press Secretary Jay Carney reiterated past statements in saying President Obama does not see Social Security as a \"driver\" of the country's near-term deficits.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The president supports measures to strengthen Social Security, but he does not support anything that would slash benefits for future generations,\" Carney said Friday.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The back-and-forth comes amid new warnings about the future of Social Security.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Trustees of the Social Security and Medicare Trust Fund last week warned the Social Security Trust Fund will be exhausted in 2036 and under current law, seniors would then face a 23 percent across-the-board cut in benefits.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 153,
+                    "end": 222,
+                    "target": "social security",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "seniors would then face a 23 percent across-the-board cut in benefits"
+                }
+            ]
+        },
+        {
+            "sentence": "But the president's budget director told Fox News that even when the trust funds run out, both Social Security and Medicare would still have some income.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We have a little bit of time,\" said Jack Lew, director of the Office of Management and Budget.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We do have a challenge, but it's not that we fall off of a cliff.\"",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "With AARP potentially backing off its opposition, other groups are poised to take up the fight.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "A coalition of groups called Strengthen Social Security has railed against cuts to cost-of-living adjustments, recently releasing a report claiming \"even the modest COLA on which Social Security benefits are adjusted isn't safe.\"",
+            "sentence-index": 24,
+            "annotations": []
+        }
+    ]
+}

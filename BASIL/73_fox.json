@@ -1,0 +1,98 @@
+{
+    "title": "While Blumenthal Retains Washington Support, Republicans Smell Opening in CT",
+    "date": "2010-05-18",
+    "url": "http://www.foxnews.com/politics/2010/05/18/while-blumenthal-retains-washington-support-republicans-smell-opening-in-ct.html",
+    "main-entities": [
+        "Richard Blumenthal"
+    ],
+    "word-count": 366,
+    "source": "fox",
+    "main-event": "Richard Blumenthal lies about serving in Vietnam war",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Richard Blumenthal": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Democratic Attorney General Richard Blumenthal, once thought to be a shoo-in for the seat being vacated by Sen. Chris Dodd, D-CT, finds himself on the political ropes after a newspaper exposed a past incorrect statement regarding his service in Vietnam, and Republicans smell an opening.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. John Cornyn, R-TX, who heads the GOP campaign committee, said Tuesday, \"I think it's a blockbuster revelation,\" and predicted, \"I think it's definitely going to make that race more competitive.\"",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Blumenthal's campaign disputed a report in the New York Times as an \"outrageous distortion\" of his service in the Marines - six months on Paris Island and six years in the reserves, according to his campaign.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The A.G., according to the Times, said he had misspoken at a 2008 event in Norfolk in which he said he had served in Vietnam.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "At that March 2 event, which can be found here on You Tube, Blumenthal, advocating for troops returning from war, clearly says, \"We have learned something very important since the days that I served in Vietnam...",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 114,
+                    "end": 121,
+                    "target": "Richard Blumenthal",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "clearly"
+                }
+            ]
+        },
+        {
+            "sentence": "whatever we think about the war, whatever we call it 'Afghanistan or Iraq, we owe our military men and women unconditional support.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Cornyn's Democratic campaign counterpart, Sen. Bob Menendez, D-NJ, Tuesday offered a critical vote of confidence in the attorney general, saying his lifetime of support for veterans is what really matters.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think he's corrected the record in the past.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "I think his actions standing up for veterans for a long time speaks volumes,\" Menendez said, \"I'm sure he will continue to stay in the race...and we'll continue to support him.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Dodd, who faced an onslaught of criticism for his involvement with now-defunct Countrywide mortgage broker, among other problems, quickly scuttled his re-election plans in order to make way for the exceedingly popular Blumenthal, when it was clear in polls that Dodd was not likely to win his race.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Blumenthal will face the winner of the GOP primary on August 10 - either former Cong. Rob Simmons, himself a Vietnam vet, or former WWE wrestling executive Linda McMahon.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The attorney general is scheduled to appear at a news conference later today with veterans at the Veterans of Foreign Wars post in West Hartford.",
+            "sentence-index": 11,
+            "annotations": []
+        }
+    ]
+}

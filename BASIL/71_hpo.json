@@ -1,0 +1,61 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "GOP leaders",
+        "Chick-Fil-A"
+    ],
+    "main-event": "Michele Bachmann and other GOP reps show support for Chick-Fil-A",
+    "title": "Michele Bachmann Chick-Fil-A Visit: GOP Rep Shows Support For Company Amid Controversy",
+    "url": "https://www.huffingtonpost.com/entry/michele-bachmann-chick-fil-a_n_1730280",
+    "word-count": 151,
+    "date": "2012-08-01",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "GOP leaders": "Neutral",
+            "Chick-Fil-A": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Rep. Michele Bachmann (R-Minn.) showed her support for Chick-fil-A Wednesday when she tweeted a photo of her visiting the restaurant.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Have you gone today?\"",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Bachmann asked her followers on what became an unofficial \"Chick-fil-A Appreciation Day.\"",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The surge of support for the fast-food chain came after Chick-fil-A president Dan Cathy said the Atlanta-based company was \"guilty as charged\" for backing \"the biblical definition of a family.\"",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "As gay rights groups launched boycotts against the company, prominent conservative figures like former Arkansas Gov. Mike Huckabee, Senator Lindsay Graham (R-S.C.) and former Alaska Gov. Sarah Palin began showing their support by visiting the restaurant.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "But conservatives weren't the only ones taking sides.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "House Minority Leader Nancy Pelosi (D-Calif.) tweeted about her opposition to the restaurant, and West Hollywood bar The Abbey introduced a \"Chick-for-Gay\" sandwich as a protest against the chain.",
+            "sentence-index": 6,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Chick-Fil-A",
+        "GOP leaders"
+    ],
+    "main-event": "GOP reps show support for Chick-Fil-A",
+    "title": "Chick-fil-A Draws Huge Crowds for Appreciation Day",
+    "url": "http://thelede.blogs.nytimes.com/2012/08/01/chick-fil-a-draws-huge-crowds-for-appreciation-day/",
+    "word-count": 489,
+    "date": "2012-08-01",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Chick-Fil-A": "Neutral",
+            "GOP leaders": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Hundreds of thousands of people across the country headed to Chick-fil-A restaurants on Wednesday, answering a call from Mike Huckabee, the former governor of Arkansas, to show support for the fast-food chain after the company\u2019s president drew criticism for his opposition to same-sex marriage.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Long lines were seen outside Chick-fil-A restaurants nationwide, and many customers documented their visits on social media sites and shared their reasons for eating at the chain.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Many said they showed up because they agreed with the position of Chick-fil-A\u2019s president on same-sex marriage, while others said they wanted to support freedom of expression for business owners.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "As my colleagues Kim Severson and Robbie Brown report from Atlanta, where Chick-fil-A began in the 1940s, the president, Dan T. Cathy, made comments last month about the biblical arguments against homosexuality.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "This prompted calls to boycott Chick-fil-A that were supported by the mayors of Boston and Chicago, along with plans for a same-sex kiss-in at the restaurants on Friday.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Last weekend, Mr. Huckabee used his television and radio programs, as well as Facebook, to help organize an appreciation day for Chick-fil-A on Wednesday.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "More than 650,000 people signed up to participate, and tens of thousands \u201cliked\u201d photos of packed restaurants that Mr. Huckabee posted on his Facebook page on Wednesday.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Below are some of the photos shared Wednesday on Twitter from Chick-fil-A restaurants around the country.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Representative Michele Bachmann, Republican of Minnesota, shared a photo from her visit.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Last week, Sarah Palin posted a photo of her visit to a Chick-fil-A in California on her Facebook page.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Huckabee noted in regular audio updates Wednesday that Chick-fil-A did not participate in organizing the event.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "And there were no tweets or photos about the appreciation day on the company\u2019s Facebook or Twitter accounts.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "In response to the outpouring of support for Chick-fil-A, many people used social media to share their disappointment.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "One Facebook user who lives near Austin, Tex., posted this status update:",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt has been really disconcerting how many of my FB friends have stood up on the side of hate and proudly posted their photos of Chick-fil-a \u2014 and they all have their little quotes about how they \u2018love their gay friends\u2019 but they \u2018don\u2019t approve\u2019 of their lifestyles.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 65,
+                    "end": 93,
+                    "target": "Chick-Fil-A",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Chick-Fil-A supporters",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "stood up on the side of hate"
+                }
+            ]
+        },
+        {
+            "sentence": "So I am asking you kindly to please un-friend me \u2014 I have no use for friends like you.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The Gay and Lesbian Alliance Against Defamation has asked supporters to donate the cost of a meal at a Chick-fil-A, about $6.50, to gay and lesbian rights groups.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Facebook users are also signing up to participate in a \u201cNational Same-Sex Kiss Day\u201d planned for Friday at Chick-fil-A restaurants.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "People are being encouraged to post photos of their kisses.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Others are not waiting until Friday to post their photos.",
+            "sentence-index": 19,
+            "annotations": []
+        }
+    ]
+}

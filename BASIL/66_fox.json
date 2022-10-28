@@ -1,0 +1,150 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "joint tax rule for homosexual couples"
+    ],
+    "main-event": "Legally married same-sex couples will now be allowed to file federal joint tax returns",
+    "title": "IRS extends tax benefits to married gay couples",
+    "url": "http://www.foxnews.com/politics/2013/08/29/irs-issues-tax-rules-for-married-gay-couples/?test=latestnews",
+    "word-count": 293,
+    "date": "2013-08-29",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "joint tax rule for homosexual couples": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2013 Legally married same-sex couples will now be allowed to file federal joint tax returns, the IRS and Treasury Department announced Thursday.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The ruling allows homosexual couples to receive the same tax benefits that heterosexual couples do when filing jointly.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Thursday\u2019s announcement comes on the heels of a historic decision by the U.S. Supreme Court, which overturned a part of the Defense of Marriage Act earlier this year.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Questions were raised following the high court\u2019s decision on how the federal government would treat same-sex couples whose home states don\u2019t recognize gay marriage.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The rules issued Thursday said the policies would affect all legally married gay couples regardless of where they live.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The rules, though, would not apply to domestic partnerships and civil unions.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Today's ruling provides certainty and clear, coherent tax filing guidance for all legally married same-sex couples nationwide.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "It provides access to benefits, responsibilities and protections under federal tax law that all Americans deserve,\" Treasury Secretary Jacob Lew said in a written statement.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Human Rights Campaign President Chad Griffin said that, because of today\u2019s ruling, \u201ccommitted and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws, regardless of what state they call home.\u201d",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 84,
+                    "end": 200,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "committed and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws"
+                }
+            ]
+        },
+        {
+            "sentence": "He added, \u201cThese families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.\u201d",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 160,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act"
+                }
+            ]
+        },
+        {
+            "sentence": "Not everyone was on board with the decision.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Brian Brown, president of the National Organization of Marriage, believes that giving same sex couples the right to file jointly \u201ccontinues a pattern of lawlessness\u201d across the country.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 130,
+                    "end": 164,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "continues a pattern of lawlessness"
+                }
+            ]
+        },
+        {
+            "sentence": "\"The Obama administration is intent on forcing same-sex 'marriage' on an unwilling public,\" Brown said in a written statement.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 89,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "The Obama administration is intent on forcing same-sex 'marriage' on an unwilling public"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Congress alone has the responsibility of determining federal tax law.\"",
+            "sentence-index": 13,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "joint tax rule for homosexual couples"
+    ],
+    "main-event": "Legally married same-sex couples will now be allowed to file federal joint tax returns",
+    "title": "Gay Marriages Get Recognition From the I.R.S.",
+    "url": "http://www.nytimes.com/2013/08/30/us/politics/irs-to-recognize-all-gay-marriages-regardless-of-state.html?n=Top/News/Health/Diseases,%20Conditions,%20and%20Health%20Topics/Medicare?ref=medicare",
+    "word-count": 928,
+    "date": "2013-08-29",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "joint tax rule for homosexual couples": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 All same-sex couples who are legally married will be recognized as such for federal tax purposes, even if the state where they live does not recognize their union, the Treasury Department and the Internal Revenue Service said Thursday.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "It is the broadest federal rule change to come out of the landmark Supreme Court decision in June that struck down the 1996 Defense of Marriage Act, and a sign of how quickly the government is moving to treat gay couples in the same way that it does straight couples.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The June decision found that same-sex couples were entitled to federal benefits, but left open the question of how Washington would actually administer them.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The Treasury Department answered some of those questions on Thursday.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "As of the 2013 tax year, same-sex spouses who are legally married will not be able to file federal tax returns as if either were single.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Instead, they must file together as \u201cmarried filing jointly\u201d or individually as \u201cmarried filing separately.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Their address or the location of their wedding does not matter, as long as the marriage is legal: a same-sex couple who marry in Albany, N.Y., and move to Alabama are treated the same as a same-sex couple who marry and live in Massachusetts.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cToday\u2019s ruling provides certainty and clear, coherent tax-filing guidance for all legally married same-sex couples nationwide,\u201d Treasury Secretary Jacob J. Lew said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.\u201d",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 166,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "\u201cThis ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Gay and civil rights groups praised the ruling.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 28,
+                    "end": 35,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "praised"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cCommitted and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws, regardless of what state they call home,\u201d said Chad Griffin, the president of the Human Rights Campaign.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 158,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "Committed and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws, regardless of what state they call home"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThese families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.\u201d",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 152,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "\u201cThese families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "But the Treasury decision could have ramifications for many gay couples\u2019 tax liabilities, said Roberton Williams of the nonpartisan Tax Policy Center in Washington.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 88,
+                    "target": "joint tax rule for homosexual couples",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But the Treasury decision could have ramifications for many gay couples\u2019 tax liabilities"
+                }
+            ]
+        },
+        {
+            "sentence": "Couples with similar incomes often pay the \u201cmarriage penalty,\u201d with their tax liability as a couple being much higher than it would be if they were single.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "At the same time, same-sex couples will also be able to file amended returns for certain prior tax years, meaning that many couples might be eligible for refunds.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Couples do not have to file amended returns if they do not want to, a senior Treasury official said, meaning that couples who might pay the marriage penalty would not owe back taxes.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "But the ruling creates complications for same-sex couples who live in any of the 37 states that do not recognize their marriages.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Previously, such couples filed federal and state tax returns as individuals.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Now, they will have to file their federal returns as other married couples do, but may be required to file their state returns as individuals.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere\u2019s going to be a cumbersome workaround,\u201d said Nanette Lee Miller of Marcum L.L.P., a public accounting firm.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "She sees it as a paperwork bother more than a financial issue.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "States might also respond to the federal ruling with changes of their own.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMost state income tax regimes begin with federal taxable income as the starting point,\u201d Marvin Kirsner, a tax lawyer at Greenberg Traurig, said in an e-mail.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThese state taxing authorities will have to figure out how to deal with a same-sex married couple who file a joint income tax return for federal tax purposes.\u201d He added,",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe will need to see guidance from each nonrecognition state to see how this will be handled.\u201d",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "The rule change is likely to provide a small increase for federal revenue, as more same-sex couples pay the marriage penalty, Mr. Williams said, describing it as a \u201crounding error.\u201d",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "But it would be partly offset by new federal spending on benefits for same-sex spouses.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "The ruling applies to all legal marriages made in the United States or foreign countries.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "But it does not extend to civil unions, registered domestic partnerships or other legal relationships, the Treasury said.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "The Treasury ruling is one of many that are starting to emerge from all corners of the federal government as Washington changes regulations to conform with the Supreme Court decision.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Separately, the Health and Human Services Department said Thursday that Medicare would extend certain key benefits to same-sex spouses, \u201cclarifying that all beneficiaries in private Medicare plans have access to equal coverage when it comes to care in a nursing home where their spouse lives.\u201d",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "But federal agencies are not moving in lock step.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "Instead, they are creating a patchwork of regulations affecting gay and lesbian couples \u2014 and may be raising questions about discrimination and fairness in the way that federal benefits are distributed.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Medicare and Treasury officials have said they would use a \u201cplace of celebration\u201d standard for determining whether gay couples are eligible for benefits.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "That means same-sex couples would receive benefits as long as they are legally married, regardless of where they live.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "But the Social Security Administration is now using a \u201cplace of residence\u201d standard in determining spousal benefits, and a gay couple in Alabama might not receive the same benefits as a gay couple in New York until final determinations are made or Congress acts.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "The Obama administration has pushed federal agencies to ensure the Supreme Court\u2019s ruling is carried out quickly and smoothly.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt would be nice if they were consistent,\u201d Ms. Miller said.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "Creating federal regulations is a process and could change, she said.",
+            "sentence-index": 38,
+            "annotations": []
+        }
+    ]
+}

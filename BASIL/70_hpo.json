@@ -1,0 +1,92 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Donald Trump is inaugurated",
+    "title": "Donald Trump Sworn In As 45th President",
+    "url": "https://www.huffpost.com/entry/trump-oath-of-office_n_58823730e4b070d8cad2087f",
+    "word-count": 193,
+    "date": "2017-01-20",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2013 Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump\u2019s unlikely journey from New York City real estate developer and reality TV star to the nation\u2019s highest office.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "target": "Donald Trump",
+                    "end": 121,
+                    "aim": "Indirect (Opponent)",
+                    "polarity": "Negative",
+                    "start": 84,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "Republican opponents",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Positive",
+                    "text": "many far more experienced in politics"
+                }
+            ]
+        },
+        {
+            "sentence": "But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama\u2019s policies.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "target": "Donald Trump",
+                    "end": 164,
+                    "aim": "Direct",
+                    "polarity": "Negative",
+                    "start": 0,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama\u2019s policies."
+                }
+            ]
+        },
+        {
+            "sentence": "He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey\u2019s decision to reopen, briefly, the probe into Clinton\u2019s use of a private email server.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Clinton had counted on winning all three.",
+            "sentence-index": 7,
+            "annotations": []
+        }
+    ]
+}

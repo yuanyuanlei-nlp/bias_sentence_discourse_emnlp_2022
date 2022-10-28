@@ -1,0 +1,293 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Raul Labrador",
+        "Kevil McCarthy"
+    ],
+    "main-event": "Raul Labrador challenges Kevin McCarthy for House majority leadership",
+    "title": "",
+    "url": "http://mobile.nytimes.com/2014/06/14/us/idaho-republican-appealing-to-right-enters-race-to-replace-cantor.html",
+    "word-count": 871,
+    "date": "2014-06-14",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Raul Labrador": "Neutral",
+            "Kevil McCarthy": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 Representative Ra\u00fal R. Labrador, a Republican of Idaho who has barely served two terms in Congress, jumped into the race for House majority leader on Friday, offering himself as the more conservative alternative who could pull the House rightward in the wake of Representative Eric Cantor\u2019s loss in a primary.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 68,
+                    "end": 111,
+                    "target": "Raul Labrador",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who has barely served two terms in Congress"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThe message from Tuesday is clear \u2014 Americans are looking for a change in the status quo,\u201d Mr. Labrador, a former immigration lawyer elected in the Tea Party wave of 2010, said in a statement.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cPresident Obama and the Democrats have had their chance and they have failed.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Republicans must be willing to take these challenges head on with new leadership, fresh ideas and a different approach.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "While some of those conservative lawmakers elected in 2010 were hoping that the House leadership elections on Thursday would offer them the chance to reclaim their influence on Capitol Hill, few of them give Mr. Labrador much of a chance against the current House majority whip, Representative Kevin McCarthy of California.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Though Tea Party activists provided the energy and votes for Mr. Cantor\u2019s ouster, the elections might be more of a plea for a place at the leadership table.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Supporters of Mr. McCarthy, who confidently traveled home to his district in Bakersfield for the weekend, said Friday that the Californian had all but sewed up the votes he needs.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe have got to have an alternative,\u201d Representative Louie Gohmert, Republican of Texas, said on Glenn Beck\u2019s conservative radio show.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI mean, for us as a party in Congress to send the message that we didn\u2019t learn a blessed thing from this amazing election result, we aren\u2019t paying attention.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "House conservatives \u2014 lacking a rationale to fight Mr. McCarthy, a well-liked member of leadership who has raised millions of dollars for Republican incumbents \u2014 have begun protesting that his voting record is actually to the left of Mr. Cantor\u2019s.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 63,
+                    "target": "Raul Labrador",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "House conservatives",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "lacking a rationale to fight Mr. McCarthy"
+                },
+                {
+                    "start": 65,
+                    "end": 159,
+                    "target": "Kevil McCarthy",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a well-liked member of leadership who has raised millions of dollars for Republican incumbents"
+                }
+            ]
+        },
+        {
+            "sentence": "FreedomWorks, which has provided financial support for Tea Party candidates, immediately began trying to generate support for Mr. Labrador through its websites and email lists.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNow that grass-roots conservatives FIRED Eric Cantor, we need a new majority leader in the House of Representatives,\u201d FreedomWorks\u2019 website said Friday.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Matt Kibbe, the group\u2019s president and chief executive, said that he did not have great qualms with Mr. McCarthy\u2019s ideology, but that he was more about politics than ideas.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe Republican penchant for just choosing the next guy in line hasn\u2019t proven to be a great strategy, and it hasn\u2019t picked good leadership,\u201d Mr. Kibbe said.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "But Mr. Labrador\u2019s path to victory is steep, especially in the few days before House Republicans gather to elect Mr. Cantor\u2019s replacement.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. McCarthy has been preparing for months to move up from No. 3 in the Republican leadership to No. 2 in the event that Speaker John A. Boehner of Ohio would retire after the November elections.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Conservative Republicans in the House pleaded Friday for a delay in the voting.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 45,
+                    "target": "Raul Labrador",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "House conservatives",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "pleaded"
+                }
+            ]
+        },
+        {
+            "sentence": "Some grumbled that the campaign by the college professor David Brat to unseat Mr. Cantor had ousted the one member of House Republican leadership willing to listen to the House\u2019s most conservative members.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 13,
+                    "target": "Raul Labrador",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "House conservatives",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "grumbled"
+                }
+            ]
+        },
+        {
+            "sentence": "Instead, the House will end up elevating a leader with a less conservative record and less patience for the far-right flank.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "For his part, Mr. Boehner has remained firm that he wanted to get it done quickly and minimize disruption.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. McCarthy spent much of the day calling members and shoring up support, said a Republican aide close to the majority whip.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "McCarthy supporters predicted that Mr. Labrador would muster no more than a few dozen votes.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Some lawmakers questioned whether his run was really a quest to win the majority leader\u2019s post or merely to raise his own profile.",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 95,
+                    "end": 129,
+                    "target": "Raul Labrador",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "or merely to raise his own profile"
+                }
+            ]
+        },
+        {
+            "sentence": "His decision to jump in was widely seen as proof that more experienced conservative members, like Representatives Jim Jordan of Ohio or Tom Price of Georgia, had rebuffed overtures to run from other conservatives.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Tea Party groups off Capitol Hill may believe Mr. Labrador can win, and they will pressure House conservatives to join the campaign.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "But ultimately, supporting him could hurt more conservative members with the House leadership.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Labrador tried on Friday to at least engage the Republican conference in a debate over ideas.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "He said the party needed to address issues like upward income mobility among the poor and middle-class economic insecurity.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Born the son of a single mother in Puerto Rico, he has seen himself as an ambassador to young and minority voters out of reach to traditional Republicans.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI am running for majority leader because I want to help create a vision of growth and opportunity for everyone and start getting to work for the American people,\u201d he said.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Representative Justin Amash, Republican of Michigan, rushed to champion Mr. Labrador\u2019s candidacy.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Amash, after all, voted last year to make him speaker of the House.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe can\u2019t respond to a stunning loss by giving a pat on the back and promotion to the same team,\u201d Mr. Amash said of Mr. Cantor\u2019s defeat.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s time for someone new, someone conservative, someone who will put forward a fresh agenda, and someone we know is a proven and talented spokesman. That man is Ra\u00fal Labrador.\u201d",
+            "sentence-index": 33,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 178,
+                    "target": "Raul Labrador",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "\u201cIt\u2019s time for someone new, someone conservative, someone who will put forward a fresh agenda, and someone we know is a proven and talented spokesman. That man is Ra\u00fal Labrador.\u201d"
+                }
+            ]
+        }
+    ]
+}

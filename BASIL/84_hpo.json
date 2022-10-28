@@ -1,0 +1,260 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump",
+        "Barack Obama"
+    ],
+    "main-event": "Trump holds birther meeting",
+    "title": "Donald Trump Signals He Has Investigators Looking Into Obama Citizenship Issue In Hawaii",
+    "url": "http://www.huffingtonpost.com/2011/04/07/donald-trump-obama-birth-_1_n_845989.html",
+    "word-count": 566,
+    "date": "2011-04-07",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 Real estate tycoon Donald Trump said Thursday he hopes questions surrounding Barack Obama\u2019s U.S. citizenship won\u2019t be the defining issue if he\u2019s chosen as the Republican candidate to challenge the president\u2019s re-election.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump told NBC News in an interview that plans to decide by June whether to run.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "He said that if he\u2019s nominated, \u201cI\u2019d like to beat him straight up,\u201d not on the basis of the birth issue.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "A national NBC/WSJ poll released yesterday shows Trump tied for 2nd with Mike Huckabee in the 2012 GOP primary field at 17 percent (Mitt Romney leads the pack at 21 percent).",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "NBC further notes, \u201cStrikingly, Trump . . . finishes first among Tea Party supporters (at 20 percent), followed by Romney (17 percent), Huckabee (14 percent), Palin (12 percent) and Gingrich (9 percent).\u201d",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 20,
+                    "end": 30,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "Strikingly"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump said he didn't introduce the citizenship issue, but was asked about it during an interview a month ago.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Since then, he said he's looked into it and believes \"there is a big possibility\" Obama may have violated the Constitution.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I want to see the birth certificate,\" said Trump in an interview on NBC's \"Today\" show, according to TIME.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"How come his own family doesn't know which hospital he was born in?",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 68,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "\"How come his own family doesn't know which hospital he was born in?"
+                }
+            ]
+        },
+        {
+            "sentence": "How come-- forget about birth certificates. Let's say there's no birth certificate.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "How come in the hospital itself, okay? This is one of the...in the hospital itself, there's no records of his birth.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "In other words, it doesn't say how much they paid, where is the doctor, here's your room bill.\"",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Officials in Hawaii have certified that Obama was born in that state.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "But \"birthers\" have demanded additional proof, asserting he could have been born in Kenya.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I'm not convinced that he has one,\" Trump said of the birth certificate issue.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Today\" show host Meredith Vieira asked Trump, \"You've been privy to all of this to know this?\"",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "His response: \"Well, I have people that actually have been studying it and they cannot believe what they're talking.\"",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The remarks from the potential presidential candidate prompted Vieira to ask Trump if he had people on the ground in Hawaii searching for proof of the president's citizenship.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "He signaled he did, saying, \"And they cannot believe what they're finding. And I'm serious.\"",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 73,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "And they cannot believe what they're finding"
+                }
+            ]
+        },
+        {
+            "sentence": "When asked how genuine his presidential ambition is, Trump said, \"I always take things seriously, but I've never taken it seriously like this.\"",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I wish I didn't have to do it,\" he said.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I wish this was the greatest place in the world,\" Trump said, but he also said jobs are disappearing in the United States and that Obama has given the country \"a terrible presidency.\"",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 161,
+                    "end": 182,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "a terrible presidency"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump said that if the current fight over budget issues forces a shutdown, \"I think the president will be blamed.\"",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "He accused Obama of carrying out a confusing policy on the civil war in Libya, saying \"nobody knows what's happening, and now it looks like (Libyan strongman Moammar) Gadhafi is going to beat the United States.\"",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 77,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He accused Obama of carrying out a confusing policy on the civil war in Libya"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I'm only interested in Libya if we get the oil,\" Trump said.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "He said Obama \"doesn't have a doctrine (on foreign affairs.)",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Foreign affairs is, we take care of ourselves first\"",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Of Obama, he said, \"I want him to do well. ...",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "I love this country, but this country is going to hell. ...",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 54,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "this country is going to hell"
+                }
+            ]
+        },
+        {
+            "sentence": "The world laughs at us. They won't be laughing if I'm elected president.\"",
+            "sentence-index": 29,
+            "annotations": []
+        }
+    ]
+}

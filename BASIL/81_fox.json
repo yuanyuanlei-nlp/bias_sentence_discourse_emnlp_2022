@@ -1,0 +1,123 @@
+{
+    "source": "FOX",
+    "main-entities": [
+        "Eric Cantor",
+        "David Brat"
+    ],
+    "main-event": "Eric Cantor defeated by David Brat",
+    "title": "Who is Dave Brat?",
+    "url": "http://www.foxnews.com/politics/2014/06/10/who-is-dave-brat-political-novice-who-beat-house-majority-leader-eric-cantor/?intcmp=trending",
+    "word-count": 227,
+    "date": "2014-06-10",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Eric Cantor": "Neutral",
+            "David Brat": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "House Majority Leader Eric Cantor was beaten Tuesday night by a political novice who is currently working as an economics professor at a small Virginia college.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 74,
+                    "end": 80,
+                    "target": "David Brat",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "novice"
+                }
+            ]
+        },
+        {
+            "sentence": "So who is Dave Brat, and how did he pull off such a stunning win?",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 44,
+                    "target": "David Brat",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "pull off"
+                }
+            ]
+        },
+        {
+            "sentence": "The 49-year-old teaches at Randolph-Macon College, a small liberal arts school north of Richmond.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "He raised just over $200,000 for his campaign, while Cantor spent more than $1 million in April and May alone to try to beat back his challenge.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "However, Brat offset the cash disadvantage with endorsements from conservative activists like radio host Laura Ingraham and with help from local Tea Party activists angry at Cantor.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Brat cast the congressman as a Washington insider who isn't conservative enough.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Last month, a feisty crowd of Brat supporters booed Cantor in front of his family at a local party convention.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 110,
+                    "target": "David Brat",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Brat supporters",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Last month, a feisty crowd of Brat supporters booed Cantor in front of his family at a local party convention."
+                }
+            ]
+        },
+        {
+            "sentence": "Brat received his doctorate from American University, his master's from Princeton Theological Seminary and his bachelor's from Hope College.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "In addition to teaching, he has served on the state Joint Advisory Board of Economists and served as the president of the Virginia Association of Economists.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "He also states on his website that he is active in his local Republican party, and has often served as commentator on economic issues for local media.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Brat is married and has two children, an 11-year-old daughter and a 15-year-old son.",
+            "sentence-index": 10,
+            "annotations": []
+        }
+    ]
+}

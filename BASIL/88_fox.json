@@ -1,0 +1,264 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Jan Brewer",
+        "SB 1062 bill"
+    ],
+    "main-event": "Jan Brewer urged to veto gay discrimination bill",
+    "title": "Prominent Republicans call for Ariz. Gov. Jan Brewer to veto bill allowing denial of service to gays",
+    "url": "http://www.foxnews.com/us/2014/02/26/arizona-gov-jan-brewer-jets-home-amid-furor-over-bill-allowing-denial-service/print",
+    "word-count": 580,
+    "date": "2014-02-26",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Jan Brewer": "Neutral",
+            "SB 1062 bill": "Positive"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Prominent Republicans are calling for Ariz. Gov. Jan Brewer to veto a controversial bill that would allow businesses to deny service over religious beliefs.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The Republican governor returned home Tuesday afternoon to a political climate that is much different from just a week ago when she left for Washington the last five days for a governor's conference.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The Arizona Legislature passed a bill last week allowing businesses whose owners cite sincerely held religious beliefs to deny service to gays.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "It allows any business, church or person to cite the law as a defense in any action brought by the government or individual claiming discrimination.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The legislation has caused a national uproar.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 44,
+                    "target": "SB 1062 bill",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "uproar"
+                }
+            ]
+        },
+        {
+            "sentence": "The chorus of opposition has grown each day, with the business community, the state's Super Bowl Committee and both Republican U.S. senators calling for a veto.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Former GOP presidential nominee Mitt Romney was the latest prominent voice to weigh in and urge Brewer to veto the bill.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Brewer will likely spend the next day or more pondering Senate Bill 1062 before deciding whether to sign or veto the legislation.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "There is widespread speculation that Brewer will veto the bill, but she has not said how she'll act, as is her longtime practice with pending legislation.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Political observers in Arizona cautioned that the governor is deliberate and not prone to act hastily, despite the growing calls from business, politicians of all stripes, and civil rights groups for a veto.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"She's no rookie to these high-profile deals \u2014 she gives both sides their due,\" said Doug Cole, a political consultant whose firm has run all of Brewer's campaigns for decades.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 77,
+                    "target": "Jan Brewer",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "She's no rookie to these high-profile deals \u2014 she gives both sides their due"
+                }
+            ]
+        },
+        {
+            "sentence": "\"She's going to get a very detailed briefing from her legal team, and give the proponents their best shot, and the opponents their best shot,\" he said.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Everybody's going to get their say, and they've giving it.\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Some Republican senators who pushed the bill through the Legislature are now calling for a veto as well, but they cite \"inaccurate\" information about the measure for igniting a firestorm.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "They argue the bill is designed only to protect business owners with strong religious beliefs from discrimination lawsuits that have happened in other states.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Some blame the media for blowing the law out of proportion.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 59,
+                    "target": "SB 1062 bill",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "media",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Some blame the media for blowing the law out of proportion."
+                }
+            ]
+        },
+        {
+            "sentence": "Democrats say that argument doesn't wash and call SB1062 \"toxic\" legislation that allows discrimination.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 63,
+                    "target": "SB 1062 bill",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "toxic"
+                }
+            ]
+        },
+        {
+            "sentence": "They said they warned Republicans who voted for the bill that it was destined for trouble.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We brought this to their attention five weeks ago,\" said Sen. Steve Gallardo, D-Phoenix.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We said this is exactly what is going to happen.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "You have a bill here that's so toxic it's going to divide this Legislature.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 75,
+                    "target": "SB 1062 bill",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "You have a bill here that's so toxic it's going to divide this Legislature."
+                }
+            ]
+        },
+        {
+            "sentence": "It's going to be polarizing the entire state. And that's exactly what happened.\"",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "The bill was pushed by the Center for Arizona Policy, a social conservative group that opposes abortion and gay marriage.",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 120,
+                    "target": "SB 1062 bill",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a social conservative group that opposes abortion and gay marriage"
+                }
+            ]
+        },
+        {
+            "sentence": "The group says the proposal simply clarifies existing state law and is needed to protect against increasingly activist federal courts.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "The center's president, Cathi Herrod, has been deriding what she called \"fear-mongering\" from the measure's opponents.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\"What's happened is our opponents have employed a new political tactic, and it's working,\" she said.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Throw out the threat of a boycott to attempt to defeat a bill, and you might just be able to be successful.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Herrod added she was surprised and disappointed that \"in America today, false attacks and irresponsible characterizations about a piece of legislation can so intimidate and persuade people to change their opinion about religious liberty.\"",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 236,
+                    "target": "SB 1062 bill",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "bill opposers",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "in America today, false attacks and irresponsible characterizations about a piece of legislation can so intimidate and persuade people to change their opinion about religious liberty"
+                }
+            ]
+        }
+    ]
+}

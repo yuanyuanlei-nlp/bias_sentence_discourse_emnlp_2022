@@ -1,0 +1,186 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Asa Hutchinson"
+    ],
+    "main-event": "Arkansas Republican Gov. Asa Hutchinson urged state lawmakers to change a controversial religious freedom bill",
+    "title": "Arkansas governor seeks changes in religious freedom bill",
+    "url": "http://www.foxnews.com/politics/2015/04/01/arkansas-governor-sends-religious-freedom-bill-back-to-legislature-seeks.html",
+    "word-count": 514,
+    "date": "2015-04-01",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Asa Hutchinson": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Arkansas Republican Gov. Asa Hutchinson on Wednesday urged state lawmakers to change a controversial religious freedom bill sent to his desk a day earlier, in the face of criticism that it could allow businesses and others to discriminate based on sexual orientation.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Hutchinson had initially said he planned to sign the bill but backed off as his state, overnight, became the new focal point of a nationwide backlash over such legislation.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 172,
+                    "target": "Asa Hutchinson",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Hutchinson had initially said he planned to sign the bill but backed off as his state, overnight, became the new focal point of a nationwide backlash over such legislation."
+                }
+            ]
+        },
+        {
+            "sentence": "Indiana for days has faced similar criticism for a related religious freedom bill.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "During a press conference in the state capital of Little Rock, Hutchinson said he wants to strike the \"right balance.\"",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The governor, amid calls by critics to veto the bill, made clear he still supports the intent of the legislation -- which prohibits state and local governments from infringing upon someone's religious beliefs without a compelling interest.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "But he said he wants changes made so it more closely mirrors a 1993 federal law.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I asked that changes be made in the legislation,\" Hutchinson said, urging state lawmakers to \"recall\" the bill -- or pass additional legislation -- to \"remedy\" the issue.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The announcement reflects the intense debate in state capitals across the country where such legislation is being considered.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Backers say the intent was to simply replicate the 1993 federal law and similar laws in place in 19 other states.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "But when Indiana passed a slightly more expansive version which critics said could allow discrimination by businesses, Indiana lawmakers and Gov. Mike Pence later vowed to \"clarify\" the language in response to complaints.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Hutchinson, too, said the country is clearly split on how to balance religious traditions with non-discrimination.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "At its heart, he said, \"this bill is not really complicated.\"",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "But he cited a \"generational gap.\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "As evidence, the governor said even his own son had signed a petition urging him to veto the bill.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Hutchinson's chief complaint was that some provisions do not \"precisely mirror\" the federal law, and he wants that addressed.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "He said he's also working on an executive order to address the issue of tolerance.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Echoing the reaction to Indiana's law, Hutchinson has faced pressure from the state's top employers, including retail giant Wal-Mart, which complained that the measure was discriminatory and would stifle economic development.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 224,
+                    "target": "Asa Hutchinson",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Hutchinson has faced pressure from the state's top employers, including retail giant Wal-Mart, which complained that the measure was discriminatory and would stifle economic development"
+                }
+            ]
+        },
+        {
+            "sentence": "Little Rock's mayor, the city's Chamber of Commerce and Arkansas-based data services company Acxiom all urged the governor to reject the measure in recent days.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 160,
+                    "target": "Asa Hutchinson",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Little Rock's mayor, the city's Chamber of Commerce and Arkansas-based data services company Acxiom all urged the governor to reject the measure in recent days."
+                }
+            ]
+        },
+        {
+            "sentence": "The Human Rights Campaign, the nation's largest lesbian, gay, bisexual and transgender rights group, has run ads in Silicon Valley targeting technology firms Hutchinson hopes to attract to the state.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Prior to the passage Tuesday of the Arkansas bill, the White House repeated its opposition to the Indiana law.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This kind of public outcry ... is indicative of how this piece of legislation flies in the face of values that people all across America strongly support,\" said White House Press Secretary Josh Earnest.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Governor Pence falsely tried to suggest the law is the same as the 1993 law.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "That is not true.\"",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Earnest also said the Indiana law was a \"significant expansion\" of current law.",
+            "sentence-index": 23,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Barack Obama",
+        "Bernie Sanders",
+        "Hillary Clinton"
+    ],
+    "main-event": "Obama to meet with Bernie Sanders",
+    "title": "Obama Will Meet With Sanders On Thursday",
+    "url": "https://www.huffingtonpost.com/entry/barack-obama-bernie-sanders-meeting_us_575798c3e4b08f74f6c098cb",
+    "word-count": 293,
+    "date": "2016-06-08",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral",
+            "Bernie Sanders": "Neutral",
+            "Hillary Clinton": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON -- With presumptive Democratic presidential nominee Hillary Clinton officially reaching the number of delegates required for the nomination, President Barack Obama congratulated her on Tuesday evening, and signaled that the campaign of rival Sen. Bernie Sanders (I-Vt.) might be coming to an end.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the White House, Obama spoke to both Clinton and Sanders by phone following Tuesday's primaries and caucuses and will meet with Sanders on Thursday, at Sanders' request.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The President congratulated Secretary Clinton for securing the delegates necessary to clinch the Democratic Nomination for President.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Her historic campaign inspired millions and is an extension of her lifelong fight for middle-class families and children,\" White House Press Secretary Josh Earnest said in a statement.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 4,
+                    "end": 12,
+                    "target": "Hillary Clinton",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "historic"
+                },
+                {
+                    "start": 0,
+                    "end": 39,
+                    "target": "Hillary Clinton",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "Her historic campaign inspired millions"
+                }
+            ]
+        },
+        {
+            "sentence": "\"The President thanked Senator Sanders for energizing millions of Americans with his commitment to issues like fighting economic inequality and special interests' influence on our politics.\"",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 190,
+                    "target": "Bernie Sanders",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "\"The President thanked Senator Sanders for energizing millions of Americans with his commitment to issues like fighting economic inequality and special interests' influence on our politics.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Obama will meet with Sanders in Washington on Thursday, the same day the Vermont senator plans to hold a rally there.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The meeting was arranged \"at Senator Sanders' request,\" Earnest said, and the two will discuss \"how to build on the extraordinary work he has done to engage millions of Democratic voters, and to build on that enthusiasm in the weeks and months ahead.\"",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 116,
+                    "end": 129,
+                    "target": "Bernie Sanders",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "extraordinary"
+                }
+            ]
+        },
+        {
+            "sentence": "Obama has yet to make an endorsement in the race, but White House officials have said that it could come as early as this week.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "In recent months, Obama has privately suggested that Sanders drop out of the race to help Democrats unite around Clinton and prepare for the general election.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "He has also shown an eagerness to assail presumptive GOP nominee Donald Trump, which could be an important asset in helping Clinton defeat Trump in the general election.",
+            "sentence-index": 9,
+            "annotations": []
+        }
+    ]
+}

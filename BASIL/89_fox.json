@@ -1,0 +1,350 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Mike Pence",
+        "Ed Murray",
+        "Jay Inslee",
+        "Religious Freedom Restoration Act"
+    ],
+    "main-event": "Washington gov, Seattle mayor oppose the Religious Freedom Restoration Act",
+    "title": "Washington gov, Seattle mayor ban official travel to Indiana in wake of 'religious freedom' law",
+    "url": "http://www.foxnews.com/politics/2015/03/31/seattle-mayor-bans-official-travel-to-indiana-amid-opposition-to-state-new.html",
+    "word-count": 726,
+    "date": "2015-03-31",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Mike Pence": "Negative",
+            "Ed Murray": "Neutral",
+            "Jay Inslee": "Neutral",
+            "Religious Freedom Restoration Act": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "The backlash to Indiana's new religious freedom law grew Monday, even as state lawmakers move to clarify the legislation, with Wash. Gov. Jay Inslee and Seattle Mayor Ed Murray banning government-funded travel to Indiana.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The statements are the latest boycott threats to emerge over claims that the law has the potential to discriminate against gays and others.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Murray, a Democrat who is openly gay, issued his ban via executive order over the weekend, and Inslee issued his Monday afternoon.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI find Indiana\u2019s new law disturbing, particularly at a time when more and more states and people in America are embracing civil rights for everyone,\" Inslee said in a statement.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 26,
+                    "end": 36,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Jay Inslee",
+                    "text": "disturbing"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Washington will join other states and cities in opposing this law and I will impose an administration-wide ban on state-funded travel to Indiana.\"",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 147,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Jay Inslee",
+                    "text": "\"Washington will join other states and cities in opposing this law and I will impose an administration-wide ban on state-funded travel to Indiana.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Murray says the law doesn't reflect Seattle residents\u2019 values.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "He also has told all city departments to review their contracts to see whether Seattle is doing business with any company whose headquarters is in Indiana.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cSeattleites know that discrimination has no place in our city,\u201d he said in a statement.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 62,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Ed Murray",
+                    "text": "Seattleites know that discrimination has no place in our city"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThat\u2019s just equality 101.\u201d",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 25,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Ed Murray",
+                    "text": "That\u2019s just equality 101"
+                }
+            ]
+        },
+        {
+            "sentence": "The primary concern is that the law might allow a business to discriminate against gay residents, such as a baker being allowed refuse an order from a gay couple for a wedding cake.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "But state lawmakers and Republican Gov. Mike Pence have been defending and trying to explain the Religious Freedom Restoration Act ever since the governor signed it into law on Thursday.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "They note that then-President Bill Clinton in 1993 signed similar federal legislation into law, and 19 other states also have similar policies.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "However, the Indiana law differs in several ways, primarily in that it allows a business to assert a right to \"the free exercise of religion.\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "On Monday, state Senate President Pro Tem David Long and House Speaker Brian Bosma, both Republicans, held a press conference to further explain the law.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "They said they will swiftly try to \"clarify\" its language.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe new law does not discriminate,\u201d Long said.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 34,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "The new law does not discriminate"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAnd it will not be allowed.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "To the extent that we need to clarify through legislative action, we plan to do just that.\u201d",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Aside from Indiana, 15 other states have introduced legislation in 2015 to craft or alter their religious freedom laws.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 119,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Aside from Indiana, 15 other states have introduced legislation in 2015 to craft or alter their religious freedom laws."
+                }
+            ]
+        },
+        {
+            "sentence": "Oklahoma, South Carolina and Texas have introduced legislation to amend their laws.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Arkansas, Colorado, Georgia, Hawaii, Michigan, Montana, Nevada, North Carolina, South Dakota, Utah, West Virginia and Wyoming are looking to put a similar law on their books.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Bosma acknowledged a major concern is whether businesses will now be legally permitted to deny services to some people, as a result of the law, and that even he is unclear.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe don\u2019t believe that will be the effect,\u201d he said.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe are looking at options to clarify that that's the case.\u201d",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Long and Bosma also conceded they called the press conference because Pence failed to clearly explain the law during an appearance Sunday on ABC\u2019s \u201cThis Week.\u201d",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 159,
+                    "target": "Mike Pence",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Long and Bosma also conceded they called the press conference because Pence failed to clearly explain the law during an appearance Sunday on ABC\u2019s \u201cThis Week.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Pence said the legislation prohibits Indiana laws that \"substantially burden\" a person's ability to follow his or her religious beliefs, with the definition of \"person\" including religious institutions, businesses and associations.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "However, he did not answer directly when asked six times whether, under the law, it would be legal for a merchant to refuse to serve gay customers.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 9,
+                    "end": 64,
+                    "target": "Mike Pence",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "he did not answer directly when asked six times whether"
+                }
+            ]
+        },
+        {
+            "sentence": "Long on Monday also denied that a clarification of the law would be needed before this weekend\u2019s men\u2019s NCAA Final Four basketball championships, in Indianapolis.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "A record-breaking 158,682 people attended the games last year in Texas.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "And any boycott would have the potential to cut much anticipated revenue for Indianapolis-area hotels, restaurants and other businesses.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "The NCAA, whose headquarters is in Indianapolis, also has expressed concern about the law, as figures in corporate America and Hollywood voice their opposition.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe are especially concerned about how this legislation could affect our student-athletes and employees,\u201d said NCAA President Mark Emmert.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 103,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "We are especially concerned about how this legislation could affect our student-athletes and employees"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWe intend to closely examine the implications of this bill and how it might affect future events as well as our workforce.\"",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Angie\u2019s List, the business-rating website, this weekend put on hold plans to expand its Indianapolis headquarters.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "Actor George Takei is calling for a boycott.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "And actor Ashton Kutcher recently tweeted: \u201cIndiana are you also going to allow Christian establishments to ban Jews from coming in? Or Vice Versa? Religious freedom??? #OUTRAGE.\u201d",
+            "sentence-index": 35,
+            "annotations": [
+                {
+                    "start": 44,
+                    "end": 177,
+                    "target": "Religious Freedom Restoration Act",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Indiana are you also going to allow Christian establishments to ban Jews from coming in? Or Vice Versa? Religious freedom??? #OUTRAGE"
+                }
+            ]
+        }
+    ]
+}

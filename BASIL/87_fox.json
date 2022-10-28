@@ -1,0 +1,204 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Rick Perry",
+        "Barack Obama"
+    ],
+    "main-event": "Rick Perry claims to defend feith in America after calling President Obama is waging a \"War on Religion\"",
+    "title": "Perry TV Ad: I Can Defend Faith from Obama\u2019s \u201cWar on Religion",
+    "url": "http://www.foxnews.com/politics/2011/12/07/perry-tv-ad-can-defend-faith-from-obamas-war-on-religion/?test=latestnews",
+    "word-count": 367,
+    "date": "2011-12-07",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Rick Perry": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Down in the polls, Texas Gov. Rick Perry is on the attack, claiming in a new TV ad that President Obama is waging a \"War on Religion,\" and he's the GOP candidate that can defend faith in America.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I'm not ashamed to admit that I'm a Christian, but you don't need to be in the pew every Sunday to know there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "As President, I'll end Obama's war on religion.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 23,
+                    "end": 46,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "Obama's war on religion"
+                }
+            ]
+        },
+        {
+            "sentence": "And I'll fight against liberal attacks on our religious heritage,\" says Perry in the new ad titled \"Strong.\"",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 23,
+                    "end": 64,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "liberal attacks on our religious heritage"
+                }
+            ]
+        },
+        {
+            "sentence": "The ad is a state-wide buy in Iowa that starts Wednesday.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Perry ties his faith to his conservative stands on social issues, and the campaign has zeroed in on gay marriage and social issues recently, releasing several statements laying out its argument that Obama is attacking the fundamentals social conservative believe in.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The arguments range from President Obama directing the Justice Department to stop arguing for the Defense of Marriage Act, to less substantive examples like Obama leaving God out of his Thanksgiving speech this year.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 126,
+                    "end": 151,
+                    "target": "Rick Perry",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "less substantive examples"
+                }
+            ]
+        },
+        {
+            "sentence": "In one emailed statement, Perry stated, \"just when you thought Barack Obama couldn't get any more out of touch with America's values, AP reports his administration wants to make foreign aid decisions based on gay rights.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 132,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "just when you thought Barack Obama couldn't get any more out of touch with America's values"
+                }
+            ]
+        },
+        {
+            "sentence": "This administration's war on traditional American values must stop.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 67,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "This administration's war on traditional American values must stop."
+                }
+            ]
+        },
+        {
+            "sentence": "This is just the most recent example of an administration at war with people of faith in this country.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 40,
+                    "end": 101,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "an administration at war with people of faith in this country"
+                }
+            ]
+        },
+        {
+            "sentence": "Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 105,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong."
+                }
+            ]
+        },
+        {
+            "sentence": "\"Perry is referring to a presidential memorandum released by the White House, in which Obama has directed all agencies working abroad ensure U.S. diplomacy and aid programs \"promote and protect\" the rights of gays and lesbians.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Perry is a Methodist.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "He has never shied away from his faith during this campaign, and in earlier appeal to key evangelical voters, he released another ad in Iowa describing himself as a \"man of faith.\"",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "This latest ad \"Strong\" ends with Perry claiming, \"faith made America strong.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "It can make her strong again.\"",
+            "sentence-index": 15,
+            "annotations": []
+        }
+    ]
+}

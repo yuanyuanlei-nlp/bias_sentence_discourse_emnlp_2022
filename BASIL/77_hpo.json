@@ -1,0 +1,172 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump",
+        "Peter Strzok"
+    ],
+    "main-event": "Trump critic Peter Strzok fired from FBI",
+    "title": "FBI Agent Peter Strzok Fired Over Anti-Trump Text Messages",
+    "url": "https://www.huffingtonpost.com/entry/fbi-peter-strzok-fired_us_5b719e9de4b0ae32af9a1941",
+    "word-count": 531,
+    "date": "2018-08-13",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Peter Strzok": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2015 FBI Special Agent Peter Strzok, who was taken off special counsel Robert Mueller\u2019s team after Justice Department investigators discovered his texts disparaging President Donald Trump, has been fired from the bureau despite the recommendations of a career FBI official.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Aitan Goelman, Strzok\u2019s attorney, said in a statement that Strzok was fired late Friday afternoon on the orders of FBI Deputy Director David Bowdich, despite an FBI career official\u2019s recommendation that Strzok face a 60-day suspension and a demotion.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Goelman called the decision \u201ca departure from typical Bureau practice\u201d and said it contradicted FBI Director Chris Wray\u2019s earlier guarantee that the bureau would follow its regular process, despite Trump\u2019s disdain for the now-former FBI official.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis decision should be deeply troubling to all Americans.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 59,
+                    "target": "Peter Strzok",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "FBI",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "\u201cThis decision should be deeply troubling to all Americans."
+                }
+            ]
+        },
+        {
+            "sentence": "A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok\u2019s personal views ever affected his work,\u201d Goelman said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIn fact, in his decades of service, Special Agent Strzok has proved himself to be one of the country\u2019s top counterintelligence officers, leading to only one conclusion \u2015 the decision to terminate was taken in response to political pressure, and to punish Special Agent Strzok for political speech protected by the First Amendment, not on a fair and independent examination of the facts.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 171,
+                    "end": 386,
+                    "target": "Peter Strzok",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "the decision to terminate was taken in response to political pressure, and to punish Special Agent Strzok for political speech protected by the First Amendment, not on a fair and independent examination of the facts"
+                }
+            ]
+        },
+        {
+            "sentence": "It is a decision that produces only one winner \u2015 those who seek to harm our country and weaken our democracy.\u201d",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 110,
+                    "target": "Peter Strzok",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "FBI",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "It is a decision that produces only one winner \u2015 those who seek to harm our country and weaken our democracy.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Strzok exchanged texts with former FBI official Lisa Page that disparaged Trump as well as other politicians, including various Democrats.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "He testified last month after the release of an inspector general report on the handling of the FBI\u2019s Hillary Clinton probe that described anti-Trump texts exchanged by bureau officials.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Strzok, a 21-year veteran of the FBI, played a prominent role in both of the investigations surrounding the Clinton and Trump campaigns during the 2016 election.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "He was involved in the Clinton investigation, which was highly public, as well as the investigation into the Trump campaign and Russian interference in the 2016 election, which the bureau never publicly acknowledged until months into Trump\u2019s presidency.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Strzok subsequently joined the Mueller team, but left the team as soon as Mueller became aware of his anti-Trump texts.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The precise justification for Bowdich\u2019s decision to fire Strzok despite the recommendation of the FBI\u2019s Office of Professional Responsibility is unclear.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 153,
+                    "target": "Peter Strzok",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "FBI",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The precise justification for Bowdich\u2019s decision to fire Strzok despite the recommendation of the FBI\u2019s Office of Professional Responsibility is unclear."
+                }
+            ]
+        },
+        {
+            "sentence": "But DOJ\u2019s inspector general was \u201cdeeply troubled\u201d by texts Strzok sent that \u201cpotentially indicated or created the appearance that the investigative decisions were impacted by bias or improper considerations,\u201d and particularly focused on one anti-Trump text that implied a willingness \u201cto take official action to impact the presidential candidate\u2019s electoral prospects.\u201d",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "The inspector general report also criticized Strzok for his use of personal email to conduct FBI business.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "It\u2019s possible that the former FBI counterintelligence official\u2019s extramarital relationship with Page also played a role in the FBI\u2019s decision.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Wray said at at a press conference in June that the bureau wouldn\u2019t \u201chesitate to hold people accountable for their actions\u201d after the disciplinary process.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump celebrated Strzok\u2019s firing on Twitter, writing Monday that the investigation into his campaign \u201cshould be dropped\u201d and that the investigation into Clinton \u201cshould be properly redone.\u201d",
+            "sentence-index": 17,
+            "annotations": []
+        }
+    ]
+}

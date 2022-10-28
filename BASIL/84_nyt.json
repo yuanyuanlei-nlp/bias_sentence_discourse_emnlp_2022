@@ -1,0 +1,200 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Donald Trump",
+        "Barack Obama"
+    ],
+    "main-event": "Trump holds birther meeting",
+    "title": "Trump Plans Meeting on Arizona Birth Bill ",
+    "url": "http://thecaucus.blogs.nytimes.com/2011/04/07/trump-plans-meeting-on-arizona-birth-bill/?ref=politics",
+    "word-count": 480,
+    "date": "2011-04-07",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Donald Trump is investing more in the conspiracy theories about President Obama\u2019s birth certificate as he explores his own bid for the presidency.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 57,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "conspiracy theories"
+                }
+            ]
+        },
+        {
+            "sentence": "In his latest embrace of the birther strategy, Mr. Trump has invited Tea Party leaders and a legislator from Arizona to his office in Manhattan on Friday morning to discuss a bill moving through the Arizona legislature that would require candidates for president to prove that they are natural born citizens.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The Arizona group said the call from Mr. Trump on Wednesday came unexpectedly, and the group had spent much of the day Thursday scurrying to make travel arrangements to New York.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 23,
+                    "end": 177,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the call from Mr. Trump on Wednesday came unexpectedly, and the group had spent much of the day Thursday scurrying to make travel arrangements to New York"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cOf course I was surprised, who wouldn\u2019t be?\u201d said the legislator, Representative Carl Seel.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m honored to get the ability to meet with him and discuss it, and I want to thank him for being such a supporter of this issue.\u201d",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 48,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "I\u2019m honored to get the ability to meet with him"
+                }
+            ]
+        },
+        {
+            "sentence": "In an interview shown Thursday on the \u201cToday\u201d show, Mr. Trump told Meredith Vieira that he had \u201creal doubts\u201d about whether Mr. Obama was born in this country, and that he has sent his own investigators to Hawaii to research the issue.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 95,
+                    "end": 108,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\u201creal doubts\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "An NBC News/Wall Street Journal poll showed Mr. Trump as the most favored candidate among Republicans who consider themselves Tea Party supporters.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Obama has shown a certificate of live birth from Hawaii, which is the standard form of birth certificate in the state, and state officials \u2013 including the Republican who was governor during the 2008 campaign \u2013 have confirmed its authenticity.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 145,
+                    "end": 211,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "including the Republican who was governor during the 2008 campaign"
+                }
+            ]
+        },
+        {
+            "sentence": "Several conservatives, including Glenn Beck and Bill O\u2019Reilly, have criticized Mr. Trump for raising questions about it.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 120,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Several conservatives, including Glenn Beck and Bill O\u2019Reilly, have criticized Mr. Trump for raising questions about it."
+                }
+            ]
+        },
+        {
+            "sentence": "But polls show that many Republicans continue to believe that Mr. Obama was not born in this country, and therefore is not eligible to be president.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Kelly Townsend, a founder of the Greater Phoenix Tea Party, said Mr. Trump told them that he was interested in learning more about the legislation in Arizona.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The bill, which has been approved by committees of the House and Senate, allows great latitude to the secretary of state in denying a presidential candidate a spot on the ballot, saying that the secretary can do so if he or she believes that the documents do not prove citizenship.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s not a birther bill,\u201d Ms. Townsend said.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s not about Mr. Obama. It\u2019s about preventing any questions from coming up in the future, putting something in place so no one could question it.\u201d",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "But a release from Mr. Seel\u2019s office about the planned meeting noted that Mr. Trump \u201chas brought the issue of President Barack Obama failing to provide a birth certificate front and center recently.\u201d",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Ms. Townsend said she had her own agenda for the meeting at Trump Tower.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI want to invite him to Arizona to talk to people and to meet our leaders,\u201d she said.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think he\u2019d have a good audience with Tea Partiers.\u201d",
+            "sentence-index": 17,
+            "annotations": []
+        }
+    ]
+}
