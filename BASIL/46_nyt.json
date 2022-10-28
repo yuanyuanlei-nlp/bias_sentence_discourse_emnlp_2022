@@ -1,0 +1,179 @@
+{
+    "main-event": "Flynn pleaded guilty",
+    "main-entities": [
+        "Michael Flynn",
+        "Donald Trump"
+    ],
+    "title": "F.B.I. 'Destroyed' Flynn\u2019s Life for Lying, Trump Says, but 'Nothing Happened' to Clinton",
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2017/12/04/us/politics/fbi-michael-flynn-trump.html",
+    "date": "2017-12-04",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Michael Flynn": "Neutral",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied \u201cmany times\u201d to the F.B.I.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Michael T. Flynn, Mr. Trump\u2019s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia\u2019s influence on the 2016 election and possible ties to Trump associates.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "As he left for Utah on Monday, the president said he felt \u201cvery badly\u201d for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump\u2019s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president\u2019s inner circle.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 107,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI feel badly for General Flynn,\u201d Mr. Trump said on Monday. \u201cI feel very badly.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "He\u2019s led a very strong life and I feel very badly.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Hillary Clinton lied many times to the F.B.I. Nothing happened to her.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 70,
+                    "target": "Michael Flynn",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Hillary Clinton",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "Hillary Clinton lied many times to the F.B.I. Nothing happened to her."
+                }
+            ]
+        },
+        {
+            "sentence": "Flynn lied and they destroyed his life.\u201d",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 40,
+                    "target": "Michael Flynn",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "Flynn lied and they destroyed his life.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 84,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie."
+                }
+            ]
+        },
+        {
+            "sentence": "Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 225,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Hillary Clinton",
+                    "indirect-ally-opponent-sentiment": "Positive",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state."
+                }
+            ]
+        },
+        {
+            "sentence": "A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 125,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Hillary Clinton",
+                    "indirect-ally-opponent-sentiment": "Positive",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter."
+                }
+            ]
+        }
+    ]
+}

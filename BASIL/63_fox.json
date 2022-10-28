@@ -1,0 +1,250 @@
+{
+    "main-event": "Rep. Ocasio-Cortez defends Rep. Tlaib's profane impeachment remarks",
+    "main-entities": [
+        "Alexandria Ocasio-Cortez",
+        "Rashida Tlaib"
+    ],
+    "title": "Ocasio-Cortez defends Tlaib after impeachment remarks: \u2018I got your back\u2019",
+    "source": "fox",
+    "url": "https://www.foxnews.com/politics/ocasio-cortez-defends-tlaib-after-impeachment-remarks-i-got-your-back.print",
+    "date": "2019-01-05",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Alexandria Ocasio-Cortez": "Neutral",
+            "Rashida Tlaib": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Rep. Alexandria Ocasio-Cortez took a stand for fellow House freshman Rep. Rashida Tlaib on Saturday after the latter\u2019s expletive-laced comments in favor of impeaching President Trump.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Ocasio-Cortez, the Democratic socialist lawmaker from New York, went on Twitter to weigh in, accusing the GOP of a having a double standard.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cRepublican hypocrisy at its finest: saying that Trump admitting to sexual assault on tape is just \u2018locker room talk,\u2019 but scandalizing themselves into faux-outrage when my sis says a curse word in a bar,\u201d Ocasio-Cortez tweeted. ",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 203,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Republicans",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Alexandria Ocasio-Cortez",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "Republican hypocrisy at its finest: saying that Trump admitting to sexual assault on tape is just \u2018locker room talk,\u2019 but scandalizing themselves into faux-outrage when my sis says a curse word in a bar"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cGOP lost entitlement to policing women\u2019s behavior a long time ago. Next.\u201d",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 74,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "GOP",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Alexandria Ocasio-Cortez",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "\u201cGOP lost entitlement to policing women\u2019s behavior a long time ago. Next.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "The lawmaker was apparently referring to a 2005 video that came to light ahead of the 2016 presidential election, in which Trump \u2013 talking to Billy Bush \u2013 made lewd comments about women.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 27,
+                    "target": "Alexandria Ocasio-Cortez",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "apparently"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump issued an apology at the time and described the contents of the \"Access Hollywood\" recording as \u201clocker room banter.\u201d ",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 123,
+                    "target": "Alexandria Ocasio-Cortez",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Donald Trump",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Positive",
+                    "text": "Trump issued an apology at the time and described the contents of the \"Access Hollywood\" recording as \u201clocker room banter.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "He later released a followup video apology, insisting the remarks didn't \"reflect who I am.\u201d",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 92,
+                    "target": "Alexandria Ocasio-Cortez",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Donald Trump",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Positive",
+                    "text": "He later released a followup video apology, insisting the remarks didn't \"reflect who I am.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI said it, I was wrong, and I apologize,\" Trump said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "On Saturday, Ocasio-Cortez tweeted a vow to support Tlaib, D-Mich.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI got your back @RashidaTlaib - the Bronx and Detroit ride together,\u201d she tweeted.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Tlaib, who was sworn in as a new member of the 116th Congress on Thursday, was videotaped that night vowing to impeach the president -- shortly after she penned an op-ed for The Detroit Free Press outlining the case for impeachment.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cPeople love you and you win,\u201d the video showed Tlaib telling supporters. ",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAnd when your son looks at you and says: \u2018Momma, look you won. Bullies don\u2019t win.\u2019 ",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "And I said, \u2018Baby, they don\u2019t, because we\u2019re gonna go in there and we\u2019re gonna impeach the motherf***er.\u2019\u201d",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "House Republicans fumed over the comments on Friday, with House Minority Leader Kevin McCarthy, R-Calif., prodding Speaker Nancy Pelosi to act.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Yet Pelosi, D-Calif., downplayed Tlaib\u2019s remarks, expressing distaste for the language but suggesting that Trump\u2019s own language had started the heated rhetoric in Washington.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 91,
+                    "end": 173,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Donald Trump",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "suggesting that Trump\u2019s own language had started the heated rhetoric in Washington"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI probably have a generational reaction to it,\u201d Pelosi said at an MSNBC town hall. ",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBut in any event, I\u2019m not in the censorship business. ",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "I don\u2019t like that language, I wouldn\u2019t use that language. ",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "I don\u2019t\u2026.establish any language standards for my colleagues, but I don\u2019t think it\u2019s anything worse than what the president has said.\u201d",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 65,
+                    "end": 131,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Donald Trump",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "I don\u2019t think it\u2019s anything worse than what the president has said"
+                }
+            ]
+        },
+        {
+            "sentence": "In the Rose Garden on Friday, Trump said he found Tlaib\u2019s comments \u201cdisgraceful\u201d and thought she \u201cdishonored herself\u201d as well as \u201cher family.\u201d",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Tlaib, doubling down on her comments, tweeted on Friday that she \u201cwill always speak truth to power. #unapologeticallyMe.\u201d",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 7,
+                    "end": 20,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "doubling down"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThis is not just about Donald Trump. This is about all of us. In the face of this constitutional crisis, we must rise,\u201d she tweeted.",
+            "sentence-index": 22,
+            "annotations": []
+        }
+    ]
+}

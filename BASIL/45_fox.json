@@ -1,0 +1,235 @@
+{
+    "main-event": "Cesar Sayoc arrested for sending pipe bombs to Trump critics",
+    "main-entities": [
+        "Cesar Sayoc",
+        "Law enforcement/Federal authorities"
+    ],
+    "title": "Suspect arrested in Florida in connection with suspicious packages sent to Democrats",
+    "source": "fox",
+    "url": "https://www.foxnews.com/us/suspect-arrested-in-florida-in-connection-with-suspicious-packages-sent-to-democrats",
+    "date": "2018-10-26",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Cesar Sayoc": "Negative",
+            "Law enforcement/Federal authorities": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "A male suspect was arrested in Florida on Friday morning in connection with the rash of suspicious packages sent to prominent Democrats nationwide, law enforcement sources confirmed to Fox News.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Multiple sources identified the suspect to Fox News as Cesar Sayoc of Aventura, Florida.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "A separate law enforcement source told Fox News that the suspect is a white male in his 50s, who used to live in New York and had prior arrests for terroristic threats. ",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 126,
+                    "end": 167,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "had prior arrests for terroristic threats"
+                }
+            ]
+        },
+        {
+            "sentence": "Several of the packages went through a U.S. postal facility in Opa-locka, which is less than 10 miles from Aventura.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The Department of Justice will hold a press conference at 2:30 p.m. ET.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Federal authorities had been focusing on Florida as the location where the majority of packages originated.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cSome of the packages went through the mail,\u201d Homeland Security Secretary Kirstjen Nielsen earlier told Fox News. ",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThey originated, some of them, from Florida. ",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "I am confident that this person or people will be brought to justice.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The Miami-Dade County Police Department confirmed Thursday it was helping federal agents who were at the facility in Opa-locka as part of the ongoing investigation.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The USPS operates an innovative imaging system that photographs each piece of mail processed throughout the country. ",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Investigators were likely relying on that system to pinpoint where some of the packages were mailed.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The FBI said the packages each consisted of a manila envelope with a bubble-wrap interior containing potentially destructive devices. ",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The packages were addressed with a computer-printed address label and six stamps.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "A government source told Fox News the FBI was analyzing the stamps in Quantico. ",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The source also said the investigation had progressed \u201csignificantly\u201d and that the FBI was reaching out to retailers to zero in on where the elements of the bombs were made and where they were sold.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The envelopes and packaging materials likely contained a treasure trove of DNA information. ",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Tiny bits of genetic material \u2013 traces of sweat, skin cells, saliva, hair or fingerprints \u2013 are typically used as a roadmap to the suspect\u2019s door, investigators and bomb experts say.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The Washington, D.C., field office and the FBI headquarters had 24 teams in place and on the hunt for the culprit.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Forensic investigators in Quantico, Va., have been sifting through the packages addressed to former President Barack Obama, former Secretary of State Hillary Clinton, liberal billionaire George Soros, former Attorney General Eric Holder, former CIA Director John Brennan and California Democratic Rep. Maxine Waters.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "The devices are thought to have been fashioned from crude, bomb-making designs widely available on the Internet. ",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Authorities haven\u2019t said whether the devices were built to explode and kill or simply sow fear.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan Morris, founder of Tripwire Operation Group, a company that provides explosives training to law enforcement and military officials, called the devices \u201cMickey Mouse\u201d bombs that were meant to be found. ",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 137,
+                    "end": 176,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "bombs",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "called the devices \u201cMickey Mouse\u201d bombs"
+                }
+            ]
+        },
+        {
+            "sentence": "He told Fox News he believes the primary motive is fear. ",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "The packages were sent about two weeks ahead of the midterm elections.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Regardless, investigators were treating the devices as \u201clive\u201d explosives New York City Police Commissioner James O\u2019Neill said.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Larry Johnson, a former head of criminal investigations for the U.S. Secret Service who also served as a special agent in charge of the presidential protective detail, agreed that bomb makers usually leave evidence \u2013 and their signature- behind.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf there is a human involved, there is a high probability you\u2019re going to get somewhere investigatively,\u201d he told The Associated Press. ",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere will be no stone left unturned.\u201d",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Johnson believes it\u2019s \u201chighly likely\u201d the person who built the bombs will have been previously flagged by law enforcement. ",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "The Secret Service maintains a wide database of groups and individuals who have made threats in the past against presidents or other top political leaders and activists via email, letters or on social media.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "James Fitzgerald, a retired FBI profiler and forensic linguist who, in 1996, helped catch \"Unabomber\" Ted Kaczynski -- who killed 3 people and injured 23 in bombings between 1978 and 1995 -- told Fox News on Wednesday that the letter sent to John Brennan, the former director of the CIA and a staunch Trump critic, reminded him of something the Unabomber would send because of the number of stamps used on the package.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 418,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "James Fitzgerald, a retired FBI profiler and forensic linguist who, in 1996, helped catch \"Unabomber\" Ted Kaczynski -- who killed 3 people and injured 23 in bombings between 1978 and 1995 -- told Fox News on Wednesday that the letter sent to John Brennan, the former director of the CIA and a staunch Trump critic, reminded him of something the Unabomber would send because of the number of stamps used on the package."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThe linguist in me noticed that Debbie Wasserman Schultz, the last name is spelled missing a \u2018c\u2019 and John Brennan\u2019s name is spelled missing an \u2018n\u2019 and that kind of surprised me and I have a feeling that was done on purpose to make this look like somebody who doesn\u2019t really know who these people are and that it wasn\u2019t an honest mistake. ",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "If he had this much anger and vitriol against these people, you would think he would know how to spell their names",
+            "sentence-index": 33,
+            "annotations": []
+        }
+    ]
+}

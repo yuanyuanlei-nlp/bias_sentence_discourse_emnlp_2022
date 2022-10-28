@@ -1,0 +1,180 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Nancy Pelosi",
+        "Rashida Tlaib"
+    ],
+    "main-event": "Pelosi comments of Tlaib's profane comments",
+    "title": "Nancy Pelosi Says Rashida Tlaib's 'Motherf**ker' Comment No Worse Than Trump",
+    "url": "https://www.huffingtonpost.com/entry/nancy-pelosi-says-rashida-tlaib-motherfucker-comment-no-worse-than-trump_us_5c2f86f0e4b0d468baa44bee",
+    "word-count": 348,
+    "date": "2019-01-04",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Nancy Pelosi": "Neutral",
+            "Rashida Tlaib": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "House Speaker Nancy Pelosi is not upset over Michigan Rep. Rashida Tlaib\u2019s vulgar comment on impeaching President Donald Trump, said just hours after Thursday\u2019s swearing-in ceremony on the House floor.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked for her reaction to Tlaib\u2019s \u201ccolorful language\u201d \u2015 the new Democratic congresswoman vowed to \u201cimpeach that motherfucker,\u201d referring to Trump \u2015 Pelosi said it was a free speech issue.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI probably have a generational reaction to it, but in any event I\u2019m not in the censorship business,\u201d she told MSNBC\u2019s Joy Reid in a town hall interview set to air in full Friday evening.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don\u2019t like that language.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 28,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Nancy Pelosi",
+                    "text": "\u201cI don\u2019t like that language."
+                }
+            ]
+        },
+        {
+            "sentence": "I wouldn\u2019t use that language,\u201d the House speaker continued, noting that she doesn\u2019t tell her colleagues what to say.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBut I don\u2019t think it\u2019s any worse than what the president has said,\u201d she concluded.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 66,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Donald Trump",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Nancy Pelosi",
+                    "text": "I don\u2019t think it\u2019s any worse than what the president has said"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump infamously bragged about grabbing women \u201cby the pussy\u201d in a leaked tape from 2005; since taking office he has referred to certain other nations as \u201cshithole countries\u201d and slung insults at a wide range of political foes.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 6,
+                    "end": 24,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Donald Trump",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "infamously bragged"
+                },
+                {
+                    "start": 0,
+                    "end": 226,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Donald Trump",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Trump infamously bragged about grabbing women \u201cby the pussy\u201d in a leaked tape from 2005; since taking office he has referred to certain other nations as \u201cshithole countries\u201d and slung insults at a wide range of political foes."
+                }
+            ]
+        },
+        {
+            "sentence": "Pelosi reasoned that while Trump\u2019s comments have the power to \u201cimpact people\u2019s lives,\u201d the new congresswoman\u2019s comments do not.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Tlaib, who became one of the first Muslim women in Congress on Thursday, dropped the expletive as she spoke to a crowd of supporters at an event hosted by the progressive group MoveOn.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Talking about her victory, she said: \u201cAnd when your son looks at you and says, \u2018Mama, look, you won.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Bullies don\u2019t win.\u2019",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "And I say, \u2018Baby, they don\u2019t.\u2019",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Because we\u2019re gonna go in there, and we\u2019re gonna impeach the motherfucker.\u201d",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "As she passed the microphone, the crowd erupted into cheers.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 30,
+                    "end": 59,
+                    "target": "Rashida Tlaib",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the crowd erupted into cheers"
+                }
+            ]
+        },
+        {
+            "sentence": "Pelosi told Reid that the comment might fire up Trump\u2019s base, but doesn\u2019t actually make much of a difference to actual House business.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Any controversy over Tlaib\u2019s comment concerns the \u201cfreedom of speech of an individual member,\u201d not the stance of the Democratic caucus, Pelosi said.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump appeared to respond to Tlaib over Twitter Friday morning, writing: \u201cThey only want to impeach me because they know they can\u2019t win in 2020, too much success!\u201d",
+            "sentence-index": 16,
+            "annotations": []
+        }
+    ]
+}

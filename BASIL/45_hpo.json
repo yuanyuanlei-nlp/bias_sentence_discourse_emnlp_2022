@@ -1,0 +1,255 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Cesar Sayoc",
+        "Law enforcement/Federal authorities",
+        "Donald Trump"
+    ],
+    "main-event": "Cesar Sayoc arrested for sending pipe bombs to Trump critics",
+    "title": "Cesar Sayoc Identified As Mail Bomb Suspect",
+    "url": "https://www.huffingtonpost.com/entry/mail-pipe-bomb-plot-suspect_us_5bd32b4de4b0d38b5882ca62",
+    "word-count": 830,
+    "date": "2018-10-26",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Cesar Sayoc": "Negative",
+            "Law enforcement/Federal authorities": "Neutral",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Police have arrested a suspect in connection with at least a dozen packages containing likely pipe bombs mailed in the past week to people critical of President Donald Trump.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Cesar Sayoc, 56, of South Florida was taken into custody on Friday, FBI Director Chris Wray confirmed at a press conference.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Sayoc has been charged with five federal crimes \u2015 interstate transportation of an explosive, illegal mailing of explosives, making threats against former presidents and certain other persons, threatening interstate communications, and assaulting current and former federal officers \u2015 the Department of Justice said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "He faces up to 48 years in prison.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "In remarks at the White House before a youth leadership summit, Trump congratulated local and national law enforcement agencies for apprehending the suspect.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The president pledged to prosecute those responsible \u2015 \u201cthem, him, her, whoever it may be,\u201d he said \u2015 to the fullest extent of the law.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe must never allow political violence to take root in America,\u201d Trump said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe bottom line is that Americans must unify,\u201d he went on.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "His comments echoed those he has delivered at rallies and sent over Twitter in the wake of the bomb scares, calling for unity and a calmer discourse but refusing to tone down his own inflammatory rhetoric.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 149,
+                    "end": 204,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "but refusing to tone down his own inflammatory rhetoric"
+                }
+            ]
+        },
+        {
+            "sentence": "Minutes after addressing the threats to prominent Democrats, Trump claimed Republicans are often attacked for supporting him.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 125,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Minutes after addressing the threats to prominent Democrats, Trump claimed Republicans are often attacked for supporting him."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cCome to think of it, does anyone get attacked more than me?\u201d Trump said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The development came hours after two additional packages were discovered, one addressed to Sen. Cory Booker (D-N.J.), and the other to former Director of National Intelligence James Clapper.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "A suspicious package was also found Friday in Burlingame, California, addressed to Democratic donor Tom Steyer, CNN and NBC reported.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "A law enforcement source told CNN the package was similar to the other ones sent to politicians and public figures this week.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019re thankful that everyone we work with at NextGen America and Need to Impeach is safe,\u201d Steyer said in a statement Friday, referring to his super PAC NextGen and his campaign to impeach Trump.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe are seeing a systematic attack on our democracy and our rule of law that extends much further than just one isolated terrorist in Florida.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Whether it\u2019s voter suppression, voter intimidation, attacks on our free press, gerrymandering, or attempted violence \u2015 the trust and norms that are the actual basis for our civil society and political system are being eroded.\u201d",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Authorities have heightened their search in Florida, as several of the packages may have passed through the state.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The FBI said Friday that the package for Booker was found in a Florida mail facility.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Throughout the week, more than 10 packages containing potential explosive devices have been mailed to lawmakers and other public figures critical of Trump, including former President Barack Obama, former President Bill Clinton, Trump\u2019s 2016 presidential opponent Hillary Clinton, Rep. Maxine Waters (D-Calif.), actor Robert De Niro and former CIA Director John Brennan.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "The package addressed Brennan was sent to CNN\u2019s New York City bureau, sparking an evacuation Wednesday.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Brennan is an MSNBC and NBC contributor.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "On Friday, postal officials intercepted the package for Clapper, a CNN contributor, before it could reach the CNN offices, where it was addressed, according to the network.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "The Sacramento County Sheriff Department also said Friday that a suspicious package found at a Sacramento mail facility and addressed to Sen. Kamala Harris (D-Calif.) contained an explosive device.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "FBI officials said they believed the package to be related to the others mailed out this week.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "All of the confirmed packages listed the Florida office of Rep. Debbie Wasserman Schultz (D-Fla.), the former chairwoman of the Democratic National Committee, as the return address.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked why Sayoc appeared to be targeting Democratic politicians and others critical of Trump, Attorney General Jeff Sessions said he didn\u2019t know but that the suspect \u201cappears to be a partisan\u201d",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Wray added: \u201cIt\u2019s too early at this stage to discuss motive.\u201d",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Investigators identified Sayoc based on a fingerprint found on the package sent to Waters and a DNA sample from a previous arrest in Florida, DOJ officials said Friday.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "When law enforcement arrested him on Friday in Plantation, Florida, they also took possession of a van covered in stickers supporting Trump and criticizing Democratic officials.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Sayoc is a registered Republican and a self-described promoter and booking agent.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "He has a history of multiple arrests, including for felony grand theft and misdemeanor retail theft.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 100,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He has a history of multiple arrests, including for felony grand theft and misdemeanor retail theft."
+                }
+            ]
+        },
+        {
+            "sentence": "A spokeswoman for Brevard College in North Carolina confirmed to HuffPost that Sayoc attended the school for three semesters starting in the fall of 1980 and did not graduate.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Authorities were initially vague about the content of the packages, calling them simply \u201csuspected explosive devices.\u201d",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "Wray elaborated at Friday\u2019s press briefing that each device contained roughly 6 inches of PVC pipe, as well as a small clock and wiring.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThese are not hoax devices,\u201d he said.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "Wray noted that the investigation was ongoing and warned there could be other packages not yet intercepted.",
+            "sentence-index": 36,
+            "annotations": []
+        }
+    ]
+}

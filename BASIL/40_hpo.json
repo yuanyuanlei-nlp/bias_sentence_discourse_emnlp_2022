@@ -1,0 +1,642 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Joe Biden",
+        "Paul Ryan"
+    ],
+    "main-event": "Biden and Ryan debate",
+    "title": "Biden-Ryan Debate: All About Joe",
+    "url": "https://www.huffingtonpost.com/2012/10/12/biden-ryan-debate_n_1960034.html",
+    "word-count": 1436,
+    "date": "2012-10-12",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Joe Biden": "Negative",
+            "Paul Ryan": "Positive"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "DANVILLE, Ky. \u2013- Joe Biden did everything President Barack Obama did not last week, and a good bit more.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 84,
+                    "end": 103,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "and a good bit more"
+                }
+            ]
+        },
+        {
+            "sentence": "The vice president dominated the spotlight in the only debate between himself and Rep. Paul Ryan (R-Wis.), charging at Republican Mitt Romney's running mate from the get-go and bombarding him with a flurry of eye rolls, interjections and accusations.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 199,
+                    "end": 249,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "flurry of eye rolls, interjections and accusations"
+                },
+                {
+                    "start": 19,
+                    "end": 28,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "dominated"
+                }
+            ]
+        },
+        {
+            "sentence": "What it accomplished among undecided voters, if anything, is hard to tell and will take days to sort out.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Two instant surveys of Americans watching the debate -- one by CBS, one by CNN -- showed mixed results.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "But since vice presidential debates often have a negligible impact on the overall race anyway, Biden's sometimes over-the-top performance probably accomplished what he appeared intent on doing: rallying the Democratic base after Obama's woeful debate performance last week.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 103,
+                    "end": 137,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "sometimes over-the-top performance"
+                }
+            ]
+        },
+        {
+            "sentence": "Obama, at least, was cheered by the offensive.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I'm going to make a special point of saying that I thought Joe Biden was terrific tonight,\" the president told reporters after stepping off Air Force One at Andrews Air Force Base in Maryland, on his way back to the White House after a day of campaigning in Florida.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 50,
+                    "end": 90,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "I thought Joe Biden was terrific tonight"
+                }
+            ]
+        },
+        {
+            "sentence": "Biden looked as if he could barely stay in his seat for much of the night, interrupting Ryan repeatedly and sometimes making it difficult for the GOP nominee to get out his answers.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 181,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Biden looked as if he could barely stay in his seat for much of the night, interrupting Ryan repeatedly and sometimes making it difficult for the GOP nominee to get out his answers."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cHe had his Red Bull. He certainly had his caffeine,\u201d Sen. John Thune (R-S.D.) said after the debate.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "It was a performance by the vice president guaranteed to amp up -\u2013 and buck up -\u2013 worried Democrats, who had fallen into a paralysis of anxiety after the president's debate.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 173,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It was a performance by the vice president guaranteed to amp up -\u2013 and buck up -\u2013 worried Democrats, who had fallen into a paralysis of anxiety after the president's debate."
+                }
+            ]
+        },
+        {
+            "sentence": "No one represented that Democratic angst more than blogger Andrew Sullivan, a supporter of the president.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama adviser David Axelrod said \"Andrew is a unique thinker, and I can't speak for how he might react to this.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "I hope he is [reassured],\" Axelrod said, adding that he had \"high regard for [Sullivan] by the way.\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Sullivan, for the record, called the night \"a solid win for Biden\" and called Ryan \"competent.\"",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 44,
+                    "end": 65,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "a solid win for Biden"
+                }
+            ]
+        },
+        {
+            "sentence": "The Obama campaign team, in the spin room after the debate, focused on repeating the theme that, as Axelrod said, Biden showed \"passion\" and that he showed \"a great concern for the middle class.\"",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Passion was the thing Obama lacked last week, and Romney surprised the president and Democrats by talking constantly about how his policies would help the middle class.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "By contrast, Romney operatives in the spin room said Ryan clearly won on substance and composure while Biden devolved into fits of laughter and audible groans.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 109,
+                    "end": 117,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "devolved"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI think the way the vice president handled himself was condescending,\u201d said Rep. Jason Chaffetz (R-Utah).",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 69,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "condescending"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cHe was constantly interrupting and trying to talk over people.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "When my 11-year-old tries to do that at the dinner table, it\u2019s not tolerated.\u201d",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 78,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "When my 11-year-old tries to do that at the dinner table, it\u2019s not tolerated.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Democrats were intent Thursday night to steal back any edge Romney might have deprived them of in being the party who can appeal to working class and blue-collar voters, and to any voter who considers themselves middle class, which is a large number.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"These guys discovered the phrase 'middle class' during the last six months on the campaign trail,\" said Rep. Chris Van Hollen (D-Md.), who has sparred with Ryan on the House Budget Committee for years and who played Ryan in debate preparation with Biden.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Though it was Biden at the center of attention and who made it hard for Ryan to get in a word edgewise at times, the 42-year-old kept his composure for much of the night and got in some well-aimed shots at the vice president, who at 69 is his senior by 27 years.",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 113,
+                    "end": 224,
+                    "target": "Paul Ryan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the 42-year-old kept his composure for much of the night and got in some well-aimed shots at the vice president"
+                }
+            ]
+        },
+        {
+            "sentence": "Ryan seemed focused more on winning over moderate and independent voters who are still making up their minds, less than a month before the election.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "The night's 90-minute debate, the only one for the two vice presidential candidates, fluctuated between domestic policy and foreign policy, with ABC's Martha Raddatz, a reporter with vast foreign policy experience, asking numerous questions about events overseas.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "But the number one goal for Biden all night was obvious from the outset: push back. Hard.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "It was the number one thing that Democrats had said Obama should have done last week, and it foreshadowed how the president will approach next Tuesday's debate with Romney, the second of three debates for the two men running for president.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "After Ryan finished his opening statement, responding to a question about the death of the U.S. ambassador to Libya in a terrorist attack in Benghazi a month ago, Biden responded: \"That's a bunch of malarkey.\"",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 181,
+                    "end": 207,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Joe Biden",
+                    "text": "That's a bunch of malarkey"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Not a single thing he said is accurate,\" Biden said.",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 39,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Joe Biden",
+                    "text": "Not a single thing he said is accurate"
+                }
+            ]
+        },
+        {
+            "sentence": "At times, Biden repeatedly butted in on Ryan's answers, refusing to let Ryan finish his thought.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "If it were anyone other than Biden, who is treated by the press as a lovable, half-crazy uncle, he would have been labeled insufferable.",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 94,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who is treated by the press as a lovable, half-crazy uncle"
+                },
+                {
+                    "start": 96,
+                    "end": 135,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "he would have been labeled insufferable"
+                }
+            ]
+        },
+        {
+            "sentence": "Instead, he got the aggressive label.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "Republicans thought it was much more than that.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Republican National Committee spokesman Tim Miller called Biden \u201cunhinged.\u201d",
+            "sentence-index": 33,
+            "annotations": [
+                {
+                    "start": 65,
+                    "end": 73,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "unhinged"
+                }
+            ]
+        },
+        {
+            "sentence": "Romney adviser Eric Fehrnstrom tweeted: \u201cRyan: serious, sober, steady.",
+            "sentence-index": 34,
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 69,
+                    "target": "Paul Ryan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "Ryan: serious, sober, steady"
+                }
+            ]
+        },
+        {
+            "sentence": "Biden: smirking, mocking, immature.\u201d",
+            "sentence-index": 35,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 36,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Biden: smirking, mocking, immature.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Some of the more experienced Republicans tried to resist talking about Biden\u2019s behavior, knowing it would come across as complaining.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMost people probably found the vice president\u2019s performance a little -- well anyway, I think that people will judge for themselves,\u201d said Ed Gillespie, one of the top advisers to Romney and one of the most seasoned Republican operatives in politics.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "But not even Gillespie, when he was asked by a reporter where he was going before he cut himself off, could resist getting some digs at Biden.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don't know if his staff didn't brief him or not, but somebody should have told him that these debates are split-screen,\u201d Gillespie said.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere seemed to be some frustration on his part at times, and sometimes I got the impression that he couldn't defend the facts as they were, [so] raise your voice a little louder,\u201d Gillespie said.",
+            "sentence-index": 40,
+            "annotations": [
+                {
+                    "start": 99,
+                    "end": 179,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "he couldn't defend the facts as they were, [so] raise your voice a little louder"
+                }
+            ]
+        },
+        {
+            "sentence": "The Obama campaign, of course, relished in Republicans\u2019 focus on Biden\u2019s behavior instead of the substance of his remarks.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Their side is all spending their time talking about laughing and facial tics,\" said Obama campaign manager Jim Messina.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "\"You're going to do that when you've lost a debate.",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "And that's what happened tonight: they lost the debate.\"",
+            "sentence-index": 44,
+            "annotations": []
+        },
+        {
+            "sentence": "Of course, Biden was so demonstrative, so outsized, that it was hard to talk about anything else.",
+            "sentence-index": 45,
+            "annotations": []
+        },
+        {
+            "sentence": "Biden did another thing Obama did not a week ago.",
+            "sentence-index": 46,
+            "annotations": []
+        },
+        {
+            "sentence": "He raised the issue of Romney\u2019s comments at a fundraiser in May in which he talked disparagingly about people who receive government benefits, claiming that he could \u201cnever convince them they should take personal responsibility and care for their lives.\"",
+            "sentence-index": 47,
+            "annotations": []
+        },
+        {
+            "sentence": "One of Ryan\u2019s best one-liners came when he sought to explain these comments.",
+            "sentence-index": 48,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan first told a humanizing story about Romney caring for a family whose children were in a car crash, a story clearly prepared to push back against the portrait of Romney as out of touch and uncaring.",
+            "sentence-index": 49,
+            "annotations": []
+        },
+        {
+            "sentence": "And he then added: \u201cWith respect to that quote, I think the vice president very well knows that sometimes the words don't come out of your mouth the right way.\u201d",
+            "sentence-index": 50,
+            "annotations": []
+        },
+        {
+            "sentence": "Although there were extended portions of the debate that focused on Libya, Syria, and Afghanistan, Biden and Ryan did engage in a lengthy back-and-forth in the middle of the debate on Medicare and tax policy.",
+            "sentence-index": 51,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan was, as usual, knowledgeable and in command of the facts.",
+            "sentence-index": 52,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 62,
+                    "target": "Paul Ryan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Ryan was, as usual, knowledgeable and in command of the facts."
+                }
+            ]
+        },
+        {
+            "sentence": "But Biden, as expected, attempted to plow him over with broadsides.",
+            "sentence-index": 53,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 67,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But Biden, as expected, attempted to plow him over with broadsides."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cStop talking about how you care about people.",
+            "sentence-index": 54,
+            "annotations": []
+        },
+        {
+            "sentence": "Show me something. Show me a policy,\u201d Biden said.",
+            "sentence-index": 55,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan smiled, and continued to work through a data-filled argument, mentioning the $831 billion stimulus, an 8 percent unemployment rate for 43 months, the 1.3 percent growth rate of the economy, the $90 billion for green energy programs in the stimulus, and the 12 million jobs he and Romney say their economic program would create.",
+            "sentence-index": 56,
+            "annotations": []
+        },
+        {
+            "sentence": "Biden didn\u2019t worry so much about numbers.",
+            "sentence-index": 57,
+            "annotations": []
+        },
+        {
+            "sentence": "Biden\u2019s argument on Medicare was aimed at voters\u2019 guts, much more so than minds.",
+            "sentence-index": 58,
+            "annotations": []
+        },
+        {
+            "sentence": "He acknowledged that Romney\u2019s Medicare plan would not cost seniors an extra $6,400 a year, despite the claim in a recently launched Obama campaign ad.",
+            "sentence-index": 59,
+            "annotations": []
+        },
+        {
+            "sentence": "The $6,400 figure is based on a study of one of Ryan\u2019s earlier plans for Medicare, which he has since changed to make it more bipartisan.",
+            "sentence-index": 60,
+            "annotations": []
+        },
+        {
+            "sentence": "Biden, aware of this, told voters they should be suspicious somebody \u201cwho would actually put in motion a plan that \u2026 added $6,400 a year more to the cost of Medicare?\u201d",
+            "sentence-index": 61,
+            "annotations": []
+        }
+    ]
+}

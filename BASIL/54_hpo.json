@@ -1,0 +1,204 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Paul Ryan",
+        "Catholics"
+    ],
+    "main-event": "Georgetown Catholics challenge Paul Ryan",
+    "title": "Paul Ryan Challenged On Budget By Georgetown Faculty",
+    "url": "https://www.huffingtonpost.com/2012/04/24/paul-ryan-challenged-by-georgetown-faculty_n_1449437.html",
+    "word-count": 482,
+    "date": "2012-04-24",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Paul Ryan": "Negative",
+            "Catholics": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON\u2014Joining a chorus of Catholic bishops , theologians, priests, and social justice leaders, nearly 90 Georgetown University faculty and administrators have called Representative Paul Ryan (R-Wisc.) to task for his misuse of Catholic social teaching in defending his budget, which hurts the poor.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 98,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Joining a chorus of Catholic bishops , theologians, priests, and social justice leaders"
+                },
+                {
+                    "start": 288,
+                    "end": 302,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "hurts the poor"
+                }
+            ]
+        },
+        {
+            "sentence": "The group sent a letter to Rep. Ryan in advance of his appearance on the Catholic campus on Thursday morning to give the Whittington Lecture.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "In their letter to Ryan, the scholars make clear they are not objecting to his speaking on campus, but rather his recent comments defending his budget on Christian grounds.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOur problem with Representative Ryan is that he claims his budget is based on Catholic social teaching,\u201d said Jesuit Father Thomas J. Reese , one of the organizers of the letter.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis is nonsense.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 18,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Catholics",
+                    "text": "\u201cThis is nonsense."
+                }
+            ]
+        },
+        {
+            "sentence": "As scholars, we want to join the Catholic bishops in pointing out that his budget has a devastating impact on programs for the poor.\u201d",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 88,
+                    "end": 99,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "devastating"
+                }
+            ]
+        },
+        {
+            "sentence": "Reese is a senior fellow at the Woodstock Theological Center at Georgetown University.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The letter quotes the U.S. Conference of Catholic Bishops, which wrote several letters to Congress saying \u201ca just framework for future budgets cannot rely on disproportionate cuts in essential services to poor persons.\u201d",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The bishops noted that \u201cthe House-passed budget resolution fails to meet these moral criteria.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Last week, Rep. Ryan dismissed the bishops\u2019 critique, erroneously claiming the letters didn\u2019t represent \u201call the bishops,\u201d a point the USCCB media office denied.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 65,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "erroneously"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI am afraid that Chairman Ryan\u2019s budget reflects the values of his favorite philosopher Ayn Rand rather than the gospel of Jesus Christ,\u201d said Father Reese.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cSurvival of the fittest may be okay for Social Darwinists but not for followers of the gospel of compassion and love.\u201d",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 119,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cSurvival of the fittest may be okay for Social Darwinists but not for followers of the gospel of compassion and love.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "The Georgetown scholars pointed to the devastating impact of cuts in food programs that keep the poor from starvation.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "From personal experience, they also \u201cknow how cuts in Pell Grants will make it difficult for low-income students to pursue their educations at colleges across the nation, including Georgetown.\u201d",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "The scholars corrected Mr. Ryan on his use of the Catholic concept of \u201csubsidiarity\u201d as \u201ca rationale gutting government programs.\u201d",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The scholars say that it is true that \u201cIt calls for solutions to be enacted as close to the level of local communities as possible.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "But it also demands that higher levels of government provide help\u2014\u2018subsidium\u2019\u2014when communities and local governments face problems beyond their means to address such as economic crises, high unemployment, endemic poverty and hunger.\u201d",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The scholars also gave the Representative a reading assignment: \u201cThe Compendium of the Social Doctrine of the Church,\u201d which was commissioned by John Paul II and published by the Vatican.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Signing the letter were over a dozen Georgetown Jesuit priests, numerous members of the Theology and other departments including History, Government, Philosophy, School of Foreign Service and School of Nursing & Health Studies.",
+            "sentence-index": 18,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "url": "http://www.foxnews.com/entertainment/2017/05/30/kathy-griffin-apologizes-for-photo-shoot-with-bloodied-trump-mask-says-went-too-far.html",
+    "word-count": 428,
+    "source": "fox",
+    "title": "Kathy Griffin apologizes for photo shoot with bloodied Trump mask, says she 'went too far'",
+    "date": "2017-05-30",
+    "main-event": "Kathy Griffin apologizes for photo shoot with a fake bloody Donald Trump head",
+    "main-entities": [
+        "Kathy Griffin"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Kathy Griffin": "Negative"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Kathy Griffin admitted Tuesday she \"went too far\" on her latest photo shoot with controversial photographer Tyler Shields in which she is holding a bloodied mask of President Trump.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 22,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "admitted"
+                },
+                {
+                    "start": 81,
+                    "end": 94,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Tyler Shields",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "controversial"
+                }
+            ]
+        },
+        {
+            "sentence": "The gory photo first published in TMZ from Griffin's photo session with the famed Shields, known for his shocking pictures.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 4,
+                    "end": 8,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "photo",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "gory"
+                },
+                {
+                    "start": 91,
+                    "end": 122,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Tyler Shields",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "known for his shocking pictures"
+                }
+            ]
+        },
+        {
+            "sentence": "In a Twitter post late Tuesday, Griffin said the image \"is too disturbing,\" and that \"it wasn't funny.\"",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I understand how it offends people,\" she said, adding \"I've made a lot of mistakes in my career.\"",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 97,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Kathy Griffin",
+                    "text": "I've made a lot of mistakes in my career."
+                }
+            ]
+        },
+        {
+            "sentence": "According to the gossip site, Griffin joked with Shields on set they would need to move to Mexico after the photos were released or fear imprisonment.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 30,
+                    "end": 149,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Griffin joked with Shields on set they would need to move to Mexico after the photos were released or fear imprisonment"
+                }
+            ]
+        },
+        {
+            "sentence": "In her Twitter post on Tuesday, Griffin said she was going to \"take down the image.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I went too far and I was wrong,\" she said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "People took to Twitter to express their disdain for the photo shoot.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Reps for Griffin did not immediately return Fox News' request for comment.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Chelsea Clinton called it \"vile and wrong\" in a Twitter post.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 61,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Chelsea Clinton called it \"vile and wrong\" in a Twitter post."
+                }
+            ]
+        },
+        {
+            "sentence": "Shields told Fox News that Griffin was hoping to create a bold message.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Kathy and I are friends and we worked together before, so when we started doing this shoot, she said, 'I'd love to do something political.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "I'd love to make a statement,'\" he explained.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We kind of figured out what would be the best image to make out of that.\"",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Shields added the image was meant to serve as art and he's aware that it could make some viewers uncomfortable.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"That's what art is meant to do,\" he said.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Some people look at it and they love it.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Some people look at it and they hate it...",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "I understand there are going to be people that hate this.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "It's a very touchy subject... but this is not real.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "We didn't kill anybody nor do I feel anybody should be killed.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 62,
+                    "target": "Kathy Griffin",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "We didn't kill anybody nor do I feel anybody should be killed."
+                }
+            ]
+        },
+        {
+            "sentence": "It's no different from a movie.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "It just happens to be a still image.\"",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Shields tweeted a link to a YouTube video called \"Behind the scenes with Kathy Griffin\" but the video has since been removed.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "However, he later told Fox News that the video had glitches, which prompted him to take it down and then re-upload it.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "This is hardly the first time Shields' photos have caused uproar.",
+            "sentence-index": 25,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 65,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Tyler Shields",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "This is hardly the first time Shields' photos have caused uproar."
+                }
+            ]
+        },
+        {
+            "sentence": "He previously received death threats over a photo he took of \"Glee\" actress Heather Morris with bruises on her face.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "The photo was criticized for making light of domestic abuse.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 60,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Tyler Shields",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The photo was criticized for making light of domestic abuse."
+                }
+            ]
+        },
+        {
+            "sentence": "As for his recent collaboration with Griffin, he doesn't regret it.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I can't speak for her, [but] I know she loves to stir the pot,\" he said.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "\"For me, I love the idea we have freedom of speech.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "The fact that I'm allowed to make an image like this says a lot.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "To me, that's a powerful thing... nobody's killed me for this image so it's not that bad.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "I love Kathy and I hope they let me visit her in Guantanamo.\"",
+            "sentence-index": 33,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 61,
+                    "target": "Kathy Griffin",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "I love Kathy and I hope they let me visit her in Guantanamo.\""
+                }
+            ]
+        }
+    ]
+}

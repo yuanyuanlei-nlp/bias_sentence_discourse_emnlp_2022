@@ -1,0 +1,265 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Newsweek",
+        "Michele Bachmann"
+    ],
+    "main-event": "Newsweek publishes unflattering cover of Michele Bachmann",
+    "title": "Bachmann Newsweek Cover Goes for Insult But Gets Criticism in Return",
+    "url": "http://www.foxnews.com/politics/2011/08/09/bachmann-newsweek-cover-goes-for-insult-but-gets-criticism-in-return/?icid=maing-grid7%7Cmain5%7Cdl1%7Csec1_lnk3%7C85084",
+    "word-count": 467,
+    "date": "2011-08-09",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Newsweek": "Negative",
+            "Michele Bachmann": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Rep. Michele Bachmann has declined to get into the scrum with Newsweek over its cover story of the presidential candidate called \"The Queen of Rage,\" accompanied by an unflattering photo of the Minnesota Republican, but others are calling the magazine out of bounds in its depiction.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The National Organization for Women President Terry O'Neill said that the cover of the magazine's latest edition is \"sexist\" and referred to a simple test by the group's founder Gloria Steinem to explain how they determined that conclusion -- would the magazine do the same to a man.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 117,
+                    "end": 123,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "sexist"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Who has ever called a man 'The King of Rage?'",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 46,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\"Who has ever called a man 'The King of Rage?'"
+                }
+            ]
+        },
+        {
+            "sentence": "Basically what Newsweek magazine -- and this is important, what Newsweek magazine, not a blog, Newsweek magazine -- what they are saying of a woman who is a serious contender for president of the United States of America\u2026",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "They are basically casting her as a nut job,\" O'Neill said to The Daily Caller and NOW confirmed to FoxNews.com on Tuesday.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 43,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "They are basically casting her as a nut job"
+                }
+            ]
+        },
+        {
+            "sentence": "\"The 'Queen of Rage' is something you apply to wrestlers or somebody who is crazy.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 82,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\"The 'Queen of Rage' is something you apply to wrestlers or somebody who is crazy."
+                }
+            ]
+        },
+        {
+            "sentence": "They didn\u2019t even do this to Howard Dean when he had his famous scream,\" she said.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 69,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "They didn\u2019t even do this to Howard Dean when he had his famous scream"
+                }
+            ]
+        },
+        {
+            "sentence": "Newsweek has defended the photo -- an extreme close-up of the crystal blue-eyed Bachmann looking over the camera with a dark blue background -- saying that several of the images taken of her appeared the same way.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The magazine posted other photos of her on its website, and many of them are flattering.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 87,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "and many of them are flattering"
+                }
+            ]
+        },
+        {
+            "sentence": "Bachmann was asked about the cover during an appearance in Iowa on Monday, where she is campaigning ahead of Thursday's Fox News/Washington Examiner debate and Saturday's Ames Straw Poll.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "She told voters she had not seen the cover.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Ah-hah,\" she said when told the story headline.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Well, we'll have to take a look at that, won't we?\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "O'Neill said that the main reason her group, which disagrees with Bachmann on almost every issue, would stand up for and defend Bachmann against \"these kind of misogynistic attacks is we want women to run for office.\"",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 160,
+                    "end": 180,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "misogynistic attacks"
+                },
+                {
+                    "start": 45,
+                    "end": 96,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Michele Bachmann",
+                    "indirect-ally-opponent-sentiment": "Neutral",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "which disagrees with Bachmann on almost every issue"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Of course my job is to defeat Michele Bachmann and I intend to do so.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "But good women will not run for office if Newsweek magazine can do this to such a prominent politician and get away with it,\" O'Neill said.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 123,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "But good women will not run for office if Newsweek magazine can do this to such a prominent politician and get away with it"
+                }
+            ]
+        },
+        {
+            "sentence": "Brent Bozell, head of the Media Research Center and ForAmerica, said he's not surprised by the magazine cover.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Both Time and Newsweek have been doing this to conservatives for years.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "It is sheer journalistic dishonesty,\" Bozell told FoxNews.com.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 35,
+                    "target": "Newsweek",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "It is sheer journalistic dishonesty"
+                }
+            ]
+        },
+        {
+            "sentence": "\"But it is precisely because of this journalistic dishonesty that conservatives should steer away from these venues -- or at least demand some form of editorial oversight given that these magazines simply cannot be trusted.\"",
+            "sentence-index": 19,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Vicente Fox",
+        "Felipe Calder",
+        "Donald Trump"
+    ],
+    "main-event": "Fox and Calder say Mexico isn't paying for border wall",
+    "title": "Vicente Fox and Felipe Calder\u00f3n, 2 Ex-Presidents of Mexico, Say No Way Country Is Paying for Donald Trump's Wall",
+    "url": "https://www.nytimes.com/politics/first-draft/2016/02/25/2-ex-presidents-of-mexico-say-no-way-theyre-paying-for-donald-trumps-wall/",
+    "word-count": 327,
+    "date": "2016-02-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Vicente Fox": "Neutral",
+            "Felipe Calder": "Neutral",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "At almost all of his campaign rallies, Donald J. Trump leads a familiar refrain as he details his plan to build a giant wall along the border with Mexico.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWho\u2019s gonna pay?\u201d he asks.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Without fail, Mr. Trump\u2019s adoring fans reply, \u201cMexico!\u201d",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 26,
+                    "end": 33,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "adoring"
+                }
+            ]
+        },
+        {
+            "sentence": "While the Mexican government has said little about Mr. Trump\u2019s plan to beef up border security, two of the country\u2019s former presidents have a message for Mr. Trump: Mexico won\u2019t pay.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m not going to pay,\u201d Vicente Fox said, using a profanity to comment about the wall Thursday in an interview with Fusion.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHe should pay for it. He\u2019s got the money.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Fox, who was president of Mexico from 2000 to 2006, was clear in his opposition to Mr. Trump, calling him \u201cegocentric\u201d and lacking in any political values.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 98,
+                    "end": 158,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "calling him \u201cegocentric\u201d and lacking in any political values"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Fox also expressed disbelief that Mr. Trump did well with Hispanic voters in the Nevada caucuses on Tuesday and called on them to open their eyes.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019d like to know who those Hispanics are,\u201d Mr. Fox said.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThey are followers of a false prophet.\u201d",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 38,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "false prophet"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Fox\u2019s successor, Felipe Calder\u00f3n, expressed similar concerns about the wall this month.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMexican people, we are not going to pay any single cent for such a stupid wall!\u201d Mr. Calder\u00f3n told CNBC.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 68,
+                    "end": 74,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "border wall",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Felipe Calder",
+                    "text": "stupid"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAnd it\u2019s going to be completely useless.\u201d",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 42,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "border wall",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Felipe Calder",
+                    "text": "\u201cAnd it\u2019s going to be completely useless.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Calder\u00f3n, who was president from 2006 until 2012, went on to argue that Mr. Trump was misinformed about the flow of immigrants from Mexico to the United States and that closing the border would harm America\u2019s economy.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "For his part, Mr. Trump has insisted that as president he would have the leverage to compel Mexico to pay for the wall, which he estimates would cost about $8 billion.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "On Thursday, however, he appeared to be more angered by Mr. Fox\u2019s tone.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump, who has been criticized for lacing his campaign speeches with profanity, called on Mr. Fox to apologize for using foul language when talking about the wall.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 82,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who has been criticized for lacing his campaign speeches with profanity"
+                }
+            ]
+        }
+    ]
+}

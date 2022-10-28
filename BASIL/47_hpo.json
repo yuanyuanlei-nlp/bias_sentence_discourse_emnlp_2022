@@ -1,0 +1,103 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump",
+        "social media companies"
+    ],
+    "main-event": "Trump Accuses Social Media Firms of Discrimination Against Conservatives",
+    "title": "Donald Trump's Social Media Solution? A Free-For-All For Both The 'Good And Bad'",
+    "url": "https://www.huffingtonpost.com/entry/donald-trump-social-media-rant-all-sides_us_5b780684e4b05906b4140d07",
+    "word-count": 174,
+    "date": "2018-08-18",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Donald Trump": "Negative",
+            "social media companies": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were \u201ctotally discriminating against Republican/Conservative voices.\u201d",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 48,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "tear into"
+                }
+            ]
+        },
+        {
+            "sentence": "But he does have a solution. Sort of.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 36,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Sort of"
+                }
+            ]
+        },
+        {
+            "sentence": "And it involves both sides.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump tweeted that \u201ctoo many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.\u201d So, he added: \u201cLet everybody participate, good & bad, and we will all just have to figure it out!\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump accused social media giants of \u201cclosing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cCensorship is a very dangerous thing & impossible to police,\u201d he added, before embarking on a now familiar rant about \u201cfake news\u201d CNN and MSNBC \u2014 which he admitted to sometimes watching, but \u201cjust with a grain of salt.\u201d",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 95,
+                    "end": 112,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "now familiar rant"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.",
+            "sentence-index": 6,
+            "annotations": []
+        }
+    ]
+}

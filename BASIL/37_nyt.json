@@ -1,0 +1,231 @@
+{
+    "title": "Michael Steele Criticized for Afghanistan Comments",
+    "date": "2010-07-02",
+    "url": "http://www.nytimes.com/2010/07/03/us/politics/03steele.html?_r=2&ref=politics",
+    "main-entities": [
+        "Michael Steele",
+        "Barack Obama"
+    ],
+    "word-count": 708,
+    "source": "nyt",
+    "main-event": "Michael Steele Criticized for Afghanistan Comments",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Michael Steele": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 Michael Steele, chairman of the Republican National Committee, drew fierce criticism and a call for his resignation on Friday after declaring at a party fund-raiser that the United States was on the wrong side of history with its conflict in Afghanistan, a military fight he called \u201ca war of Obama\u2019s choosing.\u201d",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 81,
+                    "end": 87,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "fierce"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThis is not something the United States had actively prosecuted or wanted to engage in,\u201d Mr. Steele said in a speech Thursday night in Connecticut in which he offered a strong critique of President Obama\u2019s military strategy.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt was the president who was trying to be cute by half by flipping a script demonizing Iraq, while saying the battle really should be Afghanistan,\u201d Mr. Steele said, according to a video of his remarks that was circulated by Democrats on Friday.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 47,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Michael Steele",
+                    "text": "who was trying to be cute"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWell, if he\u2019s such a student of history, has he not understood that you know that\u2019s the one thing you don\u2019t do, is engage in a land war in Afghanistan?\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Steele, seeking to clarify his remarks, issued a statement on Friday afternoon, saying, \u201cThere is no question that America must win the war on terror.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "His remarks were the latest in a string of controversial statements that he has made as party chairman.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 103,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "His remarks were the latest in a string of controversial statements that he has made as party chairman."
+                }
+            ]
+        },
+        {
+            "sentence": "The war in Afghanistan, which has entered its ninth year, was started by former President George W. Bush in response to the terrorist attacks on Sept. 11, 2001.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Obama shifted the focus on the war on terrorism from Iraq to Afghanistan and last year announced his plan to send 30,000 more troops there.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Steele\u2019s comments prompted William Kristol, editor of the Weekly Standard and a leading voice of conservative support for the war in Afghanistan, to call for Mr. Steele\u2019s resignation as party leader.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYour tenure has, of course, been marked by gaffes and embarrassments, but I for one have never paid much attention to them, and have never thought they would matter much to the success of the causes and principles we share,\u201d Mr. Kristol wrote Friday.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 69,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Your tenure has, of course, been marked by gaffes and embarrassments"
+                }
+            ]
+        },
+        {
+            "sentence": "He added, \u201cNeedless to say, the war in Afghanistan was not \u2018a war of Obama\u2019s choosing.\u2019",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "It has been prosecuted by the United States under Presidents Bush and Obama.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "He added, \u201cThere are, of course, those who think we should pull out of Afghanistan, and they\u2019re certainly entitled to make their case.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "But one of them shouldn\u2019t be the chairman of the Republican Party.\u201d",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "A spokesman for the Democratic National Committee, Brad Woodhouse, said Mr. Steele was \u201cbetting against our troops and rooting for failure in Afghanistan.\u201d",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 88,
+                    "end": 153,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "betting against our troops and rooting for failure in Afghanistan"
+                }
+            ]
+        },
+        {
+            "sentence": "Republican officials dismissed that criticism.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "When Mr. Steele made the remarks, he was speaking to Republican contributors at a fund-raiser in Connecticut.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Linda McMahon, the party\u2019s candidate for the United States Senate in Connecticut, was in the audience, along with other leading state Republicans.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The video appears to have been taken by a hidden camera at an event that was closed to the press.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Republican officials did not dispute the authenticity of the video, but disputed its characterization.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "In his statement on Friday afternoon, Mr. Steele did not respond to the call for his resignation.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "But he sought to make the case that Afghanistan is now Mr. Obama\u2019s war.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cFor the sake of the security of the free world, our country must give our troops the support necessary to win this war,\u201d Mr. Steele said.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAs we have learned throughout history, winning a war in Afghanistan is a difficult task.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "We must also remember that after the tragedy of Sept. 11, 2001, it is also a necessary one.\u201d",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "He added, with a reference to Gen. David H. Petraeus: \u201cThat is why I supported the decision to increase our troop force and, like the entire United States Senate, I support General Petraeus\u2019s confirmation.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "The stakes are too high for us to accept anything but success in Afghanistan.\u201d",
+            "sentence-index": 26,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,401 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Joe Biden",
+        "Paul Ryan"
+    ],
+    "main-event": "Biden and Ryan debate",
+    "title": "Sparks fly as Biden, Ryan face off in feisty vice presidential debate",
+    "url": "http://www.foxnews.com/politics/2012/10/11/biden-ryan-face-off-in-high-stakes-vice-presidential-debate-in-kentucky/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+    "word-count": 1027,
+    "date": "2012-10-12",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Joe Biden": "Neutral",
+            "Paul Ryan": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "In a head-to-head battle of proxies, Vice President Biden wasted no time Thursday trying to do what many Democrats felt President Obama failed to against Mitt Romney, going on offense with an often disdainful attack on Paul Ryan -- who stood his ground against a barrage of Biden grins, guffaws, snickers and interruptions.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 280,
+                    "end": 322,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "grins, guffaws, snickers and interruptions"
+                },
+                {
+                    "start": 198,
+                    "end": 208,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "disdainful "
+                }
+            ]
+        },
+        {
+            "sentence": "The dueling running mates turned the lone vice presidential debate into an uncharacteristically feisty affair, scrapping over everything from the economy to Libya to taxes.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "But it was the vice president who set the aggressive tone, blatantly striving to hit the reset after President Obama was panned for his lackluster performance at last week's opening debate.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 57,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But it was the vice president who set the aggressive tone"
+                }
+            ]
+        },
+        {
+            "sentence": "If Obama was too cold, Biden at times bordered on too hot, analysts said afterward.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "He chuckled and smirked through many of Ryan's responses.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 57,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He chuckled and smirked through many of Ryan's responses."
+                }
+            ]
+        },
+        {
+            "sentence": "But unlike Obama a week ago, he let few points go unchallenged.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 63,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But unlike Obama a week ago, he let few points go unchallenged."
+                }
+            ]
+        },
+        {
+            "sentence": "Biden went after the Romney/Ryan ticket with a directness that Obama did not.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 77,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Biden went after the Romney/Ryan ticket with a directness that Obama did not."
+                }
+            ]
+        },
+        {
+            "sentence": "Notably, he hammered Mitt Romney over his secretly videotaped comment in which he said he doesn't have to worry about the \"47 percent\" of Americans who don't pay federal income taxes.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"These people are my mom and dad, the people I grew up with, my neighbors,\" Biden said, adding he's \"had it up to here\" with those kinds of comments.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan shot back, in reference to Biden's tendency to make gaffes: \"As the vice president very well knows ... sometimes the words don't come out of your mouth the right way.\"",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"But I always say what I mean,\" Biden responded.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan accused Obama of \"projecting weakness\" with his foreign policy, particularly in his response to the terror attack on the U.S. Consulate in Benghazi, Libya.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "At home, he accused the administration of presiding over a shoddy recovery.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is not what a real recovery looks like,\" Ryan said.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Whether the debate will alter the course of the race remains to be seen.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "There are two more presidential debates on the calendar, and the polls have started to swing in Romney's favor.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The tightening was reflected in the candidates' attitude onstage Thursday, each loath to give the other too many seconds of speech-time without a challenge.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The economy, the budget deficit and foreign policy were central.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Each candidate made frequent appeals to the middle class, Biden by pledging to protect programs in the federal budget and Ryan by pledging to grow the economy for everybody.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan opened the debate with tough criticism of the Obama administration over its handling of the Libya terror attack.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\"What we are watching on our TV screens is the unraveling of the Obama foreign policy,\" Ryan said.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "With the moderator, ABC News' Martha Raddatz, opening the debate with a question about the Libya strike, which happened a month ago Thursday, Ryan criticized the administration for waiting more than a week after the strike to call it a coordinated terror attack.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is becoming more troubling by the day.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "They first blamed the YouTube video.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Now they're trying to blame the Romney/Ryan ticket for making this an issue,\" he said.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan was referring to a claim by an Obama aide earlier Thursday that the only reason the attack had entered the political debate was because of Romney's criticism - a claim Romney rejected.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Biden was quick to retort: \"With all due respect, that's just a bunch of malarkey.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 50,
+                    "end": 81,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Joe Biden",
+                    "text": "that's just a bunch of malarkey"
+                }
+            ]
+        },
+        {
+            "sentence": "... Not a single thing he said is accurate.\"",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 44,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Joe Biden",
+                    "text": "... Not a single thing he said is accurate.\""
+                }
+            ]
+        },
+        {
+            "sentence": "He added: \"This talk about this weakness, I don't understand what my friend's talking about.\"",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Biden also criticized Romney for making a \"political statement\"on the night of the attack, a reference to Romney's criticism of the U.S. Embassy in Cairo's early response to protests there.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "On the question of why the administration initially claimed the attack was the result of a protest, Biden explained \"the intelligence community told us that.\"",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "The face-off Thursday night was taking on outsized importance for a vice presidential debate.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "After Obama's debate performance last week, the pressure was on Biden to recapture the momentum -- while equally on Ryan to prevent the Obama ticket from blunting Romney's surge.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan referred to the weight on Biden's shoulders about mid-way through, as the two talked over each other on Medicare.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Mr. vice president, I know you're under a lot of duress to make up for lost ground, but I think people would be better served if we don't keep interrupting each other,\" Ryan said.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "On Medicare, Biden charged that the Republican ticket's plan would raise costs for future seniors with a de facto \"voucher\" system.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Their ideas are old and their ideas are bad and they eliminate the guarantee of Medicare,\" he said.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan shot back: \"They got caught with their hand in the cookie jar turning Medicare into a piggy bank for ObamaCare.\"",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "The debate veered across the spectrum of topics from the campaign trail.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "On Iran's nuclear program, Biden repeatedly suggested Romney and Ryan would too readily choose the military option to stop it.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "On abortion, he cautioned that the next president will get to choose one or two justices on the Supreme Court -- \"that's how close Roe v. Wade is.\"",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan, toward the end of the debate, warned that a \"debt crisis is coming\" and claimed the sitting president offers little more than speeches to address the deficit.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "\"That's what we get in this administration -- speeches.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "But we're not getting leadership,\" he said.",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "In a matter of days, Romney has picked up steam in both battleground and national polls.",
+            "sentence-index": 44,
+            "annotations": []
+        },
+        {
+            "sentence": "The latest Fox News national poll of likely voters showed Romney edging Obama, 46 percent to 45 percent.",
+            "sentence-index": 45,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama has acknowledged he had a \"bad night\" in his debate last week, but the campaign indicates it will be more aggressive going forward.",
+            "sentence-index": 46,
+            "annotations": []
+        },
+        {
+            "sentence": "After Biden's more feisty performance Thursday, Obama campaign manager Jim Messina quipped that he's a \"happy warrior\" for the middle class.",
+            "sentence-index": 47,
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 117,
+                    "target": "Joe Biden",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "happy warrior"
+                }
+            ]
+        },
+        {
+            "sentence": "The final presidential debates will be held Oct. 16 and Oct. 22.",
+            "sentence-index": 48,
+            "annotations": []
+        },
+        {
+            "sentence": "The next one will be a town hall format focusing on a range of issues, and the last one will focus exclusively on foreign policy.",
+            "sentence-index": 49,
+            "annotations": []
+        }
+    ]
+}

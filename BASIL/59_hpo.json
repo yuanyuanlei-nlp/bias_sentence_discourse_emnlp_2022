@@ -1,0 +1,169 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Barack Obama",
+        "John Boehner"
+    ],
+    "main-event": "Obama and Boehner discuss deficits",
+    "title": "Obama Boehner Fiscal Cliff Meeting: Grasping For Last-Minute Solution",
+    "url": "https://www.huffingtonpost.com/2012/12/13/obama-boehner-fiscal-cliff-meeting_n_2296788.html",
+    "word-count": 477,
+    "date": "2012-12-13",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral",
+            "John Boehner": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON -- President Barack Obama and House Speaker John Boehner (R-Ohio) met for nearly an hour on Thursday evening in their latest attempt to break the impasse on impending tax hikes and spending cuts.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "True to form, neither said much of anything about what was discussed.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Shortly after the meeting ended, both camps put out identical, banal statements.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The President and Speaker had a frank meeting in the Oval Office tonight,\" said the statements.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It lasted approximately 50 minutes.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "There will be no further readout of the meeting, but lines of communication remain open.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Boehner was back at the Capitol soon afterward, but said nothing new as he passed reporters eager for a readout.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNice to see all of you,\u201d he said as he kept walking, CNN\u2019s Deirdre Walsh tweeted.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Boehner is heading back to Ohio for the weekend.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "A handful of others attended the meeting.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Timothy Geithner, the treasury secretary, and Rob Nabors, director of the White House Office of Legislative Affairs, joined Obama, a White House aide confirmed.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Boehner\u2019s chief of staff, Mike Sommers, and his policy director, Brett Loper, were also in attendance.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Thursday night\u2019s meeting marks the second time in a week the president and House speaker have met in person, and comes after at least two phone calls in recent days.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The continued dialogue provides some rays of hope to a negotiating process that, in recent days, has shown very little progress.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Boehner has refused to budge from his refusal to consider raising tax rates on top earners while arguing that heavy spending cuts are needed.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 28,
+                    "target": "John Boehner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "refused to budge"
+                }
+            ]
+        },
+        {
+            "sentence": "The White House, in contrast, has accused House Republican leadership of being deliberately vague on cuts, while insisting that no deal will end up getting the president's signature without a raising of tax rates.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "With the year-end deadline for all rates to expire and $1 trillion in spending cuts to kick in, the prospect of actually failing to find agreement is coming into focus.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "A top Senate Democratic aide told the Huffington Post on Thursday that Senate Majority Leader Harry Reid (D-Nev.) told his caucus that finalizing a deal by Christmas was now basically impossible.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Boehner, meanwhile, told lawmakers earlier Thursday not to make plans for Christmas, signaling that there may not realistically be a final deal until the very end of the month.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "White House Press Secretary Jay Carney wouldn\u2019t say whether Obama is also bracing for dragged out negotiations",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI can\u2019t speculate about the time frame,\u201d Carney said at his daily briefing.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhat the president is interested in is working with Congress to achieve a deal that avoids the fiscal cliff and, beyond that, addresses our long-term fiscal challenges in a balanced way.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "He wants to makes sure, first and foremost, that the middle class does not have their taxes go up on January 1st.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 114,
+                    "target": "Barack Obama",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "He wants to makes sure, first and foremost, that the middle class does not have their taxes go up on January 1st.\u201d"
+                }
+            ]
+        }
+    ]
+}

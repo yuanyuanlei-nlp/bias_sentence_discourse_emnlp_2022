@@ -1,0 +1,141 @@
+{
+    "url": "http://www.foxnews.com/politics/2018/04/06/texas-rep-blake-farenthold-resigns-from-congress.html",
+    "word-count": 357,
+    "source": "fox",
+    "title": "Texas Rep. Blake Farenthold resigns from Congress",
+    "date": "2018-04-06",
+    "main-event": "Blake Farenthold resigns from Congress",
+    "main-entities": [
+        "Blake Farenthold"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Blake Farenthold": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Texas Rep. Blake Farenthold resigns from Congress",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "U.S. Representative Blake Farenthold resigned from Congress on Friday, following multiple allegations of sexual harassment, misconduct and inappropriate behavior.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Farenthold, R-Texas, had previously announced that he would not seek re-election in the 2018 midterm election, when reports of sexual misconduct first surfaced.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhile I planned on serving out the remainder of my term in Congress, I know in my heart it\u2019s time for me to move along and look for new ways to serve,\u201d Farenthold said in a statement Friday evening, noting he sent a letter to Texas Gov.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Greg Abbott to tell him about his resignation, effective at 5 p.m.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s been an honor and privilege to serve the constituents of Texas\u2019 27th Congressional District.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "I would like to thank my staff both in Washington and Texas for all of their hard work on behalf of our constituents.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "I would also like to thank my family for their unwavering support and most importantly the people that elected me,\u201d Farenthold said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cLeaving my service in the House, I\u2019m able to look back at the entirety of my career in public office and say that it was well worthwhile.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Farenthold was sued by his former aide, Lauren Greene, in 2014, alleging a hostile work environment, gender discrimination and retaliation.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Among other things, Greene claimed Farenthold asked her for a threesome.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 72,
+                    "target": "Blake Farenthold",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Among other things, Greene claimed Farenthold asked her for a threesome."
+                }
+            ]
+        },
+        {
+            "sentence": "She sued him and was paid $84,000 from a public fund on behalf of Farenthold for a sexual harassment claim.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Farenthold pledged to repay the $84,000 in taxpayer money spent to settle the claim.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Farenthold\u2019s former communications director, Michael Rekola, also described in detail the congressman\u2019s alleged abusive behavior toward staff members, which ranged from making sexually graphic jokes to verbally abusing his aides.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 151,
+                    "end": 228,
+                    "target": "Blake Farenthold",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "which ranged from making sexually graphic jokes to verbally abusing his aides"
+                }
+            ]
+        },
+        {
+            "sentence": "Other staffers accused Farenthold of routinely commenting on the size of women\u2019s breasts and making jokes about being on \u201credhead patrol\u201d because he was attracted to women with red hair.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 186,
+                    "target": "Blake Farenthold",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Other staffers accused Farenthold of routinely commenting on the size of women\u2019s breasts and making jokes about being on \u201credhead patrol\u201d because he was attracted to women with red hair."
+                }
+            ]
+        }
+    ]
+}

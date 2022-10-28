@@ -1,0 +1,267 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Paul LePage"
+    ],
+    "main-event": "Paul LePage remains in office",
+    "title": "Maine Gov. LePage opens door to early exit",
+    "url": "http://www.foxnews.com/politics/2016/08/30/maine-gov-lepage-opens-door-to-early-exit.html",
+    "word-count": 563,
+    "date": "2016-08-30",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Paul LePage": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Controversial Maine Gov. Paul LePage opened the door Tuesday to making an early exit from the governor\u2019s office following pressure from state lawmakers to step down.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "target": "Paul LePage",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Controversial"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI\u2019m looking at all options,\u201d LePage said on talk radio station WVOM.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think some things I\u2019ve been asked to do are beyond my ability.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "I\u2019m not going to say that I\u2019m not going to finish it. I\u2019m not saying that I am going to finish it.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Later in the day, LePage took to Twitter, though, to push back on media reports about a possible resignation.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "During the radio interview, the governor apologized repeatedly for an expletive-ridden voicemail he recently left for Democratic state Rep. Drew Gattine -- the latest controversy to hang over his office.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 156,
+                    "end": 202,
+                    "target": "Paul LePage",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the latest controversy to hang over his office"
+                }
+            ]
+        },
+        {
+            "sentence": "Earlier, the Republican governor had refused to apologize for the message, even saying at press conference he wished it was 1825 so he could shoot Gattine in a duel.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 165,
+                    "target": "Paul LePage",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Earlier, the Republican governor had refused to apologize for the message, even saying at press conference he wished it was 1825 so he could shoot Gattine in a duel."
+                }
+            ]
+        },
+        {
+            "sentence": "In a recording of the message obtained by the Press Herald, the governor identified himself and went on to curse out Gattine.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI would like to talk to you about your comments about my being a racist, you c---sucker.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "I want to talk to you I want you to prove that I\u2019m a racist.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "I\u2019ve spent my life helping black people and you little son-of-a-b----, socialist c---sucker.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "You \u2026 I need you to, just friggin.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "I want you to record this and make it public because I am after you.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Thank you,\u201d he said in the message.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "LePage initially said his outburst was justified because Gattine called him a racist \u2013 something Gattine has denied.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The alleged name-calling came after LePage said during a town hall that he\u2019s collected a binder full of drug dealers arrested in the state showing that 90 percent of them \u201care black and Hispanic people from Waterbury, Conn.; the Bronx; and Brooklyn.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The leaked voicemail prompted members of LePage\u2019s own party to question his ability to lead the state.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "During his news conference Friday, LePage offered more racially charged comments that have drawn fire, saying, \"A bad guy is a bad guy.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "I don't care what color it is.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "When you go to war ... you try to identify the enemy.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "The enemy right now, the overwhelming majority of people coming in, are people of color or people of Hispanic origin.\"",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "But this isn\u2019t the first time LePage\u2019s comments have gotten him in trouble.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 75,
+                    "target": "Paul LePage",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But this isn\u2019t the first time LePage\u2019s comments have gotten him in trouble."
+                }
+            ]
+        },
+        {
+            "sentence": "The Republican governor has a long history of making controversial statements dating back to 2010 when he said if he were elected governor, he\u2019d tell President Obama to \u201cgo to hell.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 182,
+                    "target": "Paul LePage",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The Republican governor has a long history of making controversial statements dating back to 2010 when he said if he were elected governor, he\u2019d tell President Obama to \u201cgo to hell.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "A year later, LePage said that NAACP officials, who had called him out for not attending a Martin Luther King Jr.\u2019s event, could \u201ckiss my butt.\u201d",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 144,
+                    "target": "Paul LePage",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "A year later, LePage said that NAACP officials, who had called him out for not attending a Martin Luther King Jr.\u2019s event, could \u201ckiss my butt.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "In 2015, LePage was forced to apologize to the son of a cartoonist for The Bangor Daily News because he told him he\u2019d \u201clike to shoot\u201d his father.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 145,
+                    "target": "Paul LePage",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "In 2015, LePage was forced to apologize to the son of a cartoonist for The Bangor Daily News because he told him he\u2019d \u201clike to shoot\u201d his father."
+                }
+            ]
+        },
+        {
+            "sentence": "That same year, a charter school said LePage threatened to strip it of its funding if it did not rescind a job offer to Democratic state House Speaker Mark Eves.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "In January, he said drug dealers with names like \u201cD-Money, Smoothie (and) Shifty\u201d are getting Maine\u2019s white women pregnant.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "He later said he had misspoke and meant to say all \u201cMaine women\u201d not only \u201cMaine\u2019s white women.\u201d",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "LePage\u2019s second and final term as governor officially ends in 2019.",
+            "sentence-index": 28,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,361 @@
+{
+    "main-event": "Trump intends to end birthright citizenship",
+    "main-entities": [
+        "Trump",
+        "birthright citizenship"
+    ],
+    "title": "President Wants to Use Executive Order to End Birthright Citizenship",
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2018/10/30/us/politics/trump-birthright-citizenship.html",
+    "date": "2018-10-30",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Trump": "Negative",
+            "birthright citizenship": "Positive"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "President Trump said he was preparing an executive order that would nullify the long-accepted constitutional guarantee of birthright citizenship in the United States, his latest attention-grabbing maneuver days before midterm congressional elections as he has sought to activate his base by vowing to clamp down on immigrants and immigration.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019re the only country in the world where a person comes in and has a baby, and the baby is essentially a citizen of the United States for 85 years, with all of those benefits,\u201d Mr. Trump told Axios during an interview that was released in part on Tuesday, making a false claim.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 258,
+                    "end": 278,
+                    "target": "Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "making a false claim"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt\u2019s ridiculous. It\u2019s ridiculous. And it has to end.\u201d",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 33,
+                    "target": "birthright citizenship",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Trump",
+                    "text": "It\u2019s ridiculous. It\u2019s ridiculous"
+                }
+            ]
+        },
+        {
+            "sentence": "In fact, at least 30 other countries, including Canada, Mexico and many others in the Western Hemisphere, grant automatic birthright citizenship, according to a study by the Center for Immigration Studies, an organization that supports restricting immigration and whose work Mr. Trump\u2019s advisers often cite.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "But Mr. Trump\u2019s plan met with swift pushback from some even in his own party on Tuesday.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "House Speaker Paul D. Ryan of Wisconsin, who is retiring, said in an interview that the president \u201cobviously\u201d cannot eviscerate birthright citizenship by executive order.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 98,
+                    "end": 109,
+                    "target": "Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\u201cobviously\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cYou obviously cannot do that,\u201d Ryan told WVLK, a radio station in Lexington, Ky.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 14,
+                    "target": "Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "obviously"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI\u2019m a believer in following the plain text of the Constitution, and I think in this case, the 14th Amendment is pretty clear, and that would involve a very, very lengthy constitutional process.\u201d",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Ryan compared the idea of doing so to Barack Obama\u2019s 2012 action to grant work permits and deportation reprieves to some undocumented immigrants brought to the United States as children, which Republicans, including Mr. Trump, vociferously protested as a naked abuse of presidential power.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 231,
+                    "end": 292,
+                    "target": "Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "vociferously protested as a naked abuse of presidential power"
+                }
+            ]
+        },
+        {
+            "sentence": "Doing away with birthright citizenship for the children of undocumented immigrants was an idea Mr. Trump pitched as a presidential candidate, but there is no clear indication that he would be able to do so unilaterally, and attempting to would be certain to prompt legal challenges.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The consensus among legal scholars is that he cannot, but Mr. Trump and his allies are eager to test it in the Supreme Court.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe all cherish the language of the 14th Amendment, but the Supreme Court of the United States has never ruled on whether the language of the 14th Amendment \u2014 \u2019subject to the jurisdiction thereof\u2019 \u2014 applies specifically to people who are in the country illegally,\u201d Vice President Mike Pence told Politico in an interview on Tuesday, several hours after Mr. Trump\u2019s comments were reported.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "It is likewise unknown how serious Mr. Trump is about taking the action.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "In recent days, with the approach of the midterm balloting in which Republican control of Congress is at risk, he has sought to appeal to voters by making other dramatic claims that appear to have no chance of materializing, such as imminent action to grant a 10 percent tax cut for the middle class.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 148,
+                    "end": 223,
+                    "target": "Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "making other dramatic claims that appear to have no chance of materializing"
+                }
+            ]
+        },
+        {
+            "sentence": "To accomplish the idea he floated on Tuesday, Mr. Trump would have to find a way around the 14th Amendment to the Constitution, which states, \u201cAll persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.\u201d",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The amendment means that any child born in the United States is considered a citizen.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Amendments to the Constitution cannot be overridden by presidential action \u2014 they can be changed or undone only by overwhelming majorities in Congress or the states, with a two-thirds vote of both houses of Congress or through a constitutional convention called for by two-thirds of state legislatures.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Some conservatives have long made the argument that the 14th Amendment was meant to apply only to citizens and legal permanent residents, not immigrants who are present in the country without authorization.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "In an opinion piece in The Washington Post this year, Michael Anton, a former spokesman for Mr. Trump\u2019s National Security Council, said birthright citizenship was based on a misreading of the amendment, and of an 1898 Supreme Court ruling that he argued pertained only to the children of legal residents.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe notion that simply being born within the geographical limits of the United States automatically confers U.S. citizenship is an absurdity \u2014 historically, constitutionally, philosophically and practically,\u201d Mr. Anton wrote in July.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 207,
+                    "target": "birthright citizenship",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "The notion that simply being born within the geographical limits of the United States automatically confers U.S. citizenship is an absurdity \u2014 historically, constitutionally, philosophically and practically"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAn executive order could specify to federal agencies that the children of noncitizens are not citizens.\u201d",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump told Axios that while he initially believed he needed a constitutional amendment or action by Congress to make the change, the White House Counsel\u2019s Office has advised him otherwise.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNow they\u2019re saying I can do it just with an executive order,\u201d Mr. Trump said.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "The White House did not immediately respond to requests for clarification of the legal grounds the president\u2019s lawyers have given him for validating such a move.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "His discussion of the idea comes after the administration announced it was streaming more than 5,000 active-duty troops to the southern border, part of an election-season rash of executive action Mr. Trump has undertaken as he works to energize his anti-immigrant base.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "It also follows action by the Trump administration to try to discourage legal immigrants from using public benefits through a new federal rule that would deny green card status to people who use social safety net services, like food assistance and Medicaid.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "The proposal provoked outrage among civil rights groups, a response that Mr. Trump\u2019s advisers have argued privately is a central objective of many of the president\u2019s most aggressive proposals on immigration and other matters.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Jess Morales Rocketto, the chairwoman of Families Belong Together, an immigrant advocacy group, called the idea \u201cethnic cleansing.\u201d",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 113,
+                    "end": 129,
+                    "target": "Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "ethnic cleansing"
+                }
+            ]
+        },
+        {
+            "sentence": "Kristen Clarke, the president and executive director of the Lawyers\u2019 Committee for Civil Rights Under Law, called the idea illegal and offensive.",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 123,
+                    "end": 144,
+                    "target": "Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "illegal and offensive"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAside from being unconstitutional, such an executive order would exacerbate racial tensions, exploit fears and drive further polarization across the country at a moment that calls for the promotion of unity and inclusion,\u201d Ms. Clarke said in a statement.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe letter and spirit of the Fourteenth Amendment places those born in this country on equal footing, and an executive order that strips away citizenship would create a permanent group of second-class citizens and invite litigation.\u201d",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "Some Republicans also rejected Mr. Trump\u2019s suggestion, an indication of the political risks for the party that attend the president\u2019s bid to stoke anti-immigrant sentiment in advance of next Tuesday\u2019s voting.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe President is wrong to end #BirthrightCitizenship,\u201d Bob Hugin, a Republican candidate for Senate in New Jersey, said in a Twitter post.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019re a nation of immigrants made better by the diversity of its people, especially in NJ.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "We need compassionate comprehensive immigration reform now.\u201d",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "A 1898 Supreme Court decision held that Wong Kim Ark, who was born in San Francisco to Chinese parents residing in the United States, was a citizen because of his birth on American soil.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Anton argued in The Post that because his parents were legal residents, the ruling should not be read as an affirmation of the status of children of undocumented immigrants.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "But immigration advocates argue that scrapping the concept of birthright citizenship would do away with a vital principle, and would be counterproductive to the stated goals of those who, like Mr. Trump, rail routinely against illegal immigration.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "According to a study by the Migration Policy Institute, a nonpartisan group, if citizenship were denied to every child with at least one unauthorized parent, the unauthorized population in the United States would reach 24 million by 2050 \u2014 more than double what it is now.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "Stephen Legomsky, a Washington University School of Law professor and former chief counsel for U.S. Citizenship and Immigration Services, said the 14th Amendment\u2019s application to the children of undocumented immigrants was a matter of pure common sense.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cLike anyone else, native-born Americans, whoever their parents are, can be charged with crimes if they disobey U.S. law,\u201d Mr. Legomsky said.",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHow would this be possible if the U.S. had no jurisdiction over them?\u201d",
+            "sentence-index": 41,
+            "annotations": []
+        }
+    ]
+}

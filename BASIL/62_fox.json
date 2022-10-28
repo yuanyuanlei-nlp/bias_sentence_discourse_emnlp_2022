@@ -1,0 +1,277 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "National Security Agency programs",
+        "internet companies"
+    ],
+    "main-event": "Authorities scour major Internet companies for data",
+    "title": "Obama administration defends 2nd mass surveillance project",
+    "url": "http://www.foxnews.com/politics/2013/06/07/intelligence-officials-reportedly-mining-data-from-us-internet-companies/?intcmp=related",
+    "word-count": 990,
+    "date": "2013-06-07",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "National Security Agency programs": "Positive",
+            "internet companies": "Positive"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "The Obama administration found itself defending -- and beginning to explain -- yet another surveillance effort after leaked documents revealed information about two secret National Security Agency intelligence-gathering programs.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "On top of a Guardian newspaper report that revealed how authorities were collecting phone records from millions, a Washington Post report detailed another program that scours major Internet companies including Google and Facebook for data.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "A former senior NSA official confirmed to Fox News that the program was started in 2007 by the FBI and NSA and allows them to tap into top U.S. Internet companies to pull audio, video and other data.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "While civil liberties groups cried foul over the program, Director of National Intelligence James Clapper issued a statement late Thursday decrying the leak of the materials.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "He called the disclosure of the program that allows the NSA to collect communications data from Internet companies \"reprehensible\" and said the phone-records monitoring leak could cause harm to the nation's intelligence gathering activities.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "At the same time, he took the rare step of moving to declassify information about the programs as he sought to defend them against criticism.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe article omits key information regarding how a classified intelligence collection program is used to prevent terrorist attacks and the numerous safeguards that protect privacy and civil liberties,\" he said of the Guardian story.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Clapper also said the government was \"prohibited from indiscriminately sifting through the telephony metadata acquired under the program.\u201d",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 136,
+                    "target": "National Security Agency programs",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "prohibited from indiscriminately sifting through the telephony metadata acquired under the program"
+                }
+            ]
+        },
+        {
+            "sentence": "All information acquired, he said, \u201cis subject to strict, court-imposed restrictions on review and handling.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The court only allows the data to be queried when there is a reasonable suspicion, based on specific facts, that the particular basis for the query is associated with a foreign terrorist organization.\u201c",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Several hours earlier, a senior administration official also pushed back, saying the Guardian article and Washington Post article about the Internet mining refers to collection under a law that \"does not allow the targeting of any U.S. citizen or of any person located within the United States.\u201d",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "It was not immediately clear how the official defined \u201ctargeting.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe program is subject to oversight by the Foreign Intelligence Surveillance Court, the Executive Branch, and Congress,\u201d the official said.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt involves extensive procedures, specifically approved by the court, to ensure that only non-U.S. persons outside the U.S. are targeted, and that minimize the acquisition, retention and dissemination of incidentally acquired information about U.S. persons.\u201d",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "A former NSA official told Fox News the FBI and National Security Agency (NSA) have been tapping into leading U.S. Internet companies to pull audio, video and photographs.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the official, the program began in 2007 and is in the second phase.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Metadata from the companies is used to identify suspicious individuals and the secondary search goes into content.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The official told Fox News that the Utah Data Center is likely a repository for this material.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The classified program is code-named PRISM, the Washington Post reported, and has not been disclosed publicly before.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Members of Congress who are aware of the program were reportedly bound by oath to keep it confidential.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "According to slides from an internal presentation intended for NSA senior analysts and obtained by the Washington Post, the program accounts for nearly one in seven intelligence reports.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "The companies that participate knowingly in the program are Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube and Apple, the Washington Post reports.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "A number of the Internet companies issued statements Thursday night saying they only complied when legally bound to do so.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Even when the system works just as advertised, with no American singled out for targeting, the NSA routinely collects a great deal of American content,\" the Washington Post report said.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\"That is described as \"incidental,\" and it is inherent in contact chaining, one of the basic tools of the trade.\"",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "To be immune from lawsuits, companies like Yahoo and AOL are reportedly obliged to accept a directive from the attorney general and national intelligence director to open their service to the FBI's Data Intercept Technology Unit, which acts as a liaison between the companies and the NSA.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the slides, there has been \u201ccontinued exponential growth in tasking to Facebook and Skype.\"",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "\"With a few clicks and an affirmation that the subject is believed to be engaged in terrorism, espionage or nuclear proliferation, an analyst obtains full access to Facebook\u2019s 'extensive search and surveillance capabilities against the variety of online social networking services,'\" the Washington Post reports.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Skype can reportedly be monitored for audio when one end of a call is a conventional telephone and also can be monitored for video, chat and file transfers when users connect just by a computer.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Google services that can be monitored include Gmail, voice and video chat, Google Drive files, and search terms.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "A spokesperson for Google says the company \"cares deeply\" about the security of users' data.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We disclose user data to government in accordance with the law, and we review all such requests carefully,\" the spokesperson said.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 106,
+                    "target": "internet companies",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "internet companies",
+                    "text": "We disclose user data to government in accordance with the law, and we review all such requests carefully"
+                }
+            ]
+        },
+        {
+            "sentence": "\"From time to time, people allege that we have created a government 'back door' into our systems, but Google does not have a 'back door' for the government to access private user data.\"",
+            "sentence-index": 32,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 183,
+                    "target": "internet companies",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "internet companies",
+                    "text": "From time to time, people allege that we have created a government 'back door' into our systems, but Google does not have a 'back door' for the government to access private user data"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Protecting the privacy of our users and their data is a top priority for Facebook,\" the company's chief security officer Joe Sullivan said in a statement.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We do not provide any government organization with direct access to Facebook servers.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "When Facebook is asked for data or information about specific individuals, we carefully scrutinize any such request for compliance with all applicable laws, and provide information only to the extent required by law.\"",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "A Microsoft spokesperson said that the company only provides customer data after receiving a legally binding order or subpoena.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "\"In addition we only ever comply with orders for requests about specific accounts or identifiers,\" the spokesperson said.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If the government has a broader voluntary national security program to gather customer data we don't participate in it.\"",
+            "sentence-index": 38,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 119,
+                    "target": "internet companies",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "internet companies",
+                    "text": "If the government has a broader voluntary national security program to gather customer data we don't participate in it"
+                }
+            ]
+        }
+    ]
+}

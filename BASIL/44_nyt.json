@@ -1,0 +1,93 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "John Boehner",
+        "Democrats",
+        "Republicans"
+    ],
+    "main-event": "John Boehner discusses chance GOP will lose House",
+    "title": "Boehner Sees One-in-Three Chance G.O.P. Will Lose House",
+    "url": "http://thecaucus.blogs.nytimes.com/2012/04/23/boehner-offers-g-o-p-a-warning-on-control-of-the-house/",
+    "word-count": 346,
+    "date": "2012-04-23",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "John Boehner": "Neutral",
+            "Democrats": "Neutral",
+            "Republicans": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Speaker John A. Boehner of Ohio said on Monday that Republicans had a one-in-three chance of losing control of the House in November, a surprisingly downbeat assessment from a Republican leader who until now has expressed no fears of losing the gavel.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "In an interview with Fox News, to be shown on Tuesday, Mr. Boehner delivered what aides called a wake-up call to his troops.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI would say that there is a two-in-three chance that we win control of the House again, but there\u2019s a one-in-three chance that we could lose, and I\u2019m being myself, frank,\u201d he said in an interview first posted online by the newspaper The Hill.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019ve got a big challenge, and we\u2019ve got work to do.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Boehner pointed to what aides called \u201corphan districts\u201d in Democratic-leaning states that would not be a factor in the presidential campaign.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Local Republican Party affiliates are less organized in such states and turnout may be depressed.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe have 50 of our members in tough races, 89 freshmen running for their first re-elections, and we have 32 districts that are in states where there is no presidential campaign going to be run, no big Senate race,\u201d he said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYou take 18 of them, California, Illinois and New York, where you know we\u2019re not likely to do well at the top of the ticket, and those districts are frankly pretty vulnerable.\u201d",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "House political analysts also have looked at such states, but redistricting in California \u2013 run by an independent commission \u2013 has been as tough on Democrats as it has been on Republicans.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Illinois and New York could be a problem for Mr. Boehner\u2019s party, but Republican-run redistricting in North Carolina and Indiana would appear to counter those Democratic gains.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "But Democrats have become bolder on their predictions.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "An NBC News/Wall Street Journal poll last week found that voters favored a Democratic-controlled Congress over a Republican one 46 percent to 41 percent, a spread that has not changed much all year.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019ve got a real challenge,\u201d Mr. Boehner said.",
+            "sentence-index": 12,
+            "annotations": []
+        }
+    ]
+}

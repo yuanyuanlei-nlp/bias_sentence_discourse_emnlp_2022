@@ -1,0 +1,239 @@
+{
+    "date": "2011-11-02",
+    "main-entities": [
+        "Barack Obama",
+        "Senate Republicans"
+    ],
+    "main-event": "Obama taunts GOP for ignoring jobs bill",
+    "title": "Obama: \u2018In God We Trust' Vote Not Creating Jobs",
+    "word-count": 656,
+    "source": "fox",
+    "url": "http://www.foxnews.com/politics/2011/11/02/obama-in-god-trust-vote-not-creating-jobs/",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Barack Obama": "Neutral",
+            "Senate Republicans": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "The House vote to reaffirm that \"In God We Trust\" is the U.S. motto is \"not putting people back to work,\" President Obama said Wednesday in a speech pushing his jobs bill.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I trust in God, but God wants to see us help ourselves by putting people back to work,\" the president said during a speech at Key Bridge in Washington, D.C., where he was highlighting the need for federal funding of infrastructure repairs nationwide.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked later in the day whether it was fair to invoke God in the debate over the Congressional schedule, White House Press Secretary Jay Carney said, \"Yeah, I think it's a fair jab if I do say so myself.\"",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I believe that phrase from the Bible is 'the Lord helps those who help themselves.'",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "And I think the point the president is making is that, you know, we should -- we have it within our capacity to do the things to help the American people.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "And that's why he's working so hard to get Congress to take action on the American Jobs Act and the provisions therein,\" Carney told reporters at his daily briefing.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The phrase quoted by Carney is not in the Bible, though it is often mistaken as a verse.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 88,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Jay Carney",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The phrase quoted by Carney is not in the Bible, though it is often mistaken as a verse."
+                }
+            ]
+        },
+        {
+            "sentence": "Later when the official White House briefing transcript was released, there was an asterik, to Carney's statement, \"* This common phrase does not appear in the Bible,\" it read.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Carney said the particular reference by the president to God was made in the context of \"inaction by the House of Representatives, which has spent time on issues like commemorative Hall-of-Fame baseball coins and reaffirming a motto that I don't think anyone doubted, is that \u2018In God We Trust' is our motto.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 129,
+                    "target": "Senate Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "inaction by the House of Representatives"
+                }
+            ]
+        },
+        {
+            "sentence": "So his point was simply that the House should get busy with matters of great importance to the United States and to the American people.\"",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 135,
+                    "target": "Senate Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "the House should get busy with matters of great importance to the United States and to the American people"
+                }
+            ]
+        },
+        {
+            "sentence": "During his remarks, the president also called out House Speaker John Boehner for what the administration has made a drumbeat over the last week -- a do-nothing Congress.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 147,
+                    "end": 168,
+                    "target": "Senate Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a do-nothing Congress"
+                }
+            ]
+        },
+        {
+            "sentence": "\"What have you guys been debating, John? You've been debating a commemorative coin for baseball?\" Obama said.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 96,
+                    "target": "Senate Republicans",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "John Boehner",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Barack Obama",
+                    "text": "What have you guys been debating, John? You've been debating a commemorative coin for baseball?"
+                }
+            ]
+        },
+        {
+            "sentence": "The House resolution on the national motto passed Tuesday was introduced by Rep. Randy Forbes, R-Va., and considered under an expedited floor procedure.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "It passed in a 396-9 vote.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "After the vote, Rep. Bobby Scott, D-Va., one of the nine lawmakers to vote against the resolution, said the nation faces bigger problems, such as the economy, failing public schools and poverty.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Instead of facing these challenges and creating jobs to help American people make sure they have a roof over their head and food on their table, we are debating whether or not to affirm and proliferate a motto that was adopted in 1956 and is under no threat of attack,\" he said.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 268,
+                    "target": "Senate Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Instead of facing these challenges and creating jobs to help American people make sure they have a roof over their head and food on their table, we are debating whether or not to affirm and proliferate a motto that was adopted in 1956 and is under no threat of attack"
+                }
+            ]
+        },
+        {
+            "sentence": "House Republicans have argued that the procedural votes don't take up very much time.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "They add that they have brought up 15 bills that they contend will help create jobs but have been ignored in the Democratic-led Senate.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The Senate is preparing to take up a portion of the president's jobs bill - on infrastructure -- after the $447 billion jobs package failed when offered as a whole.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Carney contended that Congress wouldn't be focused at all on jobs if not for the president's power of persuasion.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If not for the president's insistence on pushing the American Jobs Act, would we be having a debate about jobs and the economy right now in Washington or would Congress be -- or the Republicans in Congress be so divorced from the reality that Americans are encountering every day that they would be debating matters wholly unrelated to the primary concerns of the American people?",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 179,
+                    "end": 380,
+                    "target": "Senate Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "the Republicans in Congress be so divorced from the reality that Americans are encountering every day that they would be debating matters wholly unrelated to the primary concerns of the American people"
+                }
+            ]
+        },
+        {
+            "sentence": "I think that's possible.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "I mean, I know that Democrats would be out there pushing this, and certainly the president is,\" he said.",
+            "sentence-index": 22,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "title": "GOP Senators Keep Pressure on Steele Over 'Inaccurate' Afghanistan Comments",
+    "date": "2010-07-04",
+    "url": "http://www.foxnews.com/politics/2010/07/04/gop-senators-pressure-steele-inaccurate-afghanistan-comments.html",
+    "main-entities": [
+        "Michael Steele"
+    ],
+    "word-count": 322,
+    "source": "fox",
+    "main-event": "Michael Steele Criticized for Afghanistan Comments",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Michael Steele": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a \"war of Obama's choosing\" and may not be winnable.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Speaking on \"Fox News Sunday,\" Sen. Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan,\" he said.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is America's war.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "It's not Obama's war.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 80,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The GOP chairman is known for off-the-cuff and occasionally troublesome comments"
+                }
+            ]
+        },
+        {
+            "sentence": "DeMint, who said Afghanistan is a war the United States must win, said Steele needs to \"refocus\" on the November election.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "He called Steele's comments \"unacceptable\" and \"inaccurate.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We need a chairman who's focused,\" DeMint said.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Speaking on ABC's \"This Week,\" Sen. John McCain, R-Ariz., said Steele's comments were \"wildly inaccurate.\"",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 87,
+                    "end": 93,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "wildly"
+                }
+            ]
+        },
+        {
+            "sentence": "The Arizona Republican said Steele needs to assess whether he can still function in his job and must make \"an appropriate decision\" about his future.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Trying to quell the furor, Steele issued a statement saying: \"There is no question that America must win the war on terror.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "... And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war.\"",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "He sent an e-mail to RNC members saying he hoped his statement would \"clear up any confusion\" caused by his earlier remarks.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "That didn't seem to quiet the controversy in the slightest.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on \"Fox News Sunday\" that Steele still needs to go -- though he said Steele tried to convince him otherwise.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think it would be better if he went,\" he said.",
+            "sentence-index": 17,
+            "annotations": []
+        }
+    ]
+}

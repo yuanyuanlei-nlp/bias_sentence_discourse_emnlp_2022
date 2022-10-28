@@ -1,0 +1,288 @@
+{
+    "word-count": 651,
+    "date": "2017-05-31",
+    "title": "Trump Lashes Out at Kathy Griffin and Democrats",
+    "source": "nyt",
+    "url": "https://mobile.nytimes.com/2017/05/31/us/politics/trump-kathy-griffin-comedian-democrats.html",
+    "main-event": "Kathy Griffin apologizes for photo shoot with a fake bloody Donald Trump head",
+    "main-entities": [
+        "Kathy Griffin",
+        "Donald Trump"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Kathy Griffin": "Neutral",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Trump Lashes Out at Kathy Griffin and Democrats",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "WASHINGTON \u2014 President Trump assailed Democrats and a television comedian on Wednesday in his latest Twitter blasts since returning from an overseas trip in which he had largely abstained from the sort of combative social media postings that helped propel him to the Oval Office and have gotten him in trouble ever since.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 193,
+                    "end": 320,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the sort of combative social media postings that helped propel him to the Oval Office and have gotten him in trouble ever since"
+                }
+            ]
+        },
+        {
+            "sentence": "The president castigated Kathy Griffin, the celebrity comic and author, for posing for a video showing her holding what looks like the severed and bloodied head of Mr. Trump.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 24,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "castigated"
+                }
+            ]
+        },
+        {
+            "sentence": "The video touched off a storm of protests from people on all sides of the political spectrum, which forced Ms. Griffin to apologize, and CNN announced that it would fire her from the annual New Year\u2019s Eve program she has co-hosted.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 100,
+                    "end": 106,
+                    "target": "Kathy Griffin",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "forced"
+                }
+            ]
+        },
+        {
+            "sentence": "In a statement later in the day, the first lady, Melania Trump, questioned Ms. Griffin\u2019s sanity.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAs a mother, a wife, and a human being, that photo is very disturbing,\u201d she said.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 70,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "that photo is very disturbing"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWhen you consider some of the atrocities happening in the world today, a photo opportunity like this is simply wrong and makes you wonder about the mental health of the person who did it.\u201d",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 189,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cWhen you consider some of the atrocities happening in the world today, a photo opportunity like this is simply wrong and makes you wonder about the mental health of the person who did it.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "The Trumps had the support of the daughter of the woman the president beat in last year\u2019s election, among others.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 113,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "Chelsea Clinton",
+                    "indirect-ally-opponent-sentiment": "Neutral",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The Trumps had the support of the daughter of the woman the president beat in last year\u2019s election, among others."
+                }
+            ]
+        },
+        {
+            "sentence": "Ms. Griffin went online on Tuesday night to express regret.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI sincerely apologize,\u201d she said in a video.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m just now seeing the reaction of these images.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "I\u2019m a comic.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "I crossed the line. I move the line, I cross it. I went way too far.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The image is too disturbing.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "I understand how it offends people.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "It wasn\u2019t funny. I get it.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "She said she had asked the photographer to pull the images.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI beg for your forgiveness,\u201d she continued.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI went too far.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "I made a mistake and I was wrong.\u201d She did not address Mr. Trump specifically in her video.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "CNN, which has enlisted Ms. Griffin to host New Year\u2019s Eve programming alongside Anderson Cooper for the last decade, announced on Wednesday that she would no longer appear.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Cooper distanced himself, as well.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 38,
+                    "target": "Kathy Griffin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Cooper distanced himself, as well."
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump also lashed out at Democrats in Congress whom he accused of trying to squelch testimony involving the investigation into Russian meddling in last year\u2019s election.",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 172,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Trump also lashed out at Democrats in Congress whom he accused of trying to squelch testimony involving the investigation into Russian meddling in last year\u2019s election."
+                }
+            ]
+        },
+        {
+            "sentence": "Shortly after a \u201cFox and Friends\u201d segment reporting that Democrats no longer want to hear testimony from Carter Page, a onetime Trump campaign adviser, Mr. Trump wrote that it was all part of a \u201cwitch hunt\u201d against him.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cSo now it is reported that the Democrats, who have excoriated Carter Page about Russia, don\u2019t want him to testify,\u201d he wrote.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHe blows away their case against him & now wants to clear his name by showing \u2018the false or misleading testimony by James Comey, John Brennan \u2026\u2019 Witch Hunt!\u201d",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "In a letter to the House Intelligence Committee reported by Fox and other news organizations, Mr. Page wrote: \u201cI have learned from your Committee staff on this Memorial Day holiday that I might not be immediately afforded the opportunity to address the false or misleading testimony by James Comey, John Brennan, et al. as per our previously scheduled appointment for next week.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "In the interest of finally providing the American people with some accurate information at long last, I hope that we can proceed with this straight dialogue soon.\u201d",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Page did not list what testimony he considered false by Mr. Comey, who was fired by Mr. Trump as director of the F.B.I., or Mr. Brennan, the former director of the C.I.A., who stepped down when President Barack Obama left office in January.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "But Mr. Page urged the committee \u201cto investigate the growing evidence of collusion between Clinton campaign associates, Comey and other former Obama administration officials.\u201d",
+            "sentence-index": 29,
+            "annotations": []
+        }
+    ]
+}

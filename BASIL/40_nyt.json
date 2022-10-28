@@ -1,0 +1,325 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Joe Biden",
+        "Paul Ryan"
+    ],
+    "main-event": "Biden and Ryan debate",
+    "title": "Biden Takes Off Gloves in Vice-Presidential Debate",
+    "url": "http://www.nytimes.com/2012/10/12/us/politics/biden-takes-off-gloves-in-vice-presidential-debate.html?emc=rss&_r=0",
+    "word-count": 693,
+    "date": "2012-10-12",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Joe Biden": "Negative",
+            "Paul Ryan": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Joe Biden knew Lloyd Bentsen.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Lloyd Bentsen was a friend of Joe Biden\u2019s.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "And the vice president made full use of his old Senate colleague\u2019s 1988 debate playbook, shaking his head and scoffing pityingly at Representative Paul D. Ryan, trying to paint his opponent as a latter-day Dan Quayle.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 128,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "shaking his head and scoffing pityingly"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Ryan was no Dan Quayle, but he did make the mistake of mentioning John F. Kennedy in an argument over whether tax cuts recharge the economy.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 55,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "make the mistake"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Biden flashed a Cheshire Cat grin and said to Ryan, after waiting a beat to let the moment sink in, \u201cSo, now you\u2019re Jack Kennedy?\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The vice presidential debate on Tuesday was supposed to be a reboot for the Obama campaign after the president\u2019s dismal performance at his debate with the Republican nominee for president, Mitt Romney, last week.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 113,
+                    "end": 119,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Barack Obama",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "dismal"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Biden, clearly delighted to come to President Obama\u2019s rescue, relished his role, addressing his opponent as \u201cmy friend\u201d but dismissing his arguments as \u201cmalarkey.\u201d",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "He laughed at Mr. Ryan\u2019s remarks so often and so heartily that at times he seemed like a guest at a comedy club roast, not a vice president debating the fate of the nation with his opponent.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 190,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He laughed at Mr. Ryan\u2019s remarks so often and so heartily that at times he seemed like a guest at a comedy club roast, not a vice president debating the fate of the nation with his opponent."
+                }
+            ]
+        },
+        {
+            "sentence": "It was a sharp and spirited debate, with both candidates delivering some lacerating blows, but Mr. Ryan at times seemed disconcerted by the sheer blowhard intensity Mr. Biden brought to the night.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 140,
+                    "end": 164,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "sheer blowhard intensity"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Ryan tried to be respectful, listening to the vice president with a tilted head, choirboy smile and puppy-dog eyes, but he showed his irritation when Mr. Biden kept interrupting to attack his policy on Medicare.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 118,
+                    "target": "Paul Ryan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Ryan tried to be respectful, listening to the vice president with a tilted head, choirboy smile and puppy-dog eyes"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI know you\u2019re under duress,\u201d he told the vice president, prompting another belly laugh.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "For Mr. Biden especially, the night was his chance to relive past debates and unleash his inner barroom brawler.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 78,
+                    "end": 111,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "unleash his inner barroom brawler"
+                }
+            ]
+        },
+        {
+            "sentence": "He had to be contained and courteous when he debated Sarah Palin four years ago, lest he look like a bully.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 13,
+                    "end": 22,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "contained"
+                }
+            ]
+        },
+        {
+            "sentence": "This time he let loose.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "And unlike the courtly Mr. Bentsen in 1988, Mr. Biden turned his temperature up, singeing the young man across the table with patronizing grins, but mostly withering retorts.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 81,
+                    "end": 173,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "singeing the young man across the table with patronizing grins, but mostly withering retorts"
+                }
+            ]
+        },
+        {
+            "sentence": "His interruptive barrage was as relentless as his silent mugging for the camera.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 80,
+                    "target": "Joe Biden",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "His interruptive barrage was as relentless as his silent mugging for the camera."
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Ryan held his own, but did look abashed when Mr. Biden mocked him for opposing the Obama stimulus, yet asking for government funds for his own district.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOn two occasions, we \u2014 we \u2014 we advocated for constituents who were applying for grants,\u201d Mr. Ryan said stiffly.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 111,
+                    "target": "Paul Ryan",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "stiffly"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI love that. I love that,\u201d Mr. Biden said.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis was such a bad program, and he writes me a letter saying \u2014 writes the Department of Energy a letter saying, the reason we need this stimulus \u2014 it will create growth and jobs.\u201d",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "When Mr. Biden went after Mr. Romney\u2019s infamous remark at a private fund-raiser about the \u201c47 percent,\u201d Mr. Ryan reminded the vice president of his own propensity for gaffes.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think the vice president very well knows that sometimes the words don\u2019t come out of your mouth the right way,\u201d he said with a gotcha smile.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Biden was not quite as amused.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Biden was not the only one in the room intent on rectifying his predecessor\u2019s mistakes.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Martha Raddatz of ABC News was the moderator, and she made a point of speaking forcefully, pushing the candidates to be specific and changing subjects abruptly.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "She seemed determined to be less passive and sleepy than Jim Lehrer of PBS was as moderator of the Obama-Romney debate.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Ryan made a point of praising Mr. Romney, even trying to soften his image by recounting a time when Mr. Romney gave money and attention to a couple whose children were badly injured in a car accident.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "It wasn\u2019t the best example to use, because it prompted Mr. Biden to describe his own tragedy, when his wife and young daughter were killed in a car crash.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "A version of this article appears in print on October 12, 2012, on page A16 of the New York edition with the headline: Night of Withering Ripostes, Mostly Delivered by Biden.",
+            "sentence-index": 28,
+            "annotations": []
+        }
+    ]
+}

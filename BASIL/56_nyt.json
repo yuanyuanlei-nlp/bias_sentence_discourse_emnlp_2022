@@ -1,0 +1,335 @@
+{
+    "word-count": 1124,
+    "date": "2018-01-22",
+    "title": "Senate Democrats\u2019 Vote to End Shutdown Infuriates Some on the Left",
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2018/01/22/us/politics/liberal-activists-democrats-betrayal-shutdown.html",
+    "main-event": "Schumer bashed by the left over shutdown-ending deal",
+    "main-entities": [
+        "Democratic Lawmakers",
+        "Republican Lawmakers"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Democratic Lawmakers": "Negative",
+            "Republican Lawmakers": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Senate Democrats\u2019 Vote to End Shutdown Infuriates Some on the Left",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "WASHINGTON \u2014 The decision by Senate Democrats to end the government shutdown on Monday in exchange for a promised immigration vote enraged liberals, who accused the lawmakers of betrayal and threatened to mount primaries against some of the Democrats who voted yes.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Regardless of what happens in the Senate, progressive and immigrant advocacy groups said House Republican leaders will never take up a bill that would offer legal status to young undocumented immigrants brought to the country as children without excruciating concessions on other immigration issues.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "They accused Senator Chuck Schumer of New York, the Democratic leader, and moderate Democratic senators of capitulating to protect senators up for re-election in November in Republican-leaning states.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThey blinked because they\u2019ll always put the party and the success of the party first,\u201d said Representative Luis V. Guti\u00e9rrez of Illinois, one of the leading Democratic advocates for immigrants, complaining that Hispanics got short shrift.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 85,
+                    "target": "Democratic Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "They blinked because they\u2019ll always put the party and the success of the party first"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt\u2019s the one word they know in Spanish: ma\u00f1ana.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The hasty retreat by 33 Senate Democrats was particularly humiliating in the immediate aftermath of the anniversary of the Women\u2019s March, which saw thousands of activists reconvene in cities across the country to protest against President Trump and congressional Republicans.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 69,
+                    "target": "Democratic Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "humiliating"
+                }
+            ]
+        },
+        {
+            "sentence": "Liberal groups such as MoveOn.org began urging members to sign up on Monday for rallies aimed at pressuring Republicans to protect the young undocumented immigrants known as Dreamers.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "By noon, their own ostensible allies in Congress had buckled.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe grass-roots are rightly furious with a slew of elected Democrats,\u201d said Ben Wikler, the Washington director of MoveOn.org.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIn the Obama years, Republicans learned to be more afraid of primary challenges than general elections.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "But Democrats are still operating as though the Tea Party is more powerful than The Resistance.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The anger on the left was reminiscent of conservative unrest that fueled primary race challenges against sitting Republican senators accused of appeasing an opposition president, Barack Obama, and his congressional allies.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Schumer, determined to keep the fissures in his party coalition muted, used a meeting of Senate Democrats before the vote to urge the liberals in his caucus not to criticize those voting to reopen the government, according to one senator who spoke on the condition of anonymity to discuss a private meeting.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "And for the most part, the liberal senators who opposed the agreement held their fire.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Democrats have largely avoided the internal insurrections that upended Republicans over the past decade.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Schumer is not a figure of derision on the left as Mr. McConnell is on the right.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 85,
+                    "target": "Republican Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Schumer is not a figure of derision on the left as Mr. McConnell is on the right."
+                }
+            ]
+        },
+        {
+            "sentence": "And Senate Democrats have crushed most primary election challenges easily.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Senate leaders have intervened freely in a number of 2018 races \u2014 in states like Arizona and Tennessee \u2014 to anoint more moderate standard-bearers.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Former Senator Byron L. Dorgan, Democrat of North Dakota, said Democrats from the more rural states that make up much of the 2018 map would prefer to battle over issues other than immigration.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "The Obama-era program that protected young undocumented immigrants \u2014 Deferred Action for Childhood Arrivals, or DACA \u2014 is an important issue, he said, but \u201cit isn\u2019t the bread and butter of successful Democrat politics.\u201d",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOur major issues are jobs, Medicare, Medicaid, CHIP, Social Security, infrastructure, supporting domestic programs, clean air, safe drinking water,\u201d Mr. Dorgan said, adding of his conservative-state brethren, \u201cWhile those Democrats do strongly support DACA, I\u2019m sure they would prefer to be discussing different issues.\u201d",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "But the patience of the left may be running thin.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "By appearing to retreat on Monday, Democrats have stirred new talk on the left about challenging incumbents who had previously given little thought to their own nominations.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Faiz Shakir, the political director of the American Civil Liberties Union and an adviser to former Senator Harry Reid of Nevada, said the group and its allies were actively exploring places to intervene in primary elections.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Shakir said of some Democrats that it is an \u201copen question, still, whether they\u2019re going to fight for Dreamers.\u201d",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Right now, only one Democratic senator faces a serious primary challenge: Senator Dianne Feinstein of California, who voted against the government-funding deal and complained privately that she and most of her colleagues had been asked to vote on Friday against a nearly identical measure to keep the government open.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Ms. Feinstein has tacked to the left since Kevin de L\u00e9on, the president of the California State Senate, announced his challenge to her in October.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. de L\u00e9on said Monday that Democrats had made a grave mistake striking \u201canother fingers-crossed bargain with Donald Trump and Mitch McConnell.\u201d",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 145,
+                    "target": "Democratic Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. de L\u00e9on said Monday that Democrats had made a grave mistake striking \u201canother fingers-crossed bargain with Donald Trump and Mitch McConnell.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. de L\u00e9on said he had called and left a voice mail message with Thomas E. Perez, the Democratic National Committee chairman, and planned to convey that Democrats had sent a terrible message to \u201cvoters of color and millennial voters who feel like they\u2019ve been abandoned.\u201d",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOnce again, the party\u2019s leaders in Washington have capitulated, compromised and redrawn a line in the sand even further away from justice,\u201d he said.",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 138,
+                    "target": "Democratic Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "Once again, the party\u2019s leaders in Washington have capitulated, compromised and redrawn a line in the sand even further away from justice"
+                }
+            ]
+        },
+        {
+            "sentence": "One House Democrat is already under fire for not taking a stronger stance on behalf of immigrants: Representative Daniel Lipinski of Illinois, a moderate Democrat from Chicago who is facing a primary race challenger, Marie Newman, in March.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI asked him to sign on to Dream bill.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "He said, \u2018I don\u2019t think I can do that,\u2019\u201d said Mr. Guti\u00e9rrez, whoendorsed Ms. Newman last week.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "(Mr. Lipinski opposed the measure in 2010 but has said in recent months that he would support it if it comes to the House floor.)",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "The chances of a successful primary election challenge in the Senate are far more remote.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "Many of the Democrats facing re-election in November hail from states that Mr. Trump carried and are more concerned about well-funded Republican opponents than liberal challengers.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "Of the 10 Democrats who gathered outside the Senate chamber after the vote to crow about their bipartisan agreement, six are on the ballot this year.",
+            "sentence-index": 37,
+            "annotations": [
+                {
+                    "start": 78,
+                    "end": 82,
+                    "target": "Democratic Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "crow"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIf you want results, you have to compromise, and if you\u2019re unwilling to compromise, you won\u2019t get results,\u201d said Senator Heidi Heitkamp, Democrat of North Dakota.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYou maybe get a political issue, but you won\u2019t get results.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "And I didn\u2019t come here to do politics.\u201d",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "Progressives, however, are already eyeing one of the Democrats who pushed for a compromise: Senator Amy Klobuchar of Minnesota.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "On a conference call convened Sunday night by liberal groups, there was notable anger toward Ms. Klobuchar, according to two participants.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "Ms. Klobuchar, however, illustrates why the Democratic base may find it difficult to inflict payback: She is broadly popular with liberals in Minnesota, and the shutdown fight has come late enough in the congressional calendar to leave any would-be challenger with little time to prepare.",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI have been working hard for the people of Minnesota, and I think the people of Minnesota understand that, including in my party,\u201d Ms. Klobuchar said.",
+            "sentence-index": 44,
+            "annotations": []
+        }
+    ]
+}

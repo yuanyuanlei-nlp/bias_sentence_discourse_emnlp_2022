@@ -1,0 +1,297 @@
+{
+    "date": "2010-07-14",
+    "title": "NAACP Resolution Calls on Tea Party to Repudiate 'Racist Elements' in Movement",
+    "word-count": 733,
+    "main-event": "N.A.A.C.P. Challenges Tea Party on Racism",
+    "source": "fox",
+    "url": "http://www.foxnews.com/politics/2010/07/13/tea-party-preempts-racist-resolution-condemns-bigoted-naacp/?intcmp=related",
+    "main-entities": [
+        "NAACP",
+        "Tea Party"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "NAACP": "Negative",
+            "Tea Party": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "The NAACP adopted a resolution Tuesday condemning \"racist elements\" in the Tea Party movement and calling on the movement's leaders to repudiate bigotry, despite claims from Tea Partiers that the measure is just a political ploy.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The nation's leading civil rights group took up the language at its annual convention in Kansas City, Mo.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The resolution initially said the NAACP would \"repudiate the racism of the Tea Parties\" and stand against the movement's attempt to \"push our country back to the pre-civil rights era,\" though the wording was amended to downplay criticism of all Tea Partiers while asking them to repudiate bigots in their own ranks.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 133,
+                    "end": 182,
+                    "target": "Tea Party",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "NAACP",
+                    "text": "push our country back to the pre-civil rights era"
+                }
+            ]
+        },
+        {
+            "sentence": "\"We take no issue with the Tea Party movement.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "We believe in freedom of assembly and people raising their voices in a democracy,\" the NAACP President Benjamin Todd Jealous said in a written statement announcing the unanimous vote.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"What we take issue with is the Tea Party's continued tolerance for bigotry and bigoted statements.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 28,
+                    "end": 98,
+                    "target": "Tea Party",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "NAACP",
+                    "text": "the Tea Party's continued tolerance for bigotry and bigoted statements"
+                }
+            ]
+        },
+        {
+            "sentence": "\"The time has come for them to accept the responsibility that comes with influence and make clear there is no place for racism and anti-Semitism, homophobia and other forms of bigotry in their movement.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "NAACP leaders have referenced an incident in March when Tea Party protesters allegedly hurled racial epithets at black lawmakers on Capitol Hill ahead of a health care vote.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "But Tea Party members have challenged claims that their activists accosted black lawmakers in March and no visual evidence has been produced depicting a racist attack.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 166,
+                    "target": "NAACP",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "no visual evidence has been produced depicting a racist attack"
+                }
+            ]
+        },
+        {
+            "sentence": "Dallas Tea Party founder Phillip Dennis said \"there was no proof\" of racist behavior at the event and that the movement welcomes minority members.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We don't care about the pigment of one's skin,\" he said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Dennis accused the NAACP of playing the \"race card\" and called the organization \"irrelevant.\"",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The nearby St. Louis Tea Party had an all-hands-on-deck response to the NAACP's plan.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The group has drafted a resolution of its own condemning the civil rights group for reducing itself to a \"bigoted\" and \"partisan attack dog organization.\"",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 120,
+                    "end": 152,
+                    "target": "NAACP",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Tea Party",
+                    "text": "partisan attack dog organization"
+                }
+            ]
+        },
+        {
+            "sentence": "Debate was mostly closed to the public, but the final version \"calls on the tea party and all people of good will to repudiate the racist element and activities within the tea party,\" said Hilary Shelton, director of the NAACP's Washington bureau.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The final wording won't be released until the NAACP's national board of directors approves the resolution during its meeting in October.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "But the original called for the NAACP to \"educate its membership and the community that this movement is not just about higher taxes and limited government.\"",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "It said something could evolve \"and become more dangerous for that small percentage of people that really think our country has been taken away from them.\"",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "In a matter of hours, the St. Louis group fired off to the NAACP the statement demanding the organization withdraw its \"bigoted, false and inflammatory\" resolution.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "The missive accused the NAACP of resorting to political tactics and urged the IRS to reconsider whether it can continue to qualify for tax-exempt status.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Tea Party organizers routinely defend themselves against charges of racism, disavowing racially charged signs that appear in their protest crowds and provide fodder for Tea Party critics.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 187,
+                    "target": "Tea Party",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Tea Party organizers routinely defend themselves against charges of racism, disavowing racially charged signs that appear in their protest crowds and provide fodder for Tea Party critics."
+                }
+            ]
+        },
+        {
+            "sentence": "The NAACP resolution, first reported by the Kansas City Star, was expected to make reference to the March incident on Capitol Hill.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "St. Louis Tea Party organizer Bill Hennessy wrote on the group's website Tuesday that the Tea Party stands for smaller government and fiscal responsibility, and accused the NAACP of abandoning black America.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\"When you look at the crime and poverty and family breakdown of the African-American community ... you see a half-century of failure by the NAACP,\" he wrote.",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 145,
+                    "target": "NAACP",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Tea Party",
+                    "text": "When you look at the crime and poverty and family breakdown of the African-American community ... you see a half-century of failure by the NAACP"
+                }
+            ]
+        },
+        {
+            "sentence": "\"None of those persistent problems was caused by the Tea Party movement, yet the principles of the Tea Party are exactly what's needed to wind down the multigenerational destruction in the African-American community.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 216,
+                    "target": "Tea Party",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Tea Party",
+                    "text": "\"None of those persistent problems was caused by the Tea Party movement, yet the principles of the Tea Party are exactly what's needed to wind down the multigenerational destruction in the African-American community."
+                }
+            ]
+        },
+        {
+            "sentence": "\"The NAACP was once a vital weapon in the war against segregation and oppression.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "All that's left is a bigoted and malicious shell that does far more harm than good for people who need a break,\" he wrote.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 110,
+                    "target": "NAACP",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Tea Party",
+                    "text": "All that's left is a bigoted and malicious shell that does far more harm than good for people who need a break"
+                }
+            ]
+        },
+        {
+            "sentence": "Fellow St. Louis Tea Party organizer Dana Loesch accused the NAACP of morphing into a political organization.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThey no longer prioritize civil rights,\u201d she told Fox News.",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 39,
+                    "target": "NAACP",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Tea Party",
+                    "text": "They no longer prioritize civil rights"
+                }
+            ]
+        }
+    ]
+}

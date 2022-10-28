@@ -1,0 +1,225 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Mitt Romney",
+        "Barack Obama"
+    ],
+    "main-event": "Romney reaffirms opposition to same sex marriage",
+    "title": "Romney Reaffirms Opposition to Marriage, or Unions, for Gay Couples",
+    "url": "https://www.nytimes.com/2012/05/10/us/politics/romney-reaffirms-opposition-to-marriage-or-similar-for-gay-couples.html",
+    "word-count": 713,
+    "date": "2012-05-10",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Mitt Romney": "Negative",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Like many conservative Republicans, Mitt Romney is opposed not only to same-sex marriage, but also to the civil unions that many states have adopted as an alternative to full marital rights for gay couples.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Now that President Obama, long a supporter of civil unions, has publicly embraced same-sex marriage, the question of precisely what legal status and protections should be granted to gay couples is emerging as an issue of the starkest possible contrast between the two presidential candidates.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "In short, both Mr. Romney and Mr. Obama have adopted the favored position of their ideological base on a subject that profoundly animates both of those camps.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "On Wednesday, in anticipation of Mr. Obama\u2019s announcement, Mr. Romney laid out his belief that marriage \u2014 and anything resembling it \u2014 should be restricted to heterosexual couples, even as he acknowledged that it was \u201ca very tender and sensitive topic.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "In doing so, he left open many questions about what his vision of legally recognizable gay unions would encompass, and what it would exclude.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 141,
+                    "target": "Mitt Romney",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "In doing so, he left open many questions about what his vision of legally recognizable gay unions would encompass, and what it would exclude."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cMy view is the same as it\u2019s been from the beginning,\u201d Mr. Romney told a CBS affiliate in Denver.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don\u2019t favor civil unions if it\u2019s identical to marriage, and I don\u2019t favor marriage between people of the same gender.\u201d",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked why he opposed civil unions, in particular, he explained that in many cases they represent marriage by a different name for gay couples.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf a civil union is identical to marriage other than with the name, why, I don\u2019t support that,\u201d he said Wednesday.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Nine states, including California, Delaware and New Jersey, now allow civil unions and broad domestic partnerships that most likely fit Mr. Romney\u2019s description of marriage-like arrangements, meaning that they would be in the cross hairs of a President Romney, who supports a constitutional amendment to ban same-sex marriage.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 226,
+                    "end": 237,
+                    "target": "Mitt Romney",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "cross hairs"
+                }
+            ]
+        },
+        {
+            "sentence": "Those states offer an array of different rights to same-sex couples, among them the ability to pool resources for tax purposes, place a spouse on an employee health care plan and inherit property after a death.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Romney has said that he favors allowing domestic partnerships that bestow certain rights on same-sex couples, like hospital visitation, but he has not delineated them in great detail.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 144,
+                    "end": 186,
+                    "target": "Mitt Romney",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "he has not delineated them in great detail"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cBenefits of that nature may well be appropriate, and states are able to make a provision for the determination of those kinds of rights,\u201d Mr. Romney said Wednesday.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Republicans and Democrats, in their reactions to the president\u2019s support for same-sex marriage, said they saw a newly wide, and seemingly unbridgeable, gap between the two leaders on the issue.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe now have a clear choice between Romney and Obama,\u201d said Maggie Gallagher, a founder of the National Organization for Marriage, which opposes same-sex marriage.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "She called the president\u2019s decision \u201ca huge mistake\u201d that would reward the Republican Party.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 51,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "a huge mistake"
+                }
+            ]
+        },
+        {
+            "sentence": "Evan Wolfson, the founder of Freedom to Marry, a gay rights organization, said that now \u201cthere is absolutely no way that opponents of gay rights can hide behind any unclarity in the president\u2019s position and make the bogus claim that it\u2019s the same as theirs.\u201d",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Romney has, over the years, made it clear that his opposition to same-sex marriage and civil unions is a deeply held moral conviction, and he has not shied from using strong language to describe the offense he has taken to its introduction.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "When in 2003 the Massachusetts courts legalized same-sex marriage in the state, Mr. Romney, then governor, complained that the state had become \u201cSan Francisco East.\u201d",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 117,
+                    "target": "Mitt Romney",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "complained"
+                }
+            ]
+        },
+        {
+            "sentence": "And, speaking with a sense of alarm about gay couples, he warned a conservative audience that \u201csome are actually having children born to them.\u201d",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 53,
+                    "target": "Mitt Romney",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "speaking with a sense of alarm about gay couples"
+                }
+            ]
+        },
+        {
+            "sentence": "Democrats contend that, like Mr. Obama\u2019s views, Mr. Romney\u2019s feelings about gay rights have evolved, but in the opposite direction: During his campaign for the Senate in 1994, Mr. Romney vowed to seek \u201cfull equality\u201d for gays and lesbians, in a letter to the Log Cabin Republicans of Massachusetts.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "In that letter he argued that he was more supportive of gay rights than his Democratic opponent at the time, Senator Edward M. Kennedy.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "But at the time, same-sex marriage was a little-discussed item on the agenda of national gay rights leaders, and aides say Mr. Romney has consistently opposed both marriage and civil unions that resemble marriage for gay couples.",
+            "sentence-index": 22,
+            "annotations": []
+        }
+    ]
+}

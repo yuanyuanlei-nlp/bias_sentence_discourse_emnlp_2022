@@ -1,0 +1,232 @@
+{
+    "title": "Michael Steele\u2019s Afghanistan Comments Stir Up Furious Reaction From Conservatives",
+    "date": "2010-07-04",
+    "url": "https://www.huffpost.com/entry/michael-steeles-afghanist_n_633943",
+    "main-entities": [
+        "Michael Steele"
+    ],
+    "word-count": 425,
+    "source": "hpo",
+    "main-event": "Michael Steele Criticized for Afghanistan Comments",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Michael Steele": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Several prominent conservatives offered swift, negative reactions to Michael Steele on Friday, after the RNC chairman was caught on camera saying that Afghanistan is a largely unwinnable war of President Obama\u2019s choosing. ",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The pushback crested with Bill Kristol \u2014 still an influential voice among Republican lawmakers \u2014 writing a letter to Steele on his Weekly Standard site calling for the RNC leader\u2019s resignation.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNeedless to say, the war in Afghanistan was not \u201ca war of Obama\u2019s choosing.\u201d",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "It has been prosecuted by the United States under Presidents Bush and Obama.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Republicans have consistently supported the effort.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Indeed, as the DNC Communications Director (of all people) has said, your statement \u201cputs [you] at odds with about 100 percent of the Republican Party.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "And not on a trivial matter.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "At a time when Gen. Petraeus has just taken over command, when Republicans in Congress are pushing for a clean war funding resolution, when Republicans around the country are doing their best to rally their fellow citizens behind the mission, your comment is more than an embarrassment.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 243,
+                    "end": 285,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "your comment is more than an embarrassment"
+                }
+            ]
+        },
+        {
+            "sentence": "It\u2019s an affront, both to the honor of the Republican party and to the commitment of the soldiers fighting to accomplish the mission they\u2019ve been asked to take on by our elected leaders.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "It\u2019s an affront"
+                }
+            ]
+        },
+        {
+            "sentence": "There are, of course, those who think we should pull out of Afghanistan, and they\u2019re certainly entitled to make their case.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "But one of them shouldn\u2019t be the chairman of the Republican party.\u201d",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Kristol\u2019s was the harshest of all the reactions to the Steele, whose spokesman, it should be noted, tried to clarify the comment by insisting that he merely meant that President Obama has not been forthcoming with a winning strategy. ",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "But the Weekly Standard editor was not alone.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Another major neoconservative figure, Dan Senor, told the Huffington Post that Steele\u2019s comments are \u201cutterly irresponsible.\u201d",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 102,
+                    "end": 123,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "utterly irresponsible"
+                }
+            ]
+        },
+        {
+            "sentence": "Senor, who served under the Bush administration as chief spokesman in Iraq and has been a major booster of efforts to escalate U.S. military presence in Afghanistan, noted that Steele\u2019s RNC actually sponsored a conference call for his group to praise Obama\u2019s Afghan surge last year. ",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 177,
+                    "end": 281,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Steele\u2019s RNC actually sponsored a conference call for his group to praise Obama\u2019s Afghan surge last year"
+                }
+            ]
+        },
+        {
+            "sentence": "Indeed, even Steele himself declared back in December that Afghanistan is \u201c\u2019a war we have to win\u201d \u2014 a far cry from the comments he made Thursday night, in which he said: \u201c...you don\u2019t do is engage in a land war in Afghanistan, alright, because everyone who\u2019s tried over a thousand years of history has failed.\u201d ",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 102,
+                    "end": 109,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "far cry"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt\u2019s completely inconsistent with this latest statement,\u201d summarized Senor. ",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 56,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "It\u2019s completely inconsistent with this latest statement"
+                }
+            ]
+        },
+        {
+            "sentence": "In a bit of irony, Steele\u2019s most recent comments have actually resonated among anti-war Democrats who share the skepticism that Afghanistan is a winnable enterprise.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "They also, in some respects, echo the opinions of some members of the conservative community (Joe Scarborough and George Will among them) who have been critical of the deployment of U.S. forces in that country. ",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "But Steele is not an anti-war Democrat. Nor is he a pundit.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "He is the figurehead of the Republican Party whose tenure, once again, seems shaky.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 59,
+                    "end": 69,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "once again"
+                }
+            ]
+        },
+        {
+            "sentence": "Shortly after Kristol called for his resignation, a GOP operative began pitching the column to reporters, hoping that the meme of Steele\u2019s troubles would spread far and wide.",
+            "sentence-index": 21,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "main-event": "Cesar Sayoc arrested for sending pipe bombs to Trump critics",
+    "main-entities": [
+        "Cesar Sayoc",
+        "Law enforcement/Federal authorities"
+    ],
+    "title": "Pipe Bomb Suspect Arrested in Southern Florida",
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2018/10/26/nyregion/cnn-cory-booker-pipe-bombs-sent.html",
+    "date": "2018-10-26",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Cesar Sayoc": "Negative",
+            "Law enforcement/Federal authorities": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Federal authorities made an arrest on Friday in connection with the nationwide bombing campaign against outspoken critics of President Trump, a significant breakthrough in a case that has gripped the country in the days leading up to the midterm elections.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "A law enforcement official identified the suspect as Cesar Sayoc Jr., 56, of Aventura, Fla., just north of Miami.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Sayoc, a registered Republican, has a lengthy criminal history in Florida dating back to 1991 that includes felony theft, drug and fraud charges, as well as being arrested and accused of threatening to use a bomb, public records show.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 66,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "Mr. Sayoc, a registered Republican, has a lengthy criminal history"
+                }
+            ]
+        },
+        {
+            "sentence": "His criminal record from the Florida Department of Law Enforcement indicates that at the time of his last arrest in 2015, he was 5-foot-11 and 215 pounds. ",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "He has brown eyes, black hair and a scar on his left arm, the records said, and was born in New York. ",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The records listed Mr. Sayoc\u2019s occupation as \u201cmanager.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "According to a 2012 bankruptcy petition filed in Miami, Mr. Sayoc resided at the time at his mother\u2019s home. ",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cLives w/mom,\u201d a handwritten note on the petition said. ",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHas no furniture.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "On Friday morning, the authorities surrounded a white van with pro-Trump stickers on it, and television news later showed images of the authorities hauling the van away on a truck underneath a tarp. ",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "But it remained unclear if the van belonged to Mr. Sayoc.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Some residents of Aventura reported seeing a similar white van covered in pro-Trump stickers often parked in the lot of a local strip mall, the Aventura Waterways shopping center. ",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "But it was not immediately clear if that van was the same one seized by the police on Friday.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt struck me because of the crazy conspiratorial stickers covering the windows,\u201d said David Cypkin, a documentary film producer and editor with the Rakontur production company. ",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 34,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "crazy"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt was unsettling, and also it seemed to be occupied. ",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 18,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "van",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "It was unsettling"
+                }
+            ]
+        },
+        {
+            "sentence": "Sometimes the door would be ajar or a window would be open, which indicated to me that maybe somebody was living in the van.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Speaking at the White House on Friday, Mr. Trump praised law enforcement officials for quickly arresting a suspect.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThese terrorizing acts are despicable and have no place in our country,\u201d he said.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 71,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "terrorizing acts",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "These terrorizing acts are despicable and have no place in our country"
+                }
+            ]
+        },
+        {
+            "sentence": "He added: \u201cWe must never allow political violence to take root in America.\u201d",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Sayoc\u2019s arrest came only hours after the mysterious spate of pipe bombs spread further as federal authorities said on Friday morning that they had found two more of the explosive devices: one addressed to Senator Cory Booker and the other to James R. Clapper Jr., the former director of national intelligence.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Although no formal charges have been filed yet in the case, two of the law enforcement officials said there was a high likelihood that Mr. Sayoc would be prosecuted at least in part in Federal District Court in Manhattan. ",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "The F.B.I.\u2019s New York office has been leading the investigation and five of the bombs sent this week fall under the jurisdiction of the United States attorney\u2019s office in Manhattan.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "The package addressed to Mr. Clapper was meant to be delivered to the New York offices of CNN, where he works as an analyst, but was intercepted at a mail facility in Midtown Manhattan, police officials in New York City said. ",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "The package addressed to Mr. Booker, a New Jersey Democrat, was found in Florida, which two people briefed on the matter have said has become a focus of the intense, nationwide investigation into the bombs.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "At a news conference on Friday morning, John Miller, the New York Police Department\u2019s deputy commissioner of intelligence and counterterrorism, said a postal worker at the mail facility on 52nd Street recognized the package addressed to Mr. Clapper as similar to other suspicious packages discovered this week and \u201cfroze it in the system.\u201d",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "The department\u2019s bomb squad responded to the facility and secured the package for delivery to an F.B.I. lab in Quantico, Va., Mr. Miller said.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Speaking on CNN on Friday, Mr. Clapper said he was not surprised that a device had been sent to him. ",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "He has been a frequent critic of President Trump, a similarity shared with everyone whose names have appeared on the packages discovered so far.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis is definitely domestic terrorism,\u201d Mr. Clapper said. ",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 38,
+                    "target": "Cesar Sayoc",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "terrorizing acts",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "This is definitely domestic terrorism"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAnyone who has in any way been a critic, publicly been a critic of President Trump, needs to be on an extra alert.\u201d",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Clapper also said that on Wednesday night he had taken precautions after the first packages were discovered. ",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "While he and his wife were away from their home this week, he added, he told his neighbor not to collect their mail.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "All together, 12 crude explosive devices have been found since Monday, sent through the mail to a host of Democrats and other prominent figures who have been among Mr. Trump\u2019s most vocal detractors. ",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "The packages \u2014 virtually identical in plain manila envelopes \u2014 have been addressed to former President Barack Obama; former Vice President Joseph R. Biden Jr.; former Secretary of State Hillary Clinton; Representative Maxine Waters of California; former Attorney General Eric Holder; John O. Brennan, a former C.I.A. director, the actor Robert De Niro; and George Soros, the billionaire Democratic donor.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "All of the envelopes had return address labels bearing the misspelled name of Representative Debbie Wasserman Schultz, a Democrat whose district is in southern Florida. ",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "None of the devices inside have exploded on their own so far, and investigators are still seeking to determine whether they were even capable of detonating. ",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "But the authorities in New York and elsewhere have warned that the devices should be considered dangerous.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "The first package was discovered on Monday afternoon at the suburban New York home of Mr. Soros. ",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "While investigators initially thought that some devices were hand delivered, they now believe it is likely all of them were sent in the mail. ",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "Using information collected by the United States Postal Service, investigators have focused their attention on certain Florida postal centers, including one in Opa-locka near Miami.",
+            "sentence-index": 39,
+            "annotations": []
+        }
+    ]
+}

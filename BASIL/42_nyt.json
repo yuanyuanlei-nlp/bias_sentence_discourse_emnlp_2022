@@ -1,0 +1,124 @@
+{
+    "date": "2010-07-13",
+    "title": "N.A.A.C.P. Challenges Tea Party on Racism",
+    "word-count": 413,
+    "main-event": "N.A.A.C.P. Challenges Tea Party on Racism",
+    "source": "nyt",
+    "url": "http://thecaucus.blogs.nytimes.com/2010/07/13/n-a-a-c-p-challenges-tea-party-on-racism/",
+    "main-entities": [
+        "NAACP",
+        "Tea Party"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "NAACP": "Neutral",
+            "Tea Party": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "One of the nation\u2019s largest and oldest civil rights groups passed a resolution Tuesday calling for Tea Party groups to weed \u201cracist elements\u201d out of their ranks.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Delegates at the annual convention of the National Association for the Advancement of Colored People approved the measure Tuesday in Kansas City.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Benjamin Todd Jealous, the president of the N.A.A.C.P., said the resolution was not an attempt to label the entire Tea Party movement as racist.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "But he said the groups needed to do more to distance themselves from known hate groups that actively encourage their members to join the Tea Party.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cTo this point, we have avoided calling them out and demanding them to be responsible,\u201d Mr. Jealous said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNow we\u2019re saying that with increased public attention, increased power, comes the responsibility to act responsibly.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "He added: \u201cKnowing that the consequence of silence is violence in these times, we\u2019re saying stand up and say enough is enough.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "They need to make clear that there is no place for the bigots in the Tea Party movement.\u201d",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The resolution did not go over well with Tea Party groups and their supporters.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Sarah Palin, the 2008 Republican vice presidential nominee, weighed in to defend the Tea Party movement on Monday when the resolution was proposed.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "On Fox News\u2019 \u201cHannity,\u201d she called on the Obamas to rebuke the N.A.A.C.P. and \u201cset the record the straight.\u201d",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The St. Louis Tea Party Coalition issued its own resolution against the N.A.A.C.P., accusing the civil rights body of acting as a \u201cpartisan political attack dog\u201d and calling on the Internal Revenue Service to review the group\u2019s tax-exempt status.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 131,
+                    "end": 160,
+                    "target": "NAACP",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Tea Party",
+                    "text": "partisan political attack dog"
+                }
+            ]
+        },
+        {
+            "sentence": "The Tea Party movement has been beset with allegations of racism since black members of Congress preparing to vote on health care legislation accused protesters of hurling racial epithets, and in one instance, spitting on a congressman.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 236,
+                    "target": "Tea Party",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The Tea Party movement has been beset with allegations of racism since black members of Congress preparing to vote on health care legislation accused protesters of hurling racial epithets, and in one instance, spitting on a congressman."
+                }
+            ]
+        },
+        {
+            "sentence": "Tea Party groups say there is no racism within the movement.",
+            "sentence-index": 13,
+            "annotations": []
+        }
+    ]
+}

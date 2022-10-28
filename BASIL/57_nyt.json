@@ -1,0 +1,259 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Ruth Bader Ginsburg",
+        "Donald Trump"
+    ],
+    "main-event": "Ruth Bader Ginsburg criticizes Trump",
+    "title": "Donald Trump Rebukes Ruth Bader Ginsburg for Deriding His Candidacy",
+    "url": "https://www.nytimes.com/2016/07/13/us/politics/ruth-bader-ginsburg-donald-trump.html?_r=0",
+    "word-count": 528,
+    "date": "2016-07-12",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Ruth Bader Ginsburg": "Neutral",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy \u201chighly inappropriate\u201d and suggesting that she owed other justices an apology.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 140,
+                    "end": 150,
+                    "target": "Ruth Bader Ginsburg",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "disdainful"
+                },
+                {
+                    "start": 27,
+                    "end": 35,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "assailed"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump\u2019s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI can\u2019t imagine what this place would be \u2014 I can\u2019t imagine what the country would be \u2014 with Donald Trump as our president,\u201d Justice Ginsburg told The Times in an interview published Sunday.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 122,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Ruth Bader Ginsburg",
+                    "text": "I can\u2019t imagine what this place would be \u2014 I can\u2019t imagine what the country would be \u2014 with Donald Trump as our president"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cFor the country, it could be four years.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "For the court, it could be \u2014 I don\u2019t even want to contemplate that.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "She even joked ruefully about moving to New Zealand.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think it\u2019s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,\u201d Mr. Trump said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think it\u2019s a disgrace to the court and I think she should apologize to the court.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 84,
+                    "target": "Ruth Bader Ginsburg",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "\u201cI think it\u2019s a disgrace to the court and I think she should apologize to the court."
+                }
+            ]
+        },
+        {
+            "sentence": "I couldn\u2019t believe it when I saw it.\u201d",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "He continued: \u201cThat she should be saying that?",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "It\u2019s so beneath the court for her to be making statements like that.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 68,
+                    "target": "Ruth Bader Ginsburg",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "It\u2019s so beneath the court for her to be making statements like that."
+                }
+            ]
+        },
+        {
+            "sentence": "It only energizes my base even more.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "And I would hope that she would get off the court as soon as possible.\u201d",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 71,
+                    "target": "Ruth Bader Ginsburg",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "And I would hope that she would get off the court as soon as possible.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI have five candidates, plus two, two that are unknown to anybody,\u201d Mr. Trump said from Chicago, where he was raising money for his campaign.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,\u201d he added.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019ve been with these people for a long time \u2014 I know them,\u201d Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cChristie was excellent yesterday and Newt is excellent.\u201d Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee\u2019s advisers.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump said his decision was largely coming down to instinct.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cA lot of is gut. A lot of it is,\u201d he said.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMy whole life has been about gut.\u201d",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Governor Christie? \u201cStrong,\u201d he said.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Retired Lt. Gen. Mike Flynn? \u201cA patriot.\u201d",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Senator Joni Ernst of Iowa? \u201cA terrific, exciting person.\u201d",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Governor Pence? \u201cSolid as a rock.\u201d",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "And Mr. Gingrich? \u201cNewt is Newt. He\u2019s a good guy.\u201d",
+            "sentence-index": 29,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Mike Huckabee"
+    ],
+    "main-event": "Mike Huckabee announced his run for the presidency",
+    "title": "Mike Huckabee Is Running For President",
+    "url": "http://www.huffingtonpost.com/2015/05/05/mike-huckabee-2016_n_7120826.html",
+    "word-count": 671,
+    "date": "2015-05-05",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Mike Huckabee": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Mike Huckabee, the Baptist minister who became Arkansas governor, announced Tuesday he'll run for the 2016 Republican presidential nomination.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Huckabee made the announcement in his hometown of Hope, Arkansas.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I am a candidate for president of the United States of America,\" he said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "During his announcement, Huckabee said that he would \"conquer Jihadism\" and protect Social Security.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "He also criticized the Supreme Court for potentially overturning bans on same-sex marriage.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "He also said that he favored term limits for individuals in all branches of the federal government -- including the judiciary.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The Supreme Court is not the supreme being,\" he said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Huckabee, 59, quit his job hosting his own Fox News show, \"Huckabee,\" in January.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Last month, he began plotting campaign strategy and hiring staff.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Huckabee ran for president in 2008.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "He joins an already crowded 2016 Republican field, and will likely enlist support from the party's far right wing, where he faces competition from Sen. Ted Cruz (R-Texas), who has positioned himself as a tea party favorite.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 99,
+                    "end": 108,
+                    "target": "Mike Huckabee",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "conservatives",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "far right"
+                }
+            ]
+        },
+        {
+            "sentence": "Huckabee said on CBS's \"Face the Nation\" last month that he's confident he can broaden his appeal beyond evangelical Christians and social conservatives to reach working-class Republicans concerned about the economy.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"There's a real sense in the Republican Party that there's no one speaking, not only to them, but speaking for them,\" Huckabee said then.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\"And if someone can capture both the blue-collar, working-class Republicans, the conservatives, many of them even union members, as well as evangelicals, there's a real pathway to the nomination.\"",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Huckabee, an ordained Southern Baptist minister, is a celebrated figure among evangelical Christians.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 101,
+                    "target": "Mike Huckabee",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Huckabee, an ordained Southern Baptist minister, is a celebrated figure among evangelical Christians."
+                }
+            ]
+        },
+        {
+            "sentence": "He was the longest-serving Arkansas governor, from 1996 to 2007.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 64,
+                    "target": "Mike Huckabee",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He was the longest-serving Arkansas governor, from 1996 to 2007."
+                }
+            ]
+        },
+        {
+            "sentence": "He made national headlines for losing more than 110 pounds from 2003 to 2006, and he publicly addressed his struggles with weight.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "His book, \"Quit Digging Your Grave with a Knife and Fork,\" became a bestseller and he made obesity a major policy initiative as governor.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 137,
+                    "target": "Mike Huckabee",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "His book, \"Quit Digging Your Grave with a Knife and Fork,\" became a bestseller and he made obesity a major policy initiative as governor."
+                }
+            ]
+        },
+        {
+            "sentence": "He ran for the GOP presidential nomination in 2008, capturing strong support from evangelical Christians and winning the Iowa caucuses.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "But Sen. John McCain (R-Ariz.), won most of the subsequent primaries, and Huckabee withdrew from the race that March.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "His supporters expected him to run again in 2012, but he declined.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Since then, he has continued to influence the conservative movement as a charismatic public speaker and radio and television host.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 73,
+                    "end": 84,
+                    "target": "Mike Huckabee",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "charismatic"
+                }
+            ]
+        },
+        {
+            "sentence": "Huckabee's religion has played a prominent role in his political career and shaped him as a staunch social conservative.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "He wrote in his memoir, \"From Hope to Higher Ground,\" that his work as a pastor helps him understand how politics and policy affect people.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\"My experience dealing every day with real people who were genuinely affected by policies created by government gave me a deep understanding of the fragility of the human spirit and vulnerability of so many families who struggled from week to week,\" he wrote.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I was in the ICU at 2 a.m. with families faced with the decision to disconnect a respirator on their loved one; I counseled fifteen-year-old pregnant girls who were afraid to tell their parents about their condition; I spent hours hearing the grief of women who had been physically and emotionally clobbered by an abusive husband.\"",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "As governor, Huckabee signed a ban on gay marriage (which was overturned by a federal judge last year), and he has been outspoken in his opposition against states legalizing marriage equality.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 192,
+                    "target": "Mike Huckabee",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "As governor, Huckabee signed a ban on gay marriage (which was overturned by a federal judge last year), and he has been outspoken in his opposition against states legalizing marriage equality."
+                }
+            ]
+        },
+        {
+            "sentence": "Last year, he argued that he's on \"the right side of the Bible.\"",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\"You've got to understand, this for me is not about the right side or the wrong side of history, this is the right side of the Bible, and unless God rewrites it, edits it, sends it down with his signature on it, it's not my book to change.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Folks, that's why I stand where I stand,\" he said.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "According to HuffPost Pollster, Huckabee falls behind a few other GOP 2016 candidates, trailing Sens. Rand Paul (Ky.) and Ted Cruz (Texas), and Marco Rubio (Fla.), but slightly edging out former neurosurgeon Ben Carson.",
+            "sentence-index": 30,
+            "annotations": []
+        }
+    ]
+}

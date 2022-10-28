@@ -1,0 +1,356 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Bob Etheridge"
+    ],
+    "main-event": "Rep Etheridge attacks student",
+    "title": "Bob Etheridge Attacks Student: North Carolina Congressman Gets Rough With Interviewer",
+    "url": "https://www.huffingtonpost.com/2010/06/14/bob-etheridge-attacks-stu_n_610978.html",
+    "word-count": 680,
+    "date": "2010-06-14",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Bob Etheridge": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Rep. Bob Etheridge (D-N.C.) appeared unreceptive to the question of an anonymous reporter this weekend, when he grabbed the self-identified \u201cstudent\u201d after he asked the congressman if he \u201cfully supported the Obama agenda.\u201d",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "In the video, the North Carolina lawmaker is seen approaching the camera, while the reporter asks, \u201cHi, Congressman. How are you?",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Do you fully support the Obama agenda?\u201d",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Etheridge appears visibly irritated and immediately asks, \u201cwho are you?\u201d before knocking the interviewer\u2019s camera to the ground.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "In the next shot, Etheridge grabs the reporter\u2019s wrist and continually asks him to identify himself.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The cameraman replies, \u201cwe\u2019re just here for a project...we\u2019re just students.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Over at Big Government, a post accompanying the video provides the following commentary on the encounter:",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cExpect more of this.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "A hard, progressive left captured the Democrat majority in Congress and forced them to enact a fantasy grab-bag of legislation that is increasingly unpopular with the American public.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 183,
+                    "target": "Bob Etheridge",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "House Democrats",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "A hard, progressive left captured the Democrat majority in Congress and forced them to enact a fantasy grab-bag of legislation that is increasingly unpopular with the American public."
+                }
+            ]
+        },
+        {
+            "sentence": "We\u2019re on the cusp of a deeper recession, millions of unemployed Americans have no prospect for work, taxes are about to spike higher and we\u2019ve maxed out the national credit card.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 178,
+                    "target": "Bob Etheridge",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "House Democrats",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "We\u2019re on the cusp of a deeper recession, millions of unemployed Americans have no prospect for work, taxes are about to spike higher and we\u2019ve maxed out the national credit card."
+                }
+            ]
+        },
+        {
+            "sentence": "The Democrats were given a chance to run government and they\u2019ve only succeeded in running it into the ground.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 109,
+                    "target": "Bob Etheridge",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "House Democrats",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "The Democrats were given a chance to run government and they\u2019ve only succeeded in running it into the ground."
+                }
+            ]
+        },
+        {
+            "sentence": "[...]",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Let\u2019s recap what we saw on this video.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "A sitting Congressman-a presumed living extension of James Madison and other founding fathers-was asked on a public street whether he supported the President\u2019s agenda.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "His response was to hit away a video camera and assault a student.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 66,
+                    "target": "Bob Etheridge",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "His response was to hit away a video camera and assault a student."
+                }
+            ]
+        },
+        {
+            "sentence": "The age of Pericles this ain\u2019t.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "It is going to be a long, hot summer.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "But, you\u2019ve been given a target.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Act accordingly.\u201d",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Mediaite, in a response to the Big Government post, writes about the problems with anonymous inflammatory assault interviews, and argues that it might be this new brand of \u201cjournalism\u201d that has Etheridge on edge:",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNow, Etheridge\u2019s actions are only partially defensible.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "He need not have gotten physical with the students who asked him the provocative question regarding his support of the \u201cObama Agenda\u201d (honestly, that sort of opening question is straight from the Jason Mattera school of inflammatory interview techniques.)",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 69,
+                    "end": 80,
+                    "target": "Bob Etheridge",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "students",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "provocative"
+                }
+            ]
+        },
+        {
+            "sentence": "But little is known about these \u201cstudents.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 32,
+                    "end": 43,
+                    "target": "Bob Etheridge",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "students",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "\u201cstudents.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "The YouTube video is published under an account titled TonyManization, and even more damning is that the faces of the individuals asking the Congressman questions are blurred out.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Hmmm...nothing like the courage of the anonymous protester.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 59,
+                    "target": "Bob Etheridge",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "students",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "Hmmm...nothing like the courage of the anonymous protester."
+                }
+            ]
+        },
+        {
+            "sentence": "Which brings us back to Etheridge\u2019s response.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Yeah - he comes off as a jerk, but...when in Rome.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "It will be interesting to follow how this story plays out in the news media.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Will it be a big story? Probably not, but apparently being prepared for ambush interviews from eager college kids is the next phase of media training for many on Capitol Hill.\u201d",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "UPDATE:",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "DNC spokesman Brad Woodhouse addressed the video in a statement Monday:",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMotives matter, and I think you can see who was behind this,\u201d Woodhouse said.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis was a Republican party tracking operation.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "If it wasn\u2019t a party tracker or intern, why is the face blurred and why is the source hidden?",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "You know if it had been a right wing blog, they\u2019d identify themselves and they\u2019d be booking this person on TV all day.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "Republicans know if they admit their involvement in this game of gotcha it will undermine their credibility.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "One minute this guy is interviewing a member of Congress on camera and the next a video is released with his face blurred out?",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "If that doesn\u2019t tell you this is a Republican Party hatchet job nothing will.\u201d",
+            "sentence-index": 37,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 78,
+                    "target": "Bob Etheridge",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Republicans",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "If that doesn\u2019t tell you this is a Republican Party hatchet job nothing will.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "UPDATE:",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Bob Etheridge (D-N.C.) has apologized for his combative behavior over the weekend in a statement released by his office:",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI deeply and profoundly regret my reaction and I apologize to all involved,\u201d Etheridge said.",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThroughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "No matter how intrusive and partisan our politics can become, this does not justify a poor response.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "I have and I will always work to promote a civil public discourse.\u201d",
+            "sentence-index": 43,
+            "annotations": []
+        }
+    ]
+}

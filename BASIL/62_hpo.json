@@ -1,0 +1,216 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Barack Obama",
+        "National Security Agency programs"
+    ],
+    "main-event": "Obama Defends NSA Programs",
+    "title": "Obama Defends NSA Programs, Says Congress Knew About Surveillance",
+    "url": "https://www.huffingtonpost.com/2013/06/07/obama-nsa_n_3403389.html",
+    "word-count": 460,
+    "date": "2013-06-07",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral",
+            "National Security Agency programs": "Positive"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON -- President Barack Obama on Friday forcefully defended revelations that the National Security Agency is collecting phone records and electronic communications, saying that Congress was fully briefed and the programs are limited in scope.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 47,
+                    "end": 57,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "forcefully"
+                }
+            ]
+        },
+        {
+            "sentence": "\"The programs are secret in the sense that they are classified.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "They are not secret, in that every member of Congress has been briefed,\" he said during a speech in San Jose, Calif.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"These are programs that have been authored by large bipartisan majorities repeatedly since 2006.\"",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 98,
+                    "target": "National Security Agency programs",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Barack Obama",
+                    "text": "\"These are programs that have been authored by large bipartisan majorities repeatedly since 2006.\""
+                }
+            ]
+        },
+        {
+            "sentence": "\"Your duly elected representatives have consistently been informed,\" he said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "News outlets revealed this week that vast spying programs began under President George W. Bush and have continued under Obama.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The Guardian reported Wednesday that the National Security Agency had obtained a court order to collect phone records from Verizon Wireless customers, while The Washington Post reported Thursday of the existence of a program launched in 2007 called PRISM, which tracks information from nine leading U.S. Internet companies: Microsoft, Yahoo, Google, Facebook, AOL, YouTube, Apple, PalTalk and Skype.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "In response to a question after his speech, Obama defended the programs as essential to combating terrorist threats.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"They may identify potential leads with respect to folks who might engage in terrorism,\" he said.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "He also argued that some have overstated the impact of the programs.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Some of the hype we've been hearing over the past day or so -- nobody has listened to the content of people's phone calls,\" he said.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 64,
+                    "end": 122,
+                    "target": "National Security Agency programs",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Barack Obama",
+                    "text": "nobody has listened to the content of people's phone calls"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I welcome this debate and I think it's healthy for our democracy,\" he continued.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think it's a sign of maturity, because probably five years ago, six years ago, we might not have been having this debate.\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama portrayed the programs as a trade-off between security and civil liberties.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think it's important to recognize that you can't have 100 percent security, and also then have 100 percent privacy and zero inconvenience.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "We're going to have to make some choices as a society,\" he said.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "He also expressed his displeasure that the domestic spying programs' existence was leaked to the press.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I don't welcome leaks,\" he said.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\"There's a reason these programs are classified.\"",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "The president's full-throated defense of the programs, albeit with the qualification that he welcomes debate, is unlikely to quell the outrage over the revelations.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 164,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The president's full-throated defense of the programs, albeit with the qualification that he welcomes debate, is unlikely to quell the outrage over the revelations."
+                }
+            ]
+        },
+        {
+            "sentence": "Obama ran as an antidote to Bush's policies in 2008, but the reports reveal that he has continued many of them, leading to concerns over the reach of the national security state.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 178,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Obama ran as an antidote to Bush's policies in 2008, but the reports reveal that he has continued many of them, leading to concerns over the reach of the national security state."
+                }
+            ]
+        },
+        {
+            "sentence": "Obama went on to defend those who operated the programs as \"professionals.\"",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\"In the abstract, you can complain about 'Big Brother' and how this is a potential program run amok.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "But when you actually look at the details, then I think we've struck the right balance,\" he said.",
+            "sentence-index": 23,
+            "annotations": []
+        }
+    ]
+}

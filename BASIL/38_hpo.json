@@ -1,0 +1,422 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Nancy Pelosi",
+        "House Democrats"
+    ],
+    "main-event": "Nancy Pelosi wins House minority leadership again",
+    "title": "Nancy Pelosi Re-Elected House Minority Leader",
+    "url": "https://www.huffingtonpost.com/entry/nancy-pelosi-house-democratic-leader_us_583ed770e4b0ae0e7cdae8f5",
+    "word-count": 792,
+    "date": "2016-11-30",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Nancy Pelosi": "Negative",
+            "House Democrats": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2015 House Minority Leader Nancy Pelosi (D-Calif.) was re-elected to her leadership post Wednesday morning.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "But more than 60 Democrats voted against her \u2015 a stunning level of dissent at a time when the party is trying to pick up the pieces after a disastrous presidential election.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 173,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But more than 60 Democrats voted against her \u2015 a stunning level of dissent at a time when the party is trying to pick up the pieces after a disastrous presidential election."
+                }
+            ]
+        },
+        {
+            "sentence": "Pelosi defeated her lone challenger, Rep. Tim Ryan (Ohio), by a vote of 134 to 63.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "It\u2019s a decisive win, and it (barely) clears the two-thirds majority support that Pelosi predicted she had.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 28,
+                    "end": 36,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "(barely)"
+                }
+            ]
+        },
+        {
+            "sentence": "But it reveals that dozens in her caucus voted against her in secret ballots. That\u2019s a lot.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 78,
+                    "end": 90,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "That\u2019s a lot"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThere\u2019s a whole lot of anger,\u201d said one Democrat who opposed her, who requested anonymity in order to speak freely.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 67,
+                    "end": 115,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who requested anonymity in order to speak freely"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI\u2019m astounded that this caucus refuses to acknowledge reality and change.\u201d",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 75,
+                    "target": "House Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cI\u2019m astounded that this caucus refuses to acknowledge reality and change.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Pelosi has led House Democrats since 2003, and that\u2019s what Ryan had argued is the problem.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The same people have been running the caucus for years \u2015 Pelosi, House Minority Whip Steny Hoyer (Md.) and Assistant Democratic Leader James Clyburn (S.C.) \u2015 and they\u2019re all in their 70s now.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Some say they\u2019re not the right messengers to energize the base and convey an economic message that appeals to people beyond the two coasts.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "House Democrats have also lost nearly 60 seats over the past six years.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 71,
+                    "target": "House Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "House Democrats have also lost nearly 60 seats over the past six years."
+                }
+            ]
+        },
+        {
+            "sentence": "They picked up just six seats in this election cycle \u2015 far fewer than expected.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 55,
+                    "end": 78,
+                    "target": "House Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "far fewer than expected"
+                }
+            ]
+        },
+        {
+            "sentence": "Pelosi\u2019s supporters said her experience is what the party needs now more than ever, going up against President-elect Donald Trump and a GOP-controlled Congress: She\u2019s battle-tested, she\u2019s a prolific fundraiser and she knows better than anyone how to count votes and keep her party together.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 290,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Pelosi\u2019s supporters said her experience is what the party needs now more than ever, going up against President-elect Donald Trump and a GOP-controlled Congress: She\u2019s battle-tested, she\u2019s a prolific fundraiser and she knows better than anyone how to count votes and keep her party together."
+                }
+            ]
+        },
+        {
+            "sentence": "They say it\u2019s not her fault when Democrats lose at the polls, either.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYou can\u2019t really blame Nancy Pelosi for gerrymandering and for the national election,\u201d Rep. Hank Johnson (D-Ga.) told reporters.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "She\u2019s also the only woman in top House and Senate leadership.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "If Ryan had replaced her, it would have become all white men.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The California Democrat spoke briefly to reporters after the vote, saying she feels \u201cexhilarated\u201d at being re-elected.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cToday has a special excitement for me because I think we\u2019re at a time where it is well beyond politics.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "It\u2019s about the character of America,\u201d Pelosi said.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 35,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Nancy Pelosi",
+                    "text": "It\u2019s about the character of America"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cHow we go forward in our caucus to put forth our values, which are what unite us a caucus, to differentiate between us and the administration that will come into Washington in January, to take that message clearly to the public, is something that is a historic challenge.\u201d",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe know how to win elections,\u201d she added.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019ve done it in the past. We will do it again by making that differentiation.\u201d",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked about the 63 Democrats who voted for Ryan, Pelosi said, \u201cI got two-thirds of the vote.\u201d",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Separately, Ryan told reporters the race didn\u2019t turn out as he wanted but he thinks he did \u201ca pretty good job\u201d of bringing economic issues to the forefront.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think we got the message out,\u201d he said.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI believe in my heart, if we\u2019re going to win as Democrats, we have to have the kind of message that resonates in every corner of this country.\u201d",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "During the closed-door caucus meeting, several Democrats went to bat for Pelosi. Reps. Adam Schiff (Calif.), Gwen Moore (Wis.), Bill Pascrell (N.J.), Katherine Clark (Mass.), Joaquin Castro (Texas) and Debbie Dingell (Mich.) each gave nominating speeches for her.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cEverything we care about [is] at risk,\u201d Schiff told the room.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe need the very best to lead us.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "No one is a better tactician than Nancy Pelosi. No one does it better. No one even comes close.\u201d",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 96,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "No one is a better tactician than Nancy Pelosi. No one does it better. No one even comes close.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Dingell said she has spoken \u201cendlessly\u201d to Pelosi about appealing to Midwestern voters, and said she gets it.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cLeader Pelosi always listened and she always understood.\u201d",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Pelosi\u2019s understanding of Midwesterners, or lack thereof, is what Ryan highlighted as the party\u2019s biggest problem.",
+            "sentence-index": 33,
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 56,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "or lack thereof"
+                }
+            ]
+        },
+        {
+            "sentence": "He said the California progressive has lost the connection with working-class people in the Midwest \u2015 the same people who make up his district, and the same people who turned out in droves to vote for Trump and help defeat Democratic presidential nominee Hillary Clinton weeks ago.",
+            "sentence-index": 34,
+            "annotations": [
+                {
+                    "start": 8,
+                    "end": 99,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the California progressive has lost the connection with working-class people in the Midwest"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWhen you see working-class people, blue-collar people, going and voting for Trump, that\u2019s a failure of the Democratic Party because they felt like we didn\u2019t care about them,\u201d Ryan said earlier this month.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThat just makes my stomach sick.\u201d",
+            "sentence-index": 36,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 34,
+                    "target": "House Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cThat just makes my stomach sick.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Pelosi did not agree with Ryan\u2019s assessment in a Monday interview with The Huffington Post.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHe didn\u2019t even carry his district for Hillary Clinton, so I don\u2019t know why he\u2019s saying that,\u201d she said.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI have strong support from our friends in the unions, including steelworkers, which I guess are his area ... I\u2019m a woman of steel in there.\u201d",
+            "sentence-index": 39,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 141,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Nancy Pelosi",
+                    "text": "\u201cI have strong support from our friends in the unions, including steelworkers, which I guess are his area ... I\u2019m a woman of steel in there.\u201d"
+                }
+            ]
+        }
+    ]
+}

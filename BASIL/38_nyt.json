@@ -1,0 +1,342 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Nancy Pelosi",
+        "House Democrats"
+    ],
+    "main-event": "Nancy Pelosi wins House minority leadership again",
+    "title": "Nancy Pelosi Beats Back House Democratic Leadership Challenge",
+    "url": "https://www.nytimes.com/2016/11/30/us/politics/nancy-pelosi-house-democrats-tim-ryan.html",
+    "word-count": 985,
+    "date": "2016-11-30",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Nancy Pelosi": "Negative",
+            "House Democrats": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 House Democrats on Wednesday rejected appeals that they need new leaders to win back disaffected voters, re-electing Representative Nancy Pelosi of California to an eighth term as House leader over a Rust Belt congressman who said the party had lost its connection to the American working class.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 116,
+                    "target": "House Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "rejected appeals that they need new leaders to win back disaffected voters"
+                }
+            ]
+        },
+        {
+            "sentence": "Ms. Pelosi\u2019s victory over Representative Tim Ryan, a 43-year-old congressman from a blue-collar district anchored in Youngstown, Ohio, ensures that the party will be led in the next Congress by the established \u201ccoastal\u201d Democrats who have increasingly defined it \u2014 Ms. Pelosi, 76, who represents San Francisco, and Senator Chuck Schumer of New York, 66, who has held various leadership posts since 2005.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The leadership elections, conducted by secret ballot behind closed doors, stamped out calls for new leaders.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 74,
+                    "end": 85,
+                    "target": "House Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "stamped out"
+                }
+            ]
+        },
+        {
+            "sentence": "But while Ms. Pelosi won, 134 to 63, Mr. Ryan\u2019s significant share of the total served as a measure of internal discontent and in some ways a repudiation of Ms. Pelosi\u2019s leadership.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 179,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a measure of internal discontent and in some ways a repudiation of Ms. Pelosi\u2019s leadership"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI think there\u2019s a lot of soul-searching,\u201d said Representative Carolyn B. Maloney of New York.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAnd a lot of really wanting to have a plan.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "For years, support for Ms. Pelosi has run so deep that few would even consider challenging her.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 95,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "For years, support for Ms. Pelosi has run so deep that few would even consider challenging her."
+                }
+            ]
+        },
+        {
+            "sentence": "In 2010, after a wave of Tea Party Republicans swept Democrats out of power, she lost just 43 votes.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Ms. Pelosi, whose victory was mockingly cheered by Republicans as good news for them, dismissed the idea that House Democrats could no longer win with her at the helm.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "And she vowed that Democrats would continue to stand as a foil to President-elect Donald J. Trump\u2019s administration.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe know how to win elections,\u201d Ms. Pelosi said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019ve done it in the past. We will do it again by making that differentiation.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Representative Kurt Schrader of Oregon, who backed Mr. Ryan, said after the vote that unless Democrats changed course and adopted \u201ca working man and woman\u2019s agenda,\u201d they should expect defeat.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m very worried we just signed the Democratic Party\u2019s death certificate for the next decade and a half,\u201d Mr. Schrader said.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 104,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "House Democrats",
+                    "text": "I\u2019m very worried we just signed the Democratic Party\u2019s death certificate for the next decade and a half"
+                }
+            ]
+        },
+        {
+            "sentence": "Democrats also re-elected Representative Steny H. Hoyer, 77, of Maryland as whip, the No. 2 position, as well as Representative James E. Clyburn, 76, of South Carolina in the No. 3 spot as the assistant Democratic leader.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Hoyer and Mr. Clyburn have been part of the Democratic leadership team since 2003 and 2007.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Both ran unopposed.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Representative Joseph Crowley of New York was also elected chairman of the House Democratic Caucus, and in a narrow victory, 98 to 96, Representative Linda T. S\u00e1nchez of California defeated another California Democrat, Representative Barbara Lee, to become vice chairwoman.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "After a dismal Election Day for Democrats, the fight for Ms. Pelosi\u2019s post had become a proxy battle for the future of the party, with House Democrats agonizing over how to reconnect with the working-class voters who abandoned them.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe got wiped out in the Midwest, and we\u2019re toxic in rural America,\u201d aides said Mr. Ryan told his colleagues behind closed doors before the vote.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 44,
+                    "end": 49,
+                    "target": "House Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "toxic"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cUltimately, we\u2019re responsible.\u201d",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "But in an interview Tuesday, Mr. Ryan suggested few ideas for how to appeal to voters beyond essentially crowdsourcing the task to more House Democrats, and he offered no indication that working with the Republican majority on any particular policy compromises would be a priority.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "The Democratic leaders seemed short on concrete strategies, too, committing generally to refocus their message on economic issues.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Many also vowed to stand in opposition to the Trump administration, gambling that Mr. Trump and congressional Republicans would disappoint voters and prompt a return to the Democratic Party they rejected.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Some of the more specific strategies considered included starting a more aggressive recruitment campaign for Democratic candidates from more conservative areas, as well as increasing their outreach to traditionally \u201cred\u201d districts.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cJust because you\u2019re only getting 30 percent of the vote in some area doesn\u2019t mean you shouldn\u2019t go there,\u201d said Representative Cedric L. Richmond of Louisiana.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYou should go there and engage people and tell them what you believe in.\u201d",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Disappointed by the outcome of the leadership election, a handful of Democrats who had backed Mr. Ryan vowed to press forward with a proposal to turn some jobs, such as the chairman of the party\u2019s campaign arm, into elected positions.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "That plan is expected to meet resistance from Ms. Pelosi, who retains the power to appoint people to those positions, though some Democrats have expressed an interest in the idea.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Last week Ms. Pelosi selected Representative Ben Ray Luj\u00e1n of New Mexico to again lead the Democratic Congressional Campaign Committee, even though House Democrats picked up just six seats in this election.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Though he collected only a dozen or so public endorsements, Mr. Ryan mounted an unlikely challenge to Ms. Pelosi, long considered a legislative and fund-raising powerhouse.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "Driven by the conviction that Democrats need a new leader, he tried to harness discontent with a leadership team that has failed three times to reclaim the majority since being swept out in 2010.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "Trying to quell calls to replace her, Ms. Pelosi announced her nominations last week for a handful of other positions, and proposed that three members from Illinois, Pennsylvania and New York share the leadership duties of the party\u2019s messaging committee, offering more regional diversity.",
+            "sentence-index": 32,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 36,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Trying to quell calls to replace her"
+                }
+            ]
+        },
+        {
+            "sentence": "She also released plans to incorporate more junior members into leadership roles, among other ideas, such as including a freshman Democrat in the leadership team\u2019s regular meetings.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "But each new idea has underscored the fact that Ms. Pelosi refuses to relinquish much power and has cultivated a large, loyal following that does not expect her to.",
+            "sentence-index": 34,
+            "annotations": [
+                {
+                    "start": 48,
+                    "end": 91,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Ms. Pelosi refuses to relinquish much power"
+                }
+            ]
+        },
+        {
+            "sentence": "It is from that sizable collection of House Democrats that she draws her picks for smaller leadership posts, making her a powerful ally and, for those like Mr. Ryan who have challenged her, a formidable opponent.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cShe has a lot of friends,\u201d Mr. Ryan said.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis is her caucus, clearly.\u201d",
+            "sentence-index": 37,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 30,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "House Democrats",
+                    "text": "\u201cThis is her caucus, clearly.\u201d"
+                }
+            ]
+        }
+    ]
+}

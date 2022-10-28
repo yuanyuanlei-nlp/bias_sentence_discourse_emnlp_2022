@@ -1,0 +1,222 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Barack Obama",
+        "John Boehner"
+    ],
+    "main-event": "Obama and Boehner discuss deficits",
+    "title": "Obama, Boehner meet on fiscal crisis for first time in weeks",
+    "url": "http://www.foxnews.com/politics/2012/12/10/obama-boehner-meet-on-fiscal-crisis-for-first-time-in-weeks/?cmpid=cmty_twitter_fn",
+    "word-count": 688,
+    "date": "2012-12-10",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral",
+            "John Boehner": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "President Obama was heading to Detroit Monday afternoon to continue campaigning for tax hikes on top earners -- a day after a face-to-face meeting with House Speaker John Boehner that offered slight hope the two could be making progress toward a deal.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The president and the speaker met Sunday afternoon at the White House for the first time in weeks.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "It came after Boehner publicly chided Obama on Friday for the lack of progress to date, accusing the president of having \"wasted another week.\"",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 31,
+                    "end": 37,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "chided"
+                },
+                {
+                    "start": 122,
+                    "end": 141,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "John Boehner",
+                    "text": "wasted another week"
+                }
+            ]
+        },
+        {
+            "sentence": "Both sides were tightlipped about the surprise Sunday afternoon meeting.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "But instead of emerging from the talks complaining about each other, as was the case following phone calls last week, each side released an identical statement.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This afternoon, the President and Speaker Boehner met at the White House to discuss efforts to resolve the fiscal cliff.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "We're not reading out details of the conversation, but the lines of communication remain open,\" the statement released by each office said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Lawmakers and the White House have three weeks to reach a deal, before a potentially crippling set of tax hikes and spending cuts takes effect.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Boehner last week put a counter-proposal on the table that included $800 billion in revenue increases over the next decade.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "While Boehner cast that as a significant concession, Obama said it didn't go far enough because it didn't include an increase in tax rates for the top 2 percent.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Boehner, though, is facing some pressure from Republicans to give a little bit more.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The speaker is effectively caught between two competing wings of the Republican Party.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Some say Congress should not raise any taxes, and were disappointed he went so far as to put any revenue on the table.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "However, a growing number of Republicans are suggesting the party should give Obama what he wants on tax rates -- and focus instead on winning entitlement cuts once that is cleared away.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Bob Corker, R-Tenn., became the latest Republican to open the door to tax rate hikes during an interview on \"Fox News Sunday.\"",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"There is a growing group of folks that are looking at this and realizing that we don't have a lot of cards as it relates to the tax issue, before year-end.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "I mean, we have one house, that's it,\" Corker said.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Corker suggested that Republicans instead focus on extracting entitlement cuts as part of the debt-ceiling negotiations.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Republicans know that they have the debt ceiling that's coming up right around the corner, and the leverage is going to shift, as soon as we get beyond this issue,\" Corker said on \"Fox News Sunday.\"",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The leverage is going to shift to our side, where hopefully we'll do the same thing we did last time.\"",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Corker said that if the president wants to raise the debt limit by $2 trillion, Republicans should press for $2 trillion in spending cuts.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "That prospect is sure to infuriate the White House.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "After the bruising debt-ceiling fight from 2011, Obama recently warned that he will not \"play that game\" again.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We've got to break that habit before it starts,\" the president said.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "The president argues that fights over the debt ceiling merely shake global confidence in the country's ability to pay its bills, and as part of talks over the looming fiscal crisis has called for a de facto permanent increase in the debt limit.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "It's unclear whether Obama might drop that demand if he gets what he wants on tax rates.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "His campaign-style visit to Detroit, though, threatens to muddy the waters on talks.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 74,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "muddy the waters"
+                }
+            ]
+        },
+        {
+            "sentence": "Rep. Kevin McCarthy, R-Calif., the No. 3 Republican in the House, suggested Sunday that the president's itinerary has left Republicans to negotiate with themselves.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\"He's been to Pennsylvania. Tomorrow he is going to Detroit.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "It's now time to govern. The election is over,\" he said on NBC's \"Meet the Press.\"",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Democratic Illinois Sen. Dick Durbin countered that Obama \"is a phone call away and you know it.\"",
+            "sentence-index": 30,
+            "annotations": []
+        }
+    ]
+}

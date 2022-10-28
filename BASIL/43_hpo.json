@@ -1,0 +1,147 @@
+{
+    "date": "2011-11-02",
+    "main-entities": [
+        "Barack Obama",
+        "Senate Republicans"
+    ],
+    "main-event": "Obama taunts GOP for ignoring jobs bill",
+    "title": "Obama Mocks Congress For Vote",
+    "word-count": 341,
+    "source": "hpo",
+    "url": "http://www.huffingtonpost.com/2011/11/02/obama-mocks-congress-in-god-we-trust-jobs-bill_n_1072497.html",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral",
+            "Senate Republicans": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "President Barack Obama urged lawmakers to move on the transportation funding portion of his jobs bill Wednesday, while simultaneously mocking them for spending time on supposedly less-important undertakings, such as a recent measure to reaffirm \"In God We Trust\" as the national motto.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 134,
+                    "end": 141,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "mocking"
+                },
+                {
+                    "start": 168,
+                    "end": 178,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "supposedly"
+                }
+            ]
+        },
+        {
+            "sentence": "In a speech from beneath the D.C. area's Key Bridge, Obama told spectators that Congress had time to bring up votes on aspects of the American Jobs Act, but were instead dealing with more frivolous legislation.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"And if Congress tells you they don't have time, they've got time to do it,\" Obama said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"In the House of Representatives, what have you guys been doing, John?\" Obama continued, calling out Speaker of the House John Boehner (R-Ohio).",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"You've been debating a commemorative coin for baseball.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "You've had legislation reaffirming that 'In God We Trust' is our motto.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "That's not putting people back to work.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 39,
+                    "target": "Senate Republicans",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Barack Obama",
+                    "text": "That's not putting people back to work."
+                }
+            ]
+        },
+        {
+            "sentence": "I trust in God, but God wants to see us help ourselves by putting people back to work.\"",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "On Wednesday, the House voted 396-9 on a bill that reaffirmed the motto and encouraged its display in all public schools and government buildings.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The bill's sponsor, Rep. Randy Forbes (R-Va.) had argued that some people, including Obama, needed to be reminded of the motto.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Almost a year ago, the president in making a speech across the world said that our national motto was 'E pluribus unum,'\" Forbes said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"When the [U.S. Capitol] Visitor Center was opened ... they did not have the national motto in there.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "In fact, they inscribed in the stones that our national motto was 'E pluribus unum.'\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "In a speech in Jakarta last year, Obama remarked that the American \"motto is E pluribus unum -- out of many, one.\"",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Officially, this wasn't correct.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Minnesota congresswoman and now-GOP presidential candidate Michele Bachmann and other members of the Congressional Prayer Caucus piled on weeks later, penning a letter to Obama chastising him for his alleged failure to the use the word \"God\" and \"Creator\" more in his public speeches, especially abroad.",
+            "sentence-index": 15,
+            "annotations": []
+        }
+    ]
+}

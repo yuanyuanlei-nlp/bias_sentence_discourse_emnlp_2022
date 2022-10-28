@@ -1,0 +1,134 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Mitt Romney",
+        "Barack Obama"
+    ],
+    "main-event": "Romney reaffirms opposition to same sex marriage",
+    "title": "Romney: My 'Preference' Is Marriage Between A Man And A Woman",
+    "url": "https://www.huffingtonpost.com/2012/05/09/mitt-romney-same-sex-marriage-man-woman_n_1504177.html",
+    "word-count": 396,
+    "date": "2012-05-09",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Mitt Romney": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Republican presidential candidate Mitt Romney on Wednesday reiterated that he opposes same-sex marriage, a few hours after President Barack Obama said for the first time he supports it.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\"My view is that marriage itself is a relationship between a man and a woman and that's my own preference,\" Romney told reporters in Oklahoma.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I know other people have differing views.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "This is a very tender and sensitive topic, as are many social issues, but I have the same view that I've had since running for office.\"",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama came out in support of same-sex marriage on Wednesday in an interview with ABC.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The announcement prompted a flurry of responses, from Democrats praising his statements to Republicans decrying them.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Romney said he supports states' rights to make decisions on domestic partnership benefits, including hospital visitation.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama, while saying he personally supports same-sex marriage, also said the issue should be left to the states to decide.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Romney's comments were far more measured than some other Republicans, who have openly accused the president of disrespecting religion and using the issue for political gain.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Former GOP candidate Rick Santorum, for example, put out a statement shortly after Romney's remarks that claimed Obama \"has consistently fought against protecting the institution of marriage from radical social engineering at both the state and federal level.\"",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 120,
+                    "end": 258,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "has consistently fought against protecting the institution of marriage from radical social engineering at both the state and federal level"
+                }
+            ]
+        },
+        {
+            "sentence": "When asked whether Obama flip-flopped on same-sex marriage -- an accusation Romney has some experience with -- the presumptive Republican presidential nominee acknowledged the president's change, but said he'd leave the significance for others to decide.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 62,
+                    "end": 107,
+                    "target": "Mitt Romney",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "an accusation Romney has some experience with"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI believe that, based upon the interview he gave today on ABC, it said that he had changed his view, but you\u2019re a better judge of that than I am,\" Romney said.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI just saw the reports that he had previously said he opposed same sex marriage and now, according to ABC News, he said that he supports it.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "So if that\u2019s the case you\u2019ll have to make that determination on your own.\"",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Romney told a local Denver TV station earlier on Wednesday that he opposes both same-sex marriage and civil unions.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Well, when these issues were raised in my state of Massachusetts, I indicated my view, which is I do not favor marriage between people of the same gender, and I do not favor civil unions if they are identical to marriage other than by name,\" Romney told Denver Fox affiliate KDVR-TV.",
+            "sentence-index": 15,
+            "annotations": []
+        }
+    ]
+}

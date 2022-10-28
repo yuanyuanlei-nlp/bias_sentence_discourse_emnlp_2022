@@ -1,0 +1,201 @@
+{
+    "main-event": "Trump Accuses Social Media Firms of Discrimination Against Conservatives",
+    "main-entities": [
+        "Donald Trump",
+        "social media companies"
+    ],
+    "title": "Trump says 'too many voices are being destroyed' by social media censorship",
+    "source": "fox",
+    "url": "http://www.foxnews.com/politics/2018/08/18/trump-says-too-many-voices-are-being-destroyed-by-social-media-censorship.html",
+    "date": "2018-08-18",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Donald Trump": "Neutral",
+            "social media companies": "Negative"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "President Trump on Saturday took aim at social media tech giants for \u201cdiscriminating\u201d against Republicans and conservatives -- saying that \u201ctoo many voices are being destroyed\u201d and promising that his administration would not allow it to happen.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 70,
+                    "end": 84,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "discriminating"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWho is making the choices, because I can already tell you that too many mistakes are being made. ",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Let everybody participate, good & bad, and we will all just have to figure it out!\u201d he said at the end of a lengthy post on Twitter.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. ",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump in the past has referred to alleged \u201cshadow banning\u201d by Twitter as \u201cdiscriminatory and illegal.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. ",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 35,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "conservatives",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "complained"
+                }
+            ]
+        },
+        {
+            "sentence": "Twitter at the time said it was an algorithmic glitch that has since been fixed.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We do not shadow ban. ",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). ",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "And we certainly don\u2019t shadow ban based on political viewpoints or ideology,\" the tech giant said in a statement.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We do rank tweets and search results. ",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "We do this because Twitter is most useful when it\u2019s immediately relevant. ",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "These ranking models take many signals into consideration to best organize tweets for timely relevance,\" the statement said. ",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation.\"",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 237,
+                    "target": "social media companies",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWe badly mishandled our communications with them,\u201d Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "But that has done little to calm the controversy, and Trump on Saturday accused social media sites of \u201cclosing down the opinions of many people on the right, while at the same time doing nothing to others.\u201d",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen,\" he tweeted.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "He went on to call censorship \u201ca dangerous thing\u201d and then took a swipe at CNN and MSNBC, saying that while they are \u201cfake,\u201d he does not demand that offending content be taken off air.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "fake"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIf you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,\u201d he tweeted. ",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 106,
+                    "end": 110,
+                    "target": "social media companies",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "sick"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI get used to it and watch with a grain of salt, or don\u2019t watch at all..\u201d",
+            "sentence-index": 21,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Newsweek",
+        "Michele Bachmann"
+    ],
+    "main-event": "Newsweek publishes unflattering cover of Michele Bachmann",
+    "title": "Newsweek's Michele Bachmann Cover Raises Eyebrows",
+    "url": "https://www.huffingtonpost.com/2011/08/08/newsweeks-michele-bachman_n_920860.html",
+    "word-count": 184,
+    "date": "2011-08-08",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "Newsweek": "Negative",
+            "main-event": "Neutral",
+            "Michele Bachmann": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Newsweek's latest issue features a Michele Bachmann cover that's sure to stir up controversy.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The cover shows Bachmann standing against a stark blue background, looking directly into the camera with a wide-eyed expression.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The headline advertising the magazine's story reads, \"THE QUEEN OF RAGE.\"",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Rage\" is a word that doesn't appear in Newsweek's actual profile of Bachmann, though author Lois Romano does criticize what she calls the \"radical\" nature of the Tea Party that Bachmann champions.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Conservative websites are already crying foul over the cover, with some saying it makes Bachmann look \"crazy\" and one blogger asking, \"Can anyone really say with a straight face that the mainstream media is not totally biased against conservatives?\"",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "target": "Newsweek",
+                    "end": 249,
+                    "aim": "Direct",
+                    "polarity": "Negative",
+                    "start": 134,
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "indirect-target-name": "",
+                    "speaker": "Other (Anti-target)",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "\"Can anyone really say with a straight face that the mainstream media is not totally biased against conservatives?\""
+                },
+                {
+                    "target": "Newsweek",
+                    "end": 249,
+                    "aim": "Direct",
+                    "polarity": "Negative",
+                    "start": 0,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "Conservative websites are already crying foul over the cover, with some saying it makes Bachmann look \"crazy\" and one blogger asking, \"Can anyone really say with a straight face that the mainstream media is not totally biased against conservatives?\""
+                }
+            ]
+        },
+        {
+            "sentence": "It's not the first time Newsweek has faced conservative backlash for a cover.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "target": "Newsweek",
+                    "end": 77,
+                    "aim": "Direct",
+                    "polarity": "Negative",
+                    "start": 0,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "It's not the first time Newsweek has faced conservative backlash for a cover."
+                }
+            ]
+        },
+        {
+            "sentence": "In June, the magazine portrayed Mitt Romney as one of the stars of the Broadway show \"The Book of Mormon.\"",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "target": "Newsweek",
+                    "end": 106,
+                    "aim": "Direct",
+                    "polarity": "Negative",
+                    "start": 0,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "In June, the magazine portrayed Mitt Romney as one of the stars of the Broadway show \"The Book of Mormon.\""
+                }
+            ]
+        },
+        {
+            "sentence": "And, of course, it drew widespread criticism for its infamous Sarah Palin cover in 2009.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "target": "Newsweek",
+                    "end": 88,
+                    "aim": "Direct",
+                    "polarity": "Negative",
+                    "start": 0,
+                    "bias": "Informational",
+                    "quote": "No",
+                    "indirect-target-name": "",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "And, of course, it drew widespread criticism for its infamous Sarah Palin cover in 2009."
+                }
+            ]
+        },
+        {
+            "sentence": "See the Bachmann cover below, and tell us whether you think it crosses a line.",
+            "sentence-index": 8,
+            "annotations": []
+        }
+    ]
+}

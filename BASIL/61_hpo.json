@@ -1,0 +1,181 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Mitt Romney",
+        "Todd Akin"
+    ],
+    "main-event": "Romney urges Akin to drop out of Senate race",
+    "title": "Mitt To Akin: Drop Out",
+    "url": "http://www.huffingtonpost.com/2012/08/21/todd-akin-comments_n_1819655.html",
+    "word-count": 382,
+    "date": "2012-08-21",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Mitt Romney": "Neutral",
+            "Todd Akin": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Presumptive GOP presidential nominee Mitt Romney on Tuesday joined a chorus of Republicans calling for Rep. Todd Akin (R-Mo.) to drop out of the U.S. Senate race in Missouri.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 69,
+                    "end": 75,
+                    "target": "Todd Akin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "chorus"
+                }
+            ]
+        },
+        {
+            "sentence": "\"As I said yesterday, Todd Akin's comments were offensive and wrong and he should very seriously consider what course would be in the best interest of our country,\" said Romney in a statement.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 67,
+                    "target": "Todd Akin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Mitt Romney",
+                    "text": "Todd Akin's comments were offensive and wrong"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Today, his fellow Missourians urged him to step aside, and I think he should accept their counsel and exit the Senate race.\"",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Akin, however, continued his refusal to step down Tuesday in a subsequent interview on Sean Hannity's radio show.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It still seems to me that there has to be room \u2026 to broaden the scope of what a campaign needs to be about,\" he said, going on to suggest Romney had made a bigger deal of the remark than he needed to.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Why can't Mitt Romney run his race and I'll run mine?\" Akin continued.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 54,
+                    "target": "Mitt Romney",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Todd Akin",
+                    "text": "Why can't Mitt Romney run his race and I'll run mine?"
+                }
+            ]
+        },
+        {
+            "sentence": "He later confirmed that vice presidential candidate Paul Ryan called him and told him to \"give some thought to stepping down,\" but didn't tell him to get out.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Akin also claimed he would help Romney and the Republican party in November by soldiering on, but admitted that no senator had called him to ask him to stay in the race.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 94,
+                    "end": 168,
+                    "target": "Todd Akin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "but admitted that no senator had called him to ask him to stay in the race"
+                }
+            ]
+        },
+        {
+            "sentence": "On Sunday, Akin prompted outrage with his response to a question about supporting abortion in the case of rape.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 16,
+                    "end": 32,
+                    "target": "Todd Akin",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "prompted outrage"
+                }
+            ]
+        },
+        {
+            "sentence": "\"From what I understand from doctors, that's really rare,\" said Akin said of pregnancies caused by rape.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If it's a legitimate rape, the female body has ways to try to shut that whole thing down.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "But let's assume maybe that didn't work or something.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "I think there should be some punishment, but the punishment ought to be on the rapist.\"",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Romney had stopped short of calling on Akin to resign in an interview with WMUR Monday.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Other officials in the GOP, including five senior Missouri Republicans, were less forgiving, however, suggesting that Akin had created an irreversible distraction and could no longer run as a viable candidate.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Akin had also vowed to remain in the race earlier Tuesday on the radio show of former Republican presidential candidate Mike Huckabee.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "During the interview, Akin said he would continue campaigning because he still believed he could win.",
+            "sentence-index": 16,
+            "annotations": []
+        }
+    ]
+}

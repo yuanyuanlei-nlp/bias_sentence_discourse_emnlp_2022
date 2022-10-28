@@ -1,0 +1,304 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Rick Santorum",
+        "Barack Obama"
+    ],
+    "main-event": "Rick Santorum defends his comments on Obama",
+    "title": "Santorum Defends Comments on Obama and Education",
+    "url": "http://thecaucus.blogs.nytimes.com/2012/02/19/santorum-defends-comments-on-obama-and-education/",
+    "word-count": 637,
+    "date": "2012-02-19",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Rick Santorum": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Updated: Rick Santorum on Sunday tried to clarify his comment that President Obama subscribed to a \u201cphony theology,\u201d saying he was referring not to the president\u2019s faith but to his view of man\u2019s relationship to the world.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 100,
+                    "end": 105,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Rick Santorum",
+                    "text": "phony"
+                }
+            ]
+        },
+        {
+            "sentence": "It was during a campaign stop in Ohio on Saturday that Mr. Santorum described what he called the \u201cphony theology\u201d of Mr. Obama\u2019s agenda.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 98,
+                    "end": 103,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Rick Santorum",
+                    "text": "phony"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt\u2019s about some phony ideal, some phony theology.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 22,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Rick Santorum",
+                    "text": "phony"
+                },
+                {
+                    "start": 35,
+                    "end": 40,
+                    "target": "Rick Santorum",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Rick Santorum",
+                    "text": "phony"
+                }
+            ]
+        },
+        {
+            "sentence": "Oh, not a theology based on the Bible, a different theology,\u201d he said.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBut no less a theology.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "On Sunday, Robert Gibbs, a political adviser to President Obama, criticized such attacks on \u201ccharacter and faith.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI can\u2019t help but think that those remarks are well over the line.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 47,
+                    "end": 65,
+                    "target": "Rick Santorum",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "well over the line"
+                }
+            ]
+        },
+        {
+            "sentence": "It\u2019s wrong. It\u2019s destructive,\u201d Mr. Gibbs said on the ABC News program \u201cThis Week,\u201d adding that it reflected the \u201cnastiness, divisiveness, ugliness\u201d and distortions of a hard-fought Republican nominating process.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 113,
+                    "end": 146,
+                    "target": "Rick Santorum",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "nastiness, divisiveness, ugliness"
+                },
+                {
+                    "start": 0,
+                    "end": 28,
+                    "target": "Rick Santorum",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "It\u2019s wrong. It\u2019s destructive"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Santorum, at another appearance on Saturday, in Columbus, Ohio, called the idea of schools being run by the federal government or by state governments \u201canachronistic.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Santorum did not say public schools were a bad idea, and he said that there was a role for government help in education.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhere did they come up that public education and bigger education bureaucracies was the rule in America?\u201d he said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cParents educated their children, because it\u2019s their responsibility to educate their children.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYes the government can help,\u201d Mr. Santorum added.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBut the idea that the federal government should be running schools, frankly \u2014 much less that the state government should be running schools \u2014 is anachronistic.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "It goes back to the time of industrialization of America when people came off the farms where they did home-school or have the little neighborhood school, and into these big factories, so we built equal factories called public schools.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "And while those factories as we all know in Ohio and Pennsylvania have fundamentally changed, the factory school has not.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked about those remarks on the CBS News program \u201cFace the Nation,\u201d Mr. Santorum, who with his wife has home-schooled their children, remained adamant on Sunday.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "While he said he did not oppose government financing of schools, Mr. Santorum said that \u201cpublic education should be a dynamic process that\u2019s locally run.\u201d",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI think the parent should be in charge,\u201d he added, \u201cworking with the local school district to try to design an educational environment for each child that optimizes their potential.\u201d",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Santorum also defended his criticism of a requirement in the president\u2019s health-care policy that insurance companies to cover prenatal testing.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "He had said earlier that the policy was included to save money \u201cbecause free prenatal testing ends up in more abortions and therefore less care that has to be done, because we cull the ranks of the disabled in our society.\u201d",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 173,
+                    "end": 221,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Santorum",
+                    "text": "we cull the ranks of the disabled in our society"
+                }
+            ]
+        },
+        {
+            "sentence": "The former Pennsylvania senator has a 3-year-old daughter, Bella, with a serious chromosomal disorder, and he said that doctors who detect such a condition before birth typically recommend abortion.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked whether he was suggesting that Mr. Obama lacked sympathy for the disabled, Mr. Santorum did not back down, saying, \u201cI think the president has a very bad record on the issue of abortion and children who are disabled.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 122,
+                    "end": 221,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Santorum",
+                    "text": "I think the president has a very bad record on the issue of abortion and children who are disabled."
+                }
+            ]
+        },
+        {
+            "sentence": "One of Mr. Santorum\u2019s rivals for the Republican nomination, Representative Ron Paul of Texas, scoffed at Mr. Santorum on Sunday for focusing on social issues like abortion and contraception \u2013 and for believing that he could defeat Mr. Obama.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWell, I don\u2019t see how that\u2019s possible,\u201d Mr. Paul said on the CNN program \u201cState of the Union.\u201d",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 38,
+                    "target": "Rick Santorum",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Well, I don\u2019t see how that\u2019s possible"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAnd this whole idea about talking about the social issues and who is going to pay for birth control pills,\u201d Mr. Paul said.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m worried about undermining our civil liberties, the constant wars going on, the debt of $16 trillion.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "And they are worried about birth control pills?\u201d",
+            "sentence-index": 27,
+            "annotations": []
+        }
+    ]
+}
