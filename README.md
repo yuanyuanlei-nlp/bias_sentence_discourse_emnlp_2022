@@ -37,8 +37,12 @@ If you are going to cite this paper, please use the form:
 <br/>
 
 ## Reference
-[1] Lisa Fan, Marshall White, Eva Sharma, Ruisi Su, Prafulla Kumar Choubey, Ruihong Huang, and Lu Wang. 2019. In Plain Sight: Media Bias Through the Lens of Factual Reporting. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 6343–6349, Hong Kong, China. Association for Computational Linguistics.<br/>
-[2] Sora Lim, Adam Jatowt, Michael Färber, and Masatoshi Yoshikawa. 2020. Annotating and Analyzing Biased Sentences in News Articles using Crowdsourcing. In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 1478–1484, Marseille, France. European Language Resources Association.<br/>
-[3] Prafulla Kumar Choubey, Aaron Lee, Ruihong Huang, and LuWang. 2020. Discourse as a function of event: Profiling discourse structure in news articles around the main event. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5374–5386, Online. Association for Computational Linguistics<br/>
-[4] Prafulla Kumar Choubey and Ruihong Huang. 2021. Profiling news discourse structure using explicit subtopic structures guided critics. In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 1594–1605, Punta Cana, Dominican Republic. Association for Computational Linguistics.<br/>
+[1] Lisa Fan, Marshall White, Eva Sharma, Ruisi Su, Prafulla Kumar Choubey, Ruihong Huang, and Lu Wang. 2019. In Plain Sight: Media Bias Through the Lens of Factual Reporting. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 6343–6349, Hong Kong, China. Association for Computational Linguistics.
+
+[2] Sora Lim, Adam Jatowt, Michael Färber, and Masatoshi Yoshikawa. 2020. Annotating and Analyzing Biased Sentences in News Articles using Crowdsourcing. In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 1478–1484, Marseille, France. European Language Resources Association.
+
+[3] Prafulla Kumar Choubey, Aaron Lee, Ruihong Huang, and LuWang. 2020. Discourse as a function of event: Profiling discourse structure in news articles around the main event. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5374–5386, Online. Association for Computational Linguistics
+
+[4] Prafulla Kumar Choubey and Ruihong Huang. 2021. Profiling news discourse structure using explicit subtopic structures guided critics. In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 1594–1605, Punta Cana, Dominican Republic. Association for Computational Linguistics.
+
 [5] Rashmi Prasad, Nikhil Dinesh, Alan Lee, Eleni Miltsakaki, Livio Robaldo, Aravind K. Joshi, and Bonnie LynnWebber. 2008. The penn discourse treebank 2.0. In LREC.
