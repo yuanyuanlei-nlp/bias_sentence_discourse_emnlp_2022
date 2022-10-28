@@ -1,0 +1,201 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Anthony Weiner"
+    ],
+    "main-event": "Weiner Denies Sending Photo",
+    "title": "Anthony Weiner Twitter Photo Scandal: Congressman Breaks His Silence",
+    "url": "https://www.huffingtonpost.com/2011/06/01/anthony-weiner-twitter-photo_n_869769.html",
+    "word-count": 546,
+    "date": "2011-06-01",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Anthony Weiner": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "A day after telling reporters that he's \"not going to talk about this anymore,\" Congressman Anthony Weiner (D-N.Y.) broke his silence Wednesday about the controversy surrounding a lewd photo sent from his Twitter account.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 79,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "A day after telling reporters that he's \"not going to talk about this anymore,\""
+                }
+            ]
+        },
+        {
+            "sentence": "\"This was a circumstance where someone committed a prank on the internet,\" he told MSNBC's Luke Russert.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I didn't send [that] picture out\" the congressman said, though he does not know who did.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Is the photo of him? I can't say with certitude\" he told Russert.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It was a prank,\" Weiner reiterated.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is not a national security matter.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "We're not making a federal case out of this.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I'm not sure it rises -- no pun intended -- to that level,\" he continued.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Weiner said he has hired a private security company to investigate how his account has been hacked.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Last weekend, a lewd photo of a man's bulging underpants was sent to a 21-year-old female college student in Seattle from Weiner's Twitter account.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "It was quickly deleted, but a frenzy of coverage and comment ensued on blogs, cable news outlets and other media.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Weiner's spokesman said that the congressman's Twitter account had been hacked and dismissed the episode as a prank, but this week the congressman hired a lawyer, prompting additional rumors to swirl.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Earlier this week, the colorful and sometimes combative congressman who represents parts of Brooklyn and Queens was characteristically sharp tongued, refusing to answer reporters' questions about it, and even calling one a \"jackass\" for interrupting him.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "He insisted that he wanted to move on from the incident, which was distracting from his work on Capitol Hill.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "But there was no sign the story, or the speculation about who may have been responsible for tweeting the photo, was fading.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Weiner failed in a 2005 bid for the Democratic nomination for mayor of New York City, but he is still is widely considered a future contender for the office.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I'm not going to talk about this anymore,\" Weiner told reporters on Capitol Hill.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think that if I was giving a speech to 45,000 people and someone stood up and heckled in the back, I wouldn't spend three days talking to him.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "I'm going to get back to the conversation I care about.\"",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Weiner declined to answer reporters' questions about the photo or why he was hiring a lawyer for the case instead of having law enforcement officials pursue the matter.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Weiner was a Twitter follower of the female college student who received the photo.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "The tweet of the lewd photo first was reported Saturday by BigGovernment.com, a website run by conservative commentator Andrew Breitbart.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "The site said the photo was tweeted to a female college student in Seattle.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "The woman told the New York Daily News that she had never met Weiner, and that there had \"never been any inappropriate exchanges\" between her and the congressman.",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 162,
+                    "target": "Anthony Weiner",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The woman told the New York Daily News that she had never met Weiner, and that there had \"never been any inappropriate exchanges\" between her and the congressman."
+                }
+            ]
+        },
+        {
+            "sentence": "Weiner, 46, is married to Huma Abedin, an aide to Secretary of State Hillary Clinton.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "The congressman over the weekend joked about the incident on Twitter, asking whether his kitchen blender would be next to \"attack\" him.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "On Tuesday as the House was preparing to vote on the nation's debt limit, Weiner was back tweeting about the vote with his usual partisan edge.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 123,
+                    "end": 142,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "usual partisan edge"
+                }
+            ]
+        }
+    ]
+}

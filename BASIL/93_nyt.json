@@ -1,0 +1,241 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Hillary Clinton",
+        "Jeb Bush"
+    ],
+    "main-event": "Hillary Clinton releases tax returns",
+    "title": "Clintons Report Earnings of $139 Million in Seven Years",
+    "url": "https://www.nytimes.com/politics/first-draft/2015/07/31/hillary-clinton-releases-8-years-of-tax-returns",
+    "word-count": 777,
+    "date": "2015-07-31",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Hillary Clinton": "Neutral",
+            "Jeb Bush": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Hillary Rodham Clinton on Friday released her most recent eight years of tax returns, showing that she and former President Bill Clinton earned $139 million in adjusted gross income from 2007 to 2014.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "She also released a list of paid speeches showing that she had earned nearly $10 million in speaking fees in 2013, the year she left the State Department.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The spate of voluntary disclosures on Friday, intended to highlight Mrs. Clinton\u2019s efforts at transparency, came after a week of renewed attention to her use of a private email server while she was secretary of state.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 217,
+                    "target": "Hillary Clinton",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The spate of voluntary disclosures on Friday, intended to highlight Mrs. Clinton\u2019s efforts at transparency, came after a week of renewed attention to her use of a private email server while she was secretary of state."
+                }
+            ]
+        },
+        {
+            "sentence": "Recent polls suggest that the focus on Mrs. Clinton\u2019s email practices has affected the number of voters who see her as \u201chonest\u201d and \u201ctrustworthy.\u201d",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 146,
+                    "target": "Hillary Clinton",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Recent polls suggest that the focus on Mrs. Clinton\u2019s email practices has affected the number of voters who see her as \u201chonest\u201d and \u201ctrustworthy.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "In a statement, Mrs. Clinton highlighted the millions of dollars she said she and her husband had paid in taxes and given to charity, while lamenting what she called a lopsided tax code that favors wealthy people like them.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 134,
+                    "end": 222,
+                    "target": "Hillary Clinton",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "while lamenting what she called a lopsided tax code that favors wealthy people like them"
+                }
+            ]
+        },
+        {
+            "sentence": "The Clintons have grown immensely better off in the 15 years since they left the White House, primarily through book deals, paid speeches and other business ventures involving Mr. Clinton.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Mrs. Clinton has devoted a fair amount of time since April, when she began her second presidential campaign, to showing she understands the needs of working-class Americans, who have not seen their wages grow in years, and those struggling in the post-recession job market.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 120,
+                    "end": 272,
+                    "target": "Hillary Clinton",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "she understands the needs of working-class Americans, who have not seen their wages grow in years, and those struggling in the post-recession job market"
+                }
+            ]
+        },
+        {
+            "sentence": "That effort was made particularly urgent after Mrs. Clinton said last year that she and her husband were \u201cdead broke\u201d when they left the White House.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The remark was widely seized upon by Republicans who argued she was out of touch.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The Clintons have previously released their tax returns for the period from 1977, when they entered public life, through 2006.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The new ones show that from 2007 through 2014 the couple paid $43,885,310 in federal taxes, for an effective tax rate of 31.55 percent.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "They gave nearly $15 million to charity, or an average of 10.8 percent of their earnings.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Their charitable deductions ranged from $550,000 in 2008 to more than $3 million in 2007, 2013 and 2014.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "All but $190,450 of their personal charitable giving passed through their philanthropic entity, the Clinton Family Foundation, the returns show.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "The beneficiaries of that foundation, which files a separate tax return, include their larger foundation ($1.865 million in 2014), as well as the Museum for African Art in New York, the Preventive Medicine Research Institute in California and the American Ireland Fund, based in New York.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Among Mrs. Clinton\u2019s disclosures Friday was that she was paid $9.68 million in 2013 for 41 speeches, all in the United States except for two in Toronto.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "She topped out at $400,000 for a speech to the Jewish United Fund/Jewish Federation of Metropolitan Chicago.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Her standard rate was $225,000.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "She gave three speeches to Goldman Sachs in 2013 and was paid a total of $675,000 for them; her husband was paid $200,000 by Goldman Sachs for a speech in New York, two days after Mrs. Clinton spoke to the bank in South Carolina, according to an accompanying list of his 2013 speaking fees.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "In all, Mr. Clinton earned $13.17 million in 2013, also for 41 speeches, the most lucrative of these, at $750,000, for addressing Handelsbanken Capital Markets in Stockholm that May; Mr. Clinton listed a second payment of $100,000 from the same company the same day.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Fifteen of his speeches were abroad.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Besides the royalties from his books and his speaking fees, Mr. Clinton earned nearly $20 million between 2011 and 2014 for advising or consulting companies.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019ve come a long way from my days going door to door for the Children\u2019s Defense Fund and earning $16,450 as a young law professor in Arkansas \u2014 and we owe it to the opportunities America provides,\u201d Mrs. Clinton said in her statement.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Her aides hope to set up a favorable contrast for her with former Gov. Jeb Bush of Florida, a leading Republican contender, who has argued he is more transparent than she is.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "A month ago, when Mr. Bush released his own tax returns, he said: \u201cOne fun fact I learned in this process: I have paid a higher tax rate than the Clintons even though I earned less income.\u201d",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Bush said his average federal tax rate was 36 percent, and contrasted that with what he said was the Clintons\u2019 2014 tax rate: 30 percent.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "It was unclear where Mr. Bush got the figure.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 45,
+                    "target": "Jeb Bush",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It was unclear where Mr. Bush got the figure."
+                }
+            ]
+        },
+        {
+            "sentence": "Mrs. Clinton\u2019s tax return showed that her 2014 federal tax rate was 35.72, and, with city and state income taxes, was a combined rate of 45.8 percent.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Florida has no state income tax.",
+            "sentence-index": 28,
+            "annotations": []
+        }
+    ]
+}

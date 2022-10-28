@@ -1,0 +1,314 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Anthony Weiner"
+    ],
+    "main-event": "Weiner Denies Sending Photo",
+    "title": "Rep. Weiner Denies Sending Lewd Photo, Can't Say Whether Image Is Him",
+    "url": "http://www.foxnews.com/politics/2011/06/01/rep-weiner-knocks-questions-lewd-photo-says-wont-distracted",
+    "word-count": 710,
+    "date": "2011-06-01",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Anthony Weiner": "Negative"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Rep. Anthony Weiner, in an interview with Fox News, said Wednesday he's certain he did not send a lewd photo of somebody's bulging underwear to a college student via Twitter.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "But the congressman repeatedly declined to say whether the picture was an image of him.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The congressman, who described the incident as \"mischief,\" continued to allege that he was the victim of a computer hacker.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 59,
+                    "end": 78,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "continued to allege"
+                }
+            ]
+        },
+        {
+            "sentence": "He said he's asked an Internet security firm and a law firm to take a \"hard look\" at the incident and find out what happened, though he suggested he doesn't want to make a federal case out of it.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "He said somebody is just trying to distract him.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I know for a fact that my account was hacked,\" Weiner told Fox News.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I can definitively say that I did not send this.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "He also said he \"certainly\" does not know the college student the image was sent to -- though, when asked repeatedly, Weiner declined to say whether he was shown in the image.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 16,
+                    "end": 27,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\"certainly\""
+                }
+            ]
+        },
+        {
+            "sentence": "The New York Democrat, who is known for his combative style in interviews and on the House floor, granted a series of TV interviews after getting testy with reporters late Tuesday.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 132,
+                    "end": 151,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "after getting testy"
+                },
+                {
+                    "start": 23,
+                    "end": 96,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who is known for his combative style in interviews and on the House floor"
+                }
+            ]
+        },
+        {
+            "sentence": "At the time, he repeatedly said he would not allow the incident to distract him from his job, as he likened what he described as a \"prank\" to somebody shouting out an insult or throwing a pie during a speech.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked point-blank, \"Is that picture you?\" Weiner replied, \"You know I'm not going to talk about this anymore.\"",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is the tactic.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The guy in the back of the room who's throwing the pie or yelling out the insult wants that to be the conversation,\" Weiner told reporters.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\"But I am not going to allow this thing to dominate what I talk about.\"",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "As reporters continued to ask him for several minutes whether he sent the image, the exchange became heated.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "At one point, Weiner referred to a reporter in the scrum as a \"jackass.\"",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 62,
+                    "end": 72,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "reporter",
+                    "indirect-ally-opponent-sentiment": "Neutral",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Anthony Weiner",
+                    "text": "\"jackass.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Weiner referred to prior statements his office had put out, indicating he was through talking about the matter.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Though Weiner's office had earlier responded to media inquiries, a few details appear to be keeping the story alive.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Weiner's office initially said the congressman's account was \"obviously hacked,\" but the representative has since taken to calling the incident a \"prank\" -- he used both terms Wednesday.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 186,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Weiner's office initially said the congressman's account was \"obviously hacked,\" but the representative has since taken to calling the incident a \"prank\" -- he used both terms Wednesday."
+                }
+            ]
+        },
+        {
+            "sentence": "The U.S. Capitol Police so far have not opened an investigation into the matter.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "A former Justice Department computer crimes prosecutor said it would not cost much to request an investigation from the FBI.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "The former official said if Weiner had called the FBI when the story broke, the public would already know where the Tweet originated.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Though Weiner said the incident did not constitute a federal crime, the former official said multiple federal crimes would have been committed if somebody did hack into his account -- and it could lead to years behind bars.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Amid the controversy, a Twitter official emailed security tips to members of Congress regarding their accounts.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\"While we won't comment on individual accounts, news reports of the past few days are a good reminder of the importance of actively protecting your account credentials,\" Twitter's Adam Sharp wrote.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "He urged offices to use a \"strong password\" of at least 10 characters including numbers and symbols, be on the lookout for \"suspicious links,\" and refrain from giving out passwords to \"untrusted third-parties.\"",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "The photo in question showed a close-up shot of a man's bulging underwear.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "It was deleted within minutes of being sent.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Breitbart's BigGovernment.com first reported that it was tweeted to a Seattle woman, later identified as Gennette Cordova.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Cordova is just one of 198 people that Weiner follows on Twitter, though he has nearly 50,000 followers.",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 104,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Cordova is just one of 198 people that Weiner follows on Twitter, though he has nearly 50,000 followers."
+                }
+            ]
+        },
+        {
+            "sentence": "Porn star Ginger Lee tweeted last month that she received a direct message from Weiner, and several other attractive women say they've been surprised to get a \"follow\" or a message from the prominent Democrat.",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 209,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Porn star Ginger Lee tweeted last month that she received a direct message from Weiner, and several other attractive women say they've been surprised to get a \"follow\" or a message from the prominent Democrat."
+                }
+            ]
+        },
+        {
+            "sentence": "Those claims are all circumstantial, but it doesn't help his case should there ever actually be one.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 100,
+                    "target": "Anthony Weiner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Those claims are all circumstantial, but it doesn't help his case should there ever actually be one."
+                }
+            ]
+        },
+        {
+            "sentence": "Weiner, 46, is married to Huma Abedin, an aide to Secretary of State Hillary Clinton.",
+            "sentence-index": 32,
+            "annotations": []
+        }
+    ]
+}

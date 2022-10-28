@@ -1,0 +1,157 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "William Cowan"
+    ],
+    "main-event": "William Cowan named interim senator in Massachusetts",
+    "title": "Massachusetts Gov. Deval Patrick  picks former staffer to fill Kerry's Senate seat",
+    "url": "http://www.foxnews.com/politics/2013/01/30/mass-gov-picks-former-staffer-to-fill-kerry-senate-seat-until-june-election/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+    "word-count": 410,
+    "date": "2013-01-30",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "William Cowan": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Massachusetts Gov. Deval Patrick on Wednesday picked a former chief of staff to fill Sen. John Kerry\u2019s open seat until a special election in June.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The Democratic governor picked former Chief of Staff William \"Mo\" Cowan, who also served as Patrick\u2019s chief legal counsel.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Kerry, also a Democrat and the state\u2019s senior U.S. senator, was confirmed Tuesday as the new secretary of state, following his nomination by President Obama to replace the retiring Hillary Clinton.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Both political parties will hold special-election primaries in mid May.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "But the winner of the Democratic primary will be a likely favorite to win the June 25 special general election, considering Massachusetts is among the most liberal states in the country.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Patrick also announced the general election date Wednesday.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Among the potential Democratic candidates are Reps. Stephen F. Lynch, Michael E. Capuano and Edward Markey.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The most high-profile potential Republican candidate is former Sen. Scott Brown, who pulled off a surprise 2010 victory in the race for the open seat of Sen. Ted Kennedy.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "However, Brown lost his re-election bid in November to Democrat Elizabeth Warren.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan joined the Patrick administration in 2009 and reportedly quit earlier this month to join private practice.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "He previously practiced civil litigation at the Boston office of Mintz, Levin, Cohn, Ferris, Glovsky and Popeo PC, where he was a partner.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "He also was a special assistant district attorney in the Office of the Middlesex County District Attorney.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan is a graduate of Duke University and Northeastern University School of Law.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "He and wife Stacy have two young sons.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI am confident this is the right and best choice,\u201d Patrick said at a late-morning press conference.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 49,
+                    "target": "William Cowan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "I am confident this is the right and best choice"
+                }
+            ]
+        },
+        {
+            "sentence": "The appointment marks the first time in Senate history that two black senators have served at the same time.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m not standing here because I\u2019m a person of color, but because (the governor) believes I can do the job,\u201d said Cowen, who joins South Carolina Republican Sen. Tim Scott as the chamber\u2019s two black senators.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 106,
+                    "target": "William Cowan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "William Cowan",
+                    "text": "I\u2019m not standing here because I\u2019m a person of color, but because (the governor) believes I can do the job"
+                }
+            ]
+        },
+        {
+            "sentence": "Cowmen also emphasized that his assignment is \u201ctemporary\u201d and that he will work together with Kerry\u2019s team.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Patrick gave little indication who he favored during his deliberations.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "The only possible candidate he confirmed speaking with was former Democratic Rep. Barney Frank, and then only after Frank told reporters he'd spoken with Patrick.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Michael Dukakis, the former governor and 1988 Democratic presidential nominee, and Victoria Kennedy, Sen. Kennedy\u2019s widow, had also been mentioned as possible candidates for the interim post.",
+            "sentence-index": 20,
+            "annotations": []
+        }
+    ]
+}

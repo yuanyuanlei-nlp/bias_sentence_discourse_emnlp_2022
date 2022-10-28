@@ -1,0 +1,143 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Chris Christie"
+    ],
+    "main-event": "Christ Christie campaign documents subpoenaed",
+    "title": "U.S. Attorney Subpoenas Christie\u2019s Campaign and New Jersey G.O.P.",
+    "url": "https://mobile.nytimes.com/2014/01/24/nyregion/us-attorney-issues-subpoena-to-christies-re-election-campaign.html",
+    "word-count": 609,
+    "date": "2014-01-23",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Chris Christie": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Federal prosecutors in New Jersey have issued grand jury subpoenas to Gov. Chris Christie\u2019s re-election campaign and to the state Republican Party as part of a preliminary inquiry into accusations that aides to Mr. Christie shut down access lanes to the George Washington Bridge as political retribution, the lawyer for the campaign and the party said Thursday.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "A person briefed on the matter said the prosecutors had also issued subpoenas to some of the 20 people and entities \u2014 including potential witnesses and people who have come under scrutiny in the inquiry \u2014 that received subpoenas last week from a New Jersey legislative committee whose investigation largely parallels the federal one.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe can confirm that the Christie for Governor re-election campaign and the New Jersey Republican State Committee received subpoenas for documents from the U.S. attorney\u2019s office, in addition to the subpoena the campaign previously received from the state legislative committee,\u201d the lawyer, Mark D. Sheridan, said in an email.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Sheridan is representing the campaign along with Robert D. Luskin; both men are partners at Patton Boggs.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe campaign and the state party intend to cooperate with the U.S. attorney\u2019s office and the state legislative committee and will respond to the subpoenas accordingly,\u201d Mr. Sheridan said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the person briefed on the matter, the subpoenas, issued by prosecutors in the office of the United States attorney for New Jersey, Paul J. Fishman, seek a broad range of records relating to the lane closings: emails, text messages, other correspondence and memorandums, calendar entries, spreadsheets, voice mail messages.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "They also specifically seek records relating to three close aides to Mr. Christie who resigned or were fired when their roles in the lane closings were revealed.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "They were the governor\u2019s deputy chief of staff, Bridget Anne Kelly, and Bill Baroni and David Wildstein, two senior officials and allies of Mr. Christie at the Port Authority of New York and New Jersey, which operates the bridge.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Federal Bureau of Investigation agents and prosecutors from Mr. Fishman\u2019s office have also undertaken what appears to be an unrelated inquiry.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "On Saturday, the mayor of Hoboken, Dawn Zimmer, said Mr. Christie\u2019s lieutenant governor and another senior administration official had threatened in May to withhold federal recovery aid for Hurricane Sandy unless she supported a development favored by the Christie administration.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 135,
+                    "end": 145,
+                    "target": "Chris Christie",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "lieutenant governor and another senior administration official",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "threatened"
+                }
+            ]
+        },
+        {
+            "sentence": "On Sunday, Ms. Zimmer issued a statement saying prosecutors in Mr. Fishman\u2019s office had interviewed her about her accusation.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The lieutenant governor, Kim Guadagno, emphatically denied the allegations on Monday.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Ms. Zimmer\u2019s account, however, was supported in some measure by two of the mayor\u2019s aides, who were interviewed by F.B.I. agents and told them that Ms. Zimmer had recounted the threat to them around the time she said it occurred, two people briefed on the matter have said.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "A Hoboken city councilman, David Mello, also said that Ms. Zimmer told him several months later about the encounter with Ms. Guadagno.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "The bridge inquiry being conducted by Mr. Fishman\u2019s office was confirmed this month.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The office said at the time that it would seek to determine whether any federal laws had been broken.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The subpoenas issued this week show that prosecutors have begun taking the necessary steps to answer that question.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "A spokeswoman for Mr. Fishman\u2019s office, Rebekah Carmichael, said Thursday afternoon that she could neither confirm nor deny whether any specific investigative steps had been taken.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "She has declined to comment on Ms. Zimmer\u2019s allegation.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Despite the inquiries, Mr. Christie seemed to be trying to conduct business as usual.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "The Republican Governors Association announced on Thursday that he would make fund-raising trips to Illinois, Texas, Massachusetts, Georgia, Connecticut and Utah in the coming months.",
+            "sentence-index": 20,
+            "annotations": []
+        }
+    ]
+}

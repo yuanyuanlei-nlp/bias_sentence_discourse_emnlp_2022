@@ -1,0 +1,387 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Barack Obama"
+    ],
+    "main-event": "President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation",
+    "title": "Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation",
+    "url": "https://www.huffingtonpost.com/2013/01/16/obama-gun-control-proposals_n_2486919.html",
+    "word-count": 1124,
+    "date": "2013-01-16",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "WASHINGTON -- In a bold and potentially historic attempt to stem the increase in mass gun violence, President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 19,
+                    "end": 48,
+                    "target": "Barack Obama",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "bold and potentially historic"
+                }
+            ]
+        },
+        {
+            "sentence": "\"This is our first task as a society: keeping our children safe.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "This is how we will be judged,\" Obama said.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe can\u2019t put this off any longer.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The proposal, which comes at the end of a month-long review process spearheaded by Vice President Joe Biden, is broken down into four key subsections: law enforcement, the availability of dangerous firearms and ammunition, school safety and mental health.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "In an effort to touch on all four of those elements, the president recommended requiring criminal background checks for all gun sales; reinstating the assault weapons ban; restoring a 10-round limit on ammunition magazines; eliminating armor-piercing bullets; providing mental health services in schools; allocating funds to hire more police officers; and instituting a federal gun trafficking statute, among other policies.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The cost of the package, senior officials estimated, would be roughly $500 million, some of which could come from already budgeted funds.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Because these recommendations require congressional approval, the administration is supplementing its proposal with 23 executive actions that will be taken immediately.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Those actions include requiring federal agencies to hand over relevant data for a background check system; providing law enforcement officials, first responders and school officials with better training for active shooting situations; directing the Centers for Disease Control to research the causes and prevention of gun violence; and many more.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I intend to use whatever weight this office holds to make them a reality,\" said the president, speaking about his full set of recommendations.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If there's even one life that can be saved, then we've got an obligation to try.\"",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The approach is so sweeping that what would have otherwise been a headline-grabbing announcement received second billing.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 121,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The approach is so sweeping that what would have otherwise been a headline-grabbing announcement received second billing."
+                }
+            ]
+        },
+        {
+            "sentence": "The president on Wednesday will nominate Byron Todd Jones, the acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, to take over the post permanently.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "In total, the proposal goes beyond what most gun control advocates were hoping for at the start of Biden's review process, during which he held 22 different meetings with 229 different organizations and 31 elected officials.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is a monumental moment.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "It's a long time coming and we're thrilled the president's putting the full weight of his office behind this,\" said Josh Horowitz, executive director of the Coalition to Stop Gun Violence.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 28,
+                    "end": 108,
+                    "target": "Barack Obama",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "we're thrilled the president's putting the full weight of his office behind this"
+                }
+            ]
+        },
+        {
+            "sentence": "\"We're ready to push this thing through.\"",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "But putting together ideas is the easy part.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Selling them on the Hill will take a bit of legislative craft.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Seasoned political observers have questioned whether it makes more sense to break the package into separate bills or push for one comprehensive proposal.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "A senior administration official said that the president's proposal shouldn't be considered finalized legislative language, but rather a series of recommendations for Congress to consider.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "The president would be working with lawmakers to move the process forward, the official added, and would be trying to build up public opinion as well.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I will put everything I've got into this and so will Joe [Biden].",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "But I tell you, the only way we can change is if the American people demand it,\" said Obama.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We are going to need voices in those areas and congressional districts where the tradition of gun ownership is strong.\"",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It can't just be the usual suspects,\" he continued.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This will not happen unless the American people demand it.\"",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "The gun-rights lobby has already signaled that it will try to block the administration's effort.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "A spokesman for the National Rifle Association did not immediately respond to requests for comment on the president's proposal.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "But the organization has already harshly criticized the Obama administration for overreach.",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 33,
+                    "end": 40,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "harshly"
+                }
+            ]
+        },
+        {
+            "sentence": "\"It is unfortunate that this administration continues to insist on pushing failed solutions to our nation's most pressing problems,\" the NRA said after meeting with Biden last week.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 130,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "It is unfortunate that this administration continues to insist on pushing failed solutions to our nation's most pressing problems"
+                }
+            ]
+        },
+        {
+            "sentence": "\"We will not allow law-abiding gun owners to be blamed for the acts of criminals and madmen.\"",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "The group continued its offensive this week, launching an advertising campaign attacking Obama as an \"elitist hypocrite\" for opposing the NRA's widely-criticized proposal, made after the Newtown, Conn. shooting, to place armed guards in all of the nation's schools.",
+            "sentence-index": 33,
+            "annotations": [
+                {
+                    "start": 102,
+                    "end": 119,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "elitist hypocrite"
+                }
+            ]
+        },
+        {
+            "sentence": "But that attack appeared a bit premature.",
+            "sentence-index": 34,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 41,
+                    "target": "Barack Obama",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "NRA",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But that attack appeared a bit premature."
+                }
+            ]
+        },
+        {
+            "sentence": "As part of its policy recommendations, the White House called on Congress to act on an old administration proposal to spend $4 billion to keep 15,000 cops on the streets.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "In addition, the president is proposing a new initiative that would incentivize police departments to hire more school resource officers and encourage schools to hire more mental health professionals.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "The president's plan also calls on Congress to allocate resources to help schools, other educational institutions and houses of worship develop emergency management plans.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "The White House proposals, even officials there admit, are not a cure-all for mass shootings.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "Among the suggested recommendations on the gun-policy front, only the ban on high-capacity magazines could have had a tangible impact on the shooting in Newtown, and it's unclear what, exactly, the effect would have been.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "Moreover, the administration is pointedly not going after those weapons and ammunition magazines that are currently and lawfully owned.",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "The proposal would instead affect the future production and sale of military-style weapons or high-capacity magazines.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We are not going to go after existing stock of weapons or magazines,\" said a senior administration official.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We are going to limit it to the manufacturing of assault weapons and clips going forward.\"",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "The White House nevertheless insists that its package of proposals has teeth.",
+            "sentence-index": 44,
+            "annotations": []
+        },
+        {
+            "sentence": "It would provide law enforcement with the mechanisms needed to go after the illegal transfer of weapons and help prevent those weapons from falling into the wrong hands.",
+            "sentence-index": 45,
+            "annotations": []
+        },
+        {
+            "sentence": "It would also stem the use of military-style weapons -- the White House says its proposal would improve on the 1994 Assault Weapons Ban, which was riddled with loopholes -- and give schools and communities resources to address violence when it occurs.",
+            "sentence-index": 46,
+            "annotations": []
+        },
+        {
+            "sentence": "The question, in some respects, is not what's missing from the set of ideas, but what took the administration so long to get to this point.",
+            "sentence-index": 47,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It is not as though we had this whole policy paper sitting on the shelf somewhere,\" said a senior administration official.",
+            "sentence-index": 48,
+            "annotations": []
+        },
+        {
+            "sentence": "\"[We worked] 24/7 for the past month.",
+            "sentence-index": 49,
+            "annotations": []
+        },
+        {
+            "sentence": "And we met with a lot of groups and we learned a lot of ideas that came as a result of this process.",
+            "sentence-index": 50,
+            "annotations": []
+        },
+        {
+            "sentence": "We tried to be as comprehensive as possible.",
+            "sentence-index": 51,
+            "annotations": []
+        },
+        {
+            "sentence": "We are hoping that as the process goes on and as the debate goes on, we might come up with some other ideas.\"",
+            "sentence-index": 52,
+            "annotations": []
+        }
+    ]
+}

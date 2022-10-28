@@ -1,0 +1,291 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "William Cowan",
+        "Deval Patrick"
+    ],
+    "main-event": "William Cowan named interim senator in Massachusetts",
+    "title": "Mo Cowan Senate: Deval Patrick Names Former Chief Of Staff To Replace John Kerry",
+    "url": "https://www.huffingtonpost.com/2013/01/30/mo-cowan-senate_n_2567798.html",
+    "word-count": 833,
+    "date": "2013-01-30",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "William Cowan": "Positive",
+            "Deval Patrick": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Mo Cowan Senate: Deval Patrick Names Former Chief Of Staff To Replace John Kerry",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "WASHINGTON -- Massachusetts Gov. Deval Patrick (D) on Wednesday appointed William \"Mo\" Cowan to the Senate seat vacated by newly confirmed Secretary of State John Kerry.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan will hold the seat in an interim capacity until an election in June.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Patrick, Cowan and Lt. Governor Tim Murray were all smiles as they walked into a news conference to announce the appointment.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 43,
+                    "end": 58,
+                    "target": "William Cowan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "were all smiles"
+                }
+            ]
+        },
+        {
+            "sentence": "\"He's cool,\" Murray said of Cowan.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Tom Brady, George Clooney, James Bond, the president have nothing on Mo.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It was a private fact, but now known publicly thanks to the lieutenant governor, that he also brought cool,\" Patrick said to laughs.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 107,
+                    "target": "William Cowan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Deval Patrick",
+                    "text": "It was a private fact, but now known publicly thanks to the lieutenant governor, that he also brought cool"
+                }
+            ]
+        },
+        {
+            "sentence": "He and Cowan shook hands and hugged.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 36,
+                    "target": "William Cowan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He and Cowan shook hands and hugged."
+                }
+            ]
+        },
+        {
+            "sentence": "Cowan, 43, is a former chief of staff and former legal counsel to Patrick.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Like Patrick, who grew up on the South Side of Chicago before attending Milton Academy, Harvard and Harvard Law, Cowan came from a poor background to Boston for education and made a career there.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "After growing up in poverty in rural North Carolina, Cowan went to Duke University and then Northeastern University School of Law.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "He never left, and became a prominent Boston lawyer.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan's appointment means that there will be two black senators serving together for the first time in American history.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Neither was elected -- Sen. Tim Scott (R-S.C.) was appointed in December after former Sen. Jim DeMint (R-S.C.) left the chamber in the middle of his term.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan's selection is a step forward for a state that has a troubled history with race relations, exploding in the South Boston busing riots in the 1970s.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Patrick, the state's first African-American governor, said recently on local cable television that it was a priority for him to pick a woman or a person of color for the seat.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan will become the second black senator from Massachusetts, after Edward Brooke, who served from 1967 to 1979.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Patrick on Wednesday was asked to reflect on the fact that eight years ago, the highest black official in the state was Suffolk County D.A. Ralph Martin.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Patrick said it was important to have black elected officials, adding, \"the commonwealth and the country [are] changing.\"",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan said Patrick offered him the job on Tuesday, and he accepted.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "He said there would be \"no daylight\" between him and Kerry on policy.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "When asked about the looming sequester, he said the \"best-case scenario\" was a \"balanced approach\" of spending cuts and tax increases.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I don't think anyone believes it's in the best interest to do straight across-the-board cuts,\" he said.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Patrick has consistently said that the pick to succeed Kerry should not run in the general election slated for June 25.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Cowan embraced the temporary appointment Wednesday, repeating over and over that his stint would be short.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked about his political future, he said, \"I am not running for office; I am not a candidate in the future.\"",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "The late Sen. Ted Kennedy (D-Mass.) requested in a letter written before his death that the interim pick to replace him not run in the general election, a principle that Patrick honored after Kennedy died by picking Kennedy's longtime chief of staff, Paul Kirk.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Former Rep. Barney Frank (D-Mass.) was the only person to publicly campaign for the interim appointment, announcing his desire to fill the seat on MSNBC and doing subsequent interviews about it.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Frank promised that he would not run in the June election if appointed, and he endorsed Rep. Edward Markey (D-Mass.) for Senate, though the two fought over the redistricting process that Frank blamed for his exit from the House of Representatives.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Progressive groups lined up to rally support for Frank, but Patrick reportedly bristled at his public pursuit of the seat.",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 79,
+                    "end": 87,
+                    "target": "Deval Patrick",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "bristled"
+                }
+            ]
+        },
+        {
+            "sentence": "Frank praised Cowan in a brief statement Wednesday.",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 6,
+                    "end": 13,
+                    "target": "William Cowan",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "praised"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I know Mr. Cowan is committed to working hard and in a socially fair and economically efficient manner toward solving pending budget issues,\" he said.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI now look forward to working for the election of Ed Markey to continue this work, and to providing President Obama the support he deserves in carrying out the mandate he received in November.\"",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "A Frank representative did not respond to interview requests from The Huffington Post.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "The only announced candidate for the general election is Markey, who has received a flood of endorsements from Democrats -- including Kerry -- and has a $3.1 million war chest.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Stephen Lynch (D-Mass.) is expected to announce his bid Thursday for the seat.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "Lynch holds more conservative positions than Markey; he opposes abortion rights and voted against President Barack Obama's health care law.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "Former Sen. Scott Brown (R-Mass.) has not said what he will do, but the Associated Press reported Tuesday that he was \"leaning strongly\" towards a run and would likely announce his candidacy early next week.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "Brown has kept a low public profile since leaving the Senate in January, other than lashing out at his Twitter critics in a string of messages early Saturday morning.",
+            "sentence-index": 38,
+            "annotations": []
+        }
+    ]
+}

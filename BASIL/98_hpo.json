@@ -1,0 +1,69 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Kevin McCarthy"
+    ],
+    "main-event": "Kevin McCarthy open to immigration reform",
+    "title": "Top House Republican Hints At Immigration Principles",
+    "url": "https://www.huffingtonpost.com/2014/01/22/kevin-mccarthy-immigration_n_4645358.html?utm_hp_ref=tw",
+    "word-count": 223,
+    "date": "2014-01-22",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Kevin McCarthy": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "House Majority Whip Kevin McCarthy (R-Calif.), a longtime target of immigration activists, said Tuesday that he would support allowing undocumented immigrants to stay in the U.S., but stopped short of calling for a path to citizenship.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Advocates are hoping for a plan that would give undocumented immigrants a chance to both remain in the country and eventually become citizens, but House Republicans have indicated that the latter is something most cannot support.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Although he's expressed openness to legal status previously, his comments could be a hint at what's to come in the House GOP's plan to soon release its own principles for immigration reform.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The principles aren't combined, written out yet, but in my personal belief I think it'll go with legal status that will allow you to work and pay your taxes,\" McCarthy told KBFX Eyewitnesses News.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"But if you want to become a citizen, you'll have to go through the path.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "There won't be amnesty inside it.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "He added later, \"That's a decision that every Republican will have to make in laying out the principles, but that's my personal position.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "McCarthy has previously been more open to immigration reform than many of his House Republican colleagues, and, as TPM notes, his district is 35 percent Latino.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Immigration activists have targeted McCarthy specifically due to his high rank in the House GOP.",
+            "sentence-index": 8,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Barack Obama",
+        "lawmakers"
+    ],
+    "main-event": "Obama urges new restrictions on assault weapons",
+    "title": "Obama urges new restrictions on assault weapons, magazines as part of gun control plan",
+    "url": "http://www.foxnews.com/politics/2013/01/16/obama-urges-new-restrictions-on-assault-weapons-magazines-as-part-gun-control/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29",
+    "word-count": 792,
+    "date": "2013-01-16",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral",
+            "lawmakers": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Obama urges new restrictions on assault weapons, magazines as part of gun control plan",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "President Obama called Wednesday for a new and tougher assault-weapons ban and a 10-round limit on magazines, as part of a comprehensive plan to curb gun violence that includes 23 steps he took without congressional action.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 194,
+                    "end": 222,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "without congressional action"
+                }
+            ]
+        },
+        {
+            "sentence": "Already facing stiff opposition from gun-rights advocates and Republican lawmakers, the president called on Congress to pass several major changes to the country's current gun laws -- some of which are already being considered like the restrictions on semi-automatic weapons and high-capacity magazines.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama called as well for legislation to bar the possession and importation of armor-piercing bullets and to require criminal background checks for nearly all gun sales.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The president, speaking at the White House, said he would use \"whatever weight this office holds\" to get the proposals passed.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If there's even one life that can be saved, then we've got an obligation to try,\" Obama said.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"When it comes to protecting the most vulnerable among us, we must act now.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "... Let's do the right thing.\"",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The president was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting in which 20 children were killed.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 163,
+                    "target": "Barack Obama",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The president was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting in which 20 children were killed."
+                }
+            ]
+        },
+        {
+            "sentence": "Though the administration faced some criticism for involving children in the program, they were positioned off to the side while Obama spoke.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Despite discussions earlier about addressing the pervasive violence in the entertainment and video game industries, the president's plan did not address those issues in depth.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The plan, though, does call for a range of measures to improve access to mental health services and improve safety at America's schools.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The president, immediately after making his remarks, signed nearly two-dozen executive actions -- a step that has stirred objections from lawmakers who have warned Obama not to overstep his bounds.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Unilaterally, Obama on Wednesday directed federal agencies to share information with the federal background check system; proposed new rules to let law enforcement run full background checks before returning a seized gun; ordered the Centers for Disease Control to research causes of gun violence; required law enforcement to trace guns from criminal investigations; and took other steps.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Unilaterally"
+                }
+            ]
+        },
+        {
+            "sentence": "Plus Obama is nominating ATF Acting Director Todd Jones to officially lead the agency",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The most controversial elements of the president's plan, though, continue to be the proposals he wants Congress to pass.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The call for universal background checks would extend to gun shows and private sales, with \"limited\" exemptions for \"certain transfers\" among family members and other situations.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The administration plans to give private sellers guidance on how to run background checks as soon as possible.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Plus the president wants to commit $4 billion to hiring more police officers, and to pass new gun trafficking laws to explicitly prohibit straw purchasing.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "The plan was already earning a mixed response from lawmakers.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Marco Rubio, R-Fla., accused Obama of trying to \"undermine Americans' constitutional right to bear arms\" without doing enough to focus on keeping guns out of the hands of criminals and the mentally ill.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 108,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "undermine Americans' constitutional right to bear arms"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Nothing the president is proposing would have stopped the massacre at Sandy Hook.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 82,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\"Nothing the president is proposing would have stopped the massacre at Sandy Hook."
+                }
+            ]
+        },
+        {
+            "sentence": "President Obama is targeting the 2nd Amendment rights of law-abiding citizens instead of seriously addressing the real underlying causes of such violence,\" he said.",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 153,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "President Obama is targeting the 2nd Amendment rights of law-abiding citizens instead of seriously addressing the real underlying causes of such violence"
+                }
+            ]
+        },
+        {
+            "sentence": "Senate Democratic Leader Harry Reid said \"all options should be on the table.\"",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Texas Gov. Rick Perry, in a written statement, said: \"Guns require a finger to pull the trigger.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "The sad young man who did that in Newtown was clearly haunted by demons and no gun law could have saved the children in Sandy Hook Elementary from his terror.\"",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Gun-rights groups say the effort to impose more gun control measures is misguided, noting in particular that most killings in America are committed with handguns and not the assault weapons the administration intends to target.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Some local officials have vowed to resist federal action.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 26,
+                    "end": 31,
+                    "target": "lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "vowed"
+                }
+            ]
+        },
+        {
+            "sentence": "The National Rifle Association also plans to launch a major ad campaign.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "The group's first ad called Obama an \"elitist hypocrite\" for his daughters' security detail.",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 55,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "elitist hypocrite"
+                }
+            ]
+        },
+        {
+            "sentence": "Obama has been critical of the NRA's plan to install armed security in every school.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "The White House plan does address school security, urging Congress to help schools complete emergency plans; proposing an initiative to help schools hire up to 1,000 resource officers and mental health professionals; and proposing new training for teachers to recognize mental health issues among young people.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "Obama also plans to beef up mental health coverage via executive action.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "House Speaker John Boehner declined to weigh in on the merits of the president's proposals Wednesday.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "\"House committees of jurisdiction will review these recommendations.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "And if the Senate passes a bill, we will also take a look at that,\" Boehner spokesman Michael Steel said.",
+            "sentence-index": 35,
+            "annotations": []
+        }
+    ]
+}
