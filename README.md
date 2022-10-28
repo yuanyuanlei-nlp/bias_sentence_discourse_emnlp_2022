@@ -22,10 +22,10 @@ The sentence-level bias detection task has a relatively short research history. 
 
 ## Teacher Models
 We saved the teacher model for the global functional discourse structure in the ./Teacher/Teacher_global folder, and for the local rhetorical discourse relations in the ./Teacher/Teacher_local folder
-* **Teacher_global:**
+* **Teacher_global - global functional discourse structure**
   * **Data:** News Discourse Data [3] is used to train the teacher for global functional discourse structure. (https://github.com/prafulla77/Discourse_Profiling)
   * **Model:** We used the state-of-art model [4] for news discourse profiling as our teacher model. (https://github.com/prafulla77/Discoure_Profiling_RL_EMNLP21Findings)
-* **Teacher_local:**
+* **Teacher_local - local rhetorical discourse relations**
   * **Data:** PDTB 2.0 data [5] is used to train the teacher for local rhetorical discourse relations. Followed the official suggestion in PDTB 2.0 dataset, sections 2-21, sections 22 & 24, and section 23 are used for training, development and testing respectively. We saved the PDTB 2.0 data after processing into the folder ./Teacher/Teacher_local/PDTB2_data
   * **Model:** teacher_local_comparison.py is the code to train the local comparison relation teacher, teacher_local_contingency.py is the code to train the local contingency relation teacher. 
 
