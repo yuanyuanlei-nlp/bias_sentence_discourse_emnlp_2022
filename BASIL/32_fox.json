@@ -1,0 +1,274 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Donald Trump",
+        "Ted Cruz",
+        "National Enquirer"
+    ],
+    "main-event": "Trump and Cruz argue over personal attacks",
+    "title": "Cruz blames Trump for affair story, hints he wouldn't support him in general election",
+    "url": "http://latino.foxnews.com/latino/politics/2016/03/25/cruz-blames-trump-for-affair-report-hints-wouldnt-support-him-in-general/",
+    "word-count": 612,
+    "date": "2016-03-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Ted Cruz": "Neutral",
+            "National Enquirer": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Sen. Ted Cruz has laid down the gauntlet in the growing war of words with Donald Trump over the Republican presidential candidates\u2019 wives.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The Texas lawmaker blamed his rival for the National Enquirer story published Friday that alleged Cruz has had extramarital affairs, and after hits from Trump\u2019s campaign about the mental health of his wife, the firebrand senator appears to be backing away from his pledge to support Trump if the billionaire real estate mogul wins the GOP nomination.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don\u2019t make a habit out of supporting people who attack my wife and attack my family,\u201d Cruz said at a press conference after a Wisconsin rally, according to The Hill.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 86,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Ted Cruz",
+                    "text": "I don\u2019t make a habit out of supporting people who attack my wife and attack my family"
+                }
+            ]
+        },
+        {
+            "sentence": "He added, \u201cDonald Trump is not going to be the Republican nominee.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Earlier in the campaign, GOP candidates signed a promise not to run as an independent if they were not nominated.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The move was meant to convince voters that Trump would remain faithful to the Republican Party even if he lost.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt is garbage, complete and utter lies,\u201d Cruz said about the National Enquirer article alleging that he has had multiple affairs.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 39,
+                    "target": "National Enquirer",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Ted Cruz",
+                    "text": "It is garbage, complete and utter lies"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt is a tabloid smear, and it has come from Donald Trump and his henchmen.\u201d",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 66,
+                    "end": 74,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Ted Cruz",
+                    "text": "henchmen"
+                },
+                {
+                    "start": 17,
+                    "end": 22,
+                    "target": "National Enquirer",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Ted Cruz",
+                    "text": "smear"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump spokeswoman Katrina Pierson responded to claims that she is one of the mystery women referred to in the article, stating on Twitter that the allegation is \u201cstupidity on all levels.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOf course the National Enquirer story is 100 percent false!,\u201d Pierson tweeted.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Of course the National Enquirer story is 100% FALSE!!!",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "I only speak to myself, however.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Earlier this year, the tabloid endorsed Trump for president with an issue that included an article giving ten reasons why the reality TV star is the \u201conly choice for the White House.\u201d",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The intensely personal feud between Cruz and Trump began earlier this week when a super PAC that opposes Trump posted a meme-style ad featuring a naked Melania Trump that Trump\u2019s then-girlfriend, a professional model, posed for more that 15 years ago for British GQ.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Make America Awesome PAC paid for the ads and posted them on Facebook and Instagram.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The photo features Mrs. Trump sprawled out naked on a fur rug inside a Boeing 727.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 30,
+                    "end": 42,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Melania Trump",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "sprawled out"
+                }
+            ]
+        },
+        {
+            "sentence": "The social media posts read, \u201cMeet Melania Trump. Your next First Lady. Or you could support Ted Cruz on Tuesday.\u201d",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "An angry Trump lashed out at Cruz on Twitter, calling the senator a liar, as he has alleged before in the campaign, and threatening to \u201cspill the beans\u201d about Cruz's wife Heidi.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cLyin' Ted Cruz just used a picture of Melania from a GQ shoot in his ad,\u201d Trump said on the social media site.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 5,
+                    "target": "Ted Cruz",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "Lyin"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cBe careful, Lyin' Ted, or I will spill the beans on your wife!\u201d",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 13,
+                    "end": 17,
+                    "target": "Ted Cruz",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "Lyin"
+                }
+            ]
+        },
+        {
+            "sentence": "Cruz quickly retorted by saying that the ads did not come not from his campaign, and called Trump a \u201ccoward\u201d threatening to go after his wife.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cPic of your wife not from us,\u201d Cruz said.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cDonald, if you try to attack Heidi, you're more of a coward than I thought. #classless.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 87,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Ted Cruz",
+                    "text": "you're more of a coward than I thought. #classless"
+                }
+            ]
+        },
+        {
+            "sentence": "The lurch into the sort of personal territory that's normally off limits in campaigns occurred as an anti-Trump super PAC began running an ad in primary states featuring women reciting comments made by the billionaire that are derogatory toward women.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "That ad was produced by Our Principles, a group founded by a former Mitt Romney campaign adviser who is trying to help the GOP appeal to women.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump has a substantial lead in the delegate chase for the GOP nomination.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Cruz has a stiff challenge trying to catch him in remaining races and may only have a shot at the nomination if the contest spills into the summer convention.",
+            "sentence-index": 26,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Lois Lerner",
+        "Internal Revenue Service"
+    ],
+    "main-event": "I.R.S. Official Invokes 5th Amendment at Hearing",
+    "title": "Lois Lerner, IRS Scandal Figure, Will Invoke Fifth Amendment At Oversight Hearing",
+    "url": "https://www.huffingtonpost.com/2013/05/21/lois-lerner-irs-scandal_n_3314693.html",
+    "word-count": 471,
+    "date": "2013-05-21",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Lois Lerner": "Neutral",
+            "Internal Revenue Service": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Lois Lerner, the director of the exempt organizations unit at the Internal Revenue Service, plans to invoke the Fifth Amendment during her expected testimony before the House Oversight and Government Reform Committee on Wednesday, the Los Angeles Times reports.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Lerner announced her plans to plead the Fifth during her testimony in a letter from her lawyer, William Taylor III, to the committee.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"She has not committed any crime or made any misrepresentation but under the circumstances she has no choice but to take this course,\" the letter addressed to Chairman Darrell Issa (R-Calif.) reads, according to the Los Angeles Times.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Since she will be pleading the Fifth, Taylor has asked the committee that she be excused from testifying.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The letter from Taylor states that her testimony would \"have no purpose other than to embarrass or burden her.\"",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 109,
+                    "target": "Lois Lerner",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Lerner's testimony",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "have no purpose other than to embarrass or burden her"
+                }
+            ]
+        },
+        {
+            "sentence": "The Wednesday hearing would have been Lerner's first public appearance, and first under oath, since she apologized for the IRS' inappropriate targeting of conservative groups at a May 10 American Bar Association meeting.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "That apology was planned ahead of time by the IRS, and came in response to a planted question.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Issa has issued a subpoena to compel Lerner to appear at the hearing.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Lerner is a key figure in the unfolding IRS scandal.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "As director of the IRS exempt organizations unit, she is in charge of the division overseeing nonprofit organizations, which includes the Cincinnati office that was the source of the inappropriate targeting criteria.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The criteria directed the IRS to conduct a more intensive review of applications for tax-exempt status from groups with the name \"tea party\" or \"patriot.\"",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the report issued by the Department of the Treasury Inspector General for Tax Administration, Lerner had to correct the criteria developed by the Cincinnati office twice because she and other top IRS officials found that they were using politically fraught terms as they sought to make sure groups were properly applying for tax exemption.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Lerner's decision to plead the Fifth comes as the Department of Justice has initiated an investigation into whether laws were broken at the IRS, according to Taylor's letter to the committee.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "It also follows a request to Lerner from the committee to provide information on why she gave \"false or misleading information\" to the committee on four previous occasions in 2012.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe Committee has been contacted by Ms. Lerner\u2019s lawyer who stated that his client intended to invoke her 5th amendment right and refuse to answer questions,\u201d Oversight and Government Reform Committee spokesman Ali Ahmad said in a statement.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMs. Lerner remains under subpoena from Chairman Issa to appear at tomorrow\u2019s hearing \u2014 the Committee has a Constitutional obligation to conduct oversight.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Chairman Issa remains hopeful that she will ultimately decide to testify tomorrow about her knowledge of outrageous IRS targeting of Americans for their political beliefs.\u201d",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 105,
+                    "end": 115,
+                    "target": "Internal Revenue Service",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "outrageous"
+                }
+            ]
+        }
+    ]
+}

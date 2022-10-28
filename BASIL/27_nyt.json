@@ -1,0 +1,247 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Donald Trump",
+        "Vicente Fox"
+    ],
+    "main-event": "Trump gets into Twitter feud with Vicente Fox",
+    "title": "Vicente Fox, Ex-President of Mexico, Scoffs at Donald Trump\u2019s Visit",
+    "url": "https://mobile.nytimes.com/2016/09/01/us/politics/vicente-fox-mexico.html",
+    "word-count": 371,
+    "date": "2016-08-31",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Negative",
+            "Vicente Fox": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Donald J. Trump is heading to Mexico on Wednesday to meet with President Enrique Pe\u00f1a Nieto, but one of the Mexican leader\u2019s predecessors had a different message for the Republican presidential nominee: You are not welcome here.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Vicente Fox, Mexico\u2019s president from 2000 to 2006, said on Wednesday that the invitation from Mr. Pe\u00f1a Nieto was a mistake and that Mr. Trump should never be trusted in the country because of the way he has demonized its people.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 207,
+                    "end": 216,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "demonized"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cHe is not welcome to Mexico,\u201d Mr. Fox told CNN.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe don\u2019t want him. We reject his visit.\u201d",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 41,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "\u201cWe don\u2019t want him. We reject his visit.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Fox has been critical of Mr. Trump\u2019s plan to build a wall on the border between the United States and Mexico and on Wednesday he shrugged off recent signs of Mr. Trump softening his plans to deport 11 million undocumented immigrants.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYou cannot trust a guy like this,\u201d Mr. Fox said.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 33,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "You cannot trust a guy like this"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cHow can we grant confidence and support to ideas that change everyday?",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "He cynically continues to disregard his own people and disregard Mexicans.\u201d",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 75,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "He cynically continues to disregard his own people and disregard Mexicans.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Despite Mr. Trump\u2019s promises that Mexico will pay for his border wall, Mr. Fox vowed in February that it would never happen.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "He also called Mr. Trump a \u201cfalse prophet\u201d who was misleading his followers.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 76,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He also called Mr. Trump a \u201cfalse prophet\u201d who was misleading his followers."
+                }
+            ]
+        },
+        {
+            "sentence": "On Wednesday, Mr. Fox expressed disbelief that Mr. Pe\u00f1a Nieto would invite Mr. Trump for the private meeting.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "He suggested that Mr. Trump was only coming as part of a \u201cdesperate\u201d strategy to improve his sagging poll numbers and in explicit terms he urged Americans not to vote for him.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 67,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "desperate"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI cannot envision him sitting in that chair, that was the chair of President Washington, President Jefferson, President Kennedy, President Reagan,\u201d Mr. Fox said.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHe doesn\u2019t know how to run a nation.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 37,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "\u201cHe doesn\u2019t know how to run a nation."
+                }
+            ]
+        },
+        {
+            "sentence": "He doesn\u2019t even know how to run a business.\u201d",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 44,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "He doesn\u2019t even know how to run a business.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "As he prepared to travel to Mexico, Mr. Trump responded to Mr. Fox\u2019s attacks, noting on Twitter that the former Mexican president once suggested that he pay the country a visit.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Fox fired back with a Twitter post of his own, reminding Mr. Trump that he invited him to come to Mexico and personally apologize to all Mexicans.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cStop lying!\u201d Mr. Fox wrote.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMexico is not yours to play with, show some respect.\u201d",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 54,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "\u201cMexico is not yours to play with, show some respect.\u201d"
+                }
+            ]
+        }
+    ]
+}

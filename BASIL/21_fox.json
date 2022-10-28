@@ -1,0 +1,315 @@
+{
+    "url": "http://www.foxnews.com/politics/2014/12/19/colorado-top-cop-defends-pot-law-after-challenges-from-neighboring-states.html",
+    "word-count": 856,
+    "source": "fox",
+    "title": "Colorado's top cop defends pot law after challenges from neighboring states ",
+    "date": "2014-12-19",
+    "main-event": "Nebraska and Oklahoma fight Colorado's recreational marijuana policy",
+    "main-entities": [
+        "Colorado officials",
+        "Nebraska officials"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Colorado officials": "Neutral",
+            "Nebraska officials": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Colorado's top cop defends pot law after challenges from neighboring states",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Denver (AP) \u2013 Colorado's top law enforcement official promises to vigorously defend the state's historic law legalizing marijuana after Nebraska and Oklahoma asked the U.S. Supreme Court to declare it unconstitutional, saying the drug is freely flowing into neighboring states.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The two states filed a lawsuit seeking a court order to prevent Colorado from enforcing the measure known as Amendment 64, which was approved by voters in 2012 and allows recreational marijuana for adults over 21.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The complaint says the measure runs afoul of federal law and therefore violates the Constitution's supremacy clause, which says federal laws trump state laws.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Colorado Attorney General John Suthers said the lawsuit was without merit.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Because neighboring states have expressed concern about Colorado-grown marijuana coming into their states, we are not entirely surprised by this action,\" he said.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"However, it appears the plaintiffs' primary grievance stems from non-enforcement of federal laws regarding marijuana, as opposed to choices made by the voters of Colorado.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The lawsuit says Colorado marijuana flows into neighboring states undermining their efforts to enforce their anti-marijuana laws.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This contraband has been heavily trafficked into our state,\" Nebraska Attorney General Jon Bruning said at a news conference in Lincoln.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\"While Colorado reaps millions from the sale of pot, Nebraska taxpayers have to bear the cost.\"",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 93,
+                    "target": "Colorado officials",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Nebraska officials",
+                    "text": "While Colorado reaps millions from the sale of pot, Nebraska taxpayers have to bear the cost"
+                }
+            ]
+        },
+        {
+            "sentence": "Colorado has raised more than $60 million in taxes, licenses and fees from medical and recreational marijuana, which has been sold in stores since January.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The lawsuit says the sales have strained Nebraska and Oklahoma's finances and legal systems.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Police are spending more time and money making arrests, housing inmates, impounding vehicles, seizing drugs and handling other problems related to Colorado pot.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Bruning, a Republican, blamed U.S. Attorney General Eric Holder for failing to enforce the federal law's ban on drugs in Colorado.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "In a policy statement last year, the U.S. Justice Department noted it doesn't have the resources to police all violations of federal marijuana law.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "It laid out eight federal law enforcement priorities that states need to protect if they want to authorize \"marijuana-related conduct.\"",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "They include keeping marijuana in-state \u2014 something Oklahoma and Nebraska says Colorado has failed to do.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The suit doesn't contain statistics to support the claim.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 57,
+                    "target": "Nebraska officials",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The suit doesn't contain statistics to support the claim."
+                }
+            ]
+        },
+        {
+            "sentence": "Law enforcement agencies have long said anecdotally that they are feeling the impacts of Colorado's legal weed, making more marijuana arrests and seizing more of the drug.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "But there's no way to know exactly how much legal pot is leaving Colorado.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 74,
+                    "target": "Nebraska officials",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "But there's no way to know exactly how much legal pot is leaving Colorado."
+                }
+            ]
+        },
+        {
+            "sentence": "The Rocky Mountain High Intensity Drug Trafficking Area wrote in a recent report that the amount of Colorado pot seized on highways increased from an annual average of 2,763 pounds between 2005 and 2008 to a yearly average of 3,690 pounds from 2009 to 2013.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "The weed was headed for at least 40 different states.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Scotts Bluff County Sheriff Mark Overman, in western Nebraska, said Colorado marijuana is extra potent, making it worth more in his region and giving sellers a greater financial incentive to do business there.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think this is overdue, and I think other states should jump on board,\" Overman said of the lawsuit.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I'm very frustrated.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 21,
+                    "target": "Colorado officials",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Nebraska officials",
+                    "text": "\"I'm very frustrated."
+                }
+            ]
+        },
+        {
+            "sentence": "I take an oath of office, as does every other police officer in this country.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "I don't just get to pick and choose which laws I enforce.\"",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Colorado Gov. John Hickenlooper told The Denver Post he spoke with Nebraska and Oklahoma officials about their concerns.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I'm not sure filing a lawsuit is the most constructive way to find a solution to whatever issues they are,\" he said.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Legal scholars say it's too early to know how the Supreme Court might handle the case or if it will even accept it.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Right now, these regulations exist in legal no-man's-land,\" said Sam Kamin, a University of Denver law professor.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It's incredibly unusual for a state to be suing another state.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "(The lawsuit) certainly was a surprise to me given the movement at the federal level, which seems to be in favor of allowing states to experiment.\"",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "It was unclear if other neighboring states would take similar action.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "Attorneys general in Utah and New Mexico said they had no immediate plans to join the suit.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "Brian Vicente, a Colorado attorney and legalization advocate who wrote Amendment 64, said the challenge is \"political grandstanding\" without merit.",
+            "sentence-index": 35,
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 146,
+                    "target": "Nebraska officials",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the challenge is \"political grandstanding\" without merit"
+                }
+            ]
+        },
+        {
+            "sentence": "He said 23 states have enacted medical marijuana laws, and none have been overturned because of federal law.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I think it shows they are on the wrong side of history,\" Vicente said.",
+            "sentence-index": 37,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 55,
+                    "target": "Nebraska officials",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "I think it shows they are on the wrong side of history"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Colorado voters passed this measure, and more and more states are passing these laws.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "If the attorney general has a problem with how federal laws are being enforced he should bring that up with the U.S.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "attorney.\"",
+            "sentence-index": 40,
+            "annotations": []
+        }
+    ]
+}

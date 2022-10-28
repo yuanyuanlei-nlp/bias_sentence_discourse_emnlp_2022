@@ -1,0 +1,168 @@
+{
+    "date": "2011-12-13",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Donald Trump drops plans to moderate presidential debate",
+    "source": "NYT",
+    "url": "http://thecaucus.blogs.nytimes.com/2011/12/13/trump-wont-go-forward-with-debate/",
+    "title": "Trump Won't Go Forward With Debate",
+    "word-count": 687,
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Donald J. Trump has dropped plans to moderate a presidential debate, but don\u2019t expect him to fade quietly from the political scene.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "In fact, Republicans may have gotten more than they bargained for by shunning him.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 82,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "In fact, Republicans may have gotten more than they bargained for by shunning him."
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump\u2019s statement on Tuesday that he was bowing out of the Newsmax debate seemed certain to open the door to another round of \u201cI just might \u2026\u201d threats from the real estate mogul.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 147,
+                    "end": 154,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "threats"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration,\u201d Mr. Trump said in his statement.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBut if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump drew considerable criticism from the Republican establishment for moderating a presidential debate while openly saying that he might still run if he was displeased with the candidates.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 109,
+                    "end": 193,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "while openly saying that he might still run if he was displeased with the candidates"
+                }
+            ]
+        },
+        {
+            "sentence": "Rather than go ahead with the debate and declare that he will not run \u2014 Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through \u2014 he chose to drop the debate.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 72,
+                    "end": 195,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI must leave all of my options open because, above all else, we must make America great again!\u201d he said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump was facing a potentially awkward task: moderating a debate that only two candidates said they would attend.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Newt Gingrich and Rick Santorum were the only two Republicans who agreed to participate.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Mitt Romney, Rick Perry, Michele Bachmann, Jon M. Huntsman Jr. and Ron Paul all declined, putting a big dent in Mr. Trump\u2019s self-proclaimed status as Republican kingmaker.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 112,
+                    "end": 170,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Mr. Trump\u2019s self-proclaimed status as Republican kingmaker"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump issued the following exclamation-point laden statement through his lawyer, Michael Cohen.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 31,
+                    "end": 54,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "exclamation-point laden"
+                }
+            ]
+        }
+    ]
+}

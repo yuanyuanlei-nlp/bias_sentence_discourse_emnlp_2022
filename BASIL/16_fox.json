@@ -1,0 +1,178 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Joe Arpaio",
+        "Rick Perry"
+    ],
+    "main-event": "Joe Arpaio endorsed Texas Governor Rick Perry for the Republican presidential nomination",
+    "title": "Arizona Sheriff Joe Arpaio Endorses Rick Perry",
+    "url": "http://latino.foxnews.com/latino/politics/2011/11/29/arizona-sheriff-joe-arpaio-endorses-rick-perry/",
+    "word-count": 379,
+    "date": "2011-11-29",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Joe Arpaio": "Neutral",
+            "Rick Perry": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Arizona Sheriff Joe Arpaio, known for his tough and controversial stances on illegal immigration, endorsed three term Texas Governor Rick Perry for the Republican presidential nomination on Tuesday morning during a campaign swing with Mr. Perry through New Hampshire.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The self-titled America's Toughest Sheriff, who famously re-instituted chain gangs in 1995 and has also been a major supporter of his state's controversial SB1070 immigration law, said that Perry has done more to combat illegal immigration along the U.S. border then any of the other candidates.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 4,
+                    "end": 15,
+                    "target": "Joe Arpaio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "self-titled"
+                },
+                {
+                    "start": 4,
+                    "end": 42,
+                    "target": "Joe Arpaio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "self-titled America's Toughest Sheriff"
+                },
+                {
+                    "start": 190,
+                    "end": 294,
+                    "target": "Rick Perry",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Perry has done more to combat illegal immigration along the U.S. border then any of the other candidates"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I'm endorsing Rick Perry because we need a tough-on-crime president who will champion and fund full-time border security operations from Brownsville to San Diego,\" Arpaio said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Governor Perry has a superior border security record and plan to make our border and our nation safer.\"",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 104,
+                    "target": "Rick Perry",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Joe Arpaio",
+                    "text": "\"Governor Perry has a superior border security record and plan to make our border and our nation safer.\""
+                }
+            ]
+        },
+        {
+            "sentence": "\"Sheriff Arpaio knows the struggle border states face as Washington politicians and bureaucrats fail time and again to properly secure our nation's southern boundary with Mexico,\" said Gov. Perry.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 57,
+                    "end": 115,
+                    "target": "Rick Perry",
+                    "polarity": "Positive",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "Washington politicians",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Joe Arpaio",
+                    "text": "Washington politicians and bureaucrats fail time and again"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I am honored to have Sheriff Arpaio's support for my presidential campaign and our shared goals of fighting border crime with more personnel, border fencing and surveillance.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "A secure border is vital to protecting America's national security, public safety and jobs.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The endorsement from Arpaio could prove helpful to Perry who has faced criticism about his stance on immigration from the Right for his support of DREAM children.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The illegal immigration issue has also been a hotbed for clashes between Perry and GOP presidential candidate and former Massachusetts Governor Mitt Romney.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Romney has said that Perry provided a magnet for undocumented immigrants to settle in Texas by supporting a law that allows people who are in the country unlawfully to attend public colleges at in-state tuition rates.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\"You said I don't want to build a fence,\" Romney said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"You talk about magnets -- you put in place a magnet.\"",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 54,
+                    "target": "Rick Perry",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\"You talk about magnets -- you put in place a magnet.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Perry has also said the federal government should extend work visas permitting undocumented immigrants to move freely between the U.S. and their home countries, but stressed that he still opposes amnesty or a path to citizenship.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\"As president, I will secure the border within a year putting thousands more federal boots on the ground, strategic fencing and aerial resources to fight border crime and make our states and nation safer,\" Perry said.",
+            "sentence-index": 13,
+            "annotations": []
+        }
+    ]
+}

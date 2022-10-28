@@ -1,0 +1,145 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Donald Trump",
+        "Vicente Fox"
+    ],
+    "main-event": "Trump gets into Twitter feud with Vicente Fox",
+    "title": "Trump gets into Twitter feud with former Mexican president",
+    "url": "http://www.foxnews.com/politics/2016/08/31/trump-gets-into-twitter-feud-with-former-mexican-president.html",
+    "word-count": 224,
+    "date": "2016-08-31",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Vicente Fox": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Even before Donald Trump landed in Mexico Wednesday, he found himself in a Twitter war with former Mexican President Vicente Fox \u2013 who went on a tear declaring the Republican nominee \u201cnot welcome\u201d in the country.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 75,
+                    "end": 86,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Twitter war"
+                },
+                {
+                    "start": 135,
+                    "end": 149,
+                    "target": "Vicente Fox",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "went on a tear"
+                }
+            ]
+        },
+        {
+            "sentence": "Fox, an outspoken critic of Trump, started the fight when he said on CNN that he disagreed with current President Enrique Pena Nieto\u2019s decision to invite the billionaire to the country to meet with him.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHe is not welcome to Mexico,\u201d Fox told CNN.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe don\u2019t like him. We don\u2019t want him. We reject his visit.\u201d",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 60,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "\u201cWe don\u2019t like him. We don\u2019t want him. We reject his visit.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I think President Pe\u00f1a is taking an enormous political risk by hosting Trump,\u201d he said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHe will even be considered like a traitor because we don't accept to be offended like we just heard, and it should not happen that he comes here with a smile on his face.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 42,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "Enrique Pena Nieto",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Vicente Fox",
+                    "text": "He will even be considered like a traitor"
+                }
+            ]
+        },
+        {
+            "sentence": "I think this is a big mistake on the part of President Pe\u00f1a.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump, as is often his way, fired back on Twitter.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 7,
+                    "end": 26,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "as is often his way"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cFormer President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the \u2018f bomb,\u2019\u201d he said, referring to when Fox said he wasn't going to pay for \"that f-----g wall.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "This triggered a fiery response from Fox, also on Twitter, as he called on Trump to apologize and \"stop lying.\"",
+            "sentence-index": 9,
+            "annotations": []
+        }
+    ]
+}

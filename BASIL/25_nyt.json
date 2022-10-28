@@ -1,0 +1,88 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Barack Obama"
+    ],
+    "main-event": "Senate set to override Obama's veto on 9/11 bill",
+    "title": "Senate Set to Override Veto on Bill Allowing 9/11 Suits Against Saudi Arabia",
+    "url": "https://mobile.nytimes.com/2016/09/29/us/politics/senate-9-11-saudi-arabia.html",
+    "word-count": 276,
+    "date": "2016-09-28",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "As part of its final bit of business before the election, Congress is set to vote to override President Obama\u2019s veto of a bill allowing families of those killed in the Sept. 11 attacks to sue Saudi Arabia for any role in the terrorist plot.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The override, the first Mr. Obama has faced in his presidency, is expected to begin in the Senate on Wednesday, followed by the House on Thursday.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Some lawmakers have been scrambling to try to obviate the veto rejection.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "But their efforts, which come after both chambers overwhelmingly passed the bill, are almost certain to be futile, and members of both parties have vowed to override the bill.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Representative Nancy Pelosi of California, the Democratic leader who plans to support the override effort, tried on Tuesday to play down any split between Democrats and Mr. Obama.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s not against the president,\u201d she said.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 31,
+                    "target": "Barack Obama",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "It\u2019s not against the president"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt\u2019s against an idea, an interpretation of the bill.\u201d",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Family members of the victims of the terrorist attacks have pushed for such a measure for years, and they have pressured members of Congress to move ahead with the legislation in the days leading up to the 15th anniversary of the attacks.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The bill, which Saudi Arabia has fiercely opposed and has hired a phalanx of lobbyists to combat, addresses a 1976 law that gives other countries broad immunity from American lawsuits, amending it to allow for nations to be sued in federal courts if they are found to have played any role in terrorist attacks that killed Americans on home soil.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The administration has argued that such a measure would put Americans at legal risk overseas from retaliating nations.",
+            "sentence-index": 9,
+            "annotations": []
+        }
+    ]
+}

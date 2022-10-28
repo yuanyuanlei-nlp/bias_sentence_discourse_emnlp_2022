@@ -1,0 +1,486 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Marco Rubio",
+        "Barack Obama"
+    ],
+    "main-event": "Marco Rubio announces his foreign policy",
+    "title": "In first foreign policy speech, candidate Rubio pushes stronger U.S. leadership",
+    "url": "http://www.foxnews.com/politics/2015/05/13/in-first-foreign-policy-speech-candidate-marco-rubio-pushes-stronger-us.html",
+    "word-count": 909,
+    "date": "2015-05-13",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Marco Rubio": "Neutral",
+            "Barack Obama": "Negative"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "New York \u2013 In his first major foreign policy speech since launching his presidential campaign, U.S. Sen. Marco Rubio said if elected, he would prioritize a strong military, take aggressive steps to fight nations that undermine global commerce and ensure that U.S. is a world moral leader.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The Florida Republican, who delivered his speech at the Council on Foreign Relations in Manhattan on Wednesday, said that the United States was losing its place as a world military and moral power because of what he depicted as the Obama administration\u2019s overly cautious responses to crises overseas.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 255,
+                    "end": 270,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "overly cautious"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cSince the end of the Cold War, the threats facing America have changed, but the need for American strength has not,\u201d Rubio said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt has only grown more pressing as the world has grown more interconnected.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt takes forethought to design and many years to build the capabilities we may need at a moment\u2019s notice,\" the 43-year-old said.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 108,
+                    "end": 123,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the 43-year-old"
+                }
+            ]
+        },
+        {
+            "sentence": "\"So to restore American strength, my first priority will be to adequately fund our military.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "This would be a priority even in times of peace and stability, though the world today is neither peaceful nor stable.\u201d",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Rubio repeated his characterization of Obama as a president so concerned with softening any perception other nations has of the United States as a bully that he erred in acting in the other extreme, eager to acquiesce to foreign governments that have thumbed their noses at the U.S. and international laws.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 305,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Obama as a president so concerned with softening any perception other nations has of the United States as a bully that he erred in acting in the other extreme, eager to acquiesce to foreign governments that have thumbed their noses at the U.S. and international laws"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201c[Obama] demonstrated a disregard for our moral purpose that at times flirted with disdain,\u201d said Rubio, the son of Cuban immigrants.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 2,
+                    "end": 90,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "Obama] demonstrated a disregard for our moral purpose that at times flirted with disdain"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cHe criticized America for having \u2018arrogance\u2019 and the audacity to \u2018dictate our terms\u2019 to other nations.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 103,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "\u201cHe criticized America for having \u2018arrogance\u2019 and the audacity to \u2018dictate our terms\u2019 to other nations."
+                }
+            ]
+        },
+        {
+            "sentence": "From his reset with Russia, to his open hand to Iran, to his unreciprocated opening to Cuba, he has embraced regimes that systematically oppose every principle our nation has long championed.\u201d",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 192,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "From his reset with Russia, to his open hand to Iran, to his unreciprocated opening to Cuba, he has embraced regimes that systematically oppose every principle our nation has long championed.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Rubio also said that the United States must move decisively when aggressive nations such as China and Iran attempt to undermine the economic interests of the United States as well as other nations.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Russia, China, Iran or any other nation that attempts to block global commerce will know to expect a response from my administration.\u201d",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The Democratic National Committee issued a brief statement shortly after Rubio's speech:",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOkay. So here\u2019s Rubio\u2019s alleged \u2018new\u2019 foreign policy.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 38,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "alleged \u2018new\u2019"
+                }
+            ]
+        },
+        {
+            "sentence": "Troops in the Middle East permanently.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "A Cuba policy that is stuck in the Cold War.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Unwillingness to even start a discussion of a two state solution.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 40,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Unwillingness to even start a discussion"
+                }
+            ]
+        },
+        {
+            "sentence": "Keeping Guantanamo Bay open.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "No plan forward on Iran.\"",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "And it ended with: \u201cNeoconservative meets Cold War: that\u2019s the Rubio doctrine.\u201d",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 20,
+                    "end": 77,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Neoconservative meets Cold War: that\u2019s the Rubio doctrine"
+                }
+            ]
+        },
+        {
+            "sentence": "Rubio\u2019s foreign policy agenda \u2013 often hawkish in approach \u2013 has been a hallmark of his service in the Senate, and now in his campaign.",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 45,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "hawkish"
+                }
+            ]
+        },
+        {
+            "sentence": "He says that as a member of Senate Foreign Relations Committee, and the Senate Committee on Intelligence, he is privy to information that form the basis of his decision on how the United States must approach foreign policy.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Rubio said Obama \"wasted no time stripping parts from the engine of American strength,\" and cast former Secretary of State Hillary Clinton as his loyal deputy.",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 18,
+                    "end": 85,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "wasted no time stripping parts from the engine of American strength"
+                }
+            ]
+        },
+        {
+            "sentence": "\"[Clinton] was the chief architect of a foreign policy that was a disaster,\" he said during an interview with Charlie Rose following the speech.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 76,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Hillary Clinton",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "[Clinton] was the chief architect of a foreign policy that was a disaster,\""
+                }
+            ]
+        },
+        {
+            "sentence": "\"We simply cannot afford to elect as our next president one of the leading agents of this administration's foreign policy \u2014 a leader from yesterday whose tenure as secretary of state was ineffective at best and dangerously negligent at worst,\" Rubio said, according to the prepared text of remarks he was to deliver at the Council on Foreign Relations in New York.",
+            "sentence-index": 25,
+            "annotations": [
+                {
+                    "start": 187,
+                    "end": 241,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Hillary Clinton",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "ineffective at best and dangerously negligent at worst"
+                }
+            ]
+        },
+        {
+            "sentence": "He even has taken tougher stances on foreign policy than some of his Republican colleagues, who have softened their views on diplomatic relations with Cuba \u2013 to which Rubio objects \u2013 and how to handle the nuclear talks with Iran.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 155,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He even has taken tougher stances on foreign policy than some of his Republican colleagues, who have softened their views on diplomatic relations with Cuba"
+                }
+            ]
+        },
+        {
+            "sentence": "Some in the GOP have called for spending cuts in military spending, with which he disagrees.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "As he often has in Senate hearings, Rubio assailed Obama for stressing dialogues and diplomacy over ironclad dealings with heads of foreign governments that have been openly hostile to the United States, and which continue to exercise oppression against political dissidents.",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 100,
+                    "end": 274,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "ironclad dealings with heads of foreign governments that have been openly hostile to the United States, and which continue to exercise oppression against political dissidents"
+                },
+                {
+                    "start": 0,
+                    "end": 34,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "As he often has in Senate hearings"
+                },
+                {
+                    "start": 42,
+                    "end": 50,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "assailed"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThe world is at its safest when America is at its strongest,\u201d Rubio said.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhen America has the mightiest Army, Navy, Air Force, Marine Corps, Coast Guard, and intelligence community in the world, the result is more peace, not more conflict.\u201d",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "Rubio said, after his speech, in a question-and-answer session with TV host Charlie Rose, that \"Obama has embraced regimes that systematically opposed our principles.\"",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 96,
+                    "end": 165,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "Obama has embraced regimes that systematically opposed our principles"
+                }
+            ]
+        },
+        {
+            "sentence": "Rose asked Rubio what he though of Pope Francis's embrace of diplomatic relations between the U.S. and Cuba.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Rubio said his priorities and those of the pope's are by necessity different.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "He defended keeping the embargo.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "He said having anything to do with Cuba is to avail oneself of properties stolen from Cubans by the Cuban government during the revolution.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "Rubio said the embargo is not to blame for Cuba's failed economy.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "He said the rest of the world does not have an embargo against Cuba.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "So why, he asked, does Cuba not have Toyotas or modern goods from other nations?",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "As for Iran, Rubio said it cannot be trusted.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Iran has always had a secret component to its nuclear program,\" he said.",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "\"They know once international sanctions are lifted, they can never be reimposed.\"",
+            "sentence-index": 41,
+            "annotations": []
+        }
+    ]
+}

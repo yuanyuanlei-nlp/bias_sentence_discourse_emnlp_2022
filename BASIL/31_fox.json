@@ -1,0 +1,166 @@
+{
+    "url": "http://www.foxnews.com/politics/2010/02/20/beck-encourages-conservatives",
+    "word-count": 288,
+    "source": "fox",
+    "date": "2010-02-20",
+    "title": "Glenn Beck Rips Progressivism at CPAC",
+    "main-event": "Glenn Beck speaks at CPAC",
+    "main-entities": [
+        "Glenn Beck"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Glenn Beck": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Glenn Beck Rips Progressivism at CPAC",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Fox News host Glenn Beck, armed with his trademark chalkboard, blamed \"progressivism\" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 63,
+                    "target": "Glenn Beck",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "top-rated"
+                }
+            ]
+        },
+        {
+            "sentence": "Beck wrote \"Progressivism\" on it to underscore his belief in what America is suffering from.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "When Beck asked what America is suffering from, someone shouted \"President Obama,\" though Beck, an outspoken critic of the president, said it's \"not that simple.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Beck rejected the notion that the Republican Party should expand its tent to include progressives.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"What is this? A circus?\" he said, drawing laughter.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"America is not a clown show.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "America is an idea that sets people free.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Opening up about his troubled past, Beck told the crowd, \"People need to understand that life is not fair.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The bad guy sometimes wins.\"",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The project inspired a major march in Washington in September.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This is how is America should be,\" said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\"People of every race, political affiliation, religion came together for different reasons.\"",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "She was at CPAC to see Beck and called him a \"relatable ... everyday guy.\"",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 74,
+                    "target": "Glenn Beck",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "She was at CPAC to see Beck and called him a \"relatable ... everyday guy.\""
+                }
+            ]
+        },
+        {
+            "sentence": "\"None of this would have happened without Glenn,\" she said.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 47,
+                    "target": "Glenn Beck",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "None of this would have happened without Glenn"
+                }
+            ]
+        }
+    ]
+}

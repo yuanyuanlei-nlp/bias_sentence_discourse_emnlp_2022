@@ -1,0 +1,129 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Bruce Braley",
+        "Chuck Grassley"
+    ],
+    "main-event": "Bruce Braley apologizes for farmer comments",
+    "title": "Democratic Senate Candidate Faces Harsh Criticism Over Farmer Comments",
+    "url": "https://www.huffingtonpost.com/2014/03/26/bruce-braley-iowa_n_5034847.html",
+    "word-count": 344,
+    "date": "2014-03-26",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Bruce Braley": "Neutral",
+            "Chuck Grassley": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Rep. Bruce Braley (D-Iowa), who is running to succeed retiring Sen. Tom Harkin (D-Iowa), faced tough local coverage Tuesday after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "At a January fundraiser in Texas, Braley urged the attorneys present to contribute to his campaign and contrasted his background with Grassley's.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\"If you help me win this race, you may have someone with your background, your experience, your voice ... on the Senate Judiciary Committee,\" Braley said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Or you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee,\" he continued, referring to Grassley.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Braley's remarks were released Tuesday by America Rising, a conservative political action committee which conducts opposition research on Democrats.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 100,
+                    "end": 147,
+                    "target": "Bruce Braley",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "America Rising",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "which conducts opposition research on Democrats"
+                }
+            ]
+        },
+        {
+            "sentence": "One of the Republican primary field's leading candidates, businessman Mark Jacobs, immediately released a radio ad in an attempt to capitalize on the negative attention focused on Braley.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 115,
+                    "end": 186,
+                    "target": "Bruce Braley",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Mark Jacobs",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "in an attempt to capitalize on the negative attention focused on Braley"
+                }
+            ]
+        },
+        {
+            "sentence": "Both the Des Moines Register and the Quad-City Times featured the backlash over Braley\u2019s comments on their front pages.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Braley apologized to Grassley in person on Tuesday after state Republican Party leaders and a number of Braley's potential Republican general election opponents condemned his remarks.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The representative also posted a statement Tuesday in which he apologized and emphasized that he has farmers in his family.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI apologize to Sen. Grassley and anyone I may have offended,\u201d Braley wrote.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMy parents both grew up on Iowa farms during the Great Depression.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "It deeply influenced who they are and who I am, and gave me a profound appreciation for what farmers do for the world.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Grassley, who owns a farm, often notes in Senate Judiciary Committee hearings that he is the only non-lawyer on the panel, which oversees the judicial nominations process.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Braley went to the University of Iowa's law school and worked as a lawyer in private practice before he was elected to the House of Representatives in 2006.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "His race is one of a handful across the country that will determine control of the Senate.",
+            "sentence-index": 14,
+            "annotations": []
+        }
+    ]
+}

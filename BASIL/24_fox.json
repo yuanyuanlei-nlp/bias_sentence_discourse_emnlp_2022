@@ -1,0 +1,329 @@
+{
+    "main-event": "Roger Stone has been indicted by Mueller",
+    "main-entities": [
+        "Roger Stone",
+        "Robert Mueller",
+        "Donald Trump"
+    ],
+    "title": "FBI's show of force in Roger Stone arrest spurs criticism of Mueller tactics",
+    "source": "fox",
+    "url": "https://www.foxnews.com/politics/roger-stones-predawn-fbi-arrest-operation-sparks-controversy",
+    "date": "2019-01-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Roger Stone": "Neutral",
+            "Robert Mueller": "Negative",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "The FBI's pre-dawn arrest of President Trump's ex-adviser Roger Stone at his Florida home prompted critics to once again question the tactics of Special Counsel Robert Mueller, after more than a dozen special agents clad in tactical gear raided Stone's property Friday.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Stone, 66, was taken into custody early Friday after being indicted by a federal grand jury a day earlier as part of Mueller\u2019s investigation into Russian meddling and potential collusion with Trump campaign associates during the 2016 presidential election. ",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "CNN, which conveniently happened to be staking out Stone's Fort Lauderdale home, posted video of the arrest that showed a team of FBI agents with guns banging on Stone\u2019s door and demanding that he come outside.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 79,
+                    "target": "Robert Mueller",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "CNN",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "which conveniently happened to be staking out Stone's Fort Lauderdale home"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAt the crack of dawn, 29 FBI agents arrived at my home with 17 vehicles, with lights flashing, when they could have contacted my lawyer,\u201d Stone explained after a court appearance Friday. ",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 23,
+                    "end": 136,
+                    "target": "Robert Mueller",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "FBI",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Roger Stone",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "29 FBI agents arrived at my home with 17 vehicles, with lights flashing, when they could have contacted my lawyer"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cBut the FBI agents were extraordinarily courteous.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Stone will appear on Fox News Channel's \"Tucker Carlson Tonight\" on Friday at 8 p.m. ET.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Stone\u2019s attorney added that the arrest was a \u201cspectacle.\u201d",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cA SWAT team, searching the house, scaring his wife, scaring his dogs\u2014it was completely unnecessary,\u201d Stone\u2019s attorney said. ",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 35,
+                    "end": 99,
+                    "target": "Robert Mueller",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "FBI",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "scaring his wife, scaring his dogs\u2014it was completely unnecessary"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cA telephone call would have done the job, and he would have appeared. ",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Stone has nothing to hide.\u201d",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The arrest operation drew scrutiny on social media\u2014even from President Trump, who said \u201cBorder Coyotes, Drug Dealers and Human Traffickers are treated better,\u201d and questioned \u201cwho alerted CNN to be there?\u201d",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 87,
+                    "end": 205,
+                    "target": "Robert Mueller",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "indirect-ally-opponent-sentiment": "",
+                    "text": "\u201cBorder Coyotes, Drug Dealers and Human Traffickers are treated better,\u201d and questioned \u201cwho alerted CNN to be there?\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "One federal law enforcement source told Fox News on Friday that the operation was \u201cstandard\u201d for a home arrest. ",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "The source told Fox News that home arrests typically take place early in the morning with a team of FBI agents in protective gear, adding that Stone\u2019s situation was \u201cnothing out of the ordinary.\u201d",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "A former senior Justice Department official, now-white collar criminal attorney with Ifrah Law, James Trusty, told Fox News that while common procedure in white collar cases would involve a federal prosecutor contacting the defendant\u2019s attorney, Stone\u2019s charges could have sparked a different approach.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt shows that there is either a fundamental distrust of Mr. Stone, possibly due to the witness tampering charge, or that there was a real breakdown with his attorney,\u201d Trusty said Friday. ",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe wild card here is that in charging Stone with a form of obstruction of justice, the Mueller team may view it differently than typical white-collar investigations.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "He added: \u201cIf the FBI and the Mueller team believe Stone has engaged in witness tampering, then there is a palpable distrust, which would make them err on the side of surprise, rather than a courtesy phone call.\u201d",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The 24-page indictment released early Friday alleges that Stone worked to obstruct the House Intelligence Committee\u2019s investigation into Russian interference in the 2016 election by making false statements to the committee, denying he had records sought by the committee and persuading a witness to provide false testimony.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The indictment does not charge Stone with conspiring with WikiLeaks, the anti-secrecy website that published the emails, or with the Russian officers Mueller says hacked them. ",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Instead, it accuses him of witness tampering, obstruction and false statements about his interactions related to WikiLeaks' release.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "But former U.S. attorney for the District of Columbia Joseph diGenova blasted the tactic as \u201coutrageous.\u201d",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI am appalled that the U.S. Department of Justice and the FBI have permitted a vindictive use of arrest in a non-violent case with a defendant who was willing to surrender,\u201d diGenova, who has informally been an adviser to the president throughout the Russia investigation, told Fox News. ",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 172,
+                    "target": "Robert Mueller",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "US DOJ, FBI",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "I am appalled that the U.S. Department of Justice and the FBI have permitted a vindictive use of arrest in a non-violent case with a defendant who was willing to surrender"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThis is an abuse of power and it underscores the vindictive nature of it by the fact that CNN was alerted ahead of time.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 122,
+                    "target": "Robert Mueller",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "FBI",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "\u201cThis is an abuse of power and it underscores the vindictive nature of it by the fact that CNN was alerted ahead of time.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "He added: \u201cFor those of us who have been prosecutors and have prosecuted mob figures, drug dealers and terrorists\u2014those are the people for whom these aggressive tactics are reserved. ",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Not a Roger Stone.\u201d",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMake no mistake,\u201d he said. ",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis was designed to be vindictive and intimidating.\u201d",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 54,
+                    "target": "Robert Mueller",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "FBI",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "text": "\u201cThis was designed to be vindictive and intimidating.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "DiGenova likened the FBI arrest of Stone to the bureau\u2019s early morning raid last summer of the home of former Trump campaign chairman Paul Manafort.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Stone on Friday said he would plead not guilty to the charges leveled against him by the special counsel\u2019s team, and said he \u201clooks forward to being fully and completely vindicated.\u201d",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI believe this is a politically motivated investigation,\u201d Stone said Friday. ",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere is no circumstance whatsoever under which I will bear false witness against the president, nor will I make up lies.\u201d",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "Stone served as an adviser to Trump for years before Trump ran for president. ",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "He left Trump\u2019s campaign in August 2015, but maintained regular contact with and publicly supported the Trump campaign throughout the 2016 presidential election.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Mueller\u2019s investigation, which was initially ordered to look into the 2016 election, has gone on for more than a year and half. ",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "It has expanded to probe financial crimes of Trump associates before the election, conversations Trump\u2019s national security adviser had with the Russians during the transition and whether Trump obstructed justice with his comments and actions related to the probe.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "Twenty-six Russian nationals and three Russian companies have been charged with interfering in the 2016 presidential election. ",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "But none of the Trump associates connected to Trump have been charged with crimes related to collusion.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "Other convictions include former national security adviser Michael Flynn and former campaign adviser George Papadopoulos, who both pleaded guilty to making false statements in 2017. ",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "Former campaign adviser Rick Gates in 2018 pleaded guilty and former campaign chairman Paul Manafort was convicted and later pleaded guilty in a separate financial crimes case dating back before the 2016 election.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "Former Trump lawyer Michael Cohen pleaded guilty to making false statements in a case brought by Mueller in November. ",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "Alex van der Zwaan, a London-based lawyer, pleaded guilty to making false statements this year, and Richard Pinedo, a California man, pleaded guilty to identity fraud in 2018.",
+            "sentence-index": 40,
+            "annotations": []
+        }
+    ]
+}

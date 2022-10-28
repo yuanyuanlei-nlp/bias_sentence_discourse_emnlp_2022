@@ -1,0 +1,114 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Bruce Braley",
+        "Chuck Grassley"
+    ],
+    "main-event": "Bruce Braley apologizes for farmer comments",
+    "title": "Representative Apologizes for Criticizing Iowa Senator",
+    "url": "https://www.nytimes.com/2014/03/26/us/politics/representative-apologizes-for-criticizing-iowa-senator.html?ref=politics",
+    "word-count": 272,
+    "date": "2014-03-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Bruce Braley": "Neutral",
+            "Chuck Grassley": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 It is a lesson politicians never seem to learn from others\u2019 mistakes: The microphone is always on.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and \u201canyone I may have offended\u201d after video emerged of him warning that \u201ca farmer from Iowa who never went to law school, never practiced law\u201d could become chairman of the Judiciary Committee.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 67,
+                    "end": 75,
+                    "target": "Bruce Braley",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "America Rising",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "vowed to"
+                }
+            ]
+        },
+        {
+            "sentence": "Other Republicans quickly criticized Mr. Braley.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Braley\u2019s apology noted his family\u2019s history with Iowa agriculture, including his own stint \u201cdoing farm jobs and working a grain elevator.\u201d",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up \u201ccastrating hogs on an Iowa farm.\u201d",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 173,
+                    "target": "Bruce Braley",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Joni Ernst",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up \u201ccastrating hogs on an Iowa farm.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Ms. Ernst said that qualified her to \u201ccut pork\u201d in Washington.",
+            "sentence-index": 11,
+            "annotations": []
+        }
+    ]
+}

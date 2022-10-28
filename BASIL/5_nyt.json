@@ -1,0 +1,194 @@
+{
+    "word-count": 608,
+    "date": "2017-11-13",
+    "title": "Donald Trump Jr. Communicated With WikiLeaks During Campaign",
+    "source": "nyt",
+    "url": "https://mobile.nytimes.com/2017/11/13/us/politics/donald-trump-jr-wikileaks-emails-democrats.html",
+    "main-event": "Donald Trump Jr. Messaged With WikiLeaks During Presidential Campaign",
+    "main-entities": [
+        "Donald Trump Jr.",
+        "WikiLeaks"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump Jr.": "Neutral",
+            "WikiLeaks": "Negative"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Donald Trump Jr. Communicated With WikiLeaks During Campaign",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "WASHINGTON \u2014 Donald Trump Jr. had multiple online conversations during the 2016 presidential campaign with WikiLeaks, the anti-secrecy group that last year released a hacked trove of Democrats\u2019 emails, according to four congressional officials.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 156,
+                    "end": 200,
+                    "target": "WikiLeaks",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "released a hacked trove of Democrats\u2019 emails"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump, the president\u2019s son, in recent weeks handed over Twitter messages he exchanged with WikiLeaks to several congressional committees investigating Russia\u2019s attempts to disrupt the election, according to the officials.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "In September, Mr. Trump acknowledged in a closed-door interview with the Senate Judiciary Committee that he had corresponded with the group during the campaign, the officials said.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The correspondence, which began weeks before the Nov. 8, 2016, election and continued through much of this year, is the second time it has been publicly revealed that Mr. Trump communicated with people and organizations with ties to the Russian government who were trying to undermine the presidential campaign of Hillary Clinton.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "In July, The New York Times reported that Mr. Trump met with Russians in June 2016 who said they had damaging information on Mrs. Clinton, and that the information was part of the Russian government\u2019s support for Mr. Trump.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump on Monday night releasedseveralscreen shots of his messages with WikiLeaks.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "His lawyer, Alan S. Futerfas, said the documents were \u201cselectively leaked\u201d among the thousands that have been turned over to congressional investigators.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe can say with confidence that we have no concerns about these documents and any questions raised about them have been easily answered in the appropriate forum,\u201d Mr. Futerfas said in a statement.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "By publishing thousands of hacked emails, American intelligence agencies believe WikiLeaks was acting as a conduit for Russian operatives.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 138,
+                    "target": "WikiLeaks",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "By publishing thousands of hacked emails, American intelligence agencies believe WikiLeaks was acting as a conduit for Russian operatives."
+                }
+            ]
+        },
+        {
+            "sentence": "The Twitter messages were first reported by The Atlantic, which published copies of the correspondence.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHiya, it\u2019d be great if you guys could comment on/push this story,\u201d WikiLeaks said in a message to Mr. Trump on Oct. 3, 2016, that included a quote from Mrs. Clinton in which she said she wanted to \u201cjust drone\u201d Julian Assange, the WikiLeaks founder.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAlready did that earlier today,\u201d Mr. Trump said in response.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s amazing what she can get away with.\u201d",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "In a message a week later, WikiLeaks asked Mr. Trump to have his father tweet a link to a site where users could search through hacked emails from Democrats.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere\u2019s many great stories the press are missing and we\u2019re sure some of your follows will find it,\u201d WikiLeaks said, adding that the group had just released more emails stolen from Mrs. Clinton\u2019s campaign chairman, John D. Podesta.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump did not respond.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Fifteen minutes later, however, his father tweeted: \u201cVery little pick-up by the dishonest media of incredible information provided by WikiLeaks.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "So dishonest! Rigged system!\u201d",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Assange said on Twitter that he could not confirm whether the group had corresponded with Mr. Trump.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWikiLeaks loves its pending publications and ignores those who ask for details,\u201d Mr. Assange said, adding that thousands of people had asked the group about the emails it had published.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Mark Warner, the top Democrat on the Senate Intelligence Committee, said the messages, if real, are \u201cone more example of Russians, Russian agents \u2014 in this case WikiLeaks \u2014 reaching out to senior officials in the Trump Organization or Trump campaign.\u201d",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "The last message Mr. Trump received from WikiLeaks was in July, shortly after The Times reported that he had corresponded with the Russians promising \u201cdirt\u201d on Mrs. Clinton.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHi Don.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Sorry to hear about your problems,\u201d WikiLeaks said.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe have an idea that may help a little.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "We are VERY interested in confidentially obtaining and publishing a copy of the email(s) cited in the New York Times today.\u201d",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Shortly thereafter, Mr. Trump released the emails himself.",
+            "sentence-index": 27,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump",
+        "Ted Cruz",
+        "National Enquirer"
+    ],
+    "main-event": "Trump and Cruz argue over personal attacks",
+    "title": "Ted Cruz Accuses Donald Trump Of Planting 'Garbage' Affair Story",
+    "url": "https://www.huffingtonpost.com/entry/ted-cruz-donald-trump-affair_us_56f57995e4b0143a9b4821b3",
+    "word-count": 357,
+    "date": "2016-03-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Ted Cruz": "Neutral",
+            "National Enquirer": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Sen. Ted Cruz (R-Texas) on Friday lashed out at Donald Trump, accusing the billionaire of enlisting \"his friends at the National Enquirer and his political henchmen to do his bidding.\"",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 156,
+                    "end": 164,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Ted Cruz",
+                    "text": "henchmen"
+                }
+            ]
+        },
+        {
+            "sentence": "The tabloid published a story earlier this week claiming that Cruz had extramarital affairs with five women.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Cruz vehemently denied the rumors, which rippled through the Washington media establishment on Friday.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I want to be crystal clear: these attacks are garbage,\" Cruz said Friday in a statement posted on Facebook.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 54,
+                    "target": "National Enquirer",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Ted Cruz",
+                    "text": "these attacks are garbage"
+                }
+            ]
+        },
+        {
+            "sentence": "Earlier in the day, the allegations spilled over into an almost surreal exchange on CNN between Cruz's former communications director Amanda Carpenter and Boston Herald columnist Adriana Cohen, in which Cohen accused Carpenter of having an affair with Cruz.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"You\u2019ve been named as well, Amanda,\" Cohen said, referring to the National Enquirer piece.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump responded to Cruz's allegations in a statement on Friday afternoon:",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI have no idea whether or not the cover story about Ted Cruz in this week's issue of the National Enquirer is true or not, but I had absolutely nothing to do with it, did not know about it, and have not, as yet, read it.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "I have nothing to do with the National Enquirer and unlike Lyin' Ted Cruz I do not surround myself with political hacks and henchman (sic) and then pretend total innocence.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 59,
+                    "end": 63,
+                    "target": "Ted Cruz",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "Lyin"
+                },
+                {
+                    "start": 83,
+                    "end": 171,
+                    "target": "Ted Cruz",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "surround myself with political hacks and henchman (sic) and then pretend total innocence"
+                }
+            ]
+        },
+        {
+            "sentence": "Ted Cruz's problem with the National Enquirer is his and his alone, and while they were right about O.J. Simpson, John Edwards, and many others, I certainly hope they are not right about Lyin' Ted Cruz.\u201d",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 187,
+                    "end": 191,
+                    "target": "Ted Cruz",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "Lyin"
+                }
+            ]
+        },
+        {
+            "sentence": "While the Enquirer has an infamous reputation for tabloid journalism, it has also broken a number of major sex scandals over the years, including the extramarital affairs of former Sen. John Edwards (D-N.C.) and golfer Tiger Woods.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Reached for comment, a spokesman for American Media Inc., the Enquirer's parent company, also denied that the story had been influenced by Trump backers.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"No one influences the reporting that The National Enquirer does other than our own reporters and editors.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "We stand by the integrity of our coverage and remain committed to our aggressive reporting on such an important topic,\" a spokesman said.",
+            "sentence-index": 13,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "date": "2011-12-13",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Donald Trump drops plans to moderate presidential debate",
+    "source": "FOX",
+    "url": "http://www.foxnews.com/politics/2011/12/13/trump-bows-out-as-moderator-gop-debate-reserves-right-to-run-for-president/",
+    "title": "Trump Bows Out as Moderator of GOP Debate, Reserves Right to Run for President",
+    "word-count": 424,
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 125,
+                    "end": 179,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "after most candidates in the field opted not to attend"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump said he wanted to make sure there's no \"conflict of interest\" in case he decides to run as a third-party candidate next year.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "He cast his decision as a way to keep his options open.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "He said later on Fox News that he's still considering an independent bid.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be,\" Trump said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The real estate mogul and reality TV star said he wants to make sure Republicans pick the \"right\" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 169,
+                    "end": 179,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "threatened"
+                }
+            ]
+        },
+        {
+            "sentence": "Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 50,
+                    "end": 57,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "flirted"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "He said he does not expect Newsmax to follow through with the debate now that he's out.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"We would have done very well.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "We would have gotten great ratings,\" Trump said, voicing his trademark confidence.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump first announced his debate decision in a written statement Tuesday afternoon.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate,\" he said.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "... I must leave all of my options open because, above all else, we must make America great again!\"",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump went on to praise Gingrich and Santorum for \"having the courage, conviction, and confidence\" to agree to the debate.",
+            "sentence-index": 17,
+            "annotations": []
+        }
+    ]
+}

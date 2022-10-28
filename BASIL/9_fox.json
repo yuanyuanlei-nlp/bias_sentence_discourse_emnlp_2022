@@ -1,0 +1,196 @@
+{
+    "url": "http://www.foxnews.com/politics/2018/07/13/democrats-urge-trump-to-cancel-putin-summit-after-indictment-russian-intel-officers.html",
+    "word-count": 578,
+    "source": "fox",
+    "title": "Democrats urge Trump to cancel Putin summit, after indictment of Russian intel officers",
+    "date": "2018-07-13",
+    "main-event": "Democrats Say Trump Should Cancel Putin Meeting After Indictments",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Democrats urge Trump to cancel Putin summit, after indictment of Russian intel officers",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Top Democrats on Friday swiftly pressured President Trump to consider cancelling his upcoming summit with Vladimir Putin, after a dozen Russian intelligence officers were indicted for allegedly hacking party emails in 2016.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Mark Warner, top Democrat on the Senate Intelligence Committee, offered Trump an ultimatum for the highly anticipated summit: make Russian interference a priority, or cancel the meeting.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Other Democrats said Trump should nix the summit regardless -- though they were raising concerns about the meeting even before the indictment.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Deputy Attorney General Rod Rosenstein announced the charges during a Friday press conference.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "According to the DOJ document, 12 Russian intelligence officers are accused of hacking emails from the Hillary Clinton campaign and Democratic Party during the 2016 election.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI want to make sure that other Americans hear ... the president make this issue of Russian interference a priority in the meeting,\u201d Warner, D-Va., told reporters on Capitol Hill Friday.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf they don\u2019t make the indictments a priority in the meeting in Helsinki, then the summit should be canceled.\u201d",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Warner, whose committee has been investigating Russian meddling and potential collusion with Trump campaign associates in the 2016 election for more than a year, also stressed that there \u201cneeds to be other Americans in the room\u201d in Helsinki, Finland Monday to ensure that Trump makes the issue of interference in the 2016 election a \u201cpriority.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere should be no one-on-one meeting between this president and Putin,\u201d Warner said.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere needs to be other Americans in the room, or the summit should be canceled.\u201d",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "He warned, \u201cI\u2019m afraid the president could be taken advantage of.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "But as Trump continues to describe the Russia probe as a \"witch hunt,\" the White House downplayed the latest allegations.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cToday\u2019s charges include no allegations of knowing involvement by anyone on the campaign and no allegations that the alleged hacking affected the election result,\u201d said Lindsay Walters, the deputy White House press secretary.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis is consistent with what we have been saying all along.\u201d",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Within minutes of the indictment, Senate Minority Leader Chuck Schumer, D-N.Y., urged Trump to call off the Putin meeting.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cCancel the Putin meeting. Now,\u201d Schumer tweeted Friday.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Ron Wyden, D-Ore., said a handshake with Putin would be \"a moment of historic cowardice.\"",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 62,
+                    "end": 92,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "a moment of historic cowardice"
+                }
+            ]
+        },
+        {
+            "sentence": "\"In light of what's been revealed about Russia\u2019s attack on our democracy, the president shaking Putin's hand would be a moment of historic cowardice.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 118,
+                    "end": 148,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "a moment of historic cowardice"
+                }
+            ]
+        },
+        {
+            "sentence": "Call off this summit, @realDonaldTrump,\" Wyden tweeted.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Jack Reed, D-R.I., said Trump should \u201cimmediately cancel his meeting.\u201d",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "House Democratic Leader Nancy Pelosi, D-Calif., said \u201cthe stakes\u201d for the summit \u201ccould not be higher.\u201d",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cPresident Trump must demand and secure a real, concrete and comprehensive agreement that the Russians will cease their ongoing attacks on our democracy,\u201d Pelosi said in a statement Friday.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cFailure to stand up to Putin would constitute a profound betrayal of the Constitution and our democracy.\u201d",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 104,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "Failure to stand up to Putin would constitute a profound betrayal of the Constitution and our democracy"
+                }
+            ]
+        },
+        {
+            "sentence": "Presuming the meeting takes place as scheduled, Helsinki will be the final stop on Trump\u2019s four-nation European tour.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump spent the past week meeting with NATO allies in Brussels; meeting with British Prime Minister Theresa May and Queen Elizabeth II in England; and visiting Scotland.",
+            "sentence-index": 25,
+            "annotations": []
+        }
+    ]
+}

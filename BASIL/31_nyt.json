@@ -1,0 +1,171 @@
+{
+    "date": "2010-02-20",
+    "source": "nyt",
+    "title": "Beck Wows the CPAC Crowd",
+    "url": "https://thecaucus.blogs.nytimes.com/2010/02/20/beck-wows-the-cpac-crowd/",
+    "word-count": 314,
+    "main-event": "Glenn Beck speaks at CPAC",
+    "main-entities": [
+        "Glenn Beck"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Glenn Beck": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Beck Wows the CPAC Crowd",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Glenn Beck, the hero of the political right and the closing speaker of a three-day conservative conference, ripped the roof off a Washington hotel Saturday with a sweeping denunciation of progressivism.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 108,
+                    "end": 127,
+                    "target": "Glenn Beck",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "ripped the roof off"
+                }
+            ]
+        },
+        {
+            "sentence": "Progressivism, he told the Conservative Political Action Conference, is a cancer that must be cut out of the system.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "But he aimed his fire at Republicans as well as Democrats, and gave them little quarter, saying he did not know what the Republicans stood for.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s not enough just to not suck as much as the other side,\u201d he said.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Noting that he was a recovering alcoholic himself, he said that the party had to admit that it had a problem, which he had not heard it do.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHello, my name is the Republican Party and I have a problem!\u201d he declared.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m addicted to spending and big government,\u201d he said, drawing cheers and applause from the thousands of people packed into the hotel ballroom.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 143,
+                    "target": "Glenn Beck",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the thousands of people packed into the hotel ballroom"
+                }
+            ]
+        },
+        {
+            "sentence": "But both parties are to blame, he said.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The Democrats tax and spend, while the Republicans just spend.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "People are losing a fundamental belief that things will get better, he said.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt is still morning in America,\u201d he posited, \u201cit just happens to be kind of a head-pounding, hung-over, vomiting-for-four-hours kind of morning in America.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "And it\u2019s shaping up to be kind of a nasty day, but it\u2019s still morning in America.\u201d",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "When the audience finished laughing, he asked: \u201cWhat made us sit there at the john making us vomit for four hours?",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "What are we suffering from?\u201d",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Saying President Obama, he said, was \u201ctoo simple an answer.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The real problem, he said, is progressivism, scrawling the word with chalk on his signature blackboard. \u201cThis is the disease in America,\u201d he said.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "He held the audience spellbound with riffs on his personal life laced through his political philosophy, strong on personal responsibility.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 31,
+                    "target": "Glenn Beck",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He held the audience spellbound"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWho can guarantee you happiness?\u201c he asked. \u201cTiger Woods wasn\u2019t happy.\u201d",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "If you find financial success on the road to happiness, he said, conservatives believe \u201cyou shouldn\u2019t be demonized or penalized by it.\u201d",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m not going to pay for your mistakes and I don\u2019t expect you to pay for my mistakes,\u201d he said, to wild applause.",
+            "sentence-index": 20,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Trump reverses decision to allow import of elephant trophies",
+    "title": "Trump Calls Elephant Trophy Hunting A 'Horror Show,' Says He's Unlikely To Allows Imports",
+    "url": "https://www.huffingtonpost.com/entry/trump-elephant-trophy-on-hold_us_5a0f83bbe4b045cf437178c6",
+    "word-count": 809,
+    "date": "2017-11-17",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 Two days after suddenly halting his own administration\u2019s decision to begin allowing hunters to import elephants killed in two African countries, President Donald Trump called such trophy hunting a \u201chorror show\u201d and said he\u2019s unlikely to change his mind and allow such imports.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBig-game trophy decision will be announced next week but will be very hard pressed to change my mind that this horror show in any way helps conservation of Elephants or any other animal,\u201d he posted to Twitter Sunday evening.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "In the face of widespread public backlash, Tump announced late Friday that he has suspended \u2014 at least for now \u2014 his administration\u2019s decision to reverse an Obama-era ban on the importation of elephant trophies from Zimbabwe and Zambia.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 41,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "In the face of widespread public backlash"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cPut big game trophy decision on hold until such time as I review all conservation facts,\u201d he posted to Twitter.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "He adding that the issue has been \u201cunder study for years\u201d but that he would provide an update after additional review.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Interior Secretary Ryan Zinke said in a statement on Twitter that he and Trump \u201cbelieve that conservation & healthy herds are critical.\u201d",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "As HuffPost reported Wednesday, the administration optedto lift the 2014 ban after determining that sport hunting of elephants in those African countries would \u201cenhance the survival of the species in the wild,\u201d a spokesperson for the U.S. Fish and Wildlife Service said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "It also recently rolled back protections for African lions, releasing new guidelines that allow big game hunters to bring back to the U.S. animal trophies from hunts in parts of Africa.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The decision regarding elephants was made public not by the federal agency but via a celebratory news release early Tuesday from Safari Club International, a trophy hunting advocacy group that, along with the National Rifle Association, sued to block the 2014 ban.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Greg Sheehan, principal deputy director of the FWS, broke the news to the hunting organization during the African Wildlife Consultative Forum in Tanzania, an agency spokesperson told HuffPost.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The forum, which ended Friday, was hosted by the Safari Club International Foundation and the United Republic of Tanzania.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The Safari Club\u2019s political action committees donated a collective $24,500 to Trump\u2019s presidential campaign and Zinke\u2019s 2014 and 2016 congressional campaigns, according to Federal Election Commission data.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 205,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The Safari Club\u2019s political action committees donated a collective $24,500 to Trump\u2019s presidential campaign and Zinke\u2019s 2014 and 2016 congressional campaigns, according to Federal Election Commission data."
+                }
+            ]
+        },
+        {
+            "sentence": "Zinke is a former Montana congressman and Navy SEAL.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Conservation groups celebrated Trump\u2019s sudden change in course Friday, which was believed to be a response to public pressure.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 71,
+                    "end": 125,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "which was believed to be a response to public pressure"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cIt\u2019s great that public outrage has forced Trump to reconsider this despicable decision, but it takes more than a tweet to stop trophy hunters from slaughtering elephants and lions,\u201d Tanya Sanerib, senior attorney with the Center for Biological Diversity, said in a statement.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe need immediate federal action to reverse these policies and protect these amazing animals.\u201d",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "In a post to Twitter, Wayne Pacelle, the CEO of The Humane Society of the United States, said he was \u201cgrateful\u201d that Trump would reconsider.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis is the kind of trade we don\u2019t need.\u201d",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The elephant trophy decision drew national headlines and a fierce response from celebrities and others across social media.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Talk-show host Ellen DeGeneres launched a campaign called #BeKindToElephants.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "By lifting the ban, she said, Trump was \u201cencouraging Americans to kill elephants.\u201d",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 80,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "encouraging Americans to kill elephants"
+                }
+            ]
+        },
+        {
+            "sentence": "A day after Trump\u2019s suspension, the Safari Club sent out a \u201ccall to arms,\u201d encouraging hunters to contact Trump and Zinke and \u201ctell them how much you appreciate the efforts of the Fish & Wildlife Service to remove barriers to sustainable use conservation for African wildlife.\u201d",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "And they blasted \u201chysterical anti-hunters and news media outlets.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 18,
+                    "end": 64,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "hysterical anti-hunters and news media outlets"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThe news from Africa could not have been better for hunters or for anyone who loves or defends hunting culture,\u201d the group wrote.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "African elephants have been listed as threatened under the Endangered Species Act since 1978.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "A provision of the law, however, allows for sport-hunted trophies to be imported if the government determines that hunting will help safeguard the population.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "The FWS concluded that Zimbabwe has made strides to improve elephant management and anti-poaching efforts, according to a notice published Friday in the Federal Register.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Ed Royce (R-Calif.), chairman of the House Foreign Affairs Committee, was among the many people who called on Trump to abandon his trophy hunting decision.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "In a Friday statement, Royce pointed to the unrest in Zimbabwe \u2014 where a military coup is thought to be unfolding \u2014 and said he has no confidence that the regime is properly managing conservation programs.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cElephants and other big game in Africa are blood currency for terrorist organizations, and they are being killed at an alarming rate,\u201d Royce said.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cStopping poaching isn\u2019t just about saving the world\u2019s most majestic animals for the future \u2015 it\u2019s about our national security.\u201d",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "Hours before Trump\u2019s review announcement, the FWS defended its decision as \u201cpart of a robust United States conservation strategy that seeks to eliminate poaching and associated wildlife trafficking.\u201d",
+            "sentence-index": 31,
+            "annotations": []
+        }
+    ]
+}

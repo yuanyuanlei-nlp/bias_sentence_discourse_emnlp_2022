@@ -1,0 +1,287 @@
+{
+    "date": "2010-12-08",
+    "title": "Biden Tries, Again, to Sell Tax Compromise to Hill Democrats",
+    "word-count": 906,
+    "main-event": "White House pressures congress to pass tax bill",
+    "source": "nyt",
+    "url": "http://thecaucus.blogs.nytimes.com/2010/12/08/biden-tries-again-to-sell-tax-compromise-to-hill-democrats/",
+    "main-entities": [
+        "Barack Obama",
+        "senate Democrats"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Barack Obama": "Neutral",
+            "senate Democrats": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Larry Summers, the outgoing chairman of the National Economic Council, just told a group of reporters that failure to pass a package like the tax deal announced by President Obama this week \u201cwould significantly increase the risk\u201d of a double-dip recession.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Summers made the remarks at a briefing with the White House press secretary Robert Gibbs and David Axelrod, the president\u2019s top political adviser.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The administration has been pushing back hard against criticism from fellow Democrats that the president has caved too much to Republicans.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 109,
+                    "end": 114,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "caved"
+                }
+            ]
+        },
+        {
+            "sentence": "In brief remarks after meeting with President Bronislaw Komorowski of Poland, Mr. Obama on Wednesday emphatically disputed that Democrats generally feel betrayed by his deal with Congressional Republicans on the tax cuts, saying that \u201cthe more who look at it, the more will say this makes sense.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI just think it\u2019s very important for Congress to examine the agreement, look at the facts, have a thorough debate, but get this done.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The American people are watching, and they\u2019re expecting action on our parts,\u201d Mr. Obama said.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don\u2019t think we need to translate that.\u201d",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "In a joint appearance at the White House with Mr. Komorowski, Mr. Obama said that \u201ceconomists across the country have upwardly revised their forecasts for growth\u201d after the tax deal was announced on Monday night.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Vice President Joseph R. Biden Jr. planned to return to Capitol Hill this afternoon to meet with House Democrats as President Obama and the White House sought to quell the uproar among liberals about the tax deal.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 172,
+                    "end": 178,
+                    "target": "senate Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "uproar"
+                }
+            ]
+        },
+        {
+            "sentence": "Officials said Mr. Biden will travel to the Hill around 4:30 p.m. in an attempt to sell the compromise Mr. Obama announced this week.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "It will be the second time in two days that Mr. Biden has served as the liaison-in-chief for the White House.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Biden\u2019s visit and the president\u2019s comments come as the administration\u2019s message machine started churning out statements of support.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 76,
+                    "end": 91,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "White House",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "message machine"
+                }
+            ]
+        },
+        {
+            "sentence": "To counter condemnations from some Democrats in Congress, the White House circulated a series of e-mails quoting endorsements from private-sector economic forecasters, liberal as well as conservative analysts, and Democratic officeholders, including an obscure freshman House member, Representative Gary Peters of Michigan.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 253,
+                    "end": 260,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "White House",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "obscure"
+                }
+            ]
+        },
+        {
+            "sentence": "By noon, the White House press office had released supportive comments from Antonio Villaraigosa, the mayor of Los Angeles, and Mr. Peters.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "The Democratic National Committee alerted reporters that Jennifer Granholm, the Democratic governor of Michigan, also supports the deal.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "John Podesta, a former chief of staff to President Bill Clinton and a close ally of Mr. Obama, issued a statement calling the tax deal \u201ca steep price\u201d but saying the president was \u201cright to choose helping working Americans over a December conflagration.\u201d ",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "The Democratic National Committee also sent that statement around to reporters.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "David Axelrod, the president\u2019s chief political adviser, said on CNN\u2019s \u201cAmerican Morning\u201d that middle-class Americans were \u201cgoing to get screwed\u201d if their tax cuts were not extended at the end of the year.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 123,
+                    "end": 143,
+                    "target": "senate Democrats",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "going to get screwed"
+                }
+            ]
+        },
+        {
+            "sentence": "The administration was quick to highlight comments from Mark Zandi, chief economist for Moody\u2019sEconomy.com, projecting that the Obama tax deal would increase economic growth next year by 1.25 percentage points and create 1.6 million jobs.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Macroeconomic Advisors, Deutsche Bank and Goldman Sachs projected smaller increases but no less than at least 0.5 percentage point.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "That is on top of projections that currently are in the range of 2 percent to 3 percent.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "But the public relations offensive is being met with public expressions of outrage from Mr. Obama\u2019s base, including the most liberal members of Congress and spokesmen for interest groups on the left.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Close to three dozen House Democrats have signed a letter from Representative Peter Welch, Democrat of Vermont, calling the tax deal \u201cfiscally irresponsible\u201d and \u201cgrossly unfair.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 134,
+                    "end": 156,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "senate Democrats",
+                    "text": "fiscally irresponsible"
+                },
+                {
+                    "start": 163,
+                    "end": 177,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "senate Democrats",
+                    "text": "grossly unfair"
+                }
+            ]
+        },
+        {
+            "sentence": "The letter says Mr. Obama \u201cshould not back down. Nor should we.\u201d",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Biden\u2019s visit with the House Democrats is likely to be as contentious as the one that he led with their Senate colleagues on Tuesday \u2014 if not more so.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Despite the closed-door lunchtime meeting, Senate aides told The Times afterward that about 30 Democratic senators remained \u201cfirmly opposed\u201d to the president\u2019s negotiated deal after hearing from the vice president.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "In the House, Democratic lawmakers said Wednesday morning that the sense of disappointment with the president remained strong.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI don\u2019t think it was preordained that if we had a deadlock, they would have won it,\u201d said Representative Barney Frank, Democrat of Massachusetts, in an interview on MSNBC.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m not going to vote for it.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "I don\u2019t feel that I should be coerced.\u201d",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 37,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "White House",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "senate Democrats",
+                    "text": "I don\u2019t feel that I should be coerced"
+                }
+            ]
+        }
+    ]
+}

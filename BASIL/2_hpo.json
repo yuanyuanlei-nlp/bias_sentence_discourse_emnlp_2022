@@ -1,0 +1,330 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Trump declares national emergency over border wall",
+    "title": "Trump Declares National Emergency To Fund U.S.-Mexico Border Wall",
+    "url": "https://www.huffpost.com/entry/trump-national-emergency-border-wall_n_5c382a82e4b05cb31c411c8d",
+    "word-count": 831,
+    "date": "2019-02-15",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "President Donald Trump on Friday declared a national emergency at the southern U.S. border in an effort to unilaterally seize funding to begin building his long-promised wall between the U.S. and Mexico.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 120,
+                    "end": 125,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "seize"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump, who was accompanied by parents of children killed by unauthorized immigrants, said he was declaring the national emergency for \u201cvirtual invasion purposes.\u201d",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "But he also acknowledged another reason: He didn\u2019t want to wait on Congress to approve the funds.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI could do the wall over a longer period of time \u2015 I didn\u2019t need to do this,\u201d Trump said in a televised speech, even as he contended the situation on the southern border amounted to a national emergency.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 113,
+                    "end": 203,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "even as he contended the situation on the southern border amounted to a national emergency"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cBut I\u2019d rather do it much faster.\u201d",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump is also expected to approve Congress\u2019 spending bill, which grants him $1.375 billion for the wall, as opposed to the $5.7 billion he initially demanded.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The national emergency declaration gives Trump a chance to reroute other government money to fund the project \u2015 and sets up a legal battle that could tie up the president\u2019s signature project for months or years.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "To justify the wall, Trump repeatedly insisted criminals, gang members and drug traffickers were pouring over the border and that only a wall could stop them.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 46,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "insisted"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWe have far more people trying to get into our country today than probably ever before,\u201d Trump said.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "In fact, arrests for illegal border crossings are at their lowest levels since the 1970s.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "There were roughly 520,000 arrests for unauthorized border crossings last year, which is about one-third of the 1.6 million arrests that happened in 2000.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Since 2014, a high proportion of those crossing have been Central American children and families seeking to make humanitarian claims such as asylum.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 148,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "Central American children and families",
+                    "indirect-ally-opponent-sentiment": "Neutral",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Since 2014, a high proportion of those crossing have been Central American children and families seeking to make humanitarian claims such as asylum."
+                }
+            ]
+        },
+        {
+            "sentence": "The total wall funding will now come to about $8 billion, partially approved by Congress but mostly by Trump alone.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "That will buy the administration some 234 miles of border wall, a senior administration official told reporters Friday.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "The national emergency declaration will allow the Trump administration to use about $3.6 billion from Defense Department construction projects to build the wall, along with another $2.5 billion the department had allocated for counter-drug activities, acting White House chief of staff Mick Mulvaney told reporters.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "The Trump administration also plans to take executive action to move about $200 million from the Department of Homeland Security and another $600 million from the Treasury Department\u2019s asset forfeiture account.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "None of the money will come from hurricane relief, Mulvaney said.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "The DHS funding bill included restrictions on where new border wall could be constructed.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Those restrictions won\u2019t apply to the portions built with national emergency money, a senior administration official said.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Senate Majority Leader Mitch McConnell (R-Ky.) announced Thursday on the Senate floor that Trump planned to sign the bill and declare a national emergency at the same time, adding that he supported the decision.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Congress passed a government funding bill Thursday evening.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "McConnell warned Trump in private that declaring an emergency would spark a backlash among Republicans, according to The Washington Post.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "A national emergency declaration grants a president the ability to circumvent certain government rules so that an administration can respond to a crisis.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "In this case, Trump is sidestepping Congress so that he can gain access to certain federal funds without congressional approval.",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 128,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "In this case, Trump is sidestepping Congress so that he can gain access to certain federal funds without congressional approval."
+                }
+            ]
+        },
+        {
+            "sentence": "Administration officials cited dozens of previous national emergency declarations, insisting that Trump would not break with historical precedent by \u201cunlocking\u201d new pots of money for the border wall he seeks.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s not as if he just didn\u2019t get what he wanted so he\u2019s waving a magic wand and taking a bunch of money,\u201d Mulvaney said.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "The move is almost certain to be challenged in court.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAny crisis on our border is of President Trump\u2019s own making: family separations, child detention, turning our backs on asylum seekers, and more.",
+            "sentence-index": 27,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 145,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cAny crisis on our border is of President Trump\u2019s own making: family separations, child detention, turning our backs on asylum seekers, and more."
+                }
+            ]
+        },
+        {
+            "sentence": "There is no national emergency,\u201d California Attorney General Xavier Becerra, who has sued the Trump administration multiple times, said in a statement.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf Trump oversteps his authority and abandons negotiations with Congress by declaring a fabricated national emergency, we won\u2019t only call his bluff, we will do what we must to hold him accountable.\u201d",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 10,
+                    "end": 118,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "oversteps his authority and abandons negotiations with Congress by declaring a fabricated national emergency"
+                }
+            ]
+        },
+        {
+            "sentence": "Prior to the declaration, House Speaker Nancy Pelosi (D-Calif.) called the proclamation a \u201cgross abuse of the power of the presidency\u201d and vowed that \u201cCongress will defend our constitutional authorities.\u201d",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 91,
+                    "end": 133,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "gross abuse of the power of the presidency"
+                }
+            ]
+        },
+        {
+            "sentence": "For two months, Democrats in Congress have been enmeshed in stalled negotiations with Trump as he refused to accept anything less than $5.7 billion in the federal budget for his border wall.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "The stalemate caused a record-breaking partial government shutdown that forced an estimated 800,000 government employees to go without pay for 35 days.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump reopened the government for three weeks on Jan. 25, allowing government workers to get back to work as border security negotiations continued.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "In January, Trump asserted that he had \u201cthe absolute right to declare a national emergency,\u201d according to CNN.",
+            "sentence-index": 34,
+            "annotations": [
+                {
+                    "start": 18,
+                    "end": 26,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "asserted"
+                }
+            ]
+        },
+        {
+            "sentence": "He called it \u201cthe easy route\u201d while insisting that he\u2019d rather Congress approve his border wall funding.",
+            "sentence-index": 35,
+            "annotations": []
+        }
+    ]
+}

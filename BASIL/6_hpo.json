@@ -1,0 +1,90 @@
+{
+    "title": "Reid: Mosque Should Be Built Someplace Else",
+    "date": "2010-08-16",
+    "url": "https://www.huffingtonpost.com/2010/08/16/reid-mosque-should-be-bui_n_683762.html",
+    "main-entities": [
+        "Harry Reid",
+        "Barack Obama"
+    ],
+    "word-count": 259,
+    "source": "hpo",
+    "main-event": "Republican congressional candidates dispute plans to build mosque near ground zero",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Harry Reid": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "President Barack Obama's endorsement of the \"Ground Zero mosque\" during a speech on Friday night spurred some hope among supporters that a forceful case could be made for both the project's constitutionality and its larger geopolitical impact.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "That hope was short-lived.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "By Saturday, the president clarified that he was not speaking about the \"wisdom\" of the Islamic cultural center per se, just the right of the group to build the Cordoba House in downtown Manhattan.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "And on Monday the highest-ranking Democrat in the Senate officially came out against construction of the mosque in its current location",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The First Amendment protects freedom of religion,\" reads a statement from Senate Majority Leader Harry Reid's office (D-Nev.).",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Senator Reid respects that but thinks that the mosque should be built someplace else.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "If the Republicans are being sincere, they would help us pass this long overdue bill to help the first responders whose health and livelihoods have been devastated because of their bravery on 911, rather than continuing to block this much-needed legislation.\"",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Combined, Obama's clarification and Reid's opposition represent a double dose of bad news for progressives and even Republicans who believed that a strong case could be made in favor of Cordoba House.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "If anything, it's clearer now than it was last week (when Democrats were mostly silent on the matter) how deeply the party just wants this entire issue to go away.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Reid, after all, only issued the above statement after his Republican opponents began hitting him for going silent on the matter.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 129,
+                    "target": "Harry Reid",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Reid, after all, only issued the above statement after his Republican opponents began hitting him for going silent on the matter."
+                }
+            ]
+        }
+    ]
+}

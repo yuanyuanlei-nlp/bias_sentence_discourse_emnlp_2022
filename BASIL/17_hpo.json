@@ -1,0 +1,107 @@
+{
+    "date": "2010-12-13",
+    "title": "Michael Steele's End Could Be Near",
+    "word-count": 351,
+    "main-event": "Michael Steele about to announce whether he'll run again for RNC chairman",
+    "source": "hpo",
+    "url": "http://www.huffingtonpost.com/2010/12/13/michael-steele-rnc-reelection_n_795723.html",
+    "main-entities": [
+        "Michael Steele"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Michael Steele": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "RNC Chairman Michael Steele is expected by some to announce that he will not seek a second term as the head of the Republican National Committee, according to multiple reports.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Politico reported over the weekend that many of his supporters as well as other GOP operatives believe that a Steele run was looking increasingly doubtful, due in part to the fact that he \"has built no known reelection team or structure, making the prospect of a campaign unlikely in the face of competition that grows fiercer by the day.\"",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Meanwhile, multiple sources tell Fox News that they believe Steele will drop out of the race.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "And while many predict that Steele will call it quits after his current term, his increasing seclusion and detachment from other Republican advisers has made his forthcoming decision difficult to ascertain.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 78,
+                    "end": 148,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "his increasing seclusion and detachment from other Republican advisers"
+                }
+            ]
+        },
+        {
+            "sentence": "At least one GOP insider who had direct contact with Steele told the Washington Post that the chairman would indeed be seeking another term atop the RNC.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Hotline On Call says the nature of the decision is a \"closely guarded secret\" and reports that \"even his top advisors, both inside and outside the committee, say they don't know which direction he will take.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Steele's gaffe-prone tenure at the helm of the RNC has aided the creation of a significant bloc of GOPers who are intent on seeing his departure next month.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 9,
+                    "end": 20,
+                    "target": "Michael Steele",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "gaffe-prone"
+                }
+            ]
+        },
+        {
+            "sentence": "While some, such as black conservative group BOND Action, have directly announced their intentions to work toward insuring Steele's termination at the committee, other Republicans have simply lined up behind his growing list of challengers.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Maria Cino, a former Bush official who recently received key backing from former RNC Chairman Ed Gillespie and former Vice President Dick Cheney, became the latest official contender this weekend.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Wisconsin GOP Chairman Reince Preibus, recently resigned RNC political director Gentry Collins, former U.S. ambassador Ann Wagner and former Michigan GOP chairman Saul Anuzis also round out the list.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Politico also reports that former Senator Norm Coleman could enter the race if Steele decides not to run.",
+            "sentence-index": 10,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Lois Lerner"
+    ],
+    "main-event": "IRS official who refused to testify facing more scrutiny over scandal",
+    "title": "IRS official who refused to testify facing more scrutiny over scandal, past",
+    "url": "http://www.foxnews.com/politics/2013/05/23/irs-official-who-refused-to-testify-facing-more-scrutiny-over-scandal-past/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29",
+    "word-count": 466,
+    "date": "2013-05-23",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Lois Lerner": "Negative"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "The IRS official who refused to testify at a House hearing Wednesday has become a key focus of the congressional investigations into the IRS practice of singling out conservative groups.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Now under the protection of her lawyers and the Fifth Amendment, Lois Lerner is facing a maelstrom of controversy.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 98,
+                    "target": "Lois Lerner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "maelstrom"
+                }
+            ]
+        },
+        {
+            "sentence": "Members of Congress are calling her evasive, and question why she didn't reveal the program sooner -- plus her history at the Federal Elections Commission is coming under scrutiny.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 43,
+                    "target": "Lois Lerner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "evasive"
+                }
+            ]
+        },
+        {
+            "sentence": "Lerner touched off the public controversy when, at an American Bar Association conference earlier this month, she apologized for the IRS' practice of targeting conservative organizations for additional scrutiny.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "It was the first time the agency acknowledged the practice.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"They used names like Tea Party or patriots ... and they selected cases simply because the application had those names in the title,\" she admitted.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "She said she hadn't revealed the information sooner, because she was never asked.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "But just two days before the ABA conference, Lerner was specifically asked about the investigation.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Joseph Crowley, D-N.Y., asked her if she could \"comment briefly on the status on the IRS investigation into these political not-for-profits.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "She said: \"Well there's a questionnaire that began this discussion and there's also a questionnaire out there that is seeking info from 501 c3,4,5 organizations.\"",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Crowley later called her answer evasive.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The bottom line is you cannot lie to Congress, and you cannot be evasive, you cannot try to mislead Congress,\" he said.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 109,
+                    "target": "Lois Lerner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "The bottom line is you cannot lie to Congress, and you cannot be evasive, you cannot try to mislead Congress"
+                }
+            ]
+        },
+        {
+            "sentence": "In the 1990's, Lerner also served as chief of enforcement at the Federal Elections Commission.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Under her direction, the FEC undertook the largest enforcement action in its history -- suing the Christian Coalition for violating campaign laws.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "The Christian Coalition won, but in one deposition, FEC lawyers asked a defendant if televangelist Pat Robertson prayed for him.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "James Bopp, the Christian Coalition's lawyer, said he was \"shocked and appalled\" by that.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 59,
+                    "end": 79,
+                    "target": "Lois Lerner",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Federal Elections Commission",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "shocked and appalled"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Both political activity and religious activity are specifically protected by the First Amendment,\" he said.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "When Bopp learned years later that Lerner had been promoted to an IRS position, he became concerned.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 100,
+                    "target": "Lois Lerner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "When Bopp learned years later that Lerner had been promoted to an IRS position, he became concerned."
+                }
+            ]
+        },
+        {
+            "sentence": "\"She was in effect being promoted for what she had done at the Federal Election Commission and now was going to be expected ... to replicate that at the IRS and now we know that's exactly what happened,\" he said.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 201,
+                    "target": "Lois Lerner",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "She was in effect being promoted for what she had done at the Federal Election Commission and now was going to be expected ... to replicate that at the IRS and now we know that's exactly what happened"
+                }
+            ]
+        },
+        {
+            "sentence": "Lerner is represented by lawyer William W. Taylor, who is noted for winning a dismissal of all charges against former IMF director Dominique Strauss-Kahn in a high-profile sexual assault case.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Lerner said at Wednesday's hearing that she had done nothing wrong.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I have not done anything wrong,\" she said.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I have not broken any laws. I have not violated any IRS rules or regulations, and I have not provided false information to this or any other congressional committee.\"",
+            "sentence-index": 22,
+            "annotations": []
+        }
+    ]
+}

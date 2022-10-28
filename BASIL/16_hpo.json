@@ -1,0 +1,153 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Joe Arpaio",
+        "Rick Perry"
+    ],
+    "main-event": "Joe Arpaio officially endorses Texas Governor Rick Perry after the candidate was criticized for his immigration platform",
+    "title": "'America's Toughest Sheriff' Endorses Rick Perry",
+    "url": "http://www.huffingtonpost.com/2011/11/29/arizona-sheriff-joe-arpaio-rick-perry_n_1118565.html",
+    "word-count": 414,
+    "date": "2011-11-29",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Joe Arpaio": "Neutral",
+            "Rick Perry": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "Controversial Arizona Sheriff Joe Arpaio announced on Tuesday he will officially endorse Texas Governor Rick Perry for the Republican presidential nomination, which could give Perry something of a credibility boost on immigration and border issues.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Arpaio is a hardliner on immigration, leading a push in Maricopa County for more enforcement.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "He is famous for pushing worksite raids and creating a \"Tent City,\" a military-style holding ground for inmates, now in its eighteenth year.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 140,
+                    "target": "Joe Arpaio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "He is famous for pushing worksite raids and creating a \"Tent City,\" a military-style holding ground for inmates, now in its eighteenth year."
+                }
+            ]
+        },
+        {
+            "sentence": "His endorsement of Perry comes after the candidate was criticized for his immigration platform, which rests on the idea that deportation of all 11 million undocumented immigrants in the country is impractical and unlikely.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Perry also opposes a full border fence, although he calls for more enforcement along the southwest border with Mexico.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The federal government has failed on border crime and border enforcement, and no candidate for president has done more to secure the border than Governor Rick Perry,\" Arpaio said in a statement.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I have been watching Governor Perry and Texas closely and know his border surge operations with state, local and federal law enforcement officials have helped shut down the illegal trafficking of weapons, drugs and people.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "I'm endorsing Rick Perry because we need a tough-on-crime president who will champion and fund full-time border security operations from Brownsville to San Diego.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Governor Perry has a superior border security record and plan to make our border and our nation safer.\"",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 103,
+                    "target": "Rick Perry",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Joe Arpaio",
+                    "text": "Governor Perry has a superior border security record and plan to make our border and our nation safer.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Perry said in a statement that if elected president, he would \"secure the border within a year.\"",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "As Texas governor, he directed funds to enforcement along the border and requested more National Guard troops from President Barack Obama.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Sheriff Arpaio knows the struggle border states face as Washington politicians and bureaucrats fail time and again to properly secure our nation's southern boundary with Mexico,\" Perry said in a statement.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I am honored to have Sheriff Arpaio's support for my presidential campaign and our shared goals of fighting border crime with more personnel, border fencing and surveillance.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 46,
+                    "target": "Joe Arpaio",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Rick Perry",
+                    "text": "I am honored to have Sheriff Arpaio's support"
+                }
+            ]
+        },
+        {
+            "sentence": "A secure border is vital to protecting America's national security, public safety and jobs.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "As president, I will secure the border within a year putting thousands more federal boots on the ground, strategic fencing and aerial resources to fight border crime and make our states and nation safer.\"",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Arpaio endorsed Mitt Romney in 2008, choosing him over eventual nominee and fellow Arizonan John McCain.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "He held a joint press conference with Herman Cain in October after the two met to discuss immigration enforcement.",
+            "sentence-index": 16,
+            "annotations": []
+        }
+    ]
+}

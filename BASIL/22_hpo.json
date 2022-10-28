@@ -1,0 +1,145 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Hillary Clinton",
+        "Nancy Pelosi",
+        "Barack Obama"
+    ],
+    "main-event": "Hillary Clinton suggests Obama should listen to his allies  on trade",
+    "title": "Hillary Clinton: Obama Should Listen To Nancy Pelosi On Trade",
+    "url": "https://www.huffingtonpost.com/2015/06/14/hillary-clinton-trade-deal_n_7580768.html?ec_carp=1234129881583327902",
+    "word-count": 336,
+    "date": "2015-06-14",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Positive",
+            "Hillary Clinton": "Neutral",
+            "Nancy Pelosi": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "B",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Democratic presidential hopeful Hillary Clinton encouraged President Barack Obama on Sunday to listen to House Minority Leader Nancy Pelosi (D) on trade.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Pelosi took to the House floor Friday to oppose trade legislation Obama had personally lobbied for on Capitol Hill earlier that day.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe have an opportunity to slow down,\u201d Pelosi said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhatever the deal is with other countries, we want a better deal for America\u2019s workers.\u201d",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 89,
+                    "target": "Nancy Pelosi",
+                    "polarity": "Positive",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "American workers",
+                    "indirect-ally-opponent-sentiment": "Positive",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Nancy Pelosi",
+                    "text": "\u201cWhatever the deal is with other countries, we want a better deal for America\u2019s workers.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Following her speech, House Democrats rejected Obama's trade agenda in overwhelming numbers.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 92,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Following her speech, House Democrats rejected Obama's trade agenda in overwhelming numbers."
+                }
+            ]
+        },
+        {
+            "sentence": "Obama spent the weekend lobbying members of his party to switch their votes next week.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "At a rally in Iowa, Clinton said that if the president can't come to terms with Pelosi, there should be no deal.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Here's what I think should happen now,\" Clinton said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The president should listen to and work with his allies in Congress, starting with Nancy Pelosi, who have expressed their concerns about the impact that a weak agreement would have on our workers, to make sure we get the best, strongest deal possible and if we don't get it, there should be no deal.\"",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Clinton said she wants to \"find out what's in it and make it as good as it can be,\" and pushed for more transparency \"so the American people can actually see what will be in a finalized deal.\"",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "House Democrats rejected Obama's trade agenda Friday by blocking a measure that would have granted him the power to fast-track sweeping, secretive international agreements through Congress.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 189,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "House Democrats rejected Obama's trade agenda Friday by blocking a measure that would have granted him the power to fast-track sweeping, secretive international agreements through Congress."
+                }
+            ]
+        },
+        {
+            "sentence": "Clinton refrained from mentioning trade in her official campaign kickoff speech that took place at New York City's Roosevelt Island on Saturday.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Ahead of her remarks in Iowa on Sunday, her campaign said she would not be taking a position on trade until details of a deal were finalized.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "However, Clinton appeared to suggest she would seek to negotiate the trade agreement as president.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"No president would be a tougher negotiator on behalf of American workers, either with our trading partners or Republicans on Capitol Hill, than I would be,\" she said.",
+            "sentence-index": 14,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "U.S. Congress",
+        "Democratic Lawmakers",
+        "Republican Lawmakers",
+        "Tea Party"
+    ],
+    "main-event": "House Reading of Constitution Is Not Without Issues",
+    "title": "House Republicans Read Constitution On Second Day In Power",
+    "url": "https://www.huffingtonpost.com/2011/01/06/house-republicans-constitution-reading_n_805167.html",
+    "word-count": 564,
+    "date": "2011-01-06",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Negative",
+            "U.S. Congress": "Neutral",
+            "Democratic Lawmakers": "Neutral",
+            "Republican Lawmakers": "Negative",
+            "Tea Party": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON - And on the second day of Republican rule, the House read the Constitution.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Those wondering whether the reading would be dramatic found out on Thursday as volunteers gave voice to the seven articles and 27 amendments that make up the nation\u2019s governing document.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Republicans have made strict adherence to the Constitution a key tenet of their effort to reduce the size of the federal government.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The House GOP will reportedly make it a requirement that all new bills put forth in the legislative body include \u201ca statement by the lawmaker who wrote it citing the constitutional authority to enact the proposed legislation.\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The Washington Post reported last week that reading the founding document in full appears to be a first in the chamber\u2019s 221-year history:",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cCall it the tea party-ization of Congress. ...",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "These are two standout changes on a long list of new rules Republicans will institute in the House when they assume the majority on Jan. 5.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "After handing out pocket-size Constitutions at rallies, after studying the document article by article and after demanding that Washington return to its founding principles, tea party activists have something new to applaud.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 113,
+                    "end": 122,
+                    "target": "Tea Party",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "demanding"
+                }
+            ]
+        },
+        {
+            "sentence": "A pillar of their grass-roots movement will become a staple in the bureaucracy that governs Congress.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Politics Daily recently reported:",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cBeyond its symbolic power, however, it is unclear what impact the new rule will have upon the nation.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Under axiomatic legal precedent, virtually all congressional action is presumed valid anyway, at least initially.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 113,
+                    "target": "Republican Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "Under axiomatic legal precedent, virtually all congressional action is presumed valid anyway, at least initially."
+                }
+            ]
+        },
+        {
+            "sentence": "Moreover, by taking their oaths of office, lawmakers swear to abide by the Constitution, and virtually all legislation is vetted for constitutional support on some level by government lawyers before it makes it to committee or to the floor of the House.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "It is also quite obvious, from 223 years of legal and political debate on the topic, that the text of the Constitution itself, including those portions that deal with legislative power, is susceptible to many different (and often evolving) views and interpretations, a practical reality that would likely render most \u201cConstitutional Authority Statements\u201d controversial and contentious.\u201d",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 24,
+                    "target": "Republican Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "It is also quite obvious"
+                }
+            ]
+        },
+        {
+            "sentence": "According to Peter Keating at Vanity Fair, $1.1 million is the estimated cost of GOP plans to read the document on the House floor. ",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 131,
+                    "target": "Republican Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "According to Peter Keating at Vanity Fair, $1.1 million is the estimated cost of GOP plans to read the document on the House floor."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThe amount I get is nearly $1.1 million.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "$1,071,872.87, to be exact, though of course this is more back-of-the-envelope than exact.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "When one chamber of Congress is in session but not working, we the people still have to pay for members\u2019 salaries and expenses, and for their police protection, and for keeping their lights and phones and coffee machines on.\u201d",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 225,
+                    "target": "Republican Lawmakers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "When one chamber of Congress is in session but not working, we the people still have to pay for members\u2019 salaries and expenses, and for their police protection, and for keeping their lights and phones and coffee machines on.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWe always hear members of Congress talking about swearing an oath to represent their constituents, when in reality the only oath we take is to the Constitution,\u201d explained newly-minted Speaker John Boehner to the Post.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOn November 2nd, voters called for an end to reckless spending and a renewed commitment to the Constitution,\u201d said Rep. Michele Bachmann (R-Minn.), who has emerged a prominent voice of the Tea Party movement, to the Post.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThese new rules show that Republicans are serious about respecting the Constitution.\u201d",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 86,
+                    "target": "Republican Lawmakers",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Republican Lawmakers",
+                    "text": "\u201cThese new rules show that Republicans are serious about respecting the Constitution.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Also on Thursday, the House is to take up its first spending cut measure, a proposed 5 percent trim in the budgets of leadership, rank-and-file member and committee offices.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Republicans have estimated that this will save $35 million over the next nine months.",
+            "sentence-index": 22,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Glenn Beck"
+    ],
+    "main-event": "Glenn Beck speaks at CPAC",
+    "title": "Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent",
+    "url": "https://www.huffingtonpost.com/2010/02/20/glenn-beck-cpac-2010-spee_n_470356.html",
+    "word-count": 563,
+    "date": "2010-02-20",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Glenn Beck": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Bombastic conservative talk show host Glenn Beck closed a three-day conservative conference on Saturday by demanding that Republicans get their own house in order before re-trying their hand at governance.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "target": "Glenn Beck",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Bombastic"
+                }
+            ]
+        },
+        {
+            "sentence": "In a winding speech that touched as much on his personal turmoil as his policies and politics, Beck had the packed auditorium at CPAC captivated from the start.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 12,
+                    "target": "Glenn Beck",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "winding"
+                }
+            ]
+        },
+        {
+            "sentence": "Using hand gestures, multiple impersonations and his infamous chalkboard, he took the usual swipes at Democrats.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 74,
+                    "end": 111,
+                    "target": "Glenn Beck",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "he took the usual swipes at Democrats"
+                }
+            ]
+        },
+        {
+            "sentence": "\"Progressivism,\" he declared, \"is eating the Constitution.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Moreover, it \"was designed to eat the Constitution.\"",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "But the nearly hour-long address was spent not bemoaning his ideological foes, but rather demanding purity among his likely allies.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "If last year's CPAC keynote speech - delivered by radio host Rush Limbaugh - was defined by urging President Barack Obama to fail, Beck's stood out for his demand that conservatism succeed.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Dick Cheney a couple days ago... says it is going to be a good year for conservative ideas,\" he declared at one point, wiping the sweat from his brow.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 120,
+                    "end": 150,
+                    "target": "Glenn Beck",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "wiping the sweat from his brow"
+                }
+            ]
+        },
+        {
+            "sentence": "\"It is going to be a very good year.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "But it is not enough just to not suck as much as the other side.\"",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "And who, exactly, sucked as much as the other side?",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Beck didn't really name names - save for a swipe at one Republican (presumably Sen. John McCain) for admiring another Republican, Teddy Roosevelt -- the latter of whom Beck accused of launching the modern progressive movement.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "But the message was clear: supporting anything that closely resembled the Democratic agenda would no longer fly with the modern GOP.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I have not heard people in the Republican Party admit yet that they have a problem,\" he said.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I haven't seen the Come-To-Jesus moment from Republicans yet.\"",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "\"One party will tax and spend,\" he added at another point.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "'One party won't tax and will spend.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "It is both of them together.\"",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "The plea was made all the more effective by the intertwining of Beck's own story of struggle and redemption.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Pointing to his time as a recovering alcoholic, the Fox News host urged the GOP to embark on a 12-step program of recovery.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Hello, my name is the Republican Party, and I got a problem.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "I'm addicted to spending and big government,\" he declared, reading out the apology he wanted lawmakers to deliver.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Reflecting on his own lack of formal education, he railed against government handouts - extending the logic to argue against a right to health care.",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 125,
+                    "end": 135,
+                    "target": "Glenn Beck",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a right to"
+                }
+            ]
+        },
+        {
+            "sentence": "The crowd was enthralled, even as Beck took them down winding tales of Calvin Coolidge, the Statute of Liberty and the supposed great middle class explosion of the 1920s.",
+            "sentence-index": 24,
+            "annotations": [
+                {
+                    "start": 26,
+                    "end": 169,
+                    "target": "Glenn Beck",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "even as Beck took them down winding tales of Calvin Coolidge, the Statute of Liberty and the supposed great middle class explosion of the 1920s"
+                }
+            ]
+        },
+        {
+            "sentence": "But was the message what the conservative movement needed to hear?",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Tradition dictates that political parties out of power do what they can to expand their coalition.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Elections, after all, are won when candidates broaden their appeal to the voters responsible for electing them.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "For Beck and the surrounding CPAC crowd, however, ideological purity was the path to redemption and recovery.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "All we've heard, the Fox News host complained, is \"we need a big tent. We need a big tent. Can we get a bigger tent? How can we get a big tent?",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 35,
+                    "end": 45,
+                    "target": "Glenn Beck",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "complained"
+                }
+            ]
+        },
+        {
+            "sentence": "What is this the circus? America is not a clown show. America is not a circus.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "America is an idea. America is an idea that sets people free.\"",
+            "sentence-index": 31,
+            "annotations": []
+        }
+    ]
+}

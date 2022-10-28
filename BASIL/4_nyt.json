@@ -1,0 +1,361 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Elizabeth Lauten",
+        "Barack Obama",
+        "Sasha and Malia Obama",
+        "Stephen Fincher"
+    ],
+    "main-event": "Elizabeth Lauten apologizes for criticizing Obama daughters",
+    "title": "G.O.P. Aide Quits After Ridiculing Obama\u2019s Daughters, Sasha and Malia",
+    "url": "https://www.nytimes.com/2014/12/02/us/gop-aide-quits-after-ridiculing-obamas-daughters.html",
+    "word-count": 658,
+    "date": "2014-12-01",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Elizabeth Lauten": "Negative",
+            "Barack Obama": "Neutral",
+            "Sasha and Malia Obama": "Neutral",
+            "Stephen Fincher": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 A young Republican congressional aide resigned Monday after her Facebook post berating President Obama\u2019s daughters for their attitude and outfits during the annual White House turkey pardon became a sensation on the Internet.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 91,
+                    "end": 99,
+                    "target": "Elizabeth Lauten",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "berating"
+                }
+            ]
+        },
+        {
+            "sentence": "On Friday, the aide, Elizabeth Lauten, 31, who has more than 14,000 followers on Twitter as @DCGopGirl and at the time was a spokeswoman for a little-known congressman from Tennessee, wrote an open letter to Sasha and Malia Obama on her Facebook page, saying they should \u201ctry showing a little class\u201d and \u201cdress like you deserve respect, not a spot at a bar.\u201d",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 272,
+                    "end": 356,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "try showing a little class\u201d and \u201cdress like you deserve respect, not a spot at a bar"
+                }
+            ]
+        },
+        {
+            "sentence": "By Monday, Ms. Lauten had resigned as communications director to Representative Stephen Fincher, a farmer and gospel singer perhaps best known for his whimsically named hometown, Frog Jump.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 97,
+                    "end": 177,
+                    "target": "Stephen Fincher",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a farmer and gospel singer perhaps best known for his whimsically named hometown"
+                }
+            ]
+        },
+        {
+            "sentence": "Ms. Lauten, now a footnote in Mr. Fincher\u2019s career, is the latest cautionary tale about the dangers of social media sniping directed at the country\u2019s most famous offspring.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 50,
+                    "target": "Elizabeth Lauten",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "now a footnote in Mr. Fincher\u2019s career"
+                }
+            ]
+        },
+        {
+            "sentence": "It started Wednesday with the most innocuous of events: the annual naming of the National Thanksgiving Turkey, when Mr. Obama officially liberated Cheese, a large white bird with impressive plumage, from the Thursday dinner table.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Per tradition, the first daughters were in attendance, this time wearing mostly cheerless expressions and short outfits.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 55,
+                    "end": 119,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "this time wearing mostly cheerless expressions and short outfits"
+                }
+            ]
+        },
+        {
+            "sentence": "Malia, 16, was dressed in a plaid miniskirt, sweater, dark tights and black hiking-style boots.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Sasha, 13, wore a maroon dress, a cardigan sweater, a pair of white midcalf-high socks and black ankle boots.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "At times, the girls gazed glumly at the floor and threw an occasional eye roll at their father as he compared pardoning Cheese to granting amnesty to unauthorized immigrants.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 174,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "At times, the girls gazed glumly at the floor and threw an occasional eye roll at their father as he compared pardoning Cheese to granting amnesty to unauthorized immigrants."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cYou want to pet him?\u201d Mr. Obama asked his daughters.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNah,\u201d Malia said quickly.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 26,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\u201cNah,\u201d Malia said quickly."
+                }
+            ]
+        },
+        {
+            "sentence": "Their teenage disdain drew its fair share of media attention, including a BuzzFeed article titled \u201cThe Obama Girls Could Not Be More Bored by Their Dad\u2019s Jokes.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Enter Ms. Lauten \u2014 a former Republican National Committee new media aide who describes herself on Twitter as loving God, cats, the Daughters of the American Revolution \u201c& all things pink, green and pearls!\u201d \u2014 whose commentary had a sharper edge.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI get you\u2019re both in those awful teen years, but you\u2019re a part of the First Family, try showing a little class,\u201d she wrote above a picture of the unenthused Obama daughters.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 85,
+                    "end": 111,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "try showing a little class"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAt least respect the part you play.\u201d",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 37,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "\u201cAt least respect the part you play.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "She went on to say that Malia and Sasha were \u201ccoming up a little short in the \u2018good role model\u2019 department\u201d because their parents \u201cdon\u2019t respect their positions very much, or the nation for that matter.\u201d",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 131,
+                    "end": 201,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "don\u2019t respect their positions very much, or the nation for that matter"
+                }
+            ]
+        },
+        {
+            "sentence": "Ms. Lauten wrote what she thought the daughters should have done: \u201cRise to the occasion.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Act like being in the White House matters to you.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Dress like you deserve respect, not a spot at a bar.\u201d",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 53,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "Dress like you deserve respect, not a spot at a bar.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Her views were widely circulated and eventually posted on Twitter by a reporter for The Root, a news, opinion and culture site aimed at African-American audiences.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "A flood of angry responses quickly followed.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "Ms. Lauten, who did not respond to repeated requests for further comment, later posted an apology for her \u201churtful\u201d words, saying she had \u201cjudged the two young ladies in a way that I would never have wanted to be judged myself as a teenager.\u201d",
+            "sentence-index": 21,
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 72,
+                    "target": "Elizabeth Lauten",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who did not respond to repeated requests for further comment"
+                }
+            ]
+        },
+        {
+            "sentence": "Josh Earnest, the White House press secretary, told reporters on Monday that he was \u201ctaken aback that there was some political operative on Capitol Hill who did use the occasion of a Thanksgiving-themed event to criticize members of the first family.\u201d",
+            "sentence-index": 22,
+            "annotations": [
+                {
+                    "start": 85,
+                    "end": 249,
+                    "target": "Elizabeth Lauten",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "taken aback that there was some political operative on Capitol Hill who did use the occasion of a Thanksgiving-themed event to criticize members of the first family"
+                }
+            ]
+        },
+        {
+            "sentence": "Patti Davis, the daughter of Ronald Reagan, could relate.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "In a letter to Sasha and Malia posted on her website, Ms. Davis recalled being criticized by a reporter decades ago for the outfit she wore to a cocktail reception her parents held for Queen Elizabeth II when Mr. Reagan was president.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAs First Daughters, you can\u2019t win,\u201d Ms. Davis wrote.",
+            "sentence-index": 25,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 34,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "As First Daughters, you can\u2019t win"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAnd while there isn\u2019t anything normal about the life you are living right now, you still can be.\u201d",
+            "sentence-index": 26,
+            "annotations": []
+        }
+    ]
+}

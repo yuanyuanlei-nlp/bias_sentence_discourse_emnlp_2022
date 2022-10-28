@@ -1,0 +1,244 @@
+{
+    "date": "2010-12-08",
+    "title": "Larry Summers: If Tax Deal Goes Down There's A 'Significant Risk' Of A Double Dip Recession",
+    "word-count": 842,
+    "main-event": "Larry Summers pressures congress to pass tax bill",
+    "source": "hpo",
+    "url": "http://www.huffingtonpost.com/2010/12/08/larry-summers-tax-cut-deal_n_793975.html",
+    "main-entities": [
+        "Larry Summers"
+    ],
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Larry Summers": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Senior White House officials significantly raised the stakes on congressional Democrats in their efforts to get a deal passed on the Bush tax cuts, warning on Wednesday that inaction would \"significantly increase the risk\" of a double dip recession.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "It wasn't quite the metaphorical flare of mushroom cloud imagery, but outgoing senior economic adviser Larry Summers offered a fairly dire assessment of the stakes in the tax cut debate.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 64,
+                    "target": "Larry Summers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It wasn't quite the metaphorical flare of mushroom cloud imagery"
+                }
+            ]
+        },
+        {
+            "sentence": "\"If they [Democrats] don't pass this bill in the next couple weeks it will materially increase the risk that the economy would stall out and we would have a double dip,\" he told a gathering of reporters at an off camera briefing.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "A double dip recession?",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"What I said it would significantly increase the risk,\" Summers replied.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The message was hardly subtle. But it certainly was debatable.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 62,
+                    "target": "Larry Summers",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The message was hardly subtle. But it certainly was debatable."
+                }
+            ]
+        },
+        {
+            "sentence": "Summers himself, downplayed the significance of continuing the Bush tax cuts back in September -- though he was speaking, then, about the rates for the rich and the tax cut deal, at that point in time, did not include money for a 13-month extension of unemployment insurance or other tax incentives to help lower income workers.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Asked whether the country would find itself dipping towards the economic doldrums if Congress waited a month or two to get a tax cut package passed, Rob Shapiro, a former commerce official in the Clinton White House and a proponent of the current tax cut deal, offered more sober-minded analysis.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The wait would not cause a double dip,\" he said.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\"A double dip would come out of the reality of a relatively contractionary fiscal policy...",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "I do think the deal that they announced is stimulative.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "And it ought to boost growth by some increment...",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "But the issue is, that the deal certainly is not enough to lift the economy to a different place.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Will we see what happened with the large stimulus happen here, which is once the stimulus is over the economy returns to slow growth? That's the danger.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "And I keep on saying this, the single most important thing they can do to avert that is to stabilize housing prices.\"",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Stabilizing the housing market, however, is not on the current congressional docket.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "And on Wednesday, the White House began a robust process of selling the deal to Democrats -- skeptical, as they are, about an extension of Bush tax cuts for the wealthy and a generous revision of the estate tax.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "There were few carrots to go along with the sticks.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 51,
+                    "target": "Larry Summers",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "White House",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "There were few carrots to go along with the sticks."
+                }
+            ]
+        },
+        {
+            "sentence": "Asked, for instance, if the White House would be willing to revise the informal compromise to bring more Democratic lawmakers on board, White House Press Secretary Robert Gibbs said any changes would be fine, so long as they didn't result in decreased support.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Then he cautioned: \"The physics and the blood and the sweat that might be involved in that, I'm not entirely sure I would put it quite as simply as that.\"",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "If anything, the pitch being offered from the administration to the rest of the party was: take the package now or risk being blamed for an economic downturn.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 91,
+                    "end": 157,
+                    "target": "Larry Summers",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "White House",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "take the package now or risk being blamed for an economic downturn"
+                }
+            ]
+        },
+        {
+            "sentence": "\"I guess the question back for those who ask [why not fight for more] is where does this go, what is the end game and what are the consequences of playing it?\" said senior adviser David Axelrod.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Do they have a sense of how this ends and how long will that take, because as Larry said there are real consequences to that.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Just as the forecasts went up on the basis of this agreement they will go down if this agreement fails. That we know.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "We know that on January 1 people's taxes will go up, we know that at the end of this month 2 million people will lose their unemployment insurance.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "And so there are real consequences to that decision.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "We, I think we all stipulate, the president did, no one likes those provisions that they dislike but on the other side of the ledger are significant things that will help people and help the economy.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "And what we know for sure is that without any of it we are facing a really difficult situation.\"",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Added Gibbs: \"I think you would really have to ask somebody who says... lets have some eight week fight and on February the 15th come in and say, alright, now we are ready to make a compromise, who on earth, who on earth thinks that that is somehow going to be a fundamentally better agreement than the one we are looking at right now?",
+            "sentence-index": 28,
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 335,
+                    "target": "Larry Summers",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "Senate Democrats",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "I think you would really have to ask somebody who says... lets have some eight week fight and on February the 15th come in and say, alright, now we are ready to make a compromise, who on earth, who on earth thinks that that is somehow going to be a fundamentally better agreement than the one we are looking at right now?"
+                }
+            ]
+        },
+        {
+            "sentence": "No one I have ever talked to.\"",
+            "sentence-index": 29,
+            "annotations": []
+        }
+    ]
+}

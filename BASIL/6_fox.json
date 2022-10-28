@@ -1,0 +1,275 @@
+{
+    "title": "Reid Breaks With Obama Over Proposed Ground Zero Mosque",
+    "date": "2010-08-16",
+    "url": "http://www.foxnews.com/politics/2010/08/16/white-house-says-politics-factor-decision-enter-mosque-debate/",
+    "main-entities": [
+        "Harry Reid",
+        "Barack Obama"
+    ],
+    "word-count": 976,
+    "source": "fox",
+    "main-event": "Republican congressional candidates dispute plans to build mosque near ground zero",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Harry Reid": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Senate Majority Leader Harry Reid broke with President Obama Monday over the proposed mosque near Ground Zero, saying the controversial Islamic center should be built elsewhere.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Spokesman Jim Manley said in a written statement that Republicans should show their sincerity about sensitivity to Sept. 11 survivors by backing a high-profile bill to grant health benefits to rescue workers, something that stalled in Congress earlier this month.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "But at the same time, Manley put Reid on the record for the first time in the hyper-sensitive and volatile mosque debate.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The First Amendment protects freedom of religion,\" Manley said.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Sen. Reid respects that but thinks that the mosque should be built someplace else.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Reid's comments added another high-profile voice to the mosque controversy.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "The president first stepped into the fray Friday when he appeared to endorse the Park 51 project during a Ramadan dinner at the White House.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The next day, he clarified that he was merely commenting on fundamental religious freedoms -- not specifically on the \"wisdom\" of the mosque project.",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 149,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The next day, he clarified that he was merely commenting on fundamental religious freedoms -- not specifically on the \"wisdom\" of the mosque project."
+                }
+            ]
+        },
+        {
+            "sentence": "Then White House spokesman Bill Burton said Obama was not \"backing off\" his original remarks.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The prolonged presidential explanation elevated the issue beyond a local dispute and hurled it into the political arena.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 120,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The prolonged presidential explanation elevated the issue beyond a local dispute and hurled it into the political arena."
+                }
+            ]
+        },
+        {
+            "sentence": "Republicans have since both criticized his position and pressured other Democrats to take a stand on the politically sticky issue, one where charges of insensitivity have flown on both sides.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The White House claimed Monday that politics were not at play in Obama's decision to dive into the controversy over a planned mosque near Ground Zero.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Burton said that he \"can't speak to the politics of what the Republicans are doing,\" but the president was not looking to make political hay with his remarks, which he reportedly considered carefully before delivering them at a White House dinner on Friday night.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 168,
+                    "end": 199,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "reportedly considered carefully"
+                }
+            ]
+        },
+        {
+            "sentence": "\"The president didn't do this because of the politics.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "He spoke about it because he feels he has an obligation as the president to address this,\" Burton said.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "But the issue was quickly feeding fuel to Republicans looking to corner Democrats into taking a position on the issue -- something they were able to avoid before the president spoke up.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Though Reid is on the record, the National Republican Senatorial Committee on Monday targeted Sen. Charles Schumer, D-N.Y., for not speaking out on the issue.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Citing an article that said the normally chatty Schumer would not comment on the mosque remarks, the NRSC said Schumer should weigh in.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It's a remarkable commentary on the most camera-friendly senator that he's more than happy to weigh-in on caffeinated malt beverages, but he won't take a public position on the construction of a mosque near Ground Zero,\" NRSC spokesman Brian Walsh said in a written statement.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "\"It's time for Chuck Schumer to stand up and be counted -- does he stand with President Obama in support of this mosque or does he stand with the countless 9/11 families who believe its location is inappropriate?\" Walsh asked.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Walsh also suggested Reid would suffer politically from his allegiance to Obama on other issues, despite his stance on the mosque.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\"While it's commendable that Senator Reid now agrees with Republican Sharron Angle that we should respect the wishes of 9/11 families, it's regrettable that he hasn't demonstrated this same independence from President Obama on the critical issues facing America during the last 19 months,\" he said.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Peter King, R-N.Y., who opposes the mosque project, said Monday that the White House softened Obama's original comments because it probably heard \"pushback\" from other Democrats.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "He said Obama was \"clearly\" taking a side on the issue no matter what he claims.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Everyone says as far as I know that the Muslim community has the right to build a mosque.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "The whole question is whether they should or not,\" he told Fox News.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "\"So for the president to raise it in the way he did on Friday was clearly giving the impression that he was endorsing it or supporting it -- or tacitly supporting it.\"",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Most Americans think the group planning the mosque and Islamic cultural center has the right to build it, according to a Fox News poll released Friday.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "However, the poll showed that 64 percent think it would be wrong to build it, regardless of whether the developers are within their right to do so.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Supporters of the mosque and cultural center in lower Manhattan, including New York City Mayor Michael Bloomberg, say its development should stand as a testament to religious tolerance in America.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "They say it would be a mistake to equate Islam as a whole, and its practice in the United States, with Al Qaeda -- and remind critics that Muslims were also killed in the attacks on the World Trade Center.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "Burton said Monday that the president weighed in as part of a constitutional discussion.",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The president thinks that it's his obligation to speak out when ... issues of the Constitution arise.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "And so, in this case, he decided to state clearly how he feels about making sure that people are treated equally, that there is a fairness and that our bedrock principles are upheld,\" Burton said.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "He added the administration can't control the conversation on cable TV or in newspapers, but the White House has had a \"pretty fulsome conversation\" about it and has addressed it to a \"pretty full extent.\"",
+            "sentence-index": 34,
+            "annotations": [
+                {
+                    "start": 119,
+                    "end": 148,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "White House",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\"pretty fulsome conversation\""
+                },
+                {
+                    "start": 184,
+                    "end": 205,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "White House",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\"pretty full extent.\""
+                }
+            ]
+        },
+        {
+            "sentence": "\"I think that it's a debate that was had and we've weighed in,\" Burton said.",
+            "sentence-index": 35,
+            "annotations": []
+        }
+    ]
+}

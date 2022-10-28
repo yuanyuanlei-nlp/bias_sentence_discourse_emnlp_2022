@@ -1,0 +1,218 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Trump reverses decision to allow import of elephant trophies",
+    "title": "For Now, Trump to Keep Ban on Importing Elephant Trophies",
+    "url": "https://www.nytimes.com/2017/11/17/us/politics/trump-elephant-trophy-ban.html?smid=pl-share",
+    "word-count": 664,
+    "date": "2017-11-17",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 President Trump on Friday reversed the government\u2019s decision to start allowing hunters to import trophies of elephants that were killed in two African countries, pending a further review.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "His evening Twitter message reversed a decision by his own administration over Zimbabwe that was announced this week and promoted as recently as Friday afternoon by the White House press secretary, Sarah Huckabee Sanders.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cPut big game trophy decision on hold until such time as I review all conservation facts,\u201d Mr. Trump tweeted.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cUnder study for years. Will update soon with Secretary Zinke. Thank you!\u201d",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Ryan Zinke, the interior secretary, said in a statement later Friday night that the decision applied to two African countries, though it did not name them.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cPresident Trump and I have talked, and both believe that conservation and healthy herds are critical,\u201d the statement said.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAs a result, in a manner compliant with all applicable laws, rules and regulations, the issuing of permits is being put on hold as the decision is being removed.\u201d",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The United States Fish and Wildlife Service had signaled its intention to end the 2014 ban, citing Zimbabwe\u2019s conservation efforts.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "On Thursday, the service announced on its website that it would begin issuing permits to allow the import of elephants hunted from 2016 to 2018, with two trophies allowed per import.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Nearly two weeks ago, the department also waived the ban in a similar manner for Zambia.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Zambia and Zimbabwe have had mixed success in recent years maintaining or increasing their elephant population, according to the Great Elephant Census, a project financed by Paul G. Allen, a founder of Microsoft.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "The project also found that the African elephant population shrunk nearly 30 percent from 2007 to 2014.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "It is unclear why Mr. Trump reversed the decision, but the announcement faced backlash from both conservatives and liberals.",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 49,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It is unclear why Mr. Trump reversed the decision"
+                }
+            ]
+        },
+        {
+            "sentence": "Laura Ingraham, a Fox News host, said Thursday on Twitter that she did not understand how the decision would not \u201cINCREASE the gruesome poaching of elephants,\u201d while the comedian Ellen DeGeneres started an online campaign, using the hashtag #BeKindToElephants, to raise funds for elephant conservation efforts.",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 127,
+                    "end": 135,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "gruesome"
+                }
+            ]
+        },
+        {
+            "sentence": "On social media, photos were being shared of Mr. Trump\u2019s two elder sons hunting on safari in Zimbabwe, including one photo that showed Donald Trump Jr. with a severed elephant tail in one hand and a knife in the other.",
+            "sentence-index": 14,
+            "annotations": [
+                {
+                    "start": 103,
+                    "end": 217,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Donald Trump Jr.",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "including one photo that showed Donald Trump Jr. with a severed elephant tail in one hand and a knife in the other"
+                }
+            ]
+        },
+        {
+            "sentence": "The White House argued that the hunting would bring money to local communities and incentivize efforts to protect elephants.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "In defending the decision on Friday, Ms. Sanders cited a recently completed Park Service review that had begun during the Obama administration.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThis review established that both Zambia and Zimbabwe had met new standards, strict international conservation standards that allowed Americans to resume hunting in those countries,\u201d she told reporters during a news briefing.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "Under President Barack Obama, the practice had been banned because of a lack of data on conservation efforts in Zimbabwe.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Safari Club International, a trophy-hunting organization that sued the Obama administration in 2014 in an effort to challenge the ban and was the first to report the policy change on Tuesday, lashed out against the news media and \u201canti-hunters\u201d for swaying the Trump administration to lift the trophy ban.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe fight for the freedom to hunt is far from over,\u201d Paul Babaz, the organization\u2019s president, said in a statement.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe will be more proactive and not back down.\u201d",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "But environmental groups applauded the reversal on Friday and called for more restrictions on trophy hunting, which has faced increased scrutiny, especially after an American dentist killed Cecil, a lion beloved in Zimbabwe, in 2015.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIt\u2019s great that public outrage has forced Trump to reconsider this despicable decision,\u201d said Tanya Sanerib, a senior lawyer with the Center for Biological Diversity, \u201cbut it takes more than a tweet to stop trophy hunters from slaughtering elephants and lions.\u201d",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 87,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "public outrage has forced Trump to reconsider this despicable decision"
+                },
+                {
+                    "start": 68,
+                    "end": 78,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "Other (Neutral)",
+                    "text": "despicable"
+                }
+            ]
+        },
+        {
+            "sentence": "Ms. Sanders also confirmed Friday that a near-total ban on the commercial trade of African elephant ivory enforced during the Obama administration would remain in place.",
+            "sentence-index": 24,
+            "annotations": []
+        }
+    ]
+}

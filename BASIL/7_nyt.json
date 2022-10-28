@@ -1,0 +1,458 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Adam Schiff",
+        "GOP committee members",
+        "Donald Trump"
+    ],
+    "main-event": "House Intelligence Committee demand Adam Schiff's resignation",
+    "title": "Demands for Adam Schiff's Head Highlight Chasm That Only Widened With Mueller's Conclusion",
+    "url": "https://www.nytimes.com/2019/03/28/us/politics/adam-schiff-resign.html",
+    "word-count": 1235,
+    "date": "2019-03-28",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Adam Schiff": "Neutral",
+            "GOP committee members": "Negative",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2014 The House Intelligence Committee\u2019s first hearing since Robert S. Mueller III completed his report had barely begun when the panel\u2019s Republicans moved en masse to demand the resignation of the committee\u2019s chairman.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "It went downhill from there.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The acrimony on display Thursday as the intelligence committee tried to resume its work on Russia\u2019s intervention in the 2016 presidential election laid bare the bitter divide that persists in Congress even after Mr. Mueller, the special counsel, completed his 22-month investigation of the subject.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "The Republican demand and the barbed response of the committee\u2019s chairman, Representative Adam B. Schiff, echoed well outside the wood-paneled House hearing room.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 30,
+                    "end": 36,
+                    "target": "Adam Schiff",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "barbed"
+                }
+            ]
+        },
+        {
+            "sentence": "Representative Kevin McCarthy, the House Republican leader, spent much of his weekly news conference comparing Mr. Schiff, a fellow Californian, to Senator Joseph R. McCarthy, who fueled fears in the 1950s that Communist spies had infiltrated the American government.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Representative Michael R. Turner, Republican of Ohio, played the same card in the hearing room, fuming that Mr. Schiff would not accept Attorney General William P. Barr\u2019s word that Mr. Mueller had not found the Trump campaign to have taken part in a conspiracy to undermine the election.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWith McCarthyism,\u201d a senator was \u201cchasing after Russian Communists,\u201d Mr. Turner, an Intelligence Committee member, said.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNow we have Schiff chasing after Russian collusion.\u201d",
+            "sentence-index": 7,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 53,
+                    "target": "Adam Schiff",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "GOP committee members",
+                    "text": "\u201cNow we have Schiff chasing after Russian collusion.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Undaunted, Mr. Schiff made clear he was not about to step down, nor was he about to absolve President Trump or his campaign from nefarious conduct with Moscow \u2014 especially without seeing Mr. Mueller\u2019s report first.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The Justice Department revealed on Thursday that the report came in at more than 300 pages, raising more questions about what information was behind the four-page summary released by Mr. Barr.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Schiff had many questions of his own.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cYou might think that it\u2019s O.K. that the president\u2019s son-in-law sought to establish a secret back channel of communications with the Russians through a Russian diplomatic facility.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 179,
+                    "target": "GOP committee members",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Adam Schiff",
+                    "text": "You might think that it\u2019s O.K. that the president\u2019s son-in-law sought to establish a secret back channel of communications with the Russians through a Russian diplomatic facility"
+                }
+            ]
+        },
+        {
+            "sentence": "I don\u2019t think that\u2019s O.K. You might think it\u2019s O.K. that an associate of the president made direct contact with the G.R.U. through Guccifer 2.0 and WikiLeaks; that is considered a hostile intelligence agency,\u201d Mr. Schiff said, referring to Russian military intelligence and a Russian intelligence hacker.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "He continued: \u201cYou might think that it\u2019s O.K. that the national security-designate secretly conferred with the Russian ambassador about undermining U.S. sanctions.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "And you might think it\u2019s O.K. he lied about it to the F.B.I. You might say that\u2019s all O.K.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "You might say that\u2019s just what you need to do to win.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "But I don\u2019t think it\u2019s O.K. I think it\u2019s immoral. I think it\u2019s unethical. I think it\u2019s unpatriotic. And yes, I think it\u2019s corrupt.\u201d",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 131,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Adam Schiff",
+                    "text": "But I don\u2019t think it\u2019s O.K. I think it\u2019s immoral. I think it\u2019s unethical. I think it\u2019s unpatriotic. And yes, I think it\u2019s corrupt.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "Democrats who now control the House say that they will accept Mr. Mueller\u2019s findings, but as Mr. Schiff\u2019s monologue indicated they are increasingly determined not to let go of what they see as a deeply troubling pattern of wrongdoing by Mr. Trump, his businesses and his administration.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 106,
+                    "end": 115,
+                    "target": "Adam Schiff",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "monologue"
+                }
+            ]
+        },
+        {
+            "sentence": "That has in turn enraged Republicans, who have happily embraced what they call Mr. Mueller\u2019s absolution of Mr. Trump.",
+            "sentence-index": 18,
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 116,
+                    "target": "GOP committee members",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "who have happily embraced what they call Mr. Mueller\u2019s absolution of Mr. Trump"
+                }
+            ]
+        },
+        {
+            "sentence": "They say Democrats will stop at nothing to ruin his presidency, and bristle at Democrats accusing them of turning a blind eye to the Russian threat.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "And at the center of their wrath is Mr. Schiff, whose doughy-faced demeanor hardly evokes an attack dog.",
+            "sentence-index": 20,
+            "annotations": [
+                {
+                    "start": 48,
+                    "end": 103,
+                    "target": "Adam Schiff",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "whose doughy-faced demeanor hardly evokes an attack dog"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cThe findings of the special counsel conclusively refute your past and present assertions and have exposed you as having abused your position to knowingly promote false information, having damaged the integrity of this committee, and undermined faith in U.S. government institutions,\u201d Representative K. Michael Conaway, Republican of Texas, said to Mr. Schiff.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Reading from a letter signed by every Republican member of the committee, Mr. Conaway added, \u201cYour actions both past and present are incompatible with your duties as chairman of this committee.\u201d",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump intervened as well, accusing Mr. Schiff of \u201cknowingly and unlawfully lying and leaking.\u201d",
+            "sentence-index": 23,
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 96,
+                    "target": "Adam Schiff",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "knowingly and unlawfully lying and leaking"
+                }
+            ]
+        },
+        {
+            "sentence": "He \u201cshould be forced to resign from Congress!\u201d the president wrote on Twitter.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Schiff, clearly prepared for the ambush, argued that there was a difference between prosecutors proving a criminal conspiracy and the committee investigating evidence of foreign compromise.",
+            "sentence-index": 25,
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 43,
+                    "target": "GOP committee members",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "ambush"
+                }
+            ]
+        },
+        {
+            "sentence": "The committee\u2019s own investigative work would go on, he signaled, though outside the hearing room he has indicated that work may well need to shift course once Mr. Mueller\u2019s findings are fully understood.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Democrats backed him.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHistory will clarify what has happened,\u201d said Representative Jim Himes, Democrat of Connecticut.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Speaker Nancy Pelosi of California praised Mr. Schiff as \u201ccalm, professional, patriotic,\u201d and said his work as the chairman of the committee has been \u201cin stark contrast to the irresponsible and almost criminal behavior of the previous chair of the committee,\u201d Representative Devin Nunes, Republican of California.",
+            "sentence-index": 29,
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 87,
+                    "target": "Adam Schiff",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "calm, professional, patriotic"
+                },
+                {
+                    "start": 151,
+                    "end": 257,
+                    "target": "GOP committee members",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Devin Nunes",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "in stark contrast to the irresponsible and almost criminal behavior of the previous chair of the committee"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cWhat is the president afraid of \u2014 that he would go after a chairman of the committee?\u201d she said.",
+            "sentence-index": 30,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 86,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "What is the president afraid of \u2014 that he would go after a chairman of the committee?"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI think they\u2019re just scaredy-cats.",
+            "sentence-index": 31,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 35,
+                    "target": "GOP committee members",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "\u201cI think they\u2019re just scaredy-cats."
+                }
+            ]
+        },
+        {
+            "sentence": "They just don\u2019t know what to do.\u201d",
+            "sentence-index": 32,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 33,
+                    "target": "GOP committee members",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "They just don\u2019t know what to do.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "The party gave Mr. Schiff a more formal nod of confidence this week as well.",
+            "sentence-index": 33,
+            "annotations": []
+        },
+        {
+            "sentence": "On Wednesday, the Democratic Congressional Campaign Committee, House Democrats\u2019 campaign arm, announced that Mr. Schiff would serve as a key fund-raiser for the caucus\u2019s most vulnerable members to help put together a firewall to project the House majority.",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "Out of the glare of the television cameras, Democrats are somewhat more circumspect.",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIn the heat of the political moment just as the Republicans wanted to try to convict Hillary Clinton in the public sphere, Democrats probably contributed to the expectations that the outcome would be worse for the president than it was,\u201d Mr. Himes said in an interview a day ahead of the hearing.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "Notably sitting out the fight was Mr. Nunes, whom Democrats have accused of many of the same abuses that Republicans accused Mr. Schiff of on Thursday and whose resignation they asked for last year.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Nunes\u2019s sustained work last term to scrutinize the origins of the Russia investigation and accuse federal law enforcement officials of acting out of anti-Trump political bias sent convulsions through what in quieter times is one of Congress\u2019s more bipartisan bodies.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe should not be used as a platform to spread false information and bizarre conspiracies,\u201d Mr. Nunes said on Thursday in brief remarks before deferring to Mr. Conaway.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "Thursday\u2019s showdown came, ironically enough, during a hearing with four subject experts on \u201cPutin\u2019s Playbook: The Kremlin\u2019s Use of Oligarchs, Money and Intelligence in 2016 and Beyond.\u201d",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "Down the line, the witnesses warned that Vladimir V. Putin\u2019s Russia would only grow bolder in its efforts to destabilize western democracies, including the United States.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe bad news is that there is a new ideological fight between Putinism and the West, and it has only just begun,\u201d said Michael McFaul, an ambassador to Moscow under former President Barack Obama.",
+            "sentence-index": 42,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIn my estimation, we as a country are underestimating it.\u201d",
+            "sentence-index": 43,
+            "annotations": []
+        },
+        {
+            "sentence": "The whole episode offered a sharp contrast to the Senate Intelligence Committee, which with a yawning pace and no-leaks team has continued apace with its own Russia investigation.",
+            "sentence-index": 44,
+            "annotations": []
+        },
+        {
+            "sentence": "The committee\u2019s chairman, Senator Richard M. Burr of North Carolina, said this week that he aimed to finish witness interviews in the coming weeks and issue the last in a series of reports on the panel\u2019s findings in the coming months.",
+            "sentence-index": 45,
+            "annotations": []
+        },
+        {
+            "sentence": "On Thursday, as Democrats and Republicans in the House traded recriminations, the Senate panel quietly called back for another interview with Jared Kushner, Mr. Trump\u2019s son-in-law and senior adviser.",
+            "sentence-index": 46,
+            "annotations": []
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Michael Flynn",
+        "Donald Trump"
+    ],
+    "main-event": "House Intelligence committee prepares to subpoena Michael Flynn",
+    "title": "Senate intel panel subpoenas two Flynn businesses in Russia probe",
+    "url": "http://www.foxnews.com/politics/2017/05/23/senate-intel-panel-subpoenas-two-flynn-businesses-in-russia-probe.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+    "word-count": 252,
+    "date": "2017-05-23",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Michael Flynn": "Neutral",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "The leaders of the Senate intelligence committee said Tuesday they had subpoenaed two of former National Security Adviser Michael Flynn's businesses as part of the ongoing probe into Russian activity during last year's presidential campaign.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Sen. Mark Warner, D-Va., the top Democrat on the committee, identified the businesses as Flynn Intel Group LLC and Flynn Intel Group Inc., both based in Alexandria, Va.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The committee's action comes a day after Flynn\u2019s lawyer notified the committee that his client will invoke his Fifth Amendment protection against self-incrimination and not comply with the committee\u2019s subpoena seeking documents related to its investigation.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"A business does not have the right to take the fifth,\" Warner told reporters.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The investigation focuses on whether Flynn and other Trump associates colluded with Russia to boost the Republican candidate in the 2016 elections.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump fired Flynn in February because he misled Vice President Mike Pence about conversations he had with Russia\u2019s ambassador about potentially easing economic sanctions.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Flynn is also being investigated over whether he was fully forthcoming about his foreign contacts and earnings from organizations linked to the governments of Russia and Turkey.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Intelligence committee chairman Sen. Richard Burr, R-N.C., said Tuesday that the panel also sent a letter to Flynn\u2019s lawyer questioning whether his client can indeed invoke the Fifth Amendment to avoid turning over documents.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Burr added that if there is no response from Flynn, the committee may consider pursuing a contempt of Congress charge.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Everything is on the table,\" Burr said.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Everything but immunity, he added.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 34,
+                    "target": "Michael Flynn",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Everything but immunity, he added."
+                }
+            ]
+        }
+    ]
+}

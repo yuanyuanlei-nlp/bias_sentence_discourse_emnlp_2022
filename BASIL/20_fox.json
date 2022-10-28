@@ -1,0 +1,142 @@
+{
+    "source": "fox",
+    "main-entities": [
+        "Bruce Braley",
+        "Chuck Grassley"
+    ],
+    "main-event": "Bruce Braley apologizes for farmer comments",
+    "title": "Dem running for Senate in Iowa mocks Grassley as farmer 'who never went to law school'",
+    "url": "http://www.foxnews.com/politics/2014/03/25/rep-braley-mocks-sen-grassley-as-just-iowa-farmer-who-never-went-to-law-school/",
+    "word-count": 342,
+    "date": "2014-03-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Bruce Braley": "Negative",
+            "Chuck Grassley": "Positive"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Iowa Democratic Rep. Bruce Braley is under fire after a video surfaced Tuesday of him mocking Sen. Chuck Grassley, R-Iowa, as a \u201cfarmer from Iowa who never went to law school\u201d \u2014 in the middle of Braley\u2019s campaign for Senate in the state known for its agriculture industry.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 86,
+                    "end": 93,
+                    "target": "Bruce Braley",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "mocking"
+                }
+            ]
+        },
+        {
+            "sentence": "Braley apologized for the remarks in a written statement after the video was released.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "He said he \u201crespects\u201d Grassley and proclaimed his support for Iowa\u2019s farmers.",
+            "sentence-index": 2,
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 21,
+                    "target": "Bruce Braley",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "\u201crespects\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cI have tremendous respect for Iowa farmers and appreciate how important they are to our state, and I\u2019m grateful to have the support of hundreds of farmers across Iowa,\u201d he said.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The video, which was posted online by the conservative super PAC America Rising, apparently shows Braley speaking to a group of lawyers at a fundraiser in Texas.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Braley says if elected to the Senate to replace retiring Democratic Sen. Tom Harkin, he would want to serve on the Senate Judiciary Committee.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "He said Grassley, though, would likely become chairman of that committee if Republicans take the Senate.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cTo put this in stark contrast, if you help me win this race you may have someone with your background, your experience, your voice, someone who\u2019s been literally fighting tort reform for thirty years, in a visible or public way, on the Senate Judiciary Committee,\u201d he said.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cOr, you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee.\u201d",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "A spokesperson for Grassley fired back Tuesday, telling FoxNews.com that by Braley\u2019s logic he, as a trial lawyer, would not be eligible to speak out on a number of policy issues like agriculture, energy or health care.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The spokesperson also touted Grassley\u2019s \u201cstrong record\u201d on the judiciary committee.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 83,
+                    "target": "Chuck Grassley",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The spokesperson also touted Grassley\u2019s \u201cstrong record\u201d on the judiciary committee."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cAlongside that, Sen. Grassley\u2019s one of only two working family farmers in the United States Senate, where he brings Iowa common sense to work for ag, anti-trust, transportation, environmental, energy, trade, health care, communications, national security, and tax policy that works for all of America,\u201d the aide said.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 301,
+                    "target": "Chuck Grassley",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Pro-target)",
+                    "text": "Alongside that, Sen. Grassley\u2019s one of only two working family farmers in the United States Senate, where he brings Iowa common sense to work for ag, anti-trust, transportation, environmental, energy, trade, health care, communications, national security, and tax policy that works for all of America"
+                }
+            ]
+        }
+    ]
+}

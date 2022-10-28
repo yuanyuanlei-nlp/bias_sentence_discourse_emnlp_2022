@@ -1,0 +1,118 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Michael Flynn",
+        "Adam Schiff",
+        "Donald Trump"
+    ],
+    "main-event": "House Intelligence committee prepares to subpoena Michael Flynn",
+    "title": "Top House Intel Dem: Flynn Not Cooperating With Russia Probe, Subpoenas Coming",
+    "url": "https://www.huffingtonpost.com/entry/adam-schiff-michael-flynn-subpoeans-russia_us_5925a615e4b0650cc020f765?ec_carp=994865645204495350",
+    "word-count": 510,
+    "date": "2017-05-24",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Michael Flynn": "Neutral",
+            "Adam Schiff": "Neutral",
+            "Donald Trump": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "WASHINGTON \u2015 The House intelligence committee is preparing to issue subpoenas against Michael Flynn after the former national security adviser denied a request to voluntarily turn over documents related to the committee\u2019s Russia probe.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Rep. Adam Schiff (Calif.), the ranking Democrat on the committee, said on Wednesday that the committee is prepared to use \u201cwhatever compulsory process we need\u201d to obtain information from Flynn if he does not cooperate with the subpoenas.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "He added that the committee could issue additional subpoenas if other witnesses fail to cooperate, but did not name additional individuals.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Citing the Fifth Amendment right against self-incrimination, Flynn\u2019s lawyer said on Monday that Flynn would not comply with subpoenas from the Senate intelligence committee, which is conducting its own parallel investigation into Russia\u2019s interference in the election and whether it colluded with President Donald Trump\u2019s associates.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The Senate committee responded with two additional subpoenas on Tuesday targeting Flynn\u2019s businesses.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "The House committee\u2019s subpoenas \u201cwill be designed to maximize our chance of getting the information that we need,\u201d Schiff told reporters at a breakfast hosted by the Christian Science Monitor.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe need to use whatever compulsory mechanism necessary to get the information he possesses \u2026 the Fifth Amendment right not to provide materials or documents is limited,\u201d he added.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Schiff said he is \u201cskeptical\u201d that the committee would agree to grant Flynn immunity in the future in exchange for information.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "The committee is also looking for ways to obtain documentation of Trump\u2019s conversations with top intelligence and law enforcement officials involved in a separate federal Russia probe.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "Trump implied earlier this month that he had \u201ctapes\u201d of discussions with recently fired FBI Director James Comey that would be damaging to Comey.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "And the Washington Post reported earlier this week that Trump asked Director of National Intelligence Dan Coats and National Security Agency Director Mike Rogers to push back on the FBI\u2019s Russia investigation.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThat could be further evidence of an attempt to interfere with the investigation,\u201d Schiff said of Trump\u2019s reported request to Coats and Rogers.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "He also referred to past reports that the White House asked allies on Capitol Hill to refute negative press stories about Trump associates\u2019 ties to Russia.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf all of this is part of a pattern by the White House of interference or worse, that\u2019s something that we have to find out about and it\u2019s something we have to stop,\u201d he said.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Despite concerns about Trump interfering with ongoing investigations into his campaign, Schiff warned that it is premature for Democrats on Capitol Hill to push for impeachment.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThere\u2019s a legal standard that needs to be met for impeachment and then there\u2019s a very practical standard that has to be met,\u201d Schiff said.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Practically speaking, he continued, impeachment is only possible if Republican lawmakers and the general public believe Trump is unfit for office.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cIf the Republicans in Congress or people at large in the country feel this is simply a way to nullify an election that others didn\u2019t agree with, then you\u2019re not going to meet the practical standards necessary,\u201d Schiff said.",
+            "sentence-index": 17,
+            "annotations": []
+        }
+    ]
+}

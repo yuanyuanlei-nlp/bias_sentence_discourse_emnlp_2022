@@ -1,0 +1,285 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Eric Holder",
+        "protestors",
+        "police"
+    ],
+    "main-event": "Eric Holder speaks on Ferguson",
+    "title": "Eric Holder Hears From The People Of Ferguson Face To Face",
+    "url": "https://www.huffingtonpost.com/2014/08/20/eric-holder-ferguson-shooting_n_5696164.html?ec_carp=4109904766417915149",
+    "word-count": 861,
+    "date": "2014-08-20",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Eric Holder": "Neutral",
+            "protestors": "Neutral",
+            "police": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "FERGUSON, Mo. -- Attorney General Eric Holder said Wednesday that the \u201ceyes of the nation and the world\u201d are on this small suburb of St. Louis where an unarmed teenager was shot and killed by police earlier this month.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The issues raised by Michael Brown's death, Holder said, have simmered \u201cbeneath the surface in more communities than just Ferguson.\u201d",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "On Thursday, he told reporters in Washington that the Justice Department would thoroughly investigate the case, and would \"continue to stand with Ferguson.\"",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "He also said that \"few things have affected me as greatly as my trip to Ferguson.\"",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Before a larger meeting at St. Louis Community College\u2013Florissant Valley on Wednesday, the attorney general met with several students at the local school in what he described as an \u201copportunity to sit down with some wonderful young people and to hear them talk about the mistrust they have at a young age.\u201d",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 216,
+                    "end": 225,
+                    "target": "protestors",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "Yes",
+                    "speaker": "protestors",
+                    "text": "wonderful"
+                }
+            ]
+        },
+        {
+            "sentence": "Dominique McCoy, who attended the smaller meeting, told The Huffington Post that Holder said change wouldn't happen overnight.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"He just let us speak, basically.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "He semi-voiced his opinion, but we all did the talking.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "He agreed somewhat to what everyone said,\u201d McCoy added.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "A separate attendee, Molyrik Welch, noted to another reporter that her brother had died following an encounter with Ferguson police in 2011.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "Holder told the students he understands \"the mistrust\" between some residents and the police.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI am the attorney general of the United States, but I am also a black man,\" Holder said.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Holder told others at the community college how he had been stopped on the New Jersey Turnpike and accused of speeding twice in the past, with police searching his car.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I remember how humiliating that was and how angry I was and the impact it had on me,\" Holder said.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"The same kid who got stopped on the New Jersey freeway is now the attorney general of the United States,\" Holder added.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This country is capable of change. But change doesn't happen by itself.\"",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "After the college events, Holder headed over to Drake's Place restaurant in Ferguson to talk with other community members.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Some people were told that they would be meeting with an official from the Justice Department, but not that it was Holder.",
+            "sentence-index": 17,
+            "annotations": []
+        },
+        {
+            "sentence": "The owners of the restaurant said they were informed of the event only about an hour ahead of time.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "The Justice Department\u2019s Community Relations Service had arranged for the gatherings.",
+            "sentence-index": 19,
+            "annotations": []
+        },
+        {
+            "sentence": "Holder was greeted as a star at Drake's Place, posing for selfies and group photos with residents and shaking hands.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "He settled into a corner booth as residents explained the problems that need to be rectified.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Soon, Capt. Ron Johnson of the Missouri State Highway Patrol, who has earned some praise since he took over policing of Ferguson's nightly protests, stopped by to greet the attorney general.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cMy man! You are the man,\u201d Holder said as Johnson walked in.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "After the meeting, attendees said they were thankful that Holder and the federal government were paying attention to Ferguson\u2019s problems.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cHe told me that he was here because he was concerned about everything that was going on and he wanted us to voice our opinions and what did we want to change, and that he was going back to the White House to report so we can get some funding, so we can get a game plan on how to help our community,\u201d Angela Whitman told HuffPost.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "Yvette Townsend-Saunders called the meeting \u201cwonderful\u201d and said she was thankful that Holder had come to the town.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 115,
+                    "target": "Eric Holder",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Yvette Townsend-Saunders called the meeting \u201cwonderful\u201d and said she was thankful that Holder had come to the town."
+                }
+            ]
+        },
+        {
+            "sentence": "\u201cHe said that there needs to be some changes made, things need to be looked into and investigated,\u201d Townsend-Saunders said.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWhen you were a little boy and you didn\u2019t do something well at school, your mother had to jump in.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "When the teacher didn\u2019t do something right, the principal had to jump in.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "I think if you do something right from the bottom, the top doesn\u2019t have to jump in.",
+            "sentence-index": 30,
+            "annotations": []
+        },
+        {
+            "sentence": "If things were done right in the beginning, all this wouldn\u2019t have to be.\u201d",
+            "sentence-index": 31,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe didn\u2019t know it was Eric Holder [coming],\u201d Rev. John Paul Hopping of Our Lady of Guadalupe, told HuffPost.",
+            "sentence-index": 32,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThey were really nice and they were really listening.",
+            "sentence-index": 33,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 54,
+                    "target": "Eric Holder",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "protestors",
+                    "text": "\u201cThey were really nice and they were really listening."
+                }
+            ]
+        },
+        {
+            "sentence": "They\u2019re looking for solutions and they want to help.\u201d",
+            "sentence-index": 34,
+            "annotations": []
+        },
+        {
+            "sentence": "At the community college, Holder said that they were starting \u201ca good dialogue\u201d but that it was \u201cnot enough.\u201d",
+            "sentence-index": 35,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe need concrete action to change things in this country,\u201d he said, according to excerpts provided by the Justice Department.",
+            "sentence-index": 36,
+            "annotations": []
+        },
+        {
+            "sentence": "\"This dialogue is important. But it can't simply be that we have a conversation that begins based on what happened on August 9 and ends sometime in December, and nothing happens.",
+            "sentence-index": 37,
+            "annotations": []
+        },
+        {
+            "sentence": "As I was just telling these young people, change is possible.",
+            "sentence-index": 38,
+            "annotations": []
+        },
+        {
+            "sentence": "The same kid who got stopped on the New Jersey freeway is now the attorney general of the United States.",
+            "sentence-index": 39,
+            "annotations": []
+        },
+        {
+            "sentence": "This country is capable of change. But change doesn't happen by itself.\u201d",
+            "sentence-index": 40,
+            "annotations": []
+        },
+        {
+            "sentence": "In addition to Ferguson community members, Holder spent Wednesday meeting with officials from the St. Louis-based U.S. attorney's office and the local FBI office investigating Brown's death.",
+            "sentence-index": 41,
+            "annotations": []
+        },
+        {
+            "sentence": "He is talking with Brown's parents and with members of the local congressional delegation.",
+            "sentence-index": 42,
+            "annotations": []
+        }
+    ]
+}

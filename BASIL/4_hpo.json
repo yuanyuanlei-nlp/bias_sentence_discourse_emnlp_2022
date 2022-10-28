@@ -1,0 +1,257 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Elizabeth Lauten",
+        "Barack Obama",
+        "Sasha and Malia Obama"
+    ],
+    "main-event": "Elizabeth Lauten apologizes for criticizing Obama daughters",
+    "title": "GOP Staffer Apologizes For Lecturing Obama Daughters To 'Show A Little Class'",
+    "url": "https://www.huffingtonpost.com/2014/11/29/elizabeth-lauten-obama-daughters-class_n_6241202.html",
+    "word-count": 357,
+    "date": "2014-11-29",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Elizabeth Lauten": "Neutral",
+            "Barack Obama": "Neutral",
+            "Sasha and Malia Obama": "Neutral"
+        },
+        "stance": "Right"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "A Republican staffer on Friday apologized for a Facebook post that criticized Malia and Sasha Obama's appearance at the annual White House turkey pardon ceremony, one of America's silliest holiday traditions.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "Elizabeth Lauten, the communications director for Rep. Stephen Fincher (R-Tenn.), wrote that the two teenagers should \"try showing a little class,\" \"dress like you deserve respect, not a spot at a bar,\" and, most of all, \"don't make faces\" at Very Serious public events.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 119,
+                    "end": 200,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "try showing a little class,\" \"dress like you deserve respect, not a spot at a bar"
+                },
+                {
+                    "start": 243,
+                    "end": 255,
+                    "target": "Elizabeth Lauten",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Very Serious"
+                }
+            ]
+        },
+        {
+            "sentence": "Read the full rant via Gawker:",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Dear Sasha and Malia, I get you\u2019re both in those awful teen years, but you\u2019re a part of the First Family, try showing a little class.",
+            "sentence-index": 3,
+            "annotations": [
+                {
+                    "start": 106,
+                    "end": 132,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "try showing a little class"
+                }
+            ]
+        },
+        {
+            "sentence": "At least respect the part you play.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 35,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "At least respect the part you play."
+                }
+            ]
+        },
+        {
+            "sentence": "Then again your mother and father don\u2019t respect their positions very much, or the nation for that matter, so I\u2019m guessing you\u2019re coming up a little short in the \u2018good role model\u2019 department.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 104,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "Then again your mother and father don\u2019t respect their positions very much, or the nation for that matter"
+                }
+            ]
+        },
+        {
+            "sentence": "Nevertheless, stretch yourself. Rise to the occasion.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "Act like being in the White House matters to you.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "Dress like you deserve respect, not a spot at a bar.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 52,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "Dress like you deserve respect, not a spot at a bar."
+                }
+            ]
+        },
+        {
+            "sentence": "And certainly don\u2019t make faces during televised public events.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The First Daughters join President Obama at the ceremony every year, where they can hardly contain their disdain for the lame dad jokes that predictably follow.",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 84,
+                    "end": 112,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "hardly contain their disdain"
+                }
+            ]
+        },
+        {
+            "sentence": "Before approaching Mac and Cheese, the two turkeys, the president remarked that it was \"puzzling that I do this every year.\"",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Malia even declined her father's offer to pet one of the pardoned turkeys with a nonchalant, \"Nah.\"",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 74,
+                    "end": 99,
+                    "target": "Sasha and Malia Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "with a nonchalant, \"Nah.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Lauten later apologized for rushing to judgment on Facebook.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "\"I reacted to an article and quickly judged the two young ladies in a way that I would never have wanted to be judged myself as a teenager,\" she said.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\"After many hours of prayer, talking to my parents and re-reading my words online, I can see more clearly how hurtful my words were.",
+            "sentence-index": 15,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 132,
+                    "target": "Elizabeth Lauten",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "\"After many hours of prayer, talking to my parents and re-reading my words online, I can see more clearly how hurtful my words were."
+                }
+            ]
+        },
+        {
+            "sentence": "Please know that these judgmental feelings truly have no place in my heart.",
+            "sentence-index": 16,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 75,
+                    "target": "Elizabeth Lauten",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Elizabeth Lauten",
+                    "text": "Please know that these judgmental feelings truly have no place in my heart."
+                }
+            ]
+        },
+        {
+            "sentence": "Furthermore, I'd like to apologize to all of those who I have hurt and offended with my words, and pledge to learn and grow (and I assure you I have) from this experience.\"",
+            "sentence-index": 17,
+            "annotations": []
+        }
+    ]
+}

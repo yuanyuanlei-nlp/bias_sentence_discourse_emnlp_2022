@@ -1,0 +1,254 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Marco Rubio",
+        "Barack Obama"
+    ],
+    "main-event": "Marco Rubio announces his foreign policy",
+    "title": "Marco Rubio Lays Out Hawkish Foreign Policy Doctrine Invoking Kennedy",
+    "url": "https://www.huffingtonpost.com/2015/05/13/marco-rubio-foreign-policy_n_7276584.html",
+    "word-count": 576,
+    "date": "2015-05-13",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Marco Rubio": "Neutral",
+            "Barack Obama": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "NEW YORK -- U.S. Sen. Marco Rubio (R-Fla.) set forth a foreign policy vision Wednesday that invoked President John F. Kennedy in an assertive call to project American power abroad.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 132,
+                    "end": 141,
+                    "target": "Marco Rubio",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "assertive"
+                }
+            ]
+        },
+        {
+            "sentence": "In comments delivered at the Council on Foreign Relations, the conservative senator vying for the GOP presidential nomination said the world would be safer if the U.S. military had a bigger budget and America asserted itself more aggressively across the globe.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 230,
+                    "end": 242,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "aggressively"
+                }
+            ]
+        },
+        {
+            "sentence": "While the threats facing the United States have changed in the 21st century, America's global influence remains a benevolent force, Rubio said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "\"President Kennedy, like most presidents before and since, understood what I believe our current president does not: that American strength is a means of preventing war, not promoting it,\u201d Rubio said.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAnd that weakness, on the other hand, is the friend of danger and the enemy of peace.\"",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "\"Sadly, I believe President Obama often disagrees with that simple truth,\" Rubio added.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 72,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "Sadly, I believe President Obama often disagrees with that simple truth"
+                }
+            ]
+        },
+        {
+            "sentence": "\"He entered office believing America was too hard on our adversaries, too engaged in too many places, and that if we just took a step back and did some more 'nation building at home' -- ceding leadership to other countries -- America would be better liked and the world better off.\"",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 186,
+                    "end": 222,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "ceding leadership to other countries"
+                }
+            ]
+        },
+        {
+            "sentence": "In laying out what his campaign calls the \"Rubio Doctrine,\" the presidential hopeful said he was guided by three principles: \"American strength,\" \"the protection of the American economy in a globalized world\" and \"moral clarity regarding America\u2019s core values.\"",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "From his seat on the Senate Foreign Relations Committee, Rubio has already played a key role in U.S. foreign policy debates, often staking out positions that directly counter President Barack Obama's administration.",
+            "sentence-index": 8,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 123,
+                    "target": "Marco Rubio",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "From his seat on the Senate Foreign Relations Committee, Rubio has already played a key role in U.S. foreign policy debates"
+                }
+            ]
+        },
+        {
+            "sentence": "The son of Cuban immigrants, Rubio has challenged Obama's efforts to normalize diplomatic relations with the island, saying that closer ties would only help the communist Castro government keep power.",
+            "sentence-index": 9,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 115,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "Rubio has challenged Obama's efforts to normalize diplomatic relations with the island"
+                },
+                {
+                    "start": 0,
+                    "end": 27,
+                    "target": "Marco Rubio",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "The son of Cuban immigrants"
+                }
+            ]
+        },
+        {
+            "sentence": "Rubio has also opposed the Obama administration\u2019s negotiations with Iran over its nuclear program, pressed for more support of rebels in Syria and advocated to increase aid to the government of Ukraine to counter Russia's influence in the east of the country.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "In Wednesday's speech the senator also took a swipe at Democratic presidential hopeful Hillary Clinton, calling her tenure as secretary of state \"ineffective at best and dangerously negligent at worst.\"",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 54,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "took a swipe at"
+                },
+                {
+                    "start": 146,
+                    "end": 201,
+                    "target": "Barack Obama",
+                    "polarity": "Negative",
+                    "aim": "Indirect (Ally)",
+                    "indirect-target-name": "Hillary Clinton",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Marco Rubio",
+                    "text": "ineffective at best and dangerously negligent at worst"
+                }
+            ]
+        },
+        {
+            "sentence": "Journalist Charlie Rose asked Rubio after the speech whether invoking Kennedy and the Cold War might make him appear backward-looking at a time that Rubio's campaign portrays other U.S. leaders as \u201ctrapped in the past.\"",
+            "sentence-index": 12,
+            "annotations": [
+                {
+                    "start": 110,
+                    "end": 219,
+                    "target": "Marco Rubio",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "appear backward-looking at a time that Rubio's campaign portrays other U.S. leaders as \u201ctrapped in the past.\""
+                }
+            ]
+        },
+        {
+            "sentence": "Rubio responded that the Kennedy statements represented \"timeless\" truths.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Rubio also told Rose he would not have authorized the 2003 invasion of Iraq that toppled Saddam Hussein's regine if he knew Hussein did not have weapons of mass destruction.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cNot only would I have not been in favor of it, but President [George W.] Bush wouldn\u2019t have been in favor of it,\u201d Rubio said.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Bush\u2019s brother Jeb, who has all but formally announced his bid for the Republican presidential nomination, raised eyebrows Monday after telling Fox News he supported the invasion even now that he knows Iraq did not have weapons of mass destruction.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Jeb Bush later said he had misunderstood the question.",
+            "sentence-index": 17,
+            "annotations": []
+        }
+    ]
+}

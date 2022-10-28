@@ -1,0 +1,219 @@
+{
+    "title": "White House Asked Bill Clinton To Talk To Joe Sestak About Senate Run",
+    "date": "2010-05-28",
+    "url": "https://www.huffingtonpost.com/2010/05/28/joe-sestak-bill-clinton-s_n_593299.html",
+    "main-entities": [
+        "Joe Sestak",
+        "Obama administration",
+        "Bill Clinton"
+    ],
+    "word-count": 616,
+    "source": "hpo",
+    "main-event": "White House Asked Bill Clinton to Urge Sestak to Drop Out of Senate Race",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Joe Sestak": "Neutral",
+            "Obama administration": "Positive",
+            "Bill Clinton": "Neutral"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "Rep. Joe Sestak (D-Penn.) was offered a prominent but uncompensated, advisory position -- in the national security/foreign policy area -- if he declined to enter the Pennsylvania Senate primary race, a source with knowledge of the exchange said during a briefing on Friday morning.",
+            "sentence-index": 0,
+            "annotations": []
+        },
+        {
+            "sentence": "The offer was made by White House Chief of Staff Rahm Emanuel through a prominent intermediary -- former President Bill Clinton -- during the months of June and July of 2009.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "The White House initiated the conversation, which occurred over phone.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "It would have allowed Sestak to remain in the House of Representatives while advising the president.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The source said it would not be surprising if more than one conversation took place, though there were no other intermediaries involved.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Sestak ultimately rejected the overture and went on to defeat incumbent Sen. Arlen Specter (D-Penn) in the Democratic primary election earlier this month.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "\"By virtue of his career in public service, including distinguished military service, Congressman Sestak was viewed to be highly qualified to hold a range of advisory positions in which he could, while holding his House seat, have additional responsibilities of considerable potential interest to him and value to the Executive Branch,\" a memo detailing the administration's findings reads.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "The account offered by the source was the most detailed to date from primary sources as to the conversations they had with Sestak regarding his entrance into the Pennsylvania race.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "News of the Clinton conversation was first reported by Greg Sargent at The Plum Line.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "The source challenged one major aspect of the story line, insisting that the White House never offered Sestak the job of Secretary of the Navy.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The offer for that position was made more than a month before -- on March 26, 2009 -- to Ray Mabus.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "Administration officials had spent time and capital recruiting Senator Arlen Specter to switch parties and run for re-election as a Democrat.",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Part of that arrangement entailed clearing the field for his nomination.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "When Sestak began making overtures that he would run, the White House looked for ways to follow through on its promise.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "What resulted were the informal conversation(s).",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "Since then, much intrigue has surrounded what conversations actually took place.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "Sestak brought the issue to the surface when he alluded to a job offer early in his primary run.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "But he refused to provide details, such as who approached him and what position was dangled in front of him.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 84,
+                    "end": 103,
+                    "target": "Obama administration",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "dangled in front of"
+                }
+            ]
+        },
+        {
+            "sentence": "The White House, when pressed on the matter, had been vague.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Press Secretary Robert Gibbs declined repeated attempts for comment before relaying to reporters that he and White House lawyers had looked into the matter and found it legally permissible.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 67,
+                    "target": "Obama administration",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "declined repeated attempts for comment"
+                }
+            ]
+        },
+        {
+            "sentence": "Behind the scenes, White House Counsel Bob Bauer's office began investigating the matter when stories first surfaced.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "The investigation was internal at first with the White House reaching conclusions at least two-and-a-half months ago.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "As part of the process, however, Bauer also interviewed representatives for Sestak and Clinton -- in this case Sestak's brother and Doug Brand and Bruce Lindsey respectively.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "The congressman and the former president were not contacted for Bauer's investigation.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "The source insisted that no laws were broken in the process of offering the position, that the matter hardly rose to the level of political scandal -- suggesting that Republicans on the Hill were hoping to reap political benefits from the saga.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "It certainly wasn't historically unique.",
+            "sentence-index": 25,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 40,
+                    "target": "Obama administration",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "It certainly wasn't historically unique."
+                }
+            ]
+        },
+        {
+            "sentence": "As the Huffington Post reported on Thursday, various political historians and ethics lawyers have approached the Sestak news with yawns, noting that quid pro quos and backroom job offers are fairly common in administrations.",
+            "sentence-index": 26,
+            "annotations": [
+                {
+                    "start": 93,
+                    "end": 135,
+                    "target": "Obama administration",
+                    "polarity": "Positive",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "have approached the Sestak news with yawns"
+                }
+            ]
+        }
+    ]
+}

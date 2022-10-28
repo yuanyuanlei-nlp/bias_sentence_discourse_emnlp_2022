@@ -1,0 +1,278 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Donald Trump",
+        "Joe Lieberman"
+    ],
+    "main-event": "Donald Trump considers Joe Lieberman for FBI Director",
+    "title": "Lieberman Is a Finalist for F.B.I. Director, Trump Says",
+    "url": "https://mobile.nytimes.com/2017/05/18/us/politics/trump-fbi-director-lieberman.html",
+    "word-count": 849,
+    "date": "2017-05-18",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Neutral",
+            "Joe Lieberman": "Neutral"
+        },
+        "stance": "Center"
+    },
+    "annotators": [
+        "A",
+        "C"
+    ],
+    "body": [
+        {
+            "sentence": "President Trump, 24 hours from his self-imposed deadline for picking a new F.B.I. director, told reporters on Thursday that he was \u201cvery close\u201d to choosing a successor to James B. Comey, and he named Joseph I. Lieberman, the former Democratic senator and vice-presidential nominee, as a finalist.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 56,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "24 hours from his self-imposed deadline"
+                }
+            ]
+        },
+        {
+            "sentence": "But members of Mr. Trump\u2019s staff \u2014 alarmed by his rapid embrace of Mr. Lieberman, a charming 75-year-old political operator with no federal law enforcement experience \u2014 have quietly urged him to take more time to make such a critical hire.",
+            "sentence-index": 1,
+            "annotations": [
+                {
+                    "start": 93,
+                    "end": 166,
+                    "target": "Joe Lieberman",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "75-year-old political operator with no federal law enforcement experience"
+                },
+                {
+                    "start": 46,
+                    "end": 166,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "his rapid embrace of Mr. Lieberman, a charming 75-year-old political operator with no federal law enforcement experience"
+                }
+            ]
+        },
+        {
+            "sentence": "By late Thursday, the president appeared increasingly likely to leave Friday for a nine-day foreign trip without picking a new director, according to three senior administration officials speaking on the condition of anonymity.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Lieberman, who served three terms in the Senate as a Democrat and one as an independent, would be an atypical choice to lead the F.B.I., whose agents prize the bureau\u2019s independence as one of Washington\u2019s few apolitical institutions.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "Judges and former prosecutors, not elected officials, have frequently been chosen.",
+            "sentence-index": 4,
+            "annotations": []
+        },
+        {
+            "sentence": "Administration officials described the search as fluid and said the president and his team were keeping the decision-making process closely held to avoid the leaks that Mr. Trump believes are endemic to the West Wing.",
+            "sentence-index": 5,
+            "annotations": []
+        },
+        {
+            "sentence": "Still, Mr. Trump, speaking briefly with reporters in the Oval Office as he met with President Juan Manuel Santos of Colombia, offered an emphatic \u201cyes\u201d when asked whether Mr. Lieberman was among the finalists.",
+            "sentence-index": 6,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe need a great director of the F.B.I. I cherish the F.B.I.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "It\u2019s special,\u201d he told reporters later at a joint East Room news conference with Mr. Santos.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cAll over the world, no matter where you go, the F.B.I. is special.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "The F.B.I. has not had that special reputation with what happened in the campaign, what happened with respect to the Clinton campaign, and even, you could say \u2014 directly or indirectly \u2014 with respect to the much more successful Trump campaign.\u201d",
+            "sentence-index": 10,
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 243,
+                    "target": "Donald Trump",
+                    "polarity": "Positive",
+                    "aim": "Indirect (Opponent)",
+                    "indirect-target-name": "FBI",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Donald Trump",
+                    "text": "The F.B.I. has not had that special reputation with what happened in the campaign, what happened with respect to the Clinton campaign, and even, you could say \u2014 directly or indirectly \u2014 with respect to the much more successful Trump campaign.\u201d"
+                }
+            ]
+        },
+        {
+            "sentence": "It was unclear whether the president\u2019s acknowledgment that Mr. Lieberman was a finalist was intended to stoke the \u201cApprentice\u201d-style frenzy of speculation he has favored with other high-profile picks, only to opt for a lesser-known candidate.",
+            "sentence-index": 11,
+            "annotations": [
+                {
+                    "start": 110,
+                    "end": 199,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "the \u201cApprentice\u201d-style frenzy of speculation he has favored with other high-profile picks"
+                }
+            ]
+        },
+        {
+            "sentence": "Mr. Trump is still seeking applicants, and some aides, along with many law enforcement officials, have suggested that he hire from within the agency to repair some of the damage to morale wrought by Mr. Comey\u2019s sudden firing.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "Adam S. Lee, the well-regarded special agent in charge of the bureau\u2019s Richmond, Va., field office, was interviewed, as were Richard A. McFeely, a former senior official at the F.B.I., and Andrew G. McCabe, the acting director.",
+            "sentence-index": 13,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. McCabe, a veteran agent who joined the bureau in 1996 and once specialized in Russian organized crime, was named deputy director in 2016.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "It is not clear whether he will return to that role once Mr. Comey\u2019s replacement is confirmed.",
+            "sentence-index": 15,
+            "annotations": []
+        },
+        {
+            "sentence": "All three men are under consideration, the administration officials said, even if Mr. Lieberman, who was Al Gore\u2019s running mate in the 2000 presidential campaign, is the front-runner.",
+            "sentence-index": 16,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Trump and Mr. Lieberman had good chemistry when they met privately, one White House aide said \u2014 a key ingredient for Mr. Trump in hiring people.",
+            "sentence-index": 17,
+            "annotations": [
+                {
+                    "start": 100,
+                    "end": 147,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a key ingredient for Mr. Trump in hiring people"
+                }
+            ]
+        },
+        {
+            "sentence": "He is also friendly with Attorney General Jeff Sessions, a former senator, who has told Trump aides that Mr. Lieberman would most likely receive overwhelming support in the Senate.",
+            "sentence-index": 18,
+            "annotations": []
+        },
+        {
+            "sentence": "Democrats pushed back hard on that notion, casting the conservative Mr. Lieberman as a Democrat in name only and noting that he publicly supported Mr. Trump\u2019s pick of Michael T. Flynn as his first national security adviser.",
+            "sentence-index": 19,
+            "annotations": [
+                {
+                    "start": 96,
+                    "end": 108,
+                    "target": "Joe Lieberman",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "in name only"
+                }
+            ]
+        },
+        {
+            "sentence": "At a closed-door Democratic lunch on Thursday, Senators Sheldon Whitehouse of Rhode Island and Richard J. Durbin of Illinois urged party members to hold the line if he is selected.",
+            "sentence-index": 20,
+            "annotations": []
+        },
+        {
+            "sentence": "But casting Mr. Lieberman as the most likely choice did have one immediate advantage: It appealed to Senator John McCain, Republican of Arizona, who had suggested this week that the firestorm over Mr. Trump\u2019s ouster of Mr. Comey was as bad as Watergate.",
+            "sentence-index": 21,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. McCain defended Mr. Lieberman, who endorsed his 2008 run for president.",
+            "sentence-index": 22,
+            "annotations": []
+        },
+        {
+            "sentence": "The White House remains divided, and several senior officials expressed serious doubts about Mr. Lieberman.",
+            "sentence-index": 23,
+            "annotations": []
+        },
+        {
+            "sentence": "His age, 75, could be problematic, they said, given that F.B.I. directors serve 10-year terms.",
+            "sentence-index": 24,
+            "annotations": []
+        },
+        {
+            "sentence": "And he is employed by one of the firms where Marc E. Kasowitz, a lawyer for Mr. Trump, works, raising the prospect of conflict-of-interest accusations.",
+            "sentence-index": 25,
+            "annotations": []
+        },
+        {
+            "sentence": "If Mr. Trump picks Mr. Lieberman, one adviser said he might serve for a short stint \u2014 to lend his bipartisan reputation to a president badly in needed of credibility \u2014 instead of the full term.",
+            "sentence-index": 26,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Lieberman also has law enforcement experience as the former attorney general of Connecticut.",
+            "sentence-index": 27,
+            "annotations": []
+        },
+        {
+            "sentence": "Others on Mr. Trump\u2019s list are former Gov. Frank Keating of Oklahoma and former Representative Mike Rogers of Michigan, both Republicans.",
+            "sentence-index": 28,
+            "annotations": []
+        },
+        {
+            "sentence": "Mr. Rogers, a former F.B.I. agent, was endorsed by the agents\u2019 association.",
+            "sentence-index": 29,
+            "annotations": []
+        },
+        {
+            "sentence": "Also interviewed were two other judges, Michael J. Garcia of the New York State Court of Appeals and Henry E. Hudson of Federal District Court for the Eastern District of Virginia.",
+            "sentence-index": 30,
+            "annotations": []
+        }
+    ]
+}

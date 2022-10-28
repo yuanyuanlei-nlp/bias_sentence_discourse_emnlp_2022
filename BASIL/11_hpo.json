@@ -1,0 +1,187 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Trump reopens government after shutdown",
+    "title": "Trump Caves To Democrats, Agrees To Reopen Government Short-Term Without Border Wall",
+    "url": "https://www.huffingtonpost.com/entry/trump-government-shutdown-reopen-deal_us_5c4b4dd6e4b0e1872d436a2c",
+    "word-count": 394,
+    "date": "2019-01-25",
+    "article-level-annotations": {
+        "author-sentiment": {
+            "main-event": "Neutral",
+            "Donald Trump": "Negative"
+        },
+        "stance": "Left"
+    },
+    "annotators": [
+        "A",
+        "B"
+    ],
+    "body": [
+        {
+            "sentence": "President Donald Trump announced Friday a short-term plan that will reopen the government for three weeks so that border security negotiations may continue without the devastating effects of the partial government shutdown.",
+            "sentence-index": 0,
+            "annotations": [
+                {
+                    "start": 168,
+                    "end": 179,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "shutdown",
+                    "indirect-ally-opponent-sentiment": "Negative",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "devastating"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump said he\u2019s prepared to sign a bill to open the government through Feb. 15.",
+            "sentence-index": 1,
+            "annotations": []
+        },
+        {
+            "sentence": "Federal employees will get back pay \u201cvery quickly or as soon as possible,\u201d he said.",
+            "sentence-index": 2,
+            "annotations": []
+        },
+        {
+            "sentence": "Shortly after the announcement, the Senate and House both passed a resolution to reopen the government through that date.",
+            "sentence-index": 3,
+            "annotations": []
+        },
+        {
+            "sentence": "The announcement comes on the 35th day of the longest shutdown in United States history and is a clear cave by Trump, whose impasse over the budget stems from his demands for $5.7 billion in funds for his long-promised wall along the U.S.-Mexico border \u2015 a project Democratic lawmakers say is a firm deal-breaker.",
+            "sentence-index": 4,
+            "annotations": [
+                {
+                    "start": 92,
+                    "end": 116,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "is a clear cave by Trump"
+                },
+                {
+                    "start": 97,
+                    "end": 102,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Lexical",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "clear"
+                }
+            ]
+        },
+        {
+            "sentence": "If funding for his border wall is not secured by the end of the negotiation period, Trump said he is prepared to shut down the government again or issue a national emergency declaration in order to get funding \u2015 a plan that would strip funding from disaster recovery efforts.",
+            "sentence-index": 5,
+            "annotations": [
+                {
+                    "start": 212,
+                    "end": 274,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Direct",
+                    "indirect-target-name": "",
+                    "indirect-ally-opponent-sentiment": "",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "a plan that would strip funding from disaster recovery efforts"
+                }
+            ]
+        },
+        {
+            "sentence": "Throughout the shutdown, Trump\u2019s reputation has suffered across parties as airports have grappled with severe delays and federal workers have gone without paychecks, putting many at risk of losing their homes, defaulting on loans and missing other crucial payments.",
+            "sentence-index": 6,
+            "annotations": [
+                {
+                    "start": 166,
+                    "end": 264,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "government workers",
+                    "indirect-ally-opponent-sentiment": "Neutral",
+                    "bias": "Informational",
+                    "quote": "No",
+                    "speaker": "",
+                    "text": "putting many at risk of losing their homes, defaulting on loans and missing other crucial payments"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump\u2019s statement comes a day after the Senate failed to pass his proposal to reopen the government with border wall funding in exchange for temporary legal protection for some undocumented immigrants.",
+            "sentence-index": 7,
+            "annotations": []
+        },
+        {
+            "sentence": "House Speaker Nancy Pelosi (D-Calif.) was in the middle of a roundtable with Capitol Hill reporters when reports began surfacing of Trump\u2019s support for a short-term government funding bill.",
+            "sentence-index": 8,
+            "annotations": []
+        },
+        {
+            "sentence": "She was mum on whether she considered his proposal a final deal.",
+            "sentence-index": 9,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe\u2019re going in that direction but we\u2019re not to that place,\u201d said Pelosi.",
+            "sentence-index": 10,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cI\u2019m hopeful.\u201d",
+            "sentence-index": 11,
+            "annotations": []
+        },
+        {
+            "sentence": "Senate Minority Leader Chuck Schumer (D-N.Y.) spoke on the Senate floor shortly after Trump\u2019s announcement, congratulating lawmakers on the development.",
+            "sentence-index": 12,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cThe solution to this impasse was to separate funding the government from our disagreements over border security,\u201d Schumer said, adding that \u201cwe can never hold American workers hostage again.\u201d",
+            "sentence-index": 13,
+            "annotations": [
+                {
+                    "start": 142,
+                    "end": 190,
+                    "target": "Donald Trump",
+                    "polarity": "Negative",
+                    "aim": "Indirect (General)",
+                    "indirect-target-name": "workers",
+                    "indirect-ally-opponent-sentiment": "Neutral",
+                    "bias": "Informational",
+                    "quote": "Yes",
+                    "speaker": "Other (Anti-target)",
+                    "text": "we can never hold American workers hostage again"
+                }
+            ]
+        },
+        {
+            "sentence": "Trump spent most of his speech on Friday rehashing his usual talking points about crime at the border.",
+            "sentence-index": 14,
+            "annotations": []
+        },
+        {
+            "sentence": "\u201cWe really have no choice but to build a powerful wall or a steel barrier,\u201d he said.",
+            "sentence-index": 15,
+            "annotations": []
+        }
+    ]
+}
