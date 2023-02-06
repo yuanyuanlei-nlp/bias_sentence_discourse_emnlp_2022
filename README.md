@@ -34,6 +34,8 @@ We saved the teacher model for the global functional discourse structure in the 
 ## Citation
 If you are going to cite this paper, please use the form:
 
+Yuanyuan Lei, Ruihong Huang, Lu Wang, and Nick Beauchamp. 2022. Sentence-level Media Bias Analysis Informed by Discourse Structures. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 10040–10050, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
+
 <br/>
 
 ## Reference
